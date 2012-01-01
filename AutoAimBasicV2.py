@@ -73,6 +73,12 @@ generations = 0
 spiralStatus = "NO"
 stopStatus = "NO"
 
+#------UNCOMMENT TO INITIATE SERIAL COMMAND------
+    # ensure you are connecting to the right serial port
+    
+ser = serial.Serial('/dev/ttyACM0', 9600)
+
+
 def file_save():
     global generations
     global currentReading
@@ -143,6 +149,7 @@ def getEntries():
     doMath(myNc, myWc, tNc, tWc, elevationI, elevationT)
 
 def telescopeHex(horizontal, vertical):
+    global ser
     building = 'B'
 
     # send horizontal to serial
@@ -163,9 +170,9 @@ def telescopeHex(horizontal, vertical):
     building += ','
 
     # send vertical to serial
-    vertical = vertical/360 * 65536
     if vertical < 0.0:
-        vertical += 65536
+	vertical *= -1
+    vertical = vertical/360 * 65536
     vertical = int(vertical)
 
     a = vertical / 4096
@@ -182,11 +189,9 @@ def telescopeHex(horizontal, vertical):
 
     #------UNCOMMENT TO INITIATE SERIAL COMMAND------
     # ensure you are connecting to the right serial port
-    """
-    ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
     ser.write(building)
-    ser.write("\n")
-    """
+    #ser.write("\n")
+    
 
 def check(event):
     global spiralStatus
