@@ -32,7 +32,7 @@ Mac or Linux: $ python AutoAimBasicV2.py (and then click return)
 Windows: python "D:/Folder name AutoAimGui.py" (and then click enter)
 
 Created on Mar 23 2015 by Cameron Ramos
-Last Edited on Mar 24 2015 by Cameron Ramos
+Last Edited on Mar 28 2015 by Cameron Ramos
 
 ---------LICENSING INFORMATION----------
     Copyright (C) 2015  Cameron Ramos
@@ -200,7 +200,7 @@ def check(event):
         right()
     elif event.char == 's':
         down()
-    elif event.chat == 'x':
+    elif event.char == 'x':
         if spiralStatus == "YES":
             stopStatus = "YES"
     
@@ -270,7 +270,7 @@ def continuousSpiral():
     global currentDeviation
     global stopStatus
 
-    while stopStatus == "NO":
+    #while stopStatus == "NO":
 
 
 
@@ -406,16 +406,16 @@ def doMath(mNc, mWc, tN, tW, mye, te):
 
 
     horzTheta = (360 + (tcl+360)) % 360
+    if horzTheta >= 180:
+        otherHorz = horzTheta - 180
+    else:
+        otherHorz = horzTheta+ 180
     print
     print "Adjust to this bearing: "
     print horzTheta
     currentAzimuth = horzTheta
     currentReading +=  "Adjust to this bearing: " + str(horzTheta) + "\n" 
     print
-    if horzTheta >= 180:
-        otherHorz = horzTheta - 180
-    else:
-        otherHorz = horzTheta+ 180
     print "Target team adjust to this bearing: "
     print otherHorz
     print
@@ -466,18 +466,18 @@ root.geometry('700x500-200+40')
 root.bind("<Key>",check)
 makeMenu(root)
 
-instructions = Label(root, text = "Enter auto aim parameters. Then click generate to continue.", font=("Helvetica", 16))
+instructions = Label(root, text = "Enter Latitude and Longitude in decimal degrees. \n (degrees-minutes-seconds fromat produces invalid results)", font=("Helvetica", 14))
 space = Label(root, text = " ")
 instructions.pack()
 space.pack(fill = X)
 
-prompt = Label(root, text = "Your exact coordinates to North formatted as: 37*24'58.6\"N -> 37.24586)")
+prompt = Label(root, text = "Your exact coordinates to North formatted as: 37.24586")
 prompt.pack(fill = X)
 myCoordinateN = Entry(root, width = 20)
 myCoordinateN.insert(0, "36.988317") 
 myCoordinateN.pack()
 
-prompt2 = Label(root, text = "Your exact coordinates to West formatted as: 122*11'32.0\"W -> 122.11320)")
+prompt2 = Label(root, text = "Your exact coordinates to West formatted as: 122.11320")
 prompt2.pack(fill = X)
 myCoordinateW = Entry(root, width = 20)
 myCoordinateW.insert(0, "-122.065917") 
@@ -489,13 +489,13 @@ myElevation = Entry(root, width = 20)
 myElevation.insert(0, "575.768") 
 myElevation.pack()
 
-prompt4 = Label(root, text = "Exact target coordinates to North formatted as: 37*24'58.6\"N -> 37.24586)")
+prompt4 = Label(root, text = "Exact target coordinates to North formatted as: 37.24586")
 prompt4.pack(fill = X)
 tCoordinateN = Entry(root, width = 20)
 tCoordinateN.insert(0, "36.583299") 
 tCoordinateN.pack()
 
-prompt5 = Label(root, text = "Exact target coordinates to West formatted as: 122*11'32.0\"W -> 122.11320)")
+prompt5 = Label(root, text = "Exact target coordinates to West formatted as: 122.11320")
 prompt5.pack(fill = X)
 tCoordinateW = Entry(root, width = 20)
 tCoordinateW.insert(0, "-121.97179265") 
@@ -518,5 +518,3 @@ prompt8.pack(fill = X)
 app = AutoAim(root)
 #root.wm_protocol("WM_DELETE_WINDOW", save_quit)
 root.mainloop()
-
-
