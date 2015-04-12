@@ -1,38 +1,42 @@
 """
-AutoAimBasicV2.py 
+AutoAimBasicV2.py
 
-Developed by Cameron Ramos and Sasha Maldonado 
+Developed by Cameron Ramos and Sasha Maldonado
 
-This program was created for the Stanford Student Space Initiative Optical Communications Team. 
+This program was created for the Stanford Student Space Initiative Optical Communications Team.
 
-AutoAimBasicV2 accepts a set of GPS coordinates and a set of corresponding elevations. 
-The program generates the vertical angle and bearing that points from one coordinate to the other. 
-Once connected to a serial controlled aiming mount, a section of the code can be uncommented 
+AutoAimBasicV2 accepts a set of GPS coordinates and a set of corresponding elevations.
+The program generates the vertical angle and bearing that points from one coordinate to the other.
+Once connected to a serial controlled aiming mount, a section of the code can be uncommented
 to generate a hex output that commands the aiming mount to move to the calculated tilt and bearing.
 
 The program also has several new features:
 
+ ---->  Serial support for both Chromebook and MAC. Be sure to comment the Global Variable code according
+        to the machine you are using. Chromebook requires executing this file with sudo.
+
  ---->  Save your sessions! Navigate to File > Save. You will be prompted to save you current session as
-        a .txt file. 
+        a .txt file.
 
  ---->  Spiral Search! New buttons to execute a fine or coarse search pattern in increments of .005/.01 degrees.
 
  ---->  Keyboard control! Control the pan/tilt unit from the keyboard in increments of .005 degrees
 
-This program requires you have installed pyserial. To install, go here: 
+This program requires you have installed pyserial. To install, go here:
 http://pyserial.sourceforge.net/pyserial.html#installation
 
-This program also requires the basic built in Python gui class, Tkinter. 
+This program also requires the basic built in Python gui class, Tkinter.
 You should not need to install this library
 
 Run this program from Terminal (Mac) or Command Prompt (Windows) or Command Line (Linux)
-First, navigate to the folder where the program file is stored. Then: 
+First, navigate to the folder where the program file is stored. Then:
 
 Mac or Linux: $ python AutoAimBasicV2.py (and then click return)
+Chromebook: $ sudo python AutoAimBasicV2.py (and then click enter)
 Windows: python "D:/Folder name AutoAimGui.py" (and then click enter)
 
 Created on Mar 23 2015 by Cameron Ramos
-Last Edited on Mar 28 2015 by Cameron Ramos
+Last Edited on Apr 11 2015 by Cameron Ramos
 
 ---------LICENSING INFORMATION----------
     Copyright (C) 2015  Cameron Ramos
@@ -54,7 +58,7 @@ Last Edited on Mar 28 2015 by Cameron Ramos
 
 from Tkinter import *
 # UNCOMMENT TO SEE GREAT CIRCLE DISTANCE
-#from geopy.distance import vincenty
+from geopy.distance import vincenty
 from cmath import *
 from math import *
 import serial
@@ -72,6 +76,12 @@ currentReading = " "
 generations = 0
 spiralStatus = "NO"
 stopStatus = "NO"
+#------UNCOMMENT TO INITIATE SERIAL COMMAND------
+# ensure you are connecting to the right serial port
+# serial port for MAC:
+ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
+# serial port for Chromebook: (execute with sudo to access)
+# ser = serial.Serial('/dev/tty/ttyUSB0', 9600)
 
 def file_save():
     global generations
@@ -88,7 +98,7 @@ def file_save():
     text2save += currentReading
 
     f.write(text2save)
-    f.close() 
+    f.close()
 
 """
 def save_quit():
@@ -105,7 +115,7 @@ def save_quit():
     text2save += currentReading
 
     f.write(text2save)
-    f.close() 
+    f.close()
 """
 
 def makeMenu(self):
@@ -142,8 +152,11 @@ def getEntries():
     currentReading += "Target Coordinates: " + tNc + " N, " + tWc + " W" + "\n" + "Target Elevation: " + elevationT + " feet" + "\n"
     doMath(myNc, myWc, tNc, tWc, elevationI, elevationT)
 
-def telescopeHex(horizontal, vertical):
-    building = 'B'
+def telescopeHex(horizontal, vertical, slew):
+    if slew == 1:
+        building = '~'
+    else if slew == 0:
+        building = 'B'
 
     # send horizontal to serial
     horizontal = horizontal/360 * 65536
@@ -159,13 +172,13 @@ def telescopeHex(horizontal, vertical):
     building += hex(b)[2:]
     building += hex(c)[2:]
     building += hex(d)[2:]
-    
+
     building += ','
 
     # send vertical to serial
     vertical = vertical/360 * 65536
     if vertical < 0.0:
-        vertical += 65536
+        vertical *= -1
     vertical = int(vertical)
 
     a = vertical / 4096
@@ -180,13 +193,8 @@ def telescopeHex(horizontal, vertical):
     building = building.upper()
     print(building)
 
-    #------UNCOMMENT TO INITIATE SERIAL COMMAND------
-    # ensure you are connecting to the right serial port
-    """
-    ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
     ser.write(building)
-    ser.write("\n")
-    """
+
 
 def check(event):
     global spiralStatus
@@ -203,34 +211,34 @@ def check(event):
     elif event.char == 'x':
         if spiralStatus == "YES":
             stopStatus = "YES"
-    
+
 
 def left():
     global currentAltitude
     global currentAzimuth
     currentAzimuth -= .005
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     print "left"
 
 def right():
     global currentAltitude
     global currentAzimuth
     currentAzimuth += .005
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     print "right"
 
 def down():
     global currentAltitude
     global currentAzimuth
     currentAltitude -= .005
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     print "down"
 
 def up():
     global currentAltitude
     global currentAzimuth
     currentAltitude += .005
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     print "up"
 
 def smallSpiral():
@@ -242,22 +250,22 @@ def smallSpiral():
     global stopStatus
 
     currentAltitude += .0025
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth += .0025*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAltitude -= .005*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth -= .005*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAltitude += .005*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth += .0025*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentDeviation += 1
 
@@ -275,26 +283,26 @@ def continuousSpiral():
 
 
     currentAltitude += .0025
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth += .0025*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAltitude -= .005*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth -= .005*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAltitude += .005*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth += .0025*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentDeviation += 1
 
-    
+
 def bigSpiral():
     #
     global currentAltitude
@@ -305,22 +313,22 @@ def bigSpiral():
 
     #while stopStatus=="NO":
     currentAltitude += .01
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth += .01*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAltitude -= .02*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth -= .02*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAltitude += .02*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentAzimuth += .01*currentDeviation
-    telescopeHex(currentAzimuth, currentAltitude)
+    telescopeHex(currentAzimuth, currentAltitude, 1)
     sleep(1)
     currentDeviation += 1
 
@@ -336,7 +344,7 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     # calculate distances in miles by calculating length of the hypotenuse between
     # the two given coordinates
     print
-    print "-------DISTANCE INFORMATION-------" 
+    print "-------DISTANCE INFORMATION-------"
     print "Straight line distance in miles: "
     asquared = pow(float(mNc) - float(tN),2)
     bsquared = pow(float(mWc) - float(tW), 2)
@@ -354,12 +362,12 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     print vincenty(myLacation, targetLocation).miles
     print
     """
-    
+
     # calculate vertical difference in feet
     diff = float(te) - float(mye)
     print "At your distance, curvature of the earth accounts for a drop in feet of: "
-    print (distance * 2/3) 
-    print 
+    print (distance * 2/3)
+    print
     diff -= (distance * 2/3) #adjust for the curvature of the earth
     print "Corrected elevation difference: "
     print diff
@@ -370,7 +378,7 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     print "-------CALCULATED ANGLES-------"
 
     #calculate angle of elevation by simply condicting arc tangent and converting to degrees
-    vertTheta = atan((diff/5280)/distance) * 180/pi 
+    vertTheta = atan((diff/5280)/distance) * 180/pi
     print
     print "Adjust your module to this vertical angle: "
     print vertTheta
@@ -402,7 +410,7 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     if y == 0:
         if x > 0: tcl = 0
         if x < 0: tcl = 180
-        if x ==0: print "You want to point at yourself? uhhh...idk how to do that"  
+        if x ==0: print "You want to point at yourself? uhhh...idk how to do that"
 
 
     horzTheta = (360 + (tcl+360)) % 360
@@ -414,33 +422,33 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     print "Adjust to this bearing: "
     print horzTheta
     currentAzimuth = horzTheta
-    currentReading +=  "Adjust to this bearing: " + str(horzTheta) + "\n" 
+    currentReading +=  "Adjust to this bearing: " + str(horzTheta) + "\n"
     print
     print "Target team adjust to this bearing: "
     print otherHorz
     print
     currentReading +=  "Adjust target module to this bearing: " + str(otherHorz) + "\n" + "\n"
 
-    telescopeHex(horzTheta, vertTheta)
+    telescopeHex(horzTheta, vertTheta, 0)
 
 
 class AutoAim(Frame):
-  
+
     def __init__(self, parent):
-        Frame.__init__(self, parent)  
-         
+        Frame.__init__(self, parent)
+
         self.parent = parent
         self.makeButtons()
-        
+
     def makeButtons(self):
 
         self.parent.title("AutoAim")
         self.style = Style()
         self.style.theme_use("default")
-        
+
         frame = Frame(self, relief=RAISED, borderwidth=1)
         frame.pack(fill=BOTH, expand=1)
-        
+
         self.pack(fill=BOTH, expand=1)
 
 
@@ -459,7 +467,7 @@ class AutoAim(Frame):
         fast = Button(self, text="Coarse", fg="red", command = bigSpiral)
         fast.pack(side=RIGHT, padx=10, pady=10)
 
-        
+
 
 root = Tk()
 root.geometry('700x500-200+40')
@@ -474,37 +482,37 @@ space.pack(fill = X)
 prompt = Label(root, text = "Your exact coordinates to North formatted as: 37.24586")
 prompt.pack(fill = X)
 myCoordinateN = Entry(root, width = 20)
-myCoordinateN.insert(0, "36.988317") 
+myCoordinateN.insert(0, "36.988317")
 myCoordinateN.pack()
 
 prompt2 = Label(root, text = "Your exact coordinates to West formatted as: 122.11320")
 prompt2.pack(fill = X)
 myCoordinateW = Entry(root, width = 20)
-myCoordinateW.insert(0, "-122.065917") 
+myCoordinateW.insert(0, "-122.065917")
 myCoordinateW.pack()
 
 prompt3 = Label(root, text = "Your Elevation in feet")
 prompt3.pack(fill = X)
 myElevation = Entry(root, width = 20)
-myElevation.insert(0, "575.768") 
+myElevation.insert(0, "575.768")
 myElevation.pack()
 
 prompt4 = Label(root, text = "Exact target coordinates to North formatted as: 37.24586")
 prompt4.pack(fill = X)
 tCoordinateN = Entry(root, width = 20)
-tCoordinateN.insert(0, "36.583299") 
+tCoordinateN.insert(0, "36.583299")
 tCoordinateN.pack()
 
 prompt5 = Label(root, text = "Exact target coordinates to West formatted as: 122.11320")
 prompt5.pack(fill = X)
 tCoordinateW = Entry(root, width = 20)
-tCoordinateW.insert(0, "-121.97179265") 
+tCoordinateW.insert(0, "-121.97179265")
 tCoordinateW.pack()
 
 prompt6 = Label(root, text = "Target Elevation in feet")
 prompt6.pack(fill = X)
 targetElevation = Entry(root, width = 20)
-targetElevation.insert(0, "23.205") 
+targetElevation.insert(0, "23.205")
 targetElevation.pack()
 
 # add section to control the tilt unit
