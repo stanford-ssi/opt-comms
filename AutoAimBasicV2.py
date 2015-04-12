@@ -58,7 +58,7 @@ Last Edited on Apr 11 2015 by Cameron Ramos
 
 from Tkinter import *
 # UNCOMMENT TO SEE GREAT CIRCLE DISTANCE
-from geopy.distance import vincenty
+# from geopy.distance import vincenty
 from cmath import *
 from math import *
 import serial
@@ -85,7 +85,7 @@ ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
 
 #------UNCOMMENT TO INITIATE SERIAL COMMAND------
     # ensure you are connecting to the right serial port
-    
+
 ser = serial.Serial('/dev/ttyACM0', 9600)
 
 
@@ -217,7 +217,7 @@ def telescopeHex(horizontal, vertical):
     # ensure you are connecting to the right serial port
     ser.write(building)
     #ser.write("\n")
-    
+
 >>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
 
 def check(event):
