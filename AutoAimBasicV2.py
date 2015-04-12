@@ -79,14 +79,9 @@ stopStatus = "NO"
 #------UNCOMMENT TO INITIATE SERIAL COMMAND------
 # ensure you are connecting to the right serial port
 # serial port for MAC:
-ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
+#ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
 # serial port for Chromebook: (execute with sudo to access)
-# ser = serial.Serial('/dev/tty/ttyUSB0', 9600)
-
-#------UNCOMMENT TO INITIATE SERIAL COMMAND------
-    # ensure you are connecting to the right serial port
-
-ser = serial.Serial('/dev/ttyACM0', 9600)
+# ser = serial.Serial('/dev/ttyACM0', 9600)
 
 
 def file_save():
@@ -158,17 +153,12 @@ def getEntries():
     currentReading += "Target Coordinates: " + tNc + " N, " + tWc + " W" + "\n" + "Target Elevation: " + elevationT + " feet" + "\n"
     doMath(myNc, myWc, tNc, tWc, elevationI, elevationT)
 
-<<<<<<< HEAD
 def telescopeHex(horizontal, vertical, slew):
+    global ser
     if slew == 1:
         building = '~'
-    else if slew == 0:
+    elif slew == 0:
         building = 'B'
-=======
-def telescopeHex(horizontal, vertical):
-    global ser
-    building = 'B'
->>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
 
     # send horizontal to serial
     horizontal = horizontal/360 * 65536
@@ -188,13 +178,9 @@ def telescopeHex(horizontal, vertical):
     building += ','
 
     # send vertical to serial
-    if vertical < 0.0:
-<<<<<<< HEAD
-        vertical *= -1
-=======
-	vertical *= -1
     vertical = vertical/360 * 65536
->>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
+    if vertical < 0.0:
+        vertical += 65536
     vertical = int(vertical)
 
     a = vertical / 4096
@@ -209,16 +195,10 @@ def telescopeHex(horizontal, vertical):
     building = building.upper()
     print(building)
 
-<<<<<<< HEAD
-    ser.write(building)
-
-=======
     #------UNCOMMENT TO INITIATE SERIAL COMMAND------
-    # ensure you are connecting to the right serial port
-    ser.write(building)
+    #ser.write(building)
     #ser.write("\n")
 
->>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
 
 def check(event):
     global spiralStatus
@@ -424,18 +404,19 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     y = sin(lon2 - lon1)*cos(lat2)
     x = cos(lat1)*sin(lat2)-sin(lat1)*cos(lat2)*cos(lon2-lon1)
     if y > 0:
-        if x > 0: tcl = -(180/pi* atan(y/x))
-        if x < 0: tcl = 180 - (180/pi * atan(-y/x))
+        if x > 0: tcl = (180/pi* atan(y/x))
+        if x < 0: tcl = 180 - atan(-y/x)
         if x ==0: tcl = 90
     if y < 0:
-        if x > 0: tcl = -(180/pi * atan(-y/x))
-        if x < 0: tcl = 180 - (180/pi * atan(y/x)) - 180
+        if x > 0: tcl = -(180/pi* atan(-y/x))
+        if x < 0: tcl = 180/pi* atan(y/x)
         if x ==0: tcl = 270
     if y == 0:
         if x > 0: tcl = 0
         if x < 0: tcl = 180
         if x ==0: print "You want to point at yourself? uhhh...idk how to do that"
 
+    print "here: " + str(tcl) + "\n"
 
     horzTheta = (360 + (tcl+360)) % 360
     if horzTheta >= 180:
