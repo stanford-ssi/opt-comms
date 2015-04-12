@@ -83,6 +83,12 @@ ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
 # serial port for Chromebook: (execute with sudo to access)
 # ser = serial.Serial('/dev/tty/ttyUSB0', 9600)
 
+#------UNCOMMENT TO INITIATE SERIAL COMMAND------
+    # ensure you are connecting to the right serial port
+    
+ser = serial.Serial('/dev/ttyACM0', 9600)
+
+
 def file_save():
     global generations
     global currentReading
@@ -152,11 +158,17 @@ def getEntries():
     currentReading += "Target Coordinates: " + tNc + " N, " + tWc + " W" + "\n" + "Target Elevation: " + elevationT + " feet" + "\n"
     doMath(myNc, myWc, tNc, tWc, elevationI, elevationT)
 
+<<<<<<< HEAD
 def telescopeHex(horizontal, vertical, slew):
     if slew == 1:
         building = '~'
     else if slew == 0:
         building = 'B'
+=======
+def telescopeHex(horizontal, vertical):
+    global ser
+    building = 'B'
+>>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
 
     # send horizontal to serial
     horizontal = horizontal/360 * 65536
@@ -176,9 +188,13 @@ def telescopeHex(horizontal, vertical, slew):
     building += ','
 
     # send vertical to serial
-    vertical = vertical/360 * 65536
     if vertical < 0.0:
+<<<<<<< HEAD
         vertical *= -1
+=======
+	vertical *= -1
+    vertical = vertical/360 * 65536
+>>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
     vertical = int(vertical)
 
     a = vertical / 4096
@@ -193,8 +209,16 @@ def telescopeHex(horizontal, vertical, slew):
     building = building.upper()
     print(building)
 
+<<<<<<< HEAD
     ser.write(building)
 
+=======
+    #------UNCOMMENT TO INITIATE SERIAL COMMAND------
+    # ensure you are connecting to the right serial port
+    ser.write(building)
+    #ser.write("\n")
+    
+>>>>>>> 0fbb37fc7ce56550104bf4e59c1ad7452744700a
 
 def check(event):
     global spiralStatus
