@@ -36,7 +36,7 @@ Chromebook: $ sudo python AutoAimBasicV2.py (and then click enter)
 Windows: python "D:/Folder name AutoAimGui.py" (and then click enter)
 
 Created on Mar 23 2015 by Cameron Ramos
-Last Edited on Apr 11 2015 by Cameron Ramos
+Last Edited on May 3 2015 by Cameron Ramos
 
 ---------LICENSING INFORMATION----------
     Copyright (C) 2015  Cameron Ramos
@@ -79,7 +79,7 @@ stopStatus = "NO"
 #------UNCOMMENT TO INITIATE SERIAL COMMAND------
 # ensure you are connecting to the right serial port
 # serial port for MAC:
-#ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
+ser = serial.Serial('/dev/tty.usbmodem1421', 9600)
 # serial port for Chromebook: (execute with sudo to access)
 # ser = serial.Serial('/dev/ttyACM0', 9600)
 
@@ -196,8 +196,8 @@ def telescopeHex(horizontal, vertical, slew):
     print(building)
 
     #------UNCOMMENT TO INITIATE SERIAL COMMAND------
-    #ser.write(building)
-    #ser.write("\n")
+    ser.write(building)
+    ser.write("\n")
 
 
 def check(event):
@@ -221,28 +221,28 @@ def left():
     global currentAltitude
     global currentAzimuth
     currentAzimuth -= .005
-    telescopeHex(currentAzimuth, currentAltitude, 1)
+    telescopeHex(currentAzimuth, currentAltitude, 0)
     print "left"
 
 def right():
     global currentAltitude
     global currentAzimuth
     currentAzimuth += .005
-    telescopeHex(currentAzimuth, currentAltitude, 1)
+    telescopeHex(currentAzimuth, currentAltitude, 0)
     print "right"
 
 def down():
     global currentAltitude
     global currentAzimuth
     currentAltitude -= .005
-    telescopeHex(currentAzimuth, currentAltitude, 1)
+    telescopeHex(currentAzimuth, currentAltitude, 0)
     print "down"
 
 def up():
     global currentAltitude
     global currentAzimuth
     currentAltitude += .005
-    telescopeHex(currentAzimuth, currentAltitude, 1)
+    telescopeHex(currentAzimuth, currentAltitude, 0)
     print "up"
 
 def smallSpiral():
@@ -345,6 +345,11 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     global currentReading
     global currentDeviation
 
+    if(te < mye):
+        print "\n ################ \n Some pan/tilt units will not accept a command to tilt down. If the unit "
+        print "\n does not respond, switch the elevation fields and adjust the mount accordingly. \n"
+        print " ############### \n"
+    
     # calculate distances in miles by calculating length of the hypotenuse between
     # the two given coordinates
     print
@@ -416,7 +421,7 @@ def doMath(mNc, mWc, tN, tW, mye, te):
         if x < 0: tcl = 180
         if x ==0: print "You want to point at yourself? uhhh...idk how to do that"
 
-    print "here: " + str(tcl) + "\n"
+    #print "here: " + str(tcl) + "\n"
 
     horzTheta = (360 + (tcl+360)) % 360
     if horzTheta >= 180:
@@ -434,7 +439,9 @@ def doMath(mNc, mWc, tN, tW, mye, te):
     print
     currentReading +=  "Adjust target module to this bearing: " + str(otherHorz) + "\n" + "\n"
 
+    print "ADJUST FOR MAGNETIC DECLINATION (http://www.ngdc.noaa.gov/geomag-web/)" + "\n"
     telescopeHex(horzTheta, vertTheta, 0)
+    print "\n No response? make sure tilt unit is in RS232 control mode. Menu >> RS232 >> Enter \n"
 
 
 class AutoAim(Frame):
