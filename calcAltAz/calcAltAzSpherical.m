@@ -1,7 +1,11 @@
- function main
+function main
+ 
     clear
     clc
     format long g
+
+    global skale
+    skale = 1000; % m
     
     % Ask for home coordinates and plot
     dialog = inputdlg({'Latitude:','Longitude:','Altitude:'},...
@@ -9,7 +13,7 @@
     home = [str2num(dialog{1}),str2num(dialog{2}),str2num(dialog{3})];
     cartHome = GPStoCartesian(home);
     scatter3(cartHome(1)-cartHome(1),cartHome(2)-cartHome(2),cartHome(3)-cartHome(3),'r')
-    axis([0 10000 0 10000 0 10000]), xlabel('x (m)'), ylabel('y (m)'), zlabel('z (m)')
+    axis([0 skale 0 skale 0 skale]), xlabel('x (m)'), ylabel('y (m)'), zlabel('z (m)')
     hold on
     
     % Ask for first reference coordinates and plot
@@ -21,9 +25,9 @@
     y = cartRef1(2)-cartHome(2);
     z = cartRef1(3)-cartHome(3);
     scatter3(x,y,z,'g')
-    xSet = sort([0 (x/abs(x))*10000]);
-    ySet = sort([0 (y/abs(y))*10000]);
-    zSet = sort([0 (z/abs(z))*10000]);
+    xSet = sort([0 (x/abs(x))*skale]);
+    ySet = sort([0 (y/abs(y))*skale]);
+    zSet = sort([0 (z/abs(z))*skale]);
     axis([xSet ySet zSet])
     
     % Ask for second reference coordinates and plot
@@ -59,21 +63,29 @@
     addpoints(laser,vRef1(1),vRef1(2),vRef1(3));
     drawnow
     pause(0.25)
-    waitfor(msgbox('Please point towards first reference point and zero scale'))
+    waitfor(msgbox('Point towards first reference point and zero scale'))
     pause(0.25)
     
     vRef2 = vectorFromHome(cartHome,cartRef2);
     animation(laser,vRef1,vRef2);
 
     pause(0.25)
-    waitfor(msgbox('Please point towards second reference point and note delta alt/az between references in decimal degrees'))
+    waitfor(msgbox('Point towards second reference point and note delta alt/az between references'))
     pause(0.25)
     
-    dialog = inputdlg({'Altitude:','Azimuth:'},...
-              'Enter Delta Alt/Az', [1 30; 1 30]); 
-    altDiffBetweenRefs = toRadians(str2num(dialog{1}));
-    azDiffBetweenRefs = toRadians(str2num(dialog{2}));
- 
+    dialog = inputdlg({'Degrees:','Minutes:','Seconds:'},...
+              'Enter Delta Azimuth', [1 40; 1 40; 1 40]);
+    azDiffDeg = str2num(dialog{1});
+    azDiffMin = str2num(dialog{2});
+    azDiffSec = str2num(dialog{3});
+    azDiffBetweenRefs = toRadians(DMStoDegrees([azDiffDeg azDiffMin azDiffSec]));
+    dialog = inputdlg({'Degrees:','Minutes:','Seconds:'},...
+              'Enter Delta Altitude', [1 40; 1 40; 1 40]);
+    altDiffDeg = str2num(dialog{1});
+    altDiffMin = str2num(dialog{2});
+    altDiffSec = str2num(dialog{3});
+    altDiffBetweenRefs = toRadians(DMStoDegrees([altDiffDeg altDiffMin altDiffSec]));
+    
     vTarget = vectorFromHome(cartHome,cartTarget);
     
     % Calculate necessary alt/az adjustment to reach target by iteration
@@ -84,12 +96,12 @@
     azOffsetGuess = aRef2Target;
     aboveOrBelowRefs = dot(cross(vRef2,vRef1),vTarget);
     aboveOrBelowRefs = aboveOrBelowRefs/abs(aboveOrBelowRefs);
-    tolerance = 0.1;
-    step = 0.01;
+    tolerance = 0.01;
+    step = 0.001;
+    
     while(true)
         projectedAltOffset = aboveOrBelowRefs*acos((cos(aRef2Target))/(cos(azOffsetGuess)));
-        projectedAzOffRef2 = azOffsetGuess + azDiffBetweenRefs;
-        projectedAzOffset = ((projectedAzOffRef2)/(abs(projectedAzOffRef2)))*(acos((cos(aRef1Target))/(cos(altDiffBetweenRefs + projectedAltOffset)))) - azDiffBetweenRefs;
+        projectedAzOffset = acos((cos(aRef1Target))/(cos(altDiffBetweenRefs + projectedAltOffset))) - azDiffBetweenRefs;
         if (abs(projectedAzOffset - azOffsetGuess) < tolerance)
             break
         end
@@ -106,23 +118,29 @@
     if projectedAzOffset > 90
        projectedAzOffset = 180 - projectedAzOffset; 
     end
-   
-    h = msgbox(strcat('Adjust Altitude:  ',num2str(projectedAltOffset),', Adjust Azimuth:  ',num2str(projectedAzOffset)),'Alt/Az Target Adjustments')
+    
+    targetAdjustAz = degreesToDMS(projectedAzOffset + azDiffBetweenRefs);
+    targetAdjustAlt = degreesToDMS(projectedAltOffset + altDiffBetweenRefs);
+    
+    h = msgbox({['Adjust Azimuth to: ',num2str(targetAdjustAz(1)),' degrees, ',num2str(targetAdjustAz(2)),' minutes, ',num2str(targetAdjustAz(3)),' seconds.'],['Adjust Altitude to: ',num2str(targetAdjustAlt(1)),' degrees, ',num2str(targetAdjustAlt(2)),' minutes, ',num2str(targetAdjustAlt(3)),' seconds.']})
     animation(laser,vRef2,vTarget);
 end
 
 % resetAxis takes three axis bounds and three new points, and redefines the
 % plot bounds
 function [xSet, ySet, zSet] = resetAxis(xSet,ySet,zSet,x,y,z)
-    xSet = sort(unique([xSet,(x/abs(x))*10000]));
+
+    global skale
+
+    xSet = sort(unique([xSet,(x/abs(x))*skale]));
         if length(xSet) == 3
           xSet = xSet(xSet~=0);
         end
-    ySet = sort(unique([ySet,(y/abs(y))*10000]));
+    ySet = sort(unique([ySet,(y/abs(y))*skale]));
         if length(ySet) == 3
            ySet = ySet(ySet~=0);
         end
-    zSet = sort(unique([zSet,(z/abs(z))*10000]));
+    zSet = sort(unique([zSet,(z/abs(z))*skale]));
         if length(zSet) == 3
              zSet = zSet(zSet~=0);
         end
@@ -198,3 +216,31 @@ end
 function [degrees] = toDegrees(radians)
     degrees = (radians/(2*pi))*360;
 end
+
+% converts degrees to DMS
+function [DMS] = degreesToDMS(degrees)
+    min = (degrees - floor(degrees))*60.0;
+    sec = (min - floor(min))*60.0;
+    
+    deg = floor(degrees);
+    min = floor(min);
+    sec = floor(sec);
+    
+    DMS = [deg min sec];
+end
+
+% converts DMS to degrees
+function [degrees] = DMStoDegrees(DMS)
+    deg = DMS(1);
+    min = DMS(2);
+    sec = DMS(3);
+    
+    if (deg/abs(deg) > 0)
+        degrees = deg + min/60 + sec/3600;
+    else
+        deg = -1*deg;
+        degrees = deg + min/60 + sec/3600;
+        degrees = -1*degrees;
+    end
+end
+
