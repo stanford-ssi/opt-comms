@@ -10,3 +10,4 @@ download the AutoAimBasic program and relevent libraries
 outlined in the header. Run from terminal. 
 See included comments for usage.
 
+V2 is an experimental build.
