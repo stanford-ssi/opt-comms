@@ -57,6 +57,7 @@ handles.output = hObject;
 
 % Update handles structure
 guidata(hObject, handles);
+set(handles.instructions,'String','Type value for Scale. Select coordinates for Home and press Enter Coordinates');
 
 
 % UIWAIT makes Prompt_Window_clean wait for user response (see UIRESUME)
@@ -81,7 +82,7 @@ function Submitleft_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 % returns entered GPS data
 homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
-
+set(handles.instructions,'String','Select coordinates for Right Reference and press Enter Coordinates');
 
 % --- Executes on button press in Submithome.
 function Submithome_Callback(hObject, eventdata, handles)
@@ -90,6 +91,7 @@ function Submithome_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 % returns entered GPS data
 homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
+set(handles.instructions,'String','Select coordinates for Target and press Enter Coordinates');
 
 % --- Executes on button press in Submittarget.
 function Submittarget_Callback(hObject, eventdata, handles)
@@ -98,6 +100,7 @@ function Submittarget_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 % returns entered GPS data
 target = [str2double(get(handles.targetlat,'String')),str2double(get(handles.targetlong,'String')),str2double(get(handles.targetalt,'String'))];
+set(handles.instructions,'String','Select coordinates for Left Reference and press Enter Coordinates');
 
 % --- Executes on button press in Submitright.
 function Submitright_Callback(hObject, eventdata, handles)
@@ -106,23 +109,52 @@ function Submitright_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 % returns entered GPS data
 ref2 = [str2double(get(handles.rightlat,'String')),str2double(get(handles.rightlong,'String')),str2double(get(handles.rightalt,'String'))];
-
+set(handles.instructions,'String','Zero angle to Left Reference. Align to Right Reference. Type change in Azimuth and Altitude. Hit Enter Angles.');
 
 % --- Executes on button press in Submitangles.
 function Submitangles_Callback(hObject, eventdata, handles)
 % hObject    handle to Submitangles (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
+
+%sets up vectors for calcAltAzSherical_edits
 homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
 ref1 = [str2double(get(handles.leftlat,'String')), str2double(get(handles.leftlong,'String')), str2double(get(handles.leftalt,'String'))];
 ref2 = [str2double(get(handles.rightlat,'String')), str2double(get(handles.rightlong,'String')), str2double(get(handles.rightalt,'String'))];
 target = [str2double(get(handles.targetlat,'String')), str2double(get(handles.targetlong,'String')), str2double(get(handles.targetalt,'String'))];
 azDiffBetweenRefsdeg = str2num(get(handles.deltaaz,'String'));
 altDiffBetweenRefsdeg = str2num(get(handles.deltaalt,'String'));
+
+%runs function calcAltAzSherical_edits
 inputvector = [homeset,ref1,ref2,target,azDiffBetweenRefsdeg,altDiffBetweenRefsdeg];
 [adjustaz,adjustalt] = calcAltAzSpherical_edits(inputvector);
-set(handles.outputazdeg,'String',adjustaz);
-set(handles.outputaltdeg,'String',adjustalt);
+
+%Converts to angle from zero
+gotoaz = str2num(get(handles.deltaaz, 'String'))+ adjustaz;
+gotoalt = str2num(get(handles.deltaalt, 'String')) + adjustalt;
+
+%Makes all angles positive
+if (gotoaz < 0)
+    finalgotoaz = 360 + gotoaz;
+else finalgotoaz = gotoaz;
+end
+
+if (gotoalt < 0)
+    finalgotoalt = 360 + gotoalt;
+else finalgotoalt = gotoalt;
+end
+
+%Dislays angles from zero in decimal
+set(handles.outputazdeg,'String',finalgotoaz);
+set(handles.outputaltdeg,'String',finalgotoalt);
+
+%Converts to hex and displays in gui
+gotoazhex = floor(finalgotoaz*(2^32)/360);
+gotoalthex = floor(finalgotoalt*(2^32)/360);
+outputazhex = sprintf('%08X',gotoazhex);
+outputalthex = sprintf('%08X',gotoalthex);
+set(handles.outputazhex,'String',outputazhex);
+set(handles.outputalthex,'String',outputalthex);
 
 function scalevalue_Callback(hObject, eventdata, handles)
 % hObject    handle to scalevalue (see GCBO)
