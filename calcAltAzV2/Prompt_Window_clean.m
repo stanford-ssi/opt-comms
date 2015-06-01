@@ -156,6 +156,8 @@ outputalthex = sprintf('%08X',gotoalthex);
 set(handles.outputazhex,'String',outputazhex);
 set(handles.outputalthex,'String',outputalthex);
 
+set(handles.instructions, 'String', 'Move to Output Azimuth and Altitude (Measured from Zero)');
+
 function scalevalue_Callback(hObject, eventdata, handles)
 % hObject    handle to scalevalue (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
