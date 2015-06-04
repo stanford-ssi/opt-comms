@@ -22,7 +22,7 @@ function varargout = Prompt_Window_clean(varargin)
 
 % Edit the above text to modify the response to help Prompt_Window_clean
 
-% Last Modified by GUIDE v2.5 30-May-2015 14:18:20
+% Last Modified by GUIDE v2.5 01-Jun-2015 17:41:50
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
@@ -57,11 +57,9 @@ handles.output = hObject;
 
 % Update handles structure
 guidata(hObject, handles);
+
+%Initial istructions at top of gui
 set(handles.instructions,'String','Type value for Scale. Select coordinates for Home and press Enter Coordinates');
-
-
-% UIWAIT makes Prompt_Window_clean wait for user response (see UIRESUME)
-% uiwait(handles.figure1);
 
 
 % --- Outputs from this function are returned to the command line.
@@ -80,8 +78,24 @@ function Submitleft_Callback(hObject, eventdata, handles)
 % hObject    handle to Submitleft (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-% returns entered GPS data
+
+% Returns entered GPS data
+ref1 = [str2double(get(handles.leftlat,'String')), str2double(get(handles.leftlong,'String')), str2double(get(handles.leftalt,'String'))];
 homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
+
+%plots scatter points on figure
+[cartRef1] = GPStoCartesian(ref1);
+[cartHome] = GPStoCartesian(homeset);
+
+%sets scale
+skale = str2num(get(handles.scalevalue,'String'));
+ 
+    
+%Plots scatter points
+hold on
+scatter3(cartRef1(1)-cartHome(1),cartRef1(2)-cartHome(2),cartRef1(3)-cartHome(3),'g')
+
+%Progresses instructions
 set(handles.instructions,'String','Select coordinates for Right Reference and press Enter Coordinates');
 
 % --- Executes on button press in Submithome.
@@ -89,8 +103,17 @@ function Submithome_Callback(hObject, eventdata, handles)
 % hObject    handle to Submithome (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-% returns entered GPS data
+
+% Returns entered GPS data
 homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
+
+%plots scatter points on figure
+[cartHome] = GPStoCartesian(homeset);
+skale = str2num(get(handles.scalevalue,'String'));
+scatter3(cartHome(1)-cartHome(1),cartHome(2)-cartHome(2),cartHome(3)-cartHome(3),'r')
+   axis([-skale skale -skale skale -skale skale]), xlabel('x (m)'), ylabel('y (m)'), zlabel('z (m)')
+    hold on
+%Progresses Directions
 set(handles.instructions,'String','Select coordinates for Target and press Enter Coordinates');
 
 % --- Executes on button press in Submittarget.
@@ -98,8 +121,24 @@ function Submittarget_Callback(hObject, eventdata, handles)
 % hObject    handle to Submittarget (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-% returns entered GPS data
+
+% Returns entered GPS data
 target = [str2double(get(handles.targetlat,'String')),str2double(get(handles.targetlong,'String')),str2double(get(handles.targetalt,'String'))];
+homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
+
+%gets cartesian points
+[cartHome] = GPStoCartesian(homeset);
+[cartTarget] = GPStoCartesian(target);
+
+%sets scale
+skale = str2num(get(handles.scalevalue,'String'));
+
+%Plots scatter points
+hold on
+scatter3(cartTarget(1)-cartHome(1),cartTarget(2)-cartHome(2),cartTarget(3)-cartHome(3),'k')
+axis([-skale skale -skale skale -skale skale]), xlabel('x (m)'), ylabel('y (m)'), zlabel('z (m)')
+
+%Progresses instructions
 set(handles.instructions,'String','Select coordinates for Left Reference and press Enter Coordinates');
 
 % --- Executes on button press in Submitright.
@@ -107,8 +146,23 @@ function Submitright_Callback(hObject, eventdata, handles)
 % hObject    handle to Submitright (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
+
 % returns entered GPS data
 ref2 = [str2double(get(handles.rightlat,'String')),str2double(get(handles.rightlong,'String')),str2double(get(handles.rightalt,'String'))];
+homeset = [str2double(get(handles.homelat,'String')), str2double(get(handles.homelong,'String')), str2double(get(handles.homealt,'String'))];
+
+%gets cartesian points
+[cartRef2] = GPStoCartesian(ref2);
+[cartHome] = GPStoCartesian(homeset);
+
+%sets scale
+skale = str2num(get(handles.scalevalue,'String'));
+ 
+%graphs scatter points
+hold on   
+scatter3(cartRef2(1)-cartHome(1),cartRef2(2)-cartHome(2),cartRef2(3)-cartHome(3),'g')
+axis([-skale skale -skale skale -skale skale]), xlabel('x (m)'), ylabel('y (m)'), zlabel('z (m)')
+%Progresses instructions
 set(handles.instructions,'String','Zero angle to Left Reference. Align to Right Reference. Type change in Azimuth and Altitude. Hit Enter Angles.');
 
 % --- Executes on button press in Submitangles.
@@ -156,6 +210,7 @@ outputalthex = sprintf('%08X',gotoalthex);
 set(handles.outputazhex,'String',outputazhex);
 set(handles.outputalthex,'String',outputalthex);
 
+%Progresses instructions
 set(handles.instructions, 'String', 'Move to Output Azimuth and Altitude (Measured from Zero)');
 
 function scalevalue_Callback(hObject, eventdata, handles)
@@ -204,9 +259,7 @@ function targetlist_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: contents = cellstr(get(hObject,'String')) returns targetlist contents as cell array
-%        contents{get(hObject,'Value')} returns selected item from targetlist
-
+% Presents menu with common points, auto fills gps data
 targetcoord = get(handles.targetlist,'Value');
 if (targetcoord==1);
     set(handles.targetlat,'String','');
@@ -307,9 +360,7 @@ function homelist_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: contents = cellstr(get(hObject,'String')) returns homelist contents as cell array
-%        contents{get(hObject,'Value')} returns selected item from homelist
-
+% % Presents menu with common points, auto fills gps data
 homecoord = get(handles.homelist,'Value');
 if (homecoord==1);
     set(handles.homelat,'String','');
@@ -412,8 +463,7 @@ function rightlist_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: contents = cellstr(get(hObject,'String')) returns rightlist contents as cell array
-%        contents{get(hObject,'Value')} returns selected item from rightlist
+% Presents menu with common points, auto fills gps data
 
 rightcoord = get(handles.rightlist,'Value');
 if (rightcoord==1);
@@ -432,6 +482,30 @@ elseif (rightcoord==4);
     set(handles.rightlat,'String','37.424183382358386');
     set(handles.rightlong,'String','-122.17614036791929');
     set(handles.rightalt,'String','43.350');
+elseif (leftcoord==5);
+    set(handles.rightlat,'String','37.423648725787935');
+    set(handles.rightlong,'String','-122.17804937996789');
+    set(handles.rightalt,'String','42.443');
+elseif (leftcoord==6);
+    set(handles.rightlat,'String','37.461018678799896');
+    set(handles.rightlong,'String','-122.11524993181229');
+    set(handles.rightalt,'String','0.854');
+elseif (leftcoord==7);
+    set(handles.rightlat,'String','37.51252393234854');
+    set(handles.rightlong,'String','-122.25018315017223');
+    set(handles.rightalt,'String','1.467');
+elseif (leftcoord==8);
+    set(handles.rightlat,'String','37.619377743137015');
+    set(handles.rightlong,'String','-122.37389668822289');
+    set(handles.rightalt,'String','1.914');
+elseif (leftcoord==9);
+    set(handles.rightlat,'String','37.710500127663714');
+    set(handles.rightlong,'String','-122.22563557326794');
+    set(handles.rightalt,'String','0.465');
+elseif (leftcoord==10);
+    set(handles.rightlat,'String','37.65835694479813');
+    set(handles.rightlong,'String','-122.12151154875755');
+    set(handles.rightalt,'String','10.468');
 end
 
 
@@ -514,10 +588,7 @@ function leftlist_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: contents = cellstr(get(hObject,'String')) returns leftlist contents as cell array
-%        contents{get(hObject,'Value')} returns selected item from leftlist
-
-%Sets strings with predetermined measurements
+% Presents menu with common points, auto fills gps data
 leftcoord = get(handles.leftlist,'Value');
 if (leftcoord==1);
     set(handles.leftlat,'String','');
@@ -535,6 +606,30 @@ elseif (leftcoord==4);
     set(handles.leftlat,'String','37.424183382358386');
     set(handles.leftlong,'String','-122.17614036791929');
     set(handles.leftalt,'String','43.350');
+elseif (leftcoord==5);
+    set(handles.leftlat,'String','37.423648725787935');
+    set(handles.leftlong,'String','-122.17804937996789');
+    set(handles.leftalt,'String','42.443');
+elseif (leftcoord==6);
+    set(handles.leftlat,'String','37.461018678799896');
+    set(handles.leftlong,'String','-122.11524993181229');
+    set(handles.leftalt,'String','0.854');
+elseif (leftcoord==7);
+    set(handles.leftlat,'String','37.51252393234854');
+    set(handles.leftlong,'String','-122.25018315017223');
+    set(handles.leftalt,'String','1.467');
+elseif (leftcoord==8);
+    set(handles.leftlat,'String','37.619377743137015');
+    set(handles.leftlong,'String','-122.37389668822289');
+    set(handles.leftalt,'String','1.914');
+elseif (leftcoord==9);
+    set(handles.leftlat,'String','37.710500127663714');
+    set(handles.leftlong,'String','-122.22563557326794');
+    set(handles.leftalt,'String','0.465');
+elseif (leftcoord==10);
+    set(handles.leftlat,'String','37.65835694479813');
+    set(handles.leftlong,'String','-122.12151154875755');
+    set(handles.leftalt,'String','10.468');
 end
 
 
@@ -818,3 +913,37 @@ function deltaaz_CreateFcn(hObject, eventdata, handles)
 if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
     set(hObject,'BackgroundColor','white');
 end
+
+
+% --- Executes on button press in clear.
+function clear_Callback(hObject, eventdata, handles)
+% hObject    handle to clear (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+%clears all text boxes, resets instructions
+set(handles.leftlat,'String','');
+set(handles.leftlong,'String','');
+set(handles.leftalt,'String','');
+set(handles.homelat,'String','');
+set(handles.homelong,'String','');
+set(handles.homealt,'String','');
+set(handles.rightlat,'String','');
+set(handles.rightlong,'String','');
+set(handles.rightalt,'String','');
+set(handles.targetlat,'String','');
+set(handles.targetlong,'String','');
+set(handles.targetalt,'String','');
+set(handles.scalevalue,'String','');
+set(handles.deltaaz,'String','');
+set(handles.deltaalt,'String','');
+set(handles.outputazdeg,'String','');
+set(handles.outputaltdeg,'String','');
+set(handles.outputazhex,'String','');
+set(handles.outputalthex,'String','');
+set(handles.condeg,'String','');
+set(handles.conmin,'String','');
+set(handles.consec,'String','');
+set(handles.condec,'String','');
+set(handles.instructions,'String','Type value for Scale. Select coordinates for Home and press Enter Coordinates');
+cla;
