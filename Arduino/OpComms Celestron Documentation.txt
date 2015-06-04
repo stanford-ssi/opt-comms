@@ -1,0 +1,92 @@
+   ____ ____ ____    ____        _____                                                                              
+  / __// __//  _/   / __ \ ___  / ___/___   __ _   __ _   ___                                                       
+ _\ \ _\ \ _/ /    / /_/ // _ \/ /__ / _ \ /  ' \ /  ' \ (_-<                                                       
+/___//___//___/    \____// .__/\___/ \___//_/_/_//_/_/_//___/                                                       
+                        /_/                                                                                         
+  _____      __          __                       ___                                   __         __   _           
+ / ___/___  / /___  ___ / /_ ____ ___   ___      / _ \ ___  ____ __ __ __ _  ___  ___  / /_ ___ _ / /_ (_)___   ___ 
+/ /__ / -_)/ // -_)(_-</ __// __// _ \ / _ \    / // // _ \/ __// // //  ' \/ -_)/ _ \/ __// _ `// __// // _ \ / _ \
+\___/ \__//_/ \__//___/\__//_/   \___//_//_/   /____/ \___/\__/ \_,_//_/_/_/\__//_//_/\__/ \_,_/ \__//_/ \___//_//_/
+
+=======================================================================================================================
+Produced June 3, 2015 - Sasha Maldonado
+Last Updated June 3, 2015 - Sasha Maldonado
+=======================================================================================================================
+HIGH LEVEL DESCRIPTION:
+
+SSI OpComms owns several Celestron motorized telescope arms. They each contain two motors; one allows for azimuth
+(left-right) rotation, the other altitude (up-down) rotation. While originally designed to aim telescopes, they have
+been repurposed to aim a laser (attached to a telescope) and several different light-focusing devices, including a
+modified telescope and a box containing a focusing Fresnel lens.
+
+The arms each have a hand unit with buttons that allows a user to input a range of commands. Most are not useful for
+the team's purposes, but they are all listed in the maps below. As of time of writing, the transmit and recieve
+arms have different hardware and software, and thus operate differently.
+
+In addition, the hand units have a port that allows them to be controlled from a computer. They can be connected via
+telephone handset cable to an Arduino board, which connect via USB to a computer. The computer will then be able to
+communicate via Serial to the telescope, sending commands and receiving information. Arduino software has been
+developed for this purpose; relevant documentation is included along with it.
+
+=======================================================================================================================
+HAND UNIT MENU NAVIGATION:
+
+"ENTER" button goes deeper into menus
+"UNDO" button goes up a level in menus
+At root, hit "MENU" (Key 3) to bring up the useful menu.
+Use "UP" (Key 6) and "DOWN" (Key 9) to scroll through options in a menu.
+
+Options with (x) next to them serve no current use, but may be worthy of exploration.
+They are included to give a complete diagram of all controls that a user is likely to see on screen.
+
+Items marked with a *** (here, not actually in the menus) are particularly important for OpComms.
+
+=======================================================================================================================
+RX MENU DIAGRAM:
+
+root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3) 
+	--> Tracking (x)
+	--> View Time-Site (x)
+	--> Scope Setup (x)
+***	--> Utilities
+		--> GPS on/off (x)
+		--> Factory Setting (x)
+		--> Version (Gives telescope firmware version)
+***		--> Get Axis Postn (Shows current az/alt position in deg/min/sec)
+***		--> Goto Axis Postn (Allows user to set current az/alt position in deg/min/sec)
+		--> Sun Menu (x)
+		--> Scrolling Menu (Adjusts marquee text scroll speed)
+		--> Calibrate Goto (Self explanatory)
+		--> Set Mount Position (x)
+	--> User Objects (x)
+	--> Camera (Potentially useful; this has not been explored)
+	--> Get RA-Dec (x)
+	--> Goto RA-Dec (x)
+	--> Identify (x)
+	--> Precise Goto (x)
+
+=======================================================================================================================
+TX MENU DIAGRAM:
+
+*** SPECIAL NOTE: TX will not be able to communicate over Serial unless it is in RS-232 mode. This is marked below.
+
+root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3) 
+	--> Tracking (x)
+	--> View Time-Site (x)
+	--> Sidereal Time (x)
+	--> Filter Limits (x)
+***	--> Utilities
+		--> Setup Time-Site (x)
+		--> Anti-Backlash (Potentially useful; this has not been explored)
+***		--> Slew Limits (Controls maximum rotation in az/alt)
+		--> DirectionButton (Potentially useful; this has not been explored)
+		--> Lights Control (Controls keypad lighting)
+		--> Select Model (x)
+*** --> RS-232 
+***		--> RS-232 Mode ********* NEEDED FOR SERIAL COMMUNICATION
+	--> User Objects (x)
+*** --> Get Alt-Az (Shows current az/alt position in deg/min)
+*** --> Goto Alt-Az	(Allows user to set az/alt position in deg/min)
+	--> Get RA-Dec (x)
+	--> Goto RA-Dec (x)
+	--> Tracking (x)
