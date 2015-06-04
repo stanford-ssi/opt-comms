@@ -1,6 +1,37 @@
 //SSI Optical Comms Celestron Control Code
 //Sasha Maldonado
 //May 31 2015
+//Last modified June 3 2015
+
+/*************************************
+  
+  INTRODUCTION TO ARDUINO SERIAL:
+  
+  Go to "Tools-->Board" to select the appropriate model of board (should be Arduino Uno, unless otherwise noted)
+  Proceed to "Tools-->Serial Port," and select the correct port. This will be:
+   -On a Windows machine, a COM port ("COM#," where # is a number). There will likely be only one port listed.
+   -On a Mac/Linux machine, a port named in the form "/dev/tty.usbmodem#," where # is a number with several digits. 
+    There will likely be only one such port listed (likely along with a companion "/dev/cu.usbmodem#" with the same number).
+    Select the "tty" port.
+  Whichever port you select should have "(Arduino Uno)" (or another board) next to it, unless you have an old version of Arduino.
+  
+  Once connected, access the Serial Monitor by clicking the maginfying glass in the upper right. A new window will open, with a
+  text entry field at the top and several dropdowns at the bottom. Autoscroll should be checked, "No Line Ending" should be selected,
+  as should "9600 baud" (both of these will vary with projects, but are needed for this particular program).
+
+
+  SETUP NOTES:
+  
+  For reasons that remain unclear, this program has dificulty connecting to the telescope arms.
+  If this occurs, load CelestronControlSerialPassthrough, open Serial Monitor, leave the window open, and then power cycle the 
+  telescope arm. You should see a large smattering of random characters if it connects succesfully. Type 'Z' into the text field
+  at the top of the Serial Monitor and hit enter - this should query the telescope arm to return its current position in hexadecimal.
+  If you are connected properly, you should see the telescope return "0000,0000#" (or something very similar) in the Serial Monitor.
+  If successful, load CelestronControlMinimalist, and reopen Serial Monitor. If successful, you should begin seeing continuous output
+  as described below.
+  
+*************************************/
+
 
 /*************************************
 
@@ -44,7 +75,7 @@ byte tx = 7;
 
 int pos = 0;
 char response[20];
-//#define HIGH_PRECISION //Comment out if not
+#define HIGH_PRECISION //Comment out if not
 
 SoftwareSerial celestron(rx,tx);
 
