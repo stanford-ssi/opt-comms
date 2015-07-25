@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16467311">
+    <nd ref="169946511"/>
+    <nd ref="169946513"/>
+    <nd ref="169946515"/>
+    <nd ref="169946518"/>
+    <nd ref="169946520"/>
+    <nd ref="169946522"/>
+    <nd ref="169946524"/>
+    <nd ref="169946526"/>
+    <nd ref="169946528"/>
+    <nd ref="169946530"/>
+    <nd ref="169946532"/>
+    <nd ref="169946534"/>
+    <nd ref="169946536"/>
+    <nd ref="169946538"/>
+    <nd ref="169946540"/>
+    <nd ref="169946542"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35857931"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-4d27beb6-d2d0-4773-ad75-d4dd663187df"/>
+  </way>
+  <way id="16470865">
+    <nd ref="169999626"/>
+    <nd ref="169999630"/>
+    <nd ref="169999633"/>
+    <nd ref="169999636"/>
+    <nd ref="169999639"/>
+    <nd ref="169999642"/>
+    <nd ref="169999645"/>
+    <nd ref="169999648"/>
+    <nd ref="169999652"/>
+    <nd ref="169999654"/>
+    <nd ref="169999657"/>
+    <nd ref="169999660"/>
+    <nd ref="169999664"/>
+    <nd ref="169999667"/>
+    <nd ref="169999669"/>
+    <nd ref="169999671"/>
+    <nd ref="169999673"/>
+    <nd ref="169999675"/>
+    <nd ref="169999677"/>
+    <nd ref="169999679"/>
+    <nd ref="169999681"/>
+    <nd ref="169999683"/>
+    <nd ref="169999593"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whittlers Mtn Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Whittlers Mtn"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16470867">
+    <nd ref="169999692"/>
+    <nd ref="169999694"/>
+    <nd ref="169999696"/>
+    <nd ref="169999699"/>
+    <nd ref="169999700"/>
+    <nd ref="169999703"/>
+    <nd ref="169999706"/>
+    <nd ref="169999652"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whittlers Mtn Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Whittlers Mtn"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16473057">
+    <nd ref="169996898"/>
+    <nd ref="169914243"/>
+    <nd ref="170031723"/>
+    <nd ref="170031726"/>
+    <nd ref="170031729"/>
+    <nd ref="170031732"/>
+    <nd ref="170031737"/>
+    <nd ref="170031741"/>
+    <nd ref="170031743"/>
+    <nd ref="170031746"/>
+    <nd ref="170031748"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Poplar Cove"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Poplar"/>
+    <tag k="tiger:name_type" v="Cv"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28906"/>
+  </way>
+
+</osm>

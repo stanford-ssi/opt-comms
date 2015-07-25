@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16561803">
+    <nd ref="170927347"/>
+    <nd ref="170927349"/>
+    <nd ref="170927353"/>
+    <nd ref="170927357"/>
+    <nd ref="170927360"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35955781"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-16bf96f5-6ebb-468b-abda-e2f8318fdf16"/>
+  </way>
+  <way id="16563130">
+    <nd ref="170940586"/>
+    <nd ref="170940588"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35955526"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-16bf96f5-6ebb-468b-abda-e2f8318fdf16"/>
+  </way>
+  <way id="16564460">
+    <nd ref="170955978"/>
+    <nd ref="170955979"/>
+    <nd ref="170955980"/>
+    <nd ref="170955986"/>
+    <nd ref="170955987"/>
+    <nd ref="170955988"/>
+    <nd ref="170955990"/>
+    <nd ref="170955992"/>
+    <nd ref="170955994"/>
+    <nd ref="170955996"/>
+    <nd ref="170955998"/>
+    <nd ref="170956000"/>
+    <nd ref="170956002"/>
+    <nd ref="170956005"/>
+    <nd ref="170956007"/>
+    <nd ref="170956009"/>
+    <nd ref="170956011"/>
+    <nd ref="170956013"/>
+    <nd ref="170956015"/>
+    <nd ref="170956017"/>
+    <nd ref="170956019"/>
+    <nd ref="170956021"/>
+    <nd ref="170956024"/>
+    <nd ref="170956026"/>
+    <nd ref="170956028"/>
+    <nd ref="170956030"/>
+    <nd ref="170956034"/>
+    <nd ref="170956038"/>
+    <nd ref="170938977"/>
+    <nd ref="170956041"/>
+    <nd ref="170956043"/>
+    <nd ref="170956046"/>
+    <nd ref="170956048"/>
+    <nd ref="170956050"/>
+    <nd ref="170937393"/>
+    <nd ref="170956052"/>
+    <nd ref="170956054"/>
+    <nd ref="170956056"/>
+    <nd ref="170956059"/>
+    <nd ref="170956062"/>
+    <nd ref="170956065"/>
+    <nd ref="170956068"/>
+    <nd ref="170927360"/>
+    <nd ref="170956070"/>
+    <nd ref="170956072"/>
+    <nd ref="170956074"/>
+    <nd ref="170956076"/>
+    <nd ref="170956077"/>
+    <nd ref="170956079"/>
+    <nd ref="170940588"/>
+    <nd ref="170956081"/>
+    <nd ref="170956084"/>
+    <nd ref="170956090"/>
+    <nd ref="170956093"/>
+    <nd ref="170956096"/>
+    <nd ref="170956101"/>
+    <nd ref="170956103"/>
+    <nd ref="170956106"/>
+    <nd ref="170956108"/>
+    <nd ref="170956110"/>
+    <nd ref="170956112"/>
+    <nd ref="170956114"/>
+    <nd ref="170956117"/>
+    <nd ref="170956120"/>
+    <nd ref="170956123"/>
+    <nd ref="170956126"/>
+    <nd ref="170956128"/>
+    <nd ref="170956132"/>
+    <nd ref="170956135"/>
+    <nd ref="170956137"/>
+    <nd ref="170956139"/>
+    <nd ref="170956141"/>
+    <nd ref="170956143"/>
+    <nd ref="170956145"/>
+    <nd ref="170956147"/>
+    <nd ref="170956149"/>
+    <nd ref="170956151"/>
+    <nd ref="170956153"/>
+    <nd ref="170956154"/>
+    <nd ref="170956155"/>
+    <nd ref="170956157"/>
+    <nd ref="170956159"/>
+    <nd ref="170956161"/>
+    <nd ref="170956166"/>
+    <nd ref="170956169"/>
+    <nd ref="170956171"/>
+    <nd ref="170956173"/>
+    <nd ref="170956175"/>
+    <nd ref="170956176"/>
+    <nd ref="170956178"/>
+    <nd ref="170956180"/>
+    <nd ref="170956183"/>
+    <nd ref="170956186"/>
+    <nd ref="170956189"/>
+    <nd ref="170956192"/>
+    <nd ref="170956195"/>
+    <nd ref="170956197"/>
+    <nd ref="170956199"/>
+    <nd ref="170956201"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mission Mountain"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:name_base" v="Mission Mountain"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35968109:35955532:35955533"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-16bf96f5-6ebb-468b-abda-e2f8318fdf16"/>
+  </way>
+  <way id="16568788">
+    <nd ref="170982947"/>
+    <nd ref="171014815"/>
+    <nd ref="171014817"/>
+    <nd ref="171014820"/>
+    <nd ref="171005526"/>
+    <nd ref="171014823"/>
+    <nd ref="171014826"/>
+    <nd ref="171014828"/>
+    <nd ref="171014830"/>
+    <nd ref="171014831"/>
+    <nd ref="171014833"/>
+    <nd ref="171014835"/>
+    <nd ref="171014837"/>
+    <nd ref="171014839"/>
+    <nd ref="171014840"/>
+    <nd ref="171014842"/>
+    <nd ref="171014844"/>
+    <nd ref="171014847"/>
+    <nd ref="171014850"/>
+    <nd ref="170924738"/>
+    <nd ref="171014853"/>
+    <nd ref="171014856"/>
+    <nd ref="171014860"/>
+    <nd ref="171014864"/>
+    <nd ref="170942364"/>
+    <nd ref="171014866"/>
+    <nd ref="171014867"/>
+    <nd ref="171014870"/>
+    <nd ref="171014873"/>
+    <nd ref="171014876"/>
+    <nd ref="171014877"/>
+    <nd ref="170928164"/>
+    <nd ref="171014879"/>
+    <nd ref="171014881"/>
+    <nd ref="171014883"/>
+    <nd ref="170939652"/>
+    <nd ref="171014886"/>
+    <nd ref="171014889"/>
+    <nd ref="171014892"/>
+    <nd ref="171014895"/>
+    <nd ref="171014897"/>
+    <nd ref="171014901"/>
+    <nd ref="171014904"/>
+    <nd ref="171014907"/>
+    <nd ref="171014909"/>
+    <nd ref="171014910"/>
+    <nd ref="171014912"/>
+    <nd ref="171014914"/>
+    <nd ref="171014916"/>
+    <nd ref="171014920"/>
+    <nd ref="171014922"/>
+    <nd ref="171014925"/>
+    <nd ref="171014927"/>
+    <nd ref="171014929"/>
+    <nd ref="171014931"/>
+    <nd ref="171014932"/>
+    <nd ref="171014933"/>
+    <nd ref="171014935"/>
+    <nd ref="171014937"/>
+    <nd ref="171014940"/>
+    <nd ref="171014943"/>
+    <nd ref="171014945"/>
+    <nd ref="171014948"/>
+    <nd ref="171014951"/>
+    <nd ref="171014953"/>
+    <nd ref="171014955"/>
+    <nd ref="171014957"/>
+    <nd ref="171014961"/>
+    <nd ref="171014963"/>
+    <nd ref="171014965"/>
+    <nd ref="171014967"/>
+    <nd ref="171014969"/>
+    <nd ref="171014971"/>
+    <nd ref="171014974"/>
+    <nd ref="171014977"/>
+    <nd ref="171014980"/>
+    <nd ref="171014984"/>
+    <nd ref="171014989"/>
+    <nd ref="171014991"/>
+    <nd ref="171014994"/>
+    <nd ref="171014997"/>
+    <nd ref="171014999"/>
+    <nd ref="171015001"/>
+    <nd ref="171015004"/>
+    <nd ref="171015007"/>
+    <nd ref="171015010"/>
+    <nd ref="171015013"/>
+    <nd ref="171015015"/>
+    <nd ref="171015017"/>
+    <nd ref="171015019"/>
+    <nd ref="171015021"/>
+    <nd ref="171015022"/>
+    <nd ref="171015023"/>
+    <nd ref="171015024"/>
+    <nd ref="171015026"/>
+    <nd ref="170942369"/>
+    <nd ref="171015028"/>
+    <nd ref="171015030"/>
+    <nd ref="171015032"/>
+    <nd ref="171015034"/>
+    <nd ref="171015038"/>
+    <nd ref="171015041"/>
+    <nd ref="171015043"/>
+    <nd ref="171015045"/>
+    <nd ref="171015049"/>
+    <nd ref="171015053"/>
+    <nd ref="171015056"/>
+    <nd ref="171015058"/>
+    <nd ref="171015061"/>
+    <nd ref="171015064"/>
+    <nd ref="171015067"/>
+    <nd ref="171015069"/>
+    <nd ref="171015071"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stecoah Heights Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:name_base" v="Stecoah Heights"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

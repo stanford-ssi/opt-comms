@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:55:01Z"/>
+
+  <way id="12502073">
+    <nd ref="113840654"/>
+    <nd ref="113840657"/>
+    <nd ref="113840660"/>
+    <nd ref="113840662"/>
+    <nd ref="113840664"/>
+    <nd ref="113840667"/>
+    <nd ref="113840670"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="26187677"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ad367733-952a-4321-ad54-a39164d42da4"/>
+  </way>
+  <way id="12506359">
+    <nd ref="113894719"/>
+    <nd ref="113894721"/>
+    <nd ref="113894722"/>
+    <nd ref="113894724"/>
+    <nd ref="113894728"/>
+    <nd ref="113894731"/>
+    <nd ref="113894734"/>
+    <nd ref="113894737"/>
+    <nd ref="113894740"/>
+    <nd ref="113894743"/>
+    <nd ref="113894746"/>
+    <nd ref="113894748"/>
+    <nd ref="113894750"/>
+    <nd ref="113894753"/>
+    <nd ref="113894755"/>
+    <nd ref="113894757"/>
+    <nd ref="113894760"/>
+    <nd ref="113894762"/>
+    <nd ref="113894764"/>
+    <nd ref="113894766"/>
+    <nd ref="113894769"/>
+    <nd ref="113894772"/>
+    <nd ref="113894775"/>
+    <nd ref="113894778"/>
+    <nd ref="113894781"/>
+    <nd ref="113894784"/>
+    <nd ref="113894787"/>
+    <nd ref="113894795"/>
+    <nd ref="113894803"/>
+    <nd ref="113894805"/>
+    <nd ref="113894808"/>
+    <nd ref="113894811"/>
+    <nd ref="113894814"/>
+    <nd ref="113894816"/>
+    <nd ref="113894818"/>
+    <nd ref="113894820"/>
+    <nd ref="113894822"/>
+    <nd ref="113894824"/>
+    <nd ref="113894826"/>
+    <nd ref="113894828"/>
+    <nd ref="113894831"/>
+    <nd ref="113894834"/>
+    <nd ref="113894836"/>
+    <nd ref="113894839"/>
+    <nd ref="113803553"/>
+    <nd ref="113894842"/>
+    <nd ref="113894844"/>
+    <nd ref="113894846"/>
+    <nd ref="113894848"/>
+    <nd ref="113894850"/>
+    <nd ref="113803590"/>
+    <nd ref="113894852"/>
+    <nd ref="113894854"/>
+    <nd ref="113894856"/>
+    <nd ref="113894859"/>
+    <nd ref="113894861"/>
+    <nd ref="113894863"/>
+    <nd ref="113894865"/>
+    <nd ref="113894867"/>
+    <nd ref="113894869"/>
+    <nd ref="113830885"/>
+    <nd ref="113894871"/>
+    <nd ref="113894873"/>
+    <nd ref="113894874"/>
+    <nd ref="113894877"/>
+    <nd ref="113894880"/>
+    <nd ref="113894883"/>
+    <nd ref="113894886"/>
+    <nd ref="113894889"/>
+    <nd ref="113894892"/>
+    <nd ref="113894894"/>
+    <nd ref="113841781"/>
+    <nd ref="113894897"/>
+    <nd ref="113803641"/>
+    <nd ref="113832560"/>
+    <nd ref="113894900"/>
+    <nd ref="113858001"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Glassy Mountain Road"/>
+    <tag k="name_1" v="State Road S-39-207"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Glassy Mountain"/>
+    <tag k="tiger:name_base_1" v="State Road S-39-207"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12506371">
+    <nd ref="113891017"/>
+    <nd ref="113894916"/>
+    <nd ref="113894917"/>
+    <nd ref="113894918"/>
+    <nd ref="113894919"/>
+    <nd ref="113894920"/>
+    <nd ref="113854179"/>
+    <nd ref="113894922"/>
+    <nd ref="113894924"/>
+    <nd ref="113894925"/>
+    <nd ref="113894927"/>
+    <nd ref="113894931"/>
+    <nd ref="113894934"/>
+    <nd ref="113894936"/>
+    <nd ref="113894938"/>
+    <nd ref="113894940"/>
+    <nd ref="113862499"/>
+    <nd ref="113894942"/>
+    <nd ref="113894944"/>
+    <nd ref="113894947"/>
+    <nd ref="113894950"/>
+    <nd ref="113894952"/>
+    <nd ref="113894954"/>
+    <nd ref="113894955"/>
+    <nd ref="113894957"/>
+    <nd ref="113894959"/>
+    <nd ref="113894961"/>
+    <nd ref="113894963"/>
+    <nd ref="113894965"/>
+    <nd ref="113894968"/>
+    <nd ref="113838808"/>
+    <nd ref="113894971"/>
+    <nd ref="113894974"/>
+    <nd ref="113894977"/>
+    <nd ref="113894980"/>
+    <nd ref="113894982"/>
+    <nd ref="113840640"/>
+    <nd ref="113894985"/>
+    <nd ref="113894988"/>
+    <nd ref="113894991"/>
+    <nd ref="113894994"/>
+    <nd ref="113894997"/>
+    <nd ref="113895000"/>
+    <nd ref="113895003"/>
+    <nd ref="113895004"/>
+    <nd ref="113895005"/>
+    <nd ref="113895006"/>
+    <nd ref="113895007"/>
+    <nd ref="113840654"/>
+    <nd ref="113895009"/>
+    <nd ref="113895011"/>
+    <nd ref="113895013"/>
+    <nd ref="113895016"/>
+    <nd ref="113895017"/>
+    <nd ref="113895020"/>
+    <nd ref="113895023"/>
+    <nd ref="113895027"/>
+    <nd ref="113895029"/>
+    <nd ref="113895032"/>
+    <nd ref="113895035"/>
+    <nd ref="113895036"/>
+    <nd ref="113895039"/>
+    <nd ref="113895042"/>
+    <nd ref="113894719"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Glassy Mountain Road"/>
+    <tag k="name_1" v="State Road S-39-207"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Glassy Mountain"/>
+    <tag k="tiger:name_base_1" v="State Road S-39-207"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_left_1" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+    <tag k="tiger:zip_right_1" v="29671"/>
+  </way>
+  <way id="12506377">
+    <nd ref="113895049"/>
+    <nd ref="113895052"/>
+    <nd ref="113895053"/>
+    <nd ref="113895054"/>
+    <nd ref="113895056"/>
+    <nd ref="113895059"/>
+    <nd ref="113895062"/>
+    <nd ref="113895065"/>
+    <nd ref="113895067"/>
+    <nd ref="113895069"/>
+    <nd ref="113895071"/>
+    <nd ref="113895073"/>
+    <nd ref="113895076"/>
+    <nd ref="113895079"/>
+    <nd ref="113895049"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Glassy Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Glassy Mountain"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12510089">
+    <nd ref="113894760"/>
+    <nd ref="113945328"/>
+    <nd ref="113945330"/>
+    <nd ref="113945332"/>
+    <nd ref="113945335"/>
+    <nd ref="113945337"/>
+    <nd ref="113945338"/>
+    <nd ref="113945339"/>
+    <nd ref="113945341"/>
+    <nd ref="113945343"/>
+    <nd ref="113945344"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lookout Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Lookout"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+  </way>
+  <way id="12525316">
+    <nd ref="113894719"/>
+    <nd ref="114111514"/>
+    <nd ref="114111515"/>
+    <nd ref="114111517"/>
+    <nd ref="114111520"/>
+    <nd ref="114111524"/>
+    <nd ref="114111526"/>
+    <nd ref="114111528"/>
+    <nd ref="114111531"/>
+    <nd ref="114111534"/>
+    <nd ref="114111539"/>
+    <nd ref="114111542"/>
+    <nd ref="114111545"/>
+    <nd ref="114111547"/>
+    <nd ref="114111550"/>
+    <nd ref="114111554"/>
+    <nd ref="114111557"/>
+    <nd ref="114111560"/>
+    <nd ref="114111562"/>
+    <nd ref="113895052"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Glassy Mountain Church Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Glassy Mountain Church"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+  </way>
+
+</osm>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16622048">
+    <nd ref="171684295"/>
+    <nd ref="171684299"/>
+    <nd ref="171684304"/>
+    <nd ref="171684307"/>
+    <nd ref="171684310"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000424"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622055">
+    <nd ref="171684354"/>
+    <nd ref="171684355"/>
+    <nd ref="171684357"/>
+    <nd ref="171684359"/>
+    <nd ref="171684362"/>
+    <nd ref="171684364"/>
+    <nd ref="171684366"/>
+    <nd ref="171684368"/>
+    <nd ref="171684371"/>
+    <nd ref="171684374"/>
+    <nd ref="171684377"/>
+    <nd ref="171684380"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000426:36000427"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622061">
+    <nd ref="171684377"/>
+    <nd ref="171684416"/>
+    <nd ref="171684419"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000428"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624005">
+    <nd ref="171705729"/>
+    <nd ref="171705732"/>
+    <nd ref="171705735"/>
+    <nd ref="171705741"/>
+    <nd ref="171705745"/>
+    <nd ref="171705748"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35994395"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16628116">
+    <nd ref="171749145"/>
+    <nd ref="171749148"/>
+    <nd ref="171749151"/>
+    <nd ref="171705729"/>
+    <nd ref="171749154"/>
+    <nd ref="171749157"/>
+    <nd ref="171749160"/>
+    <nd ref="171749163"/>
+    <nd ref="171749166"/>
+    <nd ref="171749168"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cheerful Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Cheerful Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16634886">
+    <nd ref="171654256"/>
+    <nd ref="171826538"/>
+    <nd ref="171826540"/>
+    <nd ref="171826542"/>
+    <nd ref="171826544"/>
+    <nd ref="171684295"/>
+    <nd ref="171826547"/>
+    <nd ref="171826550"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Spectrum Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Spectrum"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28723"/>
+  </way>
+
+</osm>

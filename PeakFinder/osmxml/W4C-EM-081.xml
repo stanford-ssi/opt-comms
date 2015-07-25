@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="18932989">
+    <nd ref="195904926"/>
+    <nd ref="195918869"/>
+    <nd ref="195918871"/>
+    <nd ref="195918873"/>
+    <nd ref="195918874"/>
+    <nd ref="195918876"/>
+    <nd ref="195918878"/>
+    <nd ref="195918880"/>
+    <nd ref="195918882"/>
+    <nd ref="195918883"/>
+    <nd ref="195918884"/>
+    <nd ref="195918885"/>
+    <nd ref="195918886"/>
+    <nd ref="195918888"/>
+    <nd ref="195918890"/>
+    <nd ref="195918891"/>
+    <nd ref="195918892"/>
+    <nd ref="195918894"/>
+    <nd ref="195918895"/>
+    <nd ref="195918896"/>
+    <nd ref="195918898"/>
+    <nd ref="195918900"/>
+    <nd ref="195918902"/>
+    <nd ref="195918904"/>
+    <nd ref="195918906"/>
+    <nd ref="195918908"/>
+    <nd ref="195842077"/>
+    <nd ref="195918910"/>
+    <nd ref="195918912"/>
+    <nd ref="195918914"/>
+    <nd ref="195918916"/>
+    <nd ref="195918917"/>
+    <nd ref="195828995"/>
+    <nd ref="195918918"/>
+    <nd ref="195918919"/>
+    <nd ref="195918920"/>
+    <nd ref="195918922"/>
+    <nd ref="195844906"/>
+    <nd ref="195918925"/>
+    <nd ref="195918927"/>
+    <nd ref="195918928"/>
+    <nd ref="195918929"/>
+    <nd ref="195918931"/>
+    <nd ref="195918933"/>
+    <nd ref="195844875"/>
+    <nd ref="195844880"/>
+    <nd ref="195918934"/>
+    <nd ref="195918935"/>
+    <nd ref="195918937"/>
+    <nd ref="195866743"/>
+    <nd ref="195918939"/>
+    <nd ref="195918940"/>
+    <nd ref="195918941"/>
+    <nd ref="195918943"/>
+    <nd ref="195918945"/>
+    <nd ref="195918947"/>
+    <nd ref="195918948"/>
+    <nd ref="195918949"/>
+    <nd ref="195918951"/>
+    <nd ref="195918953"/>
+    <nd ref="195918955"/>
+    <nd ref="195918957"/>
+    <nd ref="195918959"/>
+    <nd ref="195918961"/>
+    <nd ref="195918962"/>
+    <nd ref="195918963"/>
+    <nd ref="195918966"/>
+    <nd ref="195918967"/>
+    <nd ref="195918969"/>
+    <nd ref="195829026"/>
+    <nd ref="195918972"/>
+    <nd ref="195918974"/>
+    <nd ref="195918976"/>
+    <nd ref="195918977"/>
+    <nd ref="195918981"/>
+    <nd ref="195918983"/>
+    <nd ref="195918984"/>
+    <nd ref="195918985"/>
+    <nd ref="195918987"/>
+    <nd ref="195846804"/>
+    <nd ref="195918989"/>
+    <nd ref="195918991"/>
+    <nd ref="195918992"/>
+    <nd ref="195883467"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Brocktown Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Brocktown"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

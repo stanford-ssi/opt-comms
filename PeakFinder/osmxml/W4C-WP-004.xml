@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16389039">
+    <nd ref="169071096"/>
+    <nd ref="169071098"/>
+    <nd ref="169071102"/>
+    <nd ref="169071104"/>
+    <nd ref="169071107"/>
+    <nd ref="169071108"/>
+    <nd ref="169071110"/>
+    <nd ref="169071117"/>
+    <nd ref="169071120"/>
+    <nd ref="169071123"/>
+    <nd ref="169071126"/>
+    <nd ref="169071128"/>
+    <nd ref="169071130"/>
+    <nd ref="169071134"/>
+    <nd ref="169071136"/>
+    <nd ref="169071138"/>
+    <nd ref="169071140"/>
+    <nd ref="169071142"/>
+    <nd ref="169071145"/>
+    <nd ref="169071147"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Alexander, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45783542:45783543"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b529d0d7-773e-4673-82b7-701f5db2f97a"/>
+  </way>
+  <way id="16389042">
+    <nd ref="169071167"/>
+    <nd ref="169071147"/>
+    <nd ref="169071169"/>
+    <nd ref="169071171"/>
+    <nd ref="169071173"/>
+    <nd ref="169071174"/>
+    <nd ref="169071176"/>
+    <nd ref="169071167"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Alexander, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45783544"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b529d0d7-773e-4673-82b7-701f5db2f97a"/>
+  </way>
+  <way id="16394342">
+    <nd ref="169159844"/>
+    <nd ref="169170873"/>
+    <nd ref="169170876"/>
+    <nd ref="169170878"/>
+    <nd ref="169170880"/>
+    <nd ref="169170882"/>
+    <nd ref="169170884"/>
+    <nd ref="169170886"/>
+    <nd ref="169170890"/>
+    <nd ref="169170892"/>
+    <nd ref="169170895"/>
+    <nd ref="169170898"/>
+    <nd ref="169170901"/>
+    <nd ref="169170903"/>
+    <nd ref="169170905"/>
+    <nd ref="169170907"/>
+    <nd ref="169170909"/>
+    <nd ref="169170910"/>
+    <nd ref="169170912"/>
+    <nd ref="169170914"/>
+    <nd ref="169081216"/>
+    <nd ref="169170247"/>
+    <nd ref="169170915"/>
+    <nd ref="169170917"/>
+    <nd ref="169170919"/>
+    <nd ref="169170920"/>
+    <nd ref="169170921"/>
+    <nd ref="169170923"/>
+    <nd ref="169170925"/>
+    <nd ref="169170927"/>
+    <nd ref="169170928"/>
+    <nd ref="169170929"/>
+    <nd ref="169170930"/>
+    <nd ref="169170931"/>
+    <nd ref="169170932"/>
+    <nd ref="169170933"/>
+    <nd ref="169170934"/>
+    <nd ref="169170935"/>
+    <nd ref="169170936"/>
+    <nd ref="169170937"/>
+    <nd ref="169170938"/>
+    <nd ref="169081101"/>
+    <nd ref="169170939"/>
+    <nd ref="169170940"/>
+    <nd ref="169170941"/>
+    <nd ref="169170942"/>
+    <nd ref="169170943"/>
+    <nd ref="169170945"/>
+    <nd ref="169170947"/>
+    <nd ref="169170949"/>
+    <nd ref="169170953"/>
+    <nd ref="169170956"/>
+    <nd ref="169170959"/>
+    <nd ref="169170962"/>
+    <nd ref="169067757"/>
+    <nd ref="169170964"/>
+    <nd ref="169170966"/>
+    <nd ref="169067689"/>
+    <nd ref="169170968"/>
+    <nd ref="169170969"/>
+    <nd ref="169170971"/>
+    <nd ref="169170973"/>
+    <nd ref="169170974"/>
+    <nd ref="169170976"/>
+    <nd ref="169170978"/>
+    <nd ref="169170980"/>
+    <nd ref="169170982"/>
+    <nd ref="169170984"/>
+    <nd ref="169170987"/>
+    <nd ref="169170989"/>
+    <nd ref="169170993"/>
+    <nd ref="169170996"/>
+    <nd ref="169170999"/>
+    <nd ref="169171000"/>
+    <nd ref="169171003"/>
+    <nd ref="169171004"/>
+    <nd ref="169071096"/>
+    <nd ref="169171006"/>
+    <nd ref="169171009"/>
+    <nd ref="169105295"/>
+    <nd ref="169171012"/>
+    <nd ref="169171015"/>
+    <nd ref="169171018"/>
+    <nd ref="169171021"/>
+    <nd ref="169171023"/>
+    <nd ref="169171026"/>
+    <nd ref="169171028"/>
+    <nd ref="169171030"/>
+    <nd ref="169171032"/>
+    <nd ref="169171035"/>
+    <nd ref="169171037"/>
+    <nd ref="169171040"/>
+    <nd ref="169098548"/>
+    <nd ref="169171043"/>
+    <nd ref="169171045"/>
+    <nd ref="169081785"/>
+    <nd ref="169171049"/>
+    <nd ref="169171052"/>
+    <nd ref="169171055"/>
+    <nd ref="169171058"/>
+    <nd ref="169171060"/>
+    <nd ref="169171065"/>
+    <nd ref="169171068"/>
+    <nd ref="169171071"/>
+    <nd ref="169171074"/>
+    <nd ref="169171077"/>
+    <nd ref="169171080"/>
+    <nd ref="169171081"/>
+    <nd ref="169171084"/>
+    <nd ref="169171087"/>
+    <nd ref="169171089"/>
+    <nd ref="169171092"/>
+    <nd ref="169171094"/>
+    <nd ref="169171096"/>
+    <nd ref="169171098"/>
+    <nd ref="169171100"/>
+    <nd ref="169171103"/>
+    <nd ref="169171106"/>
+    <nd ref="169171109"/>
+    <nd ref="169171112"/>
+    <nd ref="169171115"/>
+    <nd ref="169081728"/>
+    <nd ref="169171118"/>
+    <nd ref="169171120"/>
+    <nd ref="169171122"/>
+    <nd ref="169168703"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mount Olive Church Road"/>
+    <tag k="name_1" v="State Road 1334"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alexander, NC"/>
+    <tag k="tiger:name_base" v="Mount Olive Church"/>
+    <tag k="tiger:name_base_1" v="State Road 1334"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28681"/>
+    <tag k="tiger:zip_right" v="28681"/>
+  </way>
+
+</osm>

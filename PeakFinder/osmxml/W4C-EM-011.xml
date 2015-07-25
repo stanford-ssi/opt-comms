@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16400639">
+    <nd ref="169277187"/>
+    <nd ref="169277189"/>
+    <nd ref="2986601749"/>
+    <nd ref="2986601748"/>
+    <nd ref="169277193"/>
+    <nd ref="169277195"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16400801">
+    <nd ref="169278548"/>
+    <nd ref="169278550"/>
+    <nd ref="169278552"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36779441:36779442"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16400805">
+    <nd ref="169278550"/>
+    <nd ref="169278581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36779443"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16404965">
+    <nd ref="169315963"/>
+    <nd ref="169278548"/>
+    <nd ref="169315965"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugar Ski Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Sugar Ski"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+  </way>
+  <way id="16405047">
+    <nd ref="169306487"/>
+    <nd ref="169316696"/>
+    <nd ref="169316699"/>
+    <nd ref="169316701"/>
+    <nd ref="169316703"/>
+    <nd ref="169316706"/>
+    <nd ref="169316709"/>
+    <nd ref="2986601756"/>
+    <nd ref="2986601755"/>
+    <nd ref="2986601754"/>
+    <nd ref="2986601753"/>
+    <nd ref="2986601752"/>
+    <nd ref="169316712"/>
+    <nd ref="169277195"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Paddock Lane"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Paddock"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16405239">
+    <nd ref="169318549"/>
+    <nd ref="169318552"/>
+    <nd ref="2986580540"/>
+    <nd ref="169318555"/>
+    <nd ref="169318558"/>
+    <nd ref="169318561"/>
+    <nd ref="169318562"/>
+    <nd ref="169318565"/>
+    <nd ref="169318568"/>
+    <nd ref="2986580542"/>
+    <nd ref="169318571"/>
+    <nd ref="2986580543"/>
+    <nd ref="169318573"/>
+    <nd ref="2986580544"/>
+    <nd ref="169318575"/>
+    <nd ref="2986580545"/>
+    <nd ref="2986580546"/>
+    <nd ref="169277187"/>
+    <nd ref="169318577"/>
+    <nd ref="169318579"/>
+    <nd ref="169318581"/>
+    <nd ref="169318582"/>
+    <nd ref="169318584"/>
+    <nd ref="169318586"/>
+    <nd ref="169318589"/>
+    <nd ref="169318591"/>
+    <nd ref="169318593"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grouse Moor Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Grouse Moor"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_right" v="28604"/>
+  </way>
+  <way id="16406331">
+    <nd ref="169277195"/>
+    <nd ref="2986601751"/>
+    <nd ref="169331106"/>
+    <nd ref="2986601750"/>
+    <nd ref="2986601791"/>
+    <nd ref="169331109"/>
+    <nd ref="169331113"/>
+    <nd ref="2986601790"/>
+    <nd ref="2986601789"/>
+    <nd ref="2986601788"/>
+    <nd ref="2986601787"/>
+    <nd ref="169331116"/>
+    <nd ref="169331119"/>
+    <nd ref="169331122"/>
+    <nd ref="169331123"/>
+    <nd ref="169331125"/>
+    <nd ref="169331127"/>
+    <nd ref="169331129"/>
+    <nd ref="169331132"/>
+    <nd ref="169331135"/>
+    <nd ref="2986601786"/>
+    <nd ref="2986601785"/>
+    <nd ref="2986601784"/>
+    <nd ref="2986601783"/>
+    <nd ref="2986601782"/>
+    <nd ref="169331138"/>
+    <nd ref="169331141"/>
+    <nd ref="2986601781"/>
+    <nd ref="2986601780"/>
+    <nd ref="2986601779"/>
+    <nd ref="169331143"/>
+    <nd ref="2986601778"/>
+    <nd ref="169331145"/>
+    <nd ref="169331148"/>
+    <nd ref="2986601777"/>
+    <nd ref="169331151"/>
+    <nd ref="169331152"/>
+    <nd ref="169331155"/>
+    <nd ref="2986601776"/>
+    <nd ref="169331158"/>
+    <nd ref="2986601775"/>
+    <nd ref="2986601774"/>
+    <nd ref="2986601773"/>
+    <nd ref="169331161"/>
+    <nd ref="2986601772"/>
+    <nd ref="2986601771"/>
+    <nd ref="169331164"/>
+    <nd ref="2986601770"/>
+    <nd ref="2986601769"/>
+    <nd ref="2986601768"/>
+    <nd ref="2986601767"/>
+    <nd ref="169331167"/>
+    <nd ref="2986601766"/>
+    <nd ref="169331173"/>
+    <nd ref="169331177"/>
+    <nd ref="2986601765"/>
+    <nd ref="2986601764"/>
+    <nd ref="2986601763"/>
+    <nd ref="169331179"/>
+    <nd ref="2986601762"/>
+    <nd ref="169331180"/>
+    <nd ref="2986601761"/>
+    <nd ref="169331183"/>
+    <nd ref="2986601760"/>
+    <nd ref="169331185"/>
+    <nd ref="169331187"/>
+    <nd ref="169306501"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cloud Spring Drive"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Cloud Spring"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16406466">
+    <nd ref="169331135"/>
+    <nd ref="169332589"/>
+    <nd ref="169332592"/>
+    <nd ref="169332594"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Moss Rock Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Moss Rock"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16406546">
+    <nd ref="169277187"/>
+    <nd ref="2986580547"/>
+    <nd ref="169333539"/>
+    <nd ref="2986580548"/>
+    <nd ref="2986580549"/>
+    <nd ref="169333570"/>
+    <nd ref="2986580550"/>
+    <nd ref="2986580551"/>
+    <nd ref="2986580552"/>
+    <nd ref="169333572"/>
+    <nd ref="2986580553"/>
+    <nd ref="2986580554"/>
+    <nd ref="2986580555"/>
+    <nd ref="2986580556"/>
+    <nd ref="169333578"/>
+    <nd ref="2985996675"/>
+    <nd ref="2986580557"/>
+    <nd ref="2985996674"/>
+    <nd ref="2986580558"/>
+    <nd ref="169333581"/>
+    <nd ref="2986580559"/>
+    <nd ref="169280234"/>
+    <nd ref="2985996673"/>
+    <nd ref="2986580560"/>
+    <nd ref="2985996672"/>
+    <nd ref="169333585"/>
+    <nd ref="2985996671"/>
+    <nd ref="2985996670"/>
+    <nd ref="2986580561"/>
+    <nd ref="2985996669"/>
+    <nd ref="169333588"/>
+    <nd ref="169333593"/>
+    <nd ref="2985996668"/>
+    <nd ref="169333598"/>
+    <nd ref="169333599"/>
+    <nd ref="2985996667"/>
+    <nd ref="2985996666"/>
+    <nd ref="169333602"/>
+    <nd ref="169333606"/>
+    <nd ref="169322414"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Sugar Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Little Sugar"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_right" v="28604"/>
+  </way>
+
+</osm>

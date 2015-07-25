@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:49:02Z"/>
+
+  <way id="16404704">
+    <nd ref="169313352"/>
+    <nd ref="169313354"/>
+    <nd ref="169313355"/>
+    <nd ref="169313357"/>
+    <nd ref="169313361"/>
+    <nd ref="169313364"/>
+    <nd ref="169313367"/>
+    <nd ref="169313370"/>
+    <nd ref="169313372"/>
+    <nd ref="169313374"/>
+    <nd ref="169313377"/>
+    <nd ref="169313380"/>
+    <nd ref="169313382"/>
+    <nd ref="169313384"/>
+    <nd ref="169313386"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Moonshiners Run Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Moonshiners Run"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16406827">
+    <nd ref="169337235"/>
+    <nd ref="169337238"/>
+    <nd ref="169337242"/>
+    <nd ref="169337246"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Meadow Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Meadow"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28657"/>
+  </way>
+  <way id="16407879">
+    <nd ref="169332041"/>
+    <nd ref="169348009"/>
+    <nd ref="169348011"/>
+    <nd ref="169348014"/>
+    <nd ref="169348017"/>
+    <nd ref="169348018"/>
+    <nd ref="169348020"/>
+    <nd ref="169337235"/>
+    <nd ref="169313352"/>
+    <nd ref="169348023"/>
+    <nd ref="169348025"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Overlook Drive"/>
+    <tag k="name_1" v="Moonshiners Run Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Overlook"/>
+    <tag k="tiger:name_base_1" v="Moonshiners Run"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

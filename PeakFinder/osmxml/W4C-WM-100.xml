@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16625385">
+    <nd ref="171719606"/>
+    <nd ref="171719608"/>
+    <nd ref="171719609"/>
+    <nd ref="171719611"/>
+    <nd ref="171719613"/>
+    <nd ref="171719615"/>
+    <nd ref="171719617"/>
+    <nd ref="171719618"/>
+    <nd ref="171719620"/>
+    <nd ref="171719622"/>
+    <nd ref="171719624"/>
+    <nd ref="171719626"/>
+    <nd ref="171719628"/>
+    <nd ref="171719630"/>
+    <nd ref="171719632"/>
+    <nd ref="171719634"/>
+    <nd ref="171719636"/>
+    <nd ref="171719638"/>
+    <nd ref="171719640"/>
+    <nd ref="171719643"/>
+    <nd ref="171719646"/>
+    <nd ref="171719649"/>
+    <nd ref="171719652"/>
+    <nd ref="171719656"/>
+    <nd ref="171719606"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35979769"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16630934">
+    <nd ref="171784519"/>
+    <nd ref="171784523"/>
+    <nd ref="171784526"/>
+    <nd ref="171784527"/>
+    <nd ref="171784529"/>
+    <nd ref="171784530"/>
+    <nd ref="171784533"/>
+    <nd ref="171784537"/>
+    <nd ref="171784539"/>
+    <nd ref="171784542"/>
+    <nd ref="171784544"/>
+    <nd ref="171784547"/>
+    <nd ref="171784552"/>
+    <nd ref="171784554"/>
+    <nd ref="171784556"/>
+    <nd ref="171784560"/>
+    <nd ref="171784563"/>
+    <nd ref="171784565"/>
+    <nd ref="171784569"/>
+    <nd ref="171784572"/>
+    <nd ref="171784576"/>
+    <nd ref="171784582"/>
+    <nd ref="171784584"/>
+    <nd ref="171784587"/>
+    <nd ref="171784591"/>
+    <nd ref="171784595"/>
+    <nd ref="171784598"/>
+    <nd ref="171784602"/>
+    <nd ref="171784605"/>
+    <nd ref="171784608"/>
+    <nd ref="171784612"/>
+    <nd ref="171784615"/>
+    <nd ref="171784619"/>
+    <nd ref="171784621"/>
+    <nd ref="171784624"/>
+    <nd ref="171784628"/>
+    <nd ref="171784631"/>
+    <nd ref="171784634"/>
+    <nd ref="171784639"/>
+    <nd ref="171784642"/>
+    <nd ref="171784646"/>
+    <nd ref="171784649"/>
+    <nd ref="171784651"/>
+    <nd ref="171784653"/>
+    <nd ref="171784656"/>
+    <nd ref="171784658"/>
+    <nd ref="171784661"/>
+    <nd ref="171784663"/>
+    <nd ref="171784665"/>
+    <nd ref="171784669"/>
+    <nd ref="171784672"/>
+    <nd ref="171784675"/>
+    <nd ref="171784679"/>
+    <nd ref="171784681"/>
+    <nd ref="171784683"/>
+    <nd ref="171784685"/>
+    <nd ref="171784691"/>
+    <nd ref="171784693"/>
+    <nd ref="171784694"/>
+    <nd ref="171784697"/>
+    <nd ref="171784699"/>
+    <nd ref="171784701"/>
+    <nd ref="171784704"/>
+    <nd ref="171784706"/>
+    <nd ref="171784708"/>
+    <nd ref="171784712"/>
+    <nd ref="171784715"/>
+    <nd ref="171784720"/>
+    <nd ref="171784722"/>
+    <nd ref="171784726"/>
+    <nd ref="171784727"/>
+    <nd ref="171784730"/>
+    <nd ref="171784735"/>
+    <nd ref="171784738"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Round Mt Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Round Mt"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

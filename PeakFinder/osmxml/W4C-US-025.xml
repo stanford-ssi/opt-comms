@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12510389">
+    <nd ref="113949463"/>
+    <nd ref="113949466"/>
+    <nd ref="113949469"/>
+    <nd ref="113949473"/>
+    <nd ref="113949476"/>
+    <nd ref="113949479"/>
+    <nd ref="113949483"/>
+    <nd ref="113949484"/>
+    <nd ref="113949486"/>
+    <nd ref="113949488"/>
+    <nd ref="113949492"/>
+    <nd ref="113949495"/>
+    <nd ref="113949498"/>
+    <nd ref="113949500"/>
+    <nd ref="113949503"/>
+    <nd ref="113949505"/>
+    <nd ref="113949507"/>
+    <nd ref="113949509"/>
+    <nd ref="113949512"/>
+    <nd ref="113949514"/>
+    <nd ref="113949516"/>
+    <nd ref="113949519"/>
+    <nd ref="113949522"/>
+    <nd ref="113949526"/>
+    <nd ref="113949529"/>
+    <nd ref="113949531"/>
+    <nd ref="113949534"/>
+    <nd ref="113949535"/>
+    <nd ref="113949536"/>
+    <nd ref="113949539"/>
+    <nd ref="113949541"/>
+    <nd ref="113949543"/>
+    <nd ref="113949545"/>
+    <nd ref="113949548"/>
+    <nd ref="113949551"/>
+    <nd ref="113949553"/>
+    <nd ref="113949555"/>
+    <nd ref="113949556"/>
+    <nd ref="113949559"/>
+    <nd ref="113949562"/>
+    <nd ref="113949564"/>
+    <nd ref="113949566"/>
+    <nd ref="113949569"/>
+    <nd ref="113949575"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Upper Springs Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Upper Springs"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12516013">
+    <nd ref="113949463"/>
+    <nd ref="114006805"/>
+    <nd ref="114006808"/>
+    <nd ref="114006810"/>
+    <nd ref="114006813"/>
+    <nd ref="114006815"/>
+    <nd ref="114006817"/>
+    <nd ref="114006819"/>
+    <nd ref="114006820"/>
+    <nd ref="114006821"/>
+    <nd ref="114006822"/>
+    <nd ref="114006824"/>
+    <nd ref="114006826"/>
+    <nd ref="114006828"/>
+    <nd ref="114006831"/>
+    <nd ref="114006835"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Limestone Springs Court"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Limestone Springs"/>
+    <tag k="tiger:name_type" v="Ct"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

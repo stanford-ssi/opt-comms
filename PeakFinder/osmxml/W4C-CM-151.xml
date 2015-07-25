@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16437042">
+    <nd ref="169642924"/>
+    <nd ref="169642925"/>
+    <nd ref="169642927"/>
+    <nd ref="169642929"/>
+    <nd ref="169642931"/>
+    <nd ref="169642932"/>
+    <nd ref="169642936"/>
+    <nd ref="169642938"/>
+    <nd ref="169642940"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rockledge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Rockledge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28748"/>
+  </way>
+  <way id="16451403">
+    <nd ref="169602544"/>
+    <nd ref="169779566"/>
+    <nd ref="169779570"/>
+    <nd ref="169779571"/>
+    <nd ref="169574531"/>
+    <nd ref="169779573"/>
+    <nd ref="169779575"/>
+    <nd ref="169779577"/>
+    <nd ref="169779579"/>
+    <nd ref="169779581"/>
+    <nd ref="169779582"/>
+    <nd ref="169574627"/>
+    <nd ref="169642924"/>
+    <nd ref="169779584"/>
+    <nd ref="169779586"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Davis Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Davis Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

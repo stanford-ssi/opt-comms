@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16647324">
+    <nd ref="171970593"/>
+    <nd ref="171970595"/>
+    <nd ref="171970597"/>
+    <nd ref="171970600"/>
+    <nd ref="171970603"/>
+    <nd ref="171970605"/>
+    <nd ref="171970608"/>
+    <nd ref="171970611"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="233030657"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+  </way>
+  <way id="16662352">
+    <nd ref="172151503"/>
+    <nd ref="172151504"/>
+    <nd ref="172151505"/>
+    <nd ref="172151506"/>
+    <nd ref="172151507"/>
+    <nd ref="172151508"/>
+    <nd ref="172151510"/>
+    <nd ref="172151513"/>
+    <nd ref="172151516"/>
+    <nd ref="172151519"/>
+    <nd ref="172151522"/>
+    <nd ref="172151525"/>
+    <nd ref="172151528"/>
+    <nd ref="172151532"/>
+    <nd ref="172151535"/>
+    <nd ref="172151538"/>
+    <nd ref="172151541"/>
+    <nd ref="172151542"/>
+    <nd ref="172151545"/>
+    <nd ref="172151547"/>
+    <nd ref="172151549"/>
+    <nd ref="172151551"/>
+    <nd ref="172151555"/>
+    <nd ref="172151557"/>
+    <nd ref="172151559"/>
+    <nd ref="172151561"/>
+    <nd ref="172151564"/>
+    <nd ref="172151567"/>
+    <nd ref="172151569"/>
+    <nd ref="172151571"/>
+    <nd ref="172151574"/>
+    <nd ref="172151576"/>
+    <nd ref="172151579"/>
+    <nd ref="172151582"/>
+    <nd ref="172151585"/>
+    <nd ref="172151592"/>
+    <nd ref="172151597"/>
+    <nd ref="172151600"/>
+    <nd ref="172151603"/>
+    <nd ref="172151606"/>
+    <nd ref="172151609"/>
+    <nd ref="172151612"/>
+    <nd ref="172151614"/>
+    <nd ref="172151616"/>
+    <nd ref="172151618"/>
+    <nd ref="172151619"/>
+    <nd ref="172151621"/>
+    <nd ref="172151623"/>
+    <nd ref="172151625"/>
+    <nd ref="172151627"/>
+    <nd ref="172151629"/>
+    <nd ref="172151631"/>
+    <nd ref="172151632"/>
+    <nd ref="172151634"/>
+    <nd ref="172151636"/>
+    <nd ref="172151638"/>
+    <nd ref="172151640"/>
+    <nd ref="172151643"/>
+    <nd ref="172151645"/>
+    <nd ref="172151647"/>
+    <nd ref="172151649"/>
+    <nd ref="172151651"/>
+    <nd ref="172151654"/>
+    <nd ref="172151657"/>
+    <nd ref="172151659"/>
+    <nd ref="172151661"/>
+    <nd ref="172151663"/>
+    <nd ref="172151666"/>
+    <nd ref="172151669"/>
+    <nd ref="172151672"/>
+    <nd ref="172151675"/>
+    <nd ref="172151678"/>
+    <nd ref="172151681"/>
+    <nd ref="172151684"/>
+    <nd ref="172151687"/>
+    <nd ref="172151691"/>
+    <nd ref="172151694"/>
+    <nd ref="172151697"/>
+    <nd ref="172151700"/>
+    <nd ref="172151703"/>
+    <nd ref="172151706"/>
+    <nd ref="172151708"/>
+    <nd ref="172151710"/>
+    <nd ref="172151712"/>
+    <nd ref="171979337"/>
+    <nd ref="172075192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Quail Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Quail Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28752"/>
+    <tag k="tiger:zip_right" v="28752"/>
+  </way>
+  <way id="16666040">
+    <nd ref="172171777"/>
+    <nd ref="172228963"/>
+    <nd ref="172228966"/>
+    <nd ref="172228968"/>
+    <nd ref="172228970"/>
+    <nd ref="172228973"/>
+    <nd ref="172228977"/>
+    <nd ref="172228979"/>
+    <nd ref="172228980"/>
+    <nd ref="172228983"/>
+    <nd ref="172228985"/>
+    <nd ref="172228987"/>
+    <nd ref="172228990"/>
+    <nd ref="172228993"/>
+    <nd ref="172228996"/>
+    <nd ref="172228999"/>
+    <nd ref="172229002"/>
+    <nd ref="172229004"/>
+    <nd ref="171975044"/>
+    <nd ref="172229006"/>
+    <nd ref="172229008"/>
+    <nd ref="172229010"/>
+    <nd ref="172229012"/>
+    <nd ref="172229014"/>
+    <nd ref="172229016"/>
+    <nd ref="172229018"/>
+    <nd ref="172229019"/>
+    <nd ref="172229020"/>
+    <nd ref="172229022"/>
+    <nd ref="172229025"/>
+    <nd ref="172229028"/>
+    <nd ref="172229031"/>
+    <nd ref="172229034"/>
+    <nd ref="172229037"/>
+    <nd ref="172229039"/>
+    <nd ref="172229041"/>
+    <nd ref="172229043"/>
+    <nd ref="172229045"/>
+    <nd ref="172229047"/>
+    <nd ref="172229049"/>
+    <nd ref="172229052"/>
+    <nd ref="171970593"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Acres"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Little Acres"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35906458:35906432:35906459"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+    <tag k="tiger:zip_left" v="28752"/>
+    <tag k="tiger:zip_right" v="28752"/>
+  </way>
+
+</osm>

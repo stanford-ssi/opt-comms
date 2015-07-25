@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16420395">
+    <nd ref="169493584"/>
+    <nd ref="169493586"/>
+    <nd ref="169493590"/>
+    <nd ref="169493592"/>
+    <nd ref="169493594"/>
+    <nd ref="169493596"/>
+    <nd ref="169493598"/>
+    <nd ref="169493600"/>
+    <nd ref="169493601"/>
+    <nd ref="169493603"/>
+    <nd ref="169493605"/>
+    <nd ref="169493608"/>
+    <nd ref="169493611"/>
+    <nd ref="169493614"/>
+    <nd ref="169493618"/>
+    <nd ref="169493621"/>
+    <nd ref="169493624"/>
+    <nd ref="169493627"/>
+    <nd ref="169493630"/>
+    <nd ref="169493632"/>
+    <nd ref="169493636"/>
+    <nd ref="169493638"/>
+    <nd ref="169493640"/>
+    <nd ref="169493642"/>
+    <nd ref="169493645"/>
+    <nd ref="169493648"/>
+    <nd ref="169493650"/>
+    <nd ref="169493652"/>
+    <nd ref="169493657"/>
+    <nd ref="169493659"/>
+    <nd ref="169493661"/>
+    <nd ref="169493663"/>
+    <nd ref="169493665"/>
+    <nd ref="169493667"/>
+    <nd ref="169493669"/>
+    <nd ref="169493671"/>
+    <nd ref="169493673"/>
+    <nd ref="169493675"/>
+    <nd ref="169493678"/>
+    <nd ref="169493681"/>
+    <nd ref="169493684"/>
+    <nd ref="169493686"/>
+    <nd ref="169493688"/>
+    <nd ref="169493690"/>
+    <nd ref="169493693"/>
+    <nd ref="169493695"/>
+    <nd ref="169493698"/>
+    <nd ref="169493700"/>
+    <nd ref="169493702"/>
+    <nd ref="169493706"/>
+    <nd ref="169493707"/>
+    <nd ref="169493708"/>
+    <nd ref="169493709"/>
+    <nd ref="169493711"/>
+    <nd ref="169493714"/>
+    <nd ref="169493717"/>
+    <nd ref="169493720"/>
+    <nd ref="171407816"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36915482:36915483:36853211:36853212:36853228"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16437123">
+    <nd ref="169493717"/>
+    <nd ref="169643698"/>
+    <nd ref="169643702"/>
+    <nd ref="169636706"/>
+    <nd ref="169643704"/>
+    <nd ref="169643707"/>
+    <nd ref="169643716"/>
+    <nd ref="169643718"/>
+    <nd ref="169643719"/>
+    <nd ref="169643721"/>
+    <nd ref="169643727"/>
+    <nd ref="169643734"/>
+    <nd ref="169643738"/>
+    <nd ref="169643743"/>
+    <nd ref="169643750"/>
+    <nd ref="169643755"/>
+    <nd ref="169643757"/>
+    <nd ref="169643762"/>
+    <nd ref="169643766"/>
+    <nd ref="169643768"/>
+    <nd ref="169643770"/>
+    <nd ref="169643772"/>
+    <nd ref="169477978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laughter Mountain Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Laughter Mountain"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16599824">
+    <nd ref="171407811"/>
+    <nd ref="171407813"/>
+    <nd ref="171407816"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152250496"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16608218">
+    <nd ref="171407811"/>
+    <nd ref="171507728"/>
+    <nd ref="171507730"/>
+    <nd ref="171507732"/>
+    <nd ref="171507734"/>
+    <nd ref="171507735"/>
+    <nd ref="171507737"/>
+    <nd ref="171507738"/>
+    <nd ref="171507740"/>
+    <nd ref="171507742"/>
+    <nd ref="171507744"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Pigsah Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Little Pigsah"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

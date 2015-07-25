@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="16663360">
+    <nd ref="172170007"/>
+    <nd ref="172170008"/>
+    <nd ref="172170009"/>
+    <nd ref="172170010"/>
+    <nd ref="172170012"/>
+    <nd ref="172170014"/>
+    <nd ref="172170016"/>
+    <nd ref="172170019"/>
+    <nd ref="172170022"/>
+    <nd ref="172170024"/>
+    <nd ref="172170026"/>
+    <nd ref="172170028"/>
+    <nd ref="172170030"/>
+    <nd ref="172170032"/>
+    <nd ref="172170034"/>
+    <nd ref="172170036"/>
+    <nd ref="172170038"/>
+    <nd ref="172170040"/>
+    <nd ref="172170042"/>
+    <nd ref="172170044"/>
+    <nd ref="172170047"/>
+    <nd ref="172170050"/>
+    <nd ref="172170053"/>
+    <nd ref="172170055"/>
+    <nd ref="172170057"/>
+    <nd ref="172170059"/>
+    <nd ref="172170061"/>
+    <nd ref="172170064"/>
+    <nd ref="172170066"/>
+    <nd ref="172170069"/>
+    <nd ref="172170071"/>
+    <nd ref="172170074"/>
+    <nd ref="172170076"/>
+    <nd ref="172170077"/>
+    <nd ref="172170078"/>
+    <nd ref="172170080"/>
+    <nd ref="172170083"/>
+    <nd ref="172170085"/>
+    <nd ref="172170087"/>
+    <nd ref="172170089"/>
+    <nd ref="172170092"/>
+    <nd ref="172170094"/>
+    <nd ref="172170097"/>
+    <nd ref="172170099"/>
+    <nd ref="172170101"/>
+    <nd ref="172170103"/>
+    <nd ref="172170105"/>
+    <nd ref="172170108"/>
+    <nd ref="172170110"/>
+    <nd ref="172170113"/>
+    <nd ref="172170118"/>
+    <nd ref="172170121"/>
+    <nd ref="172170123"/>
+    <nd ref="172170126"/>
+    <nd ref="172170128"/>
+    <nd ref="172170131"/>
+    <nd ref="172170134"/>
+    <nd ref="172170137"/>
+    <nd ref="172170140"/>
+    <nd ref="172170143"/>
+    <nd ref="172170146"/>
+    <nd ref="172170149"/>
+    <nd ref="172170152"/>
+    <nd ref="172170155"/>
+    <nd ref="172170158"/>
+    <nd ref="172170161"/>
+    <nd ref="172170163"/>
+    <nd ref="172170165"/>
+    <nd ref="172170167"/>
+    <nd ref="172170169"/>
+    <nd ref="172170171"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sunset Mountain"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Sunset Mountain"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37299373:37301391"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+
+</osm>

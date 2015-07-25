@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16593668">
+    <nd ref="171300260"/>
+    <nd ref="171335673"/>
+    <nd ref="171335676"/>
+    <nd ref="171335679"/>
+    <nd ref="171335681"/>
+    <nd ref="171335682"/>
+    <nd ref="171335684"/>
+    <nd ref="171287156"/>
+    <nd ref="171335686"/>
+    <nd ref="171335688"/>
+    <nd ref="171335691"/>
+    <nd ref="171335694"/>
+    <nd ref="171335697"/>
+    <nd ref="171285114"/>
+    <nd ref="171335699"/>
+    <nd ref="171335702"/>
+    <nd ref="171335704"/>
+    <nd ref="171335706"/>
+    <nd ref="171335709"/>
+    <nd ref="171261424"/>
+    <nd ref="171335712"/>
+    <nd ref="171335715"/>
+    <nd ref="171335718"/>
+    <nd ref="171335720"/>
+    <nd ref="171335722"/>
+    <nd ref="171335724"/>
+    <nd ref="171335726"/>
+    <nd ref="171335728"/>
+    <nd ref="171335730"/>
+    <nd ref="171335732"/>
+    <nd ref="171335734"/>
+    <nd ref="171335737"/>
+    <nd ref="171335742"/>
+    <nd ref="171335744"/>
+    <nd ref="171335747"/>
+    <nd ref="171335750"/>
+    <nd ref="171335753"/>
+    <nd ref="171335756"/>
+    <nd ref="171335759"/>
+    <nd ref="171335762"/>
+    <nd ref="171335769"/>
+    <nd ref="171335772"/>
+    <nd ref="171335775"/>
+    <nd ref="171286899"/>
+    <nd ref="171335777"/>
+    <nd ref="171335779"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Long Branch Road"/>
+    <tag k="name_1" v="State Road 1622"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Long Branch"/>
+    <tag k="tiger:name_base_1" v="State Road 1622"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28716"/>
+    <tag k="tiger:zip_right" v="28716"/>
+  </way>
+
+</osm>

@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16648792">
+    <nd ref="171983133"/>
+    <nd ref="171983135"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35883575"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+  </way>
+  <way id="16653954">
+    <nd ref="172180985"/>
+    <nd ref="172029244"/>
+    <nd ref="172029246"/>
+    <nd ref="172029248"/>
+    <nd ref="172029250"/>
+    <nd ref="172029253"/>
+    <nd ref="172029256"/>
+    <nd ref="172029261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apple Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Apple"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16653957">
+    <nd ref="172180964"/>
+    <nd ref="172029279"/>
+    <nd ref="172029282"/>
+    <nd ref="172029284"/>
+    <nd ref="172029286"/>
+    <nd ref="172029288"/>
+    <nd ref="172029290"/>
+    <nd ref="172029292"/>
+    <nd ref="172029294"/>
+    <nd ref="172029296"/>
+    <nd ref="172029299"/>
+    <nd ref="172029300"/>
+    <nd ref="172029301"/>
+    <nd ref="172029303"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apple Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Apple"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16663326">
+    <nd ref="171988140"/>
+    <nd ref="172169113"/>
+    <nd ref="172169116"/>
+    <nd ref="172169119"/>
+    <nd ref="172169122"/>
+    <nd ref="172169130"/>
+    <nd ref="172169133"/>
+    <nd ref="172169136"/>
+    <nd ref="172169138"/>
+    <nd ref="172169140"/>
+    <nd ref="172169142"/>
+    <nd ref="172169144"/>
+    <nd ref="172169146"/>
+    <nd ref="172169148"/>
+    <nd ref="172169150"/>
+    <nd ref="172169152"/>
+    <nd ref="172169154"/>
+    <nd ref="172169157"/>
+    <nd ref="172169160"/>
+    <nd ref="172169163"/>
+    <nd ref="172169166"/>
+    <nd ref="172169169"/>
+    <nd ref="172169171"/>
+    <nd ref="172169172"/>
+    <nd ref="172169173"/>
+    <nd ref="172169175"/>
+    <nd ref="172169177"/>
+    <nd ref="172169179"/>
+    <nd ref="172169181"/>
+    <nd ref="172169183"/>
+    <nd ref="172169184"/>
+    <nd ref="172169185"/>
+    <nd ref="172169187"/>
+    <nd ref="172169188"/>
+    <nd ref="172169190"/>
+    <nd ref="172169192"/>
+    <nd ref="172169195"/>
+    <nd ref="172169198"/>
+    <nd ref="172169200"/>
+    <nd ref="172169203"/>
+    <nd ref="172169206"/>
+    <nd ref="172169210"/>
+    <nd ref="172169212"/>
+    <nd ref="172169214"/>
+    <nd ref="172169216"/>
+    <nd ref="172169219"/>
+    <nd ref="172169221"/>
+    <nd ref="172169224"/>
+    <nd ref="172169227"/>
+    <nd ref="172169230"/>
+    <nd ref="172169234"/>
+    <nd ref="172169237"/>
+    <nd ref="172169240"/>
+    <nd ref="172169243"/>
+    <nd ref="172169246"/>
+    <nd ref="172169249"/>
+    <nd ref="172169252"/>
+    <nd ref="172169255"/>
+    <nd ref="172169258"/>
+    <nd ref="172169265"/>
+    <nd ref="172169267"/>
+    <nd ref="172169269"/>
+    <nd ref="172169273"/>
+    <nd ref="172169276"/>
+    <nd ref="172169279"/>
+    <nd ref="172169283"/>
+    <nd ref="172169286"/>
+    <nd ref="172169289"/>
+    <nd ref="172169291"/>
+    <nd ref="172169297"/>
+    <nd ref="172169300"/>
+    <nd ref="172169303"/>
+    <nd ref="172169306"/>
+    <nd ref="172169311"/>
+    <nd ref="172169314"/>
+    <nd ref="172169317"/>
+    <nd ref="172169320"/>
+    <nd ref="172169321"/>
+    <nd ref="172169322"/>
+    <nd ref="172169323"/>
+    <nd ref="172169325"/>
+    <nd ref="172169327"/>
+    <nd ref="172169329"/>
+    <nd ref="172169331"/>
+    <nd ref="172169333"/>
+    <nd ref="172169335"/>
+    <nd ref="172169337"/>
+    <nd ref="172169339"/>
+    <nd ref="172169342"/>
+    <nd ref="172169345"/>
+    <nd ref="172169348"/>
+    <nd ref="172169351"/>
+    <nd ref="172169353"/>
+    <nd ref="172169355"/>
+    <nd ref="172169357"/>
+    <nd ref="172169360"/>
+    <nd ref="172169363"/>
+    <nd ref="172169367"/>
+    <nd ref="172169370"/>
+    <nd ref="172169373"/>
+    <nd ref="172169379"/>
+    <nd ref="172169382"/>
+    <nd ref="172169385"/>
+    <nd ref="172169388"/>
+    <nd ref="172169391"/>
+    <nd ref="172169395"/>
+    <nd ref="172169398"/>
+    <nd ref="172169401"/>
+    <nd ref="172169404"/>
+    <nd ref="172169407"/>
+    <nd ref="172169410"/>
+    <nd ref="172169413"/>
+    <nd ref="172169417"/>
+    <nd ref="172169420"/>
+    <nd ref="172169422"/>
+    <nd ref="172169424"/>
+    <nd ref="172169427"/>
+    <nd ref="172169429"/>
+    <nd ref="172169431"/>
+    <nd ref="172169434"/>
+    <nd ref="172169438"/>
+    <nd ref="172169441"/>
+    <nd ref="172169444"/>
+    <nd ref="172169446"/>
+    <nd ref="172169448"/>
+    <nd ref="172169450"/>
+    <nd ref="172169452"/>
+    <nd ref="172169458"/>
+    <nd ref="172169465"/>
+    <nd ref="172169467"/>
+    <nd ref="172169472"/>
+    <nd ref="172169475"/>
+    <nd ref="172169479"/>
+    <nd ref="172169482"/>
+    <nd ref="172169485"/>
+    <nd ref="172169488"/>
+    <nd ref="172169491"/>
+    <nd ref="172169494"/>
+    <nd ref="172169498"/>
+    <nd ref="172169501"/>
+    <nd ref="172169504"/>
+    <nd ref="172169509"/>
+    <nd ref="172169511"/>
+    <nd ref="172169512"/>
+    <nd ref="172169514"/>
+    <nd ref="172169516"/>
+    <nd ref="172169518"/>
+    <nd ref="172169522"/>
+    <nd ref="172169525"/>
+    <nd ref="172169528"/>
+    <nd ref="172169529"/>
+    <nd ref="172169530"/>
+    <nd ref="172169531"/>
+    <nd ref="172169532"/>
+    <nd ref="171983133"/>
+    <nd ref="172169533"/>
+    <nd ref="172169534"/>
+    <nd ref="172169536"/>
+    <nd ref="172169538"/>
+    <nd ref="172169540"/>
+    <nd ref="172169542"/>
+    <nd ref="172169544"/>
+    <nd ref="172169546"/>
+    <nd ref="172169548"/>
+    <nd ref="172169550"/>
+    <nd ref="172169552"/>
+    <nd ref="172169554"/>
+    <nd ref="172169556"/>
+    <nd ref="172169557"/>
+    <nd ref="172169559"/>
+    <nd ref="172169560"/>
+    <nd ref="172169562"/>
+    <nd ref="172169564"/>
+    <nd ref="172169566"/>
+    <nd ref="172169569"/>
+    <nd ref="172169573"/>
+    <nd ref="172169576"/>
+    <nd ref="1123988518"/>
+    <nd ref="1123988464"/>
+    <nd ref="1123988516"/>
+    <nd ref="1123988463"/>
+    <nd ref="1123988436"/>
+    <nd ref="1123988535"/>
+    <nd ref="1123988472"/>
+    <nd ref="1123988446"/>
+    <nd ref="1123988541"/>
+    <nd ref="1123988488"/>
+    <nd ref="1123988454"/>
+    <nd ref="1123988547"/>
+    <nd ref="1123988491"/>
+    <nd ref="172226676"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Orchard Road"/>
+    <tag k="name_1" v="State Road 1567"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Orchard"/>
+    <tag k="tiger:name_base_1" v="State Road 1567"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28777"/>
+    <tag k="tiger:zip_right" v="28777"/>
+  </way>
+  <way id="16663968">
+    <nd ref="172172012"/>
+    <nd ref="172180832"/>
+    <nd ref="172180834"/>
+    <nd ref="172180835"/>
+    <nd ref="172180837"/>
+    <nd ref="172180839"/>
+    <nd ref="172180840"/>
+    <nd ref="172180843"/>
+    <nd ref="172180846"/>
+    <nd ref="172180849"/>
+    <nd ref="172180852"/>
+    <nd ref="172180855"/>
+    <nd ref="172180857"/>
+    <nd ref="172180859"/>
+    <nd ref="172180861"/>
+    <nd ref="172180863"/>
+    <nd ref="172180865"/>
+    <nd ref="172180868"/>
+    <nd ref="172180871"/>
+    <nd ref="172180874"/>
+    <nd ref="172180877"/>
+    <nd ref="172180879"/>
+    <nd ref="172180881"/>
+    <nd ref="172180883"/>
+    <nd ref="172180885"/>
+    <nd ref="172180888"/>
+    <nd ref="172180891"/>
+    <nd ref="172180894"/>
+    <nd ref="172180897"/>
+    <nd ref="172180900"/>
+    <nd ref="172180903"/>
+    <nd ref="172180906"/>
+    <nd ref="172180909"/>
+    <nd ref="172180910"/>
+    <nd ref="172180913"/>
+    <nd ref="172180916"/>
+    <nd ref="172180919"/>
+    <nd ref="172180922"/>
+    <nd ref="172180925"/>
+    <nd ref="172180932"/>
+    <nd ref="172180935"/>
+    <nd ref="172180938"/>
+    <nd ref="172180942"/>
+    <nd ref="172180945"/>
+    <nd ref="172180947"/>
+    <nd ref="172180950"/>
+    <nd ref="172180953"/>
+    <nd ref="172180956"/>
+    <nd ref="172180958"/>
+    <nd ref="172180959"/>
+    <nd ref="172180961"/>
+    <nd ref="172180964"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apple Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Apple"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16663969">
+    <nd ref="172029303"/>
+    <nd ref="172180983"/>
+    <nd ref="172180985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Apple Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Apple"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="97089849">
+    <nd ref="172074148"/>
+    <nd ref="172074157"/>
+    <nd ref="172074160"/>
+    <nd ref="172074161"/>
+    <nd ref="172074162"/>
+    <nd ref="172074164"/>
+    <nd ref="172074166"/>
+    <nd ref="172074168"/>
+    <nd ref="172074170"/>
+    <nd ref="172074172"/>
+    <nd ref="172074174"/>
+    <nd ref="172074176"/>
+    <nd ref="172074178"/>
+    <nd ref="172074181"/>
+    <nd ref="172074184"/>
+    <nd ref="172074187"/>
+    <nd ref="172074189"/>
+    <nd ref="172074191"/>
+    <nd ref="172074196"/>
+    <nd ref="172074199"/>
+    <nd ref="172074200"/>
+    <nd ref="172074202"/>
+    <nd ref="172074204"/>
+    <nd ref="172074206"/>
+    <nd ref="172074209"/>
+    <nd ref="172074212"/>
+    <nd ref="172074214"/>
+    <nd ref="172074219"/>
+    <nd ref="172074222"/>
+    <nd ref="172074224"/>
+    <nd ref="172074226"/>
+    <nd ref="171983135"/>
+    <nd ref="172074228"/>
+    <nd ref="172074230"/>
+    <nd ref="172074233"/>
+    <nd ref="172074239"/>
+    <nd ref="172074251"/>
+    <nd ref="172074255"/>
+    <nd ref="172074257"/>
+    <nd ref="172074260"/>
+    <nd ref="172074263"/>
+    <nd ref="172074265"/>
+    <nd ref="172074267"/>
+    <nd ref="172074269"/>
+    <nd ref="172074271"/>
+    <nd ref="172074273"/>
+    <nd ref="172074275"/>
+    <nd ref="172074277"/>
+    <nd ref="1731069867"/>
+    <nd ref="172074281"/>
+    <nd ref="172074289"/>
+    <nd ref="172074292"/>
+    <nd ref="172074295"/>
+    <nd ref="172074297"/>
+    <nd ref="172074299"/>
+    <nd ref="172074301"/>
+    <nd ref="172074303"/>
+    <nd ref="172074308"/>
+    <nd ref="172074314"/>
+    <nd ref="172074317"/>
+    <nd ref="172074320"/>
+    <nd ref="172074325"/>
+    <nd ref="172074327"/>
+    <nd ref="172074329"/>
+    <nd ref="172074331"/>
+    <nd ref="172074333"/>
+    <nd ref="172074335"/>
+    <nd ref="172074337"/>
+    <nd ref="172074338"/>
+    <nd ref="172074339"/>
+    <nd ref="172074340"/>
+    <nd ref="172074341"/>
+    <nd ref="172074342"/>
+    <nd ref="172074345"/>
+    <nd ref="172074347"/>
+    <nd ref="172074350"/>
+    <nd ref="172074352"/>
+    <nd ref="172074358"/>
+    <nd ref="172074362"/>
+    <nd ref="172074364"/>
+    <nd ref="172074366"/>
+    <nd ref="172074368"/>
+    <nd ref="172074369"/>
+    <nd ref="171988140"/>
+    <nd ref="172074375"/>
+    <nd ref="172074378"/>
+    <nd ref="172074381"/>
+    <nd ref="172074383"/>
+    <nd ref="172074385"/>
+    <nd ref="172074389"/>
+    <nd ref="172074391"/>
+    <nd ref="172074394"/>
+    <nd ref="172074395"/>
+    <nd ref="172074397"/>
+    <nd ref="172074401"/>
+    <nd ref="172074403"/>
+    <nd ref="172074405"/>
+    <nd ref="172074407"/>
+    <nd ref="172074410"/>
+    <nd ref="172074413"/>
+    <nd ref="172074416"/>
+    <nd ref="172074418"/>
+    <nd ref="172074421"/>
+    <nd ref="172074424"/>
+    <nd ref="172074427"/>
+    <nd ref="172074430"/>
+    <nd ref="172074436"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="rcn_ref" v="2"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Blue Ridge"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35925756:233022437:35883601:233022391:35883571:35883723:35883724:35883574:233023101:233023095"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="161111130">
+    <nd ref="1731069867"/>
+    <nd ref="1731069869"/>
+    <nd ref="1731069871"/>
+    <nd ref="1731069880"/>
+    <nd ref="1731069885"/>
+    <nd ref="1731069891"/>
+    <nd ref="1731069892"/>
+    <nd ref="172074273"/>
+    <tag k="highway" v="service"/>
+  </way>
+
+</osm>

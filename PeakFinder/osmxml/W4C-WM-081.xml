@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16469687">
+    <nd ref="172038961"/>
+    <nd ref="169979573"/>
+    <nd ref="169979577"/>
+    <nd ref="169979580"/>
+    <nd ref="169979585"/>
+    <nd ref="169979588"/>
+    <nd ref="169979591"/>
+    <nd ref="169979594"/>
+    <nd ref="169910623"/>
+    <nd ref="169979597"/>
+    <nd ref="169979599"/>
+    <nd ref="169979601"/>
+    <nd ref="169941917"/>
+    <nd ref="169979603"/>
+    <nd ref="169979605"/>
+    <nd ref="169979608"/>
+    <nd ref="169979611"/>
+    <nd ref="169979614"/>
+    <nd ref="169979617"/>
+    <nd ref="169979620"/>
+    <nd ref="169924089"/>
+    <nd ref="169979624"/>
+    <nd ref="169979626"/>
+    <nd ref="169918489"/>
+    <nd ref="169979629"/>
+    <nd ref="169979632"/>
+    <nd ref="169979635"/>
+    <nd ref="169941969"/>
+    <nd ref="169979637"/>
+    <nd ref="169914090"/>
+    <nd ref="169914154"/>
+    <nd ref="169979638"/>
+    <nd ref="169979639"/>
+    <nd ref="169979640"/>
+    <nd ref="169979641"/>
+    <nd ref="169979642"/>
+    <nd ref="169979644"/>
+    <nd ref="169979646"/>
+    <nd ref="169979647"/>
+    <nd ref="169979648"/>
+    <nd ref="169979650"/>
+    <nd ref="169979651"/>
+    <nd ref="169979653"/>
+    <nd ref="169979656"/>
+    <nd ref="169979658"/>
+    <nd ref="169979660"/>
+    <nd ref="169979661"/>
+    <nd ref="169979662"/>
+    <nd ref="169979663"/>
+    <nd ref="169979664"/>
+    <nd ref="169979665"/>
+    <nd ref="169979666"/>
+    <nd ref="169979667"/>
+    <nd ref="169979668"/>
+    <nd ref="169979669"/>
+    <nd ref="169979670"/>
+    <nd ref="169979671"/>
+    <nd ref="169979672"/>
+    <nd ref="169979673"/>
+    <nd ref="169979674"/>
+    <nd ref="169979676"/>
+    <nd ref="169979678"/>
+    <nd ref="169979680"/>
+    <nd ref="169979682"/>
+    <nd ref="169979683"/>
+    <nd ref="169979684"/>
+    <nd ref="169979686"/>
+    <nd ref="169979688"/>
+    <nd ref="169914184"/>
+    <nd ref="169979690"/>
+    <nd ref="169979692"/>
+    <nd ref="169944043"/>
+    <nd ref="169979694"/>
+    <nd ref="169979696"/>
+    <nd ref="169979698"/>
+    <nd ref="169979700"/>
+    <nd ref="169944025"/>
+    <nd ref="169979703"/>
+    <nd ref="169979705"/>
+    <nd ref="169979707"/>
+    <nd ref="169914501"/>
+    <nd ref="169979709"/>
+    <nd ref="169979711"/>
+    <nd ref="169979713"/>
+    <nd ref="169979715"/>
+    <nd ref="169979717"/>
+    <nd ref="169979719"/>
+    <nd ref="169979722"/>
+    <nd ref="169979726"/>
+    <nd ref="169944587"/>
+    <nd ref="169979729"/>
+    <nd ref="169979731"/>
+    <nd ref="169979734"/>
+    <nd ref="169979736"/>
+    <nd ref="169970257"/>
+    <nd ref="169979739"/>
+    <nd ref="169979742"/>
+    <nd ref="169979745"/>
+    <nd ref="169979747"/>
+    <nd ref="169911781"/>
+    <nd ref="169979751"/>
+    <nd ref="169909191"/>
+    <nd ref="169979754"/>
+    <nd ref="169979758"/>
+    <nd ref="169979761"/>
+    <nd ref="169979764"/>
+    <nd ref="169979767"/>
+    <nd ref="169979770"/>
+    <nd ref="169979773"/>
+    <nd ref="169979777"/>
+    <nd ref="169979781"/>
+    <nd ref="169979529"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Junaluska Road"/>
+    <tag k="name_1" v="State Road 1505"/>
+    <tag k="rcn_ref" v="2"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Junaluska"/>
+    <tag k="tiger:name_base_1" v="State Road 1505"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="18937111">
+    <nd ref="195961414"/>
+    <nd ref="195961416"/>
+    <nd ref="195961417"/>
+    <nd ref="195961420"/>
+    <nd ref="195961423"/>
+    <nd ref="195961424"/>
+    <nd ref="195961425"/>
+    <nd ref="195961426"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37425010:37425018:37425019"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18937146">
+    <nd ref="195961424"/>
+    <nd ref="195961817"/>
+    <nd ref="195961819"/>
+    <nd ref="195961821"/>
+    <nd ref="195961823"/>
+    <nd ref="195961825"/>
+    <nd ref="195961827"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37425017:37429595"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18938354">
+    <nd ref="195972891"/>
+    <nd ref="195972892"/>
+    <nd ref="195972893"/>
+    <nd ref="195972896"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37427976"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18938360">
+    <nd ref="195972929"/>
+    <nd ref="195972931"/>
+    <nd ref="195972933"/>
+    <nd ref="195972935"/>
+    <nd ref="195972937"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37427979"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18938857">
+    <nd ref="195977621"/>
+    <nd ref="195977623"/>
+    <nd ref="195963998"/>
+    <nd ref="195977625"/>
+    <nd ref="195977626"/>
+    <nd ref="195977629"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37429203:37425222"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18939450">
+    <nd ref="195961420"/>
+    <nd ref="195982585"/>
+    <nd ref="195982587"/>
+    <nd ref="195982589"/>
+    <nd ref="195982591"/>
+    <nd ref="195982593"/>
+    <nd ref="195982595"/>
+    <nd ref="195982597"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37429596"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18940411">
+    <nd ref="195989028"/>
+    <nd ref="195993604"/>
+    <nd ref="195993606"/>
+    <nd ref="195993608"/>
+    <nd ref="195993610"/>
+    <nd ref="195993612"/>
+    <nd ref="195993614"/>
+    <nd ref="195993616"/>
+    <nd ref="195970715"/>
+    <nd ref="195993618"/>
+    <nd ref="195993620"/>
+    <nd ref="195993622"/>
+    <nd ref="195993624"/>
+    <nd ref="195993626"/>
+    <nd ref="195993628"/>
+    <nd ref="195993629"/>
+    <nd ref="195993631"/>
+    <nd ref="195952498"/>
+    <nd ref="195993633"/>
+    <nd ref="195993634"/>
+    <nd ref="195993635"/>
+    <nd ref="195993636"/>
+    <nd ref="195993637"/>
+    <nd ref="195993638"/>
+    <nd ref="195993639"/>
+    <nd ref="195993640"/>
+    <nd ref="195993641"/>
+    <nd ref="195973494"/>
+    <nd ref="195993642"/>
+    <nd ref="195993643"/>
+    <nd ref="195993644"/>
+    <nd ref="195993645"/>
+    <nd ref="195973469"/>
+    <nd ref="195993646"/>
+    <nd ref="195993647"/>
+    <nd ref="195993649"/>
+    <nd ref="195993651"/>
+    <nd ref="195993653"/>
+    <nd ref="195993655"/>
+    <nd ref="195993657"/>
+    <nd ref="195993659"/>
+    <nd ref="195993661"/>
+    <nd ref="195993665"/>
+    <nd ref="195993667"/>
+    <nd ref="195993670"/>
+    <nd ref="195993672"/>
+    <nd ref="195993674"/>
+    <nd ref="195993675"/>
+    <nd ref="195993676"/>
+    <nd ref="195993677"/>
+    <nd ref="195993678"/>
+    <nd ref="195993679"/>
+    <nd ref="195993680"/>
+    <nd ref="195993682"/>
+    <nd ref="195993684"/>
+    <nd ref="195993686"/>
+    <nd ref="195993688"/>
+    <nd ref="195993690"/>
+    <nd ref="195993692"/>
+    <nd ref="195993694"/>
+    <nd ref="195993696"/>
+    <nd ref="195993698"/>
+    <nd ref="195993700"/>
+    <nd ref="195993702"/>
+    <nd ref="195993704"/>
+    <nd ref="195993705"/>
+    <nd ref="195993706"/>
+    <nd ref="195993707"/>
+    <nd ref="195993708"/>
+    <nd ref="195993710"/>
+    <nd ref="195972891"/>
+    <nd ref="195993712"/>
+    <nd ref="195972929"/>
+    <nd ref="195993713"/>
+    <nd ref="195961414"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cabbage Patch Road"/>
+    <tag k="name_1" v="State Road 1173"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:name_base" v="Cabbage Patch"/>
+    <tag k="tiger:name_base_1" v="State Road 1173"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28714"/>
+    <tag k="tiger:zip_left_1" v="28714"/>
+    <tag k="tiger:zip_left_2" v="28714"/>
+    <tag k="tiger:zip_right" v="28714"/>
+    <tag k="tiger:zip_right_1" v="28714"/>
+    <tag k="tiger:zip_right_2" v="28714"/>
+  </way>
+
+</osm>

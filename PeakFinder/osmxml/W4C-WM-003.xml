@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:55:01Z"/>
+
+  <way id="16629299">
+    <nd ref="171308762"/>
+    <nd ref="1632993029"/>
+    <nd ref="1632993030"/>
+    <nd ref="1632993031"/>
+    <nd ref="1632993035"/>
+    <nd ref="1632993036"/>
+    <nd ref="979722203"/>
+    <nd ref="1632993038"/>
+    <nd ref="171764110"/>
+    <nd ref="171764113"/>
+    <nd ref="979722191"/>
+    <nd ref="171764116"/>
+    <nd ref="1632993039"/>
+    <nd ref="1632993041"/>
+    <nd ref="171764119"/>
+    <nd ref="171764122"/>
+    <nd ref="979722186"/>
+    <nd ref="171764125"/>
+    <nd ref="171764127"/>
+    <nd ref="979722165"/>
+    <nd ref="171764129"/>
+    <nd ref="171764130"/>
+    <nd ref="171764131"/>
+    <nd ref="171764133"/>
+    <nd ref="1632993043"/>
+    <nd ref="171764135"/>
+    <nd ref="979722160"/>
+    <nd ref="171764137"/>
+    <nd ref="171764139"/>
+    <nd ref="171764141"/>
+    <nd ref="171764144"/>
+    <nd ref="1632993044"/>
+    <nd ref="171764145"/>
+    <nd ref="1632993046"/>
+    <nd ref="171764146"/>
+    <nd ref="1632993048"/>
+    <nd ref="171764149"/>
+    <nd ref="1632993049"/>
+    <nd ref="1632993057"/>
+    <nd ref="171764159"/>
+    <nd ref="1632993058"/>
+    <nd ref="1632993059"/>
+    <nd ref="171764167"/>
+    <nd ref="1632993060"/>
+    <nd ref="171764169"/>
+    <nd ref="1632993061"/>
+    <nd ref="171764170"/>
+    <nd ref="171764171"/>
+    <nd ref="1632993063"/>
+    <nd ref="1632993064"/>
+    <nd ref="1632993066"/>
+    <nd ref="1632993068"/>
+    <nd ref="171764174"/>
+    <nd ref="171764177"/>
+    <nd ref="2281135609"/>
+    <nd ref="171764180"/>
+    <nd ref="171764184"/>
+    <nd ref="1632993069"/>
+    <nd ref="1632993074"/>
+    <nd ref="171764187"/>
+    <nd ref="1632993075"/>
+    <nd ref="171764192"/>
+    <nd ref="171764197"/>
+    <nd ref="1632993076"/>
+    <nd ref="171764200"/>
+    <nd ref="1632993077"/>
+    <nd ref="171764203"/>
+    <nd ref="171764206"/>
+    <nd ref="1632993078"/>
+    <nd ref="1632993079"/>
+    <nd ref="1632993080"/>
+    <nd ref="1632993081"/>
+    <nd ref="171764210"/>
+    <nd ref="1632993088"/>
+    <nd ref="1632993089"/>
+    <nd ref="1632993093"/>
+    <nd ref="1632993094"/>
+    <nd ref="1632993095"/>
+    <nd ref="171764213"/>
+    <nd ref="1632993096"/>
+    <nd ref="1632993097"/>
+    <nd ref="1632993099"/>
+    <nd ref="1632993101"/>
+    <nd ref="171764216"/>
+    <nd ref="1632993102"/>
+    <nd ref="171764218"/>
+    <nd ref="171721984"/>
+    <nd ref="171721976"/>
+    <nd ref="171764221"/>
+    <nd ref="1632993104"/>
+    <nd ref="1632993105"/>
+    <nd ref="1632993111"/>
+    <nd ref="171308801"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="rcn_ref" v="2"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Blue Ridge"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="84221898">
+    <nd ref="171764144"/>
+    <nd ref="979722145"/>
+    <nd ref="979722154"/>
+    <nd ref="979722162"/>
+    <nd ref="979722160"/>
+    <tag k="highway" v="service"/>
+  </way>
+
+</osm>

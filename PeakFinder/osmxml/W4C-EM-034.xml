@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:49:02Z"/>
+
+  <way id="16412544">
+    <nd ref="169403075"/>
+    <nd ref="169403077"/>
+    <nd ref="169403079"/>
+    <nd ref="169403084"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Spencer's Run"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Spencer's"/>
+    <tag k="tiger:name_type" v="Run"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="154045188"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f5d30e1e-b9c9-4043-8bc2-575d31645af6"/>
+  </way>
+  <way id="16413385">
+    <nd ref="169415027"/>
+    <nd ref="169415029"/>
+    <nd ref="169415031"/>
+    <nd ref="169415033"/>
+    <nd ref="169415036"/>
+    <nd ref="169415038"/>
+    <nd ref="169415041"/>
+    <nd ref="169415043"/>
+    <nd ref="169415046"/>
+    <nd ref="169415048"/>
+    <nd ref="169415049"/>
+    <nd ref="169415051"/>
+    <nd ref="169415055"/>
+    <nd ref="169415059"/>
+    <nd ref="169415062"/>
+    <nd ref="169415066"/>
+    <nd ref="169415068"/>
+    <nd ref="169415072"/>
+    <nd ref="169415076"/>
+    <nd ref="169415078"/>
+    <nd ref="169415080"/>
+    <nd ref="169415084"/>
+    <nd ref="169415088"/>
+    <nd ref="169415090"/>
+    <nd ref="169403075"/>
+    <nd ref="169415092"/>
+    <nd ref="169415095"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bluff View Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Bluff View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28694"/>
+    <tag k="tiger:zip_right" v="28694"/>
+  </way>
+  <way id="16422344">
+    <nd ref="169415051"/>
+    <nd ref="169514712"/>
+    <nd ref="169514716"/>
+    <nd ref="169514718"/>
+    <nd ref="169514721"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Moose Run"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Moose"/>
+    <tag k="tiger:name_type" v="Run"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="154045191"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f5d30e1e-b9c9-4043-8bc2-575d31645af6"/>
+  </way>
+
+</osm>

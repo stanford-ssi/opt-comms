@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16598270">
+    <nd ref="171392373"/>
+    <nd ref="171392376"/>
+    <nd ref="171392379"/>
+    <nd ref="171392382"/>
+    <nd ref="171392385"/>
+    <nd ref="171392387"/>
+    <nd ref="171392389"/>
+    <nd ref="171392391"/>
+    <nd ref="171392393"/>
+    <nd ref="171392395"/>
+    <nd ref="171392397"/>
+    <nd ref="171392398"/>
+    <nd ref="171392399"/>
+    <nd ref="171392400"/>
+    <nd ref="171392404"/>
+    <nd ref="171392407"/>
+    <nd ref="171392409"/>
+    <nd ref="171392411"/>
+    <nd ref="171392413"/>
+    <nd ref="171392415"/>
+    <nd ref="171392417"/>
+    <nd ref="171392420"/>
+    <nd ref="171392423"/>
+    <nd ref="171392425"/>
+    <nd ref="171392427"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152264919:152310622:152264578"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16598540">
+    <nd ref="171395311"/>
+    <nd ref="171395312"/>
+    <nd ref="171395314"/>
+    <nd ref="171395316"/>
+    <nd ref="171395317"/>
+    <nd ref="171395318"/>
+    <nd ref="171395320"/>
+    <nd ref="171395321"/>
+    <nd ref="171395323"/>
+    <nd ref="171395325"/>
+    <nd ref="171395328"/>
+    <nd ref="171395330"/>
+    <nd ref="171395332"/>
+    <nd ref="171395334"/>
+    <nd ref="171395335"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152264576:152265671:152302531"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+
+</osm>

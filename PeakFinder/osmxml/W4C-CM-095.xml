@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="16436139">
+    <nd ref="169634191"/>
+    <nd ref="2898346689"/>
+    <nd ref="169634194"/>
+    <nd ref="169634197"/>
+    <nd ref="169634200"/>
+    <nd ref="169634202"/>
+    <nd ref="169634204"/>
+    <nd ref="2823337395"/>
+    <nd ref="169634207"/>
+    <nd ref="169633931"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Shumont Road"/>
+    <tag k="name_1" v="State Road 2798"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Shumont"/>
+    <tag k="tiger:name_base_1" v="State Road 2798"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28711"/>
+    <tag k="tiger:zip_right" v="28711"/>
+  </way>
+  <way id="16751483">
+    <nd ref="173164491"/>
+    <nd ref="173172900"/>
+    <nd ref="173172904"/>
+    <nd ref="173172908"/>
+    <nd ref="173172914"/>
+    <nd ref="173172918"/>
+    <nd ref="173172924"/>
+    <nd ref="173172927"/>
+    <nd ref="173172929"/>
+    <nd ref="173172930"/>
+    <nd ref="173172931"/>
+    <nd ref="173172932"/>
+    <nd ref="173172934"/>
+    <nd ref="173172935"/>
+    <nd ref="173172936"/>
+    <nd ref="173172939"/>
+    <nd ref="173172941"/>
+    <nd ref="173172943"/>
+    <nd ref="173172946"/>
+    <nd ref="169634191"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19413885"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+
+</osm>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16475728">
+    <nd ref="170067245"/>
+    <nd ref="170067246"/>
+    <nd ref="170067248"/>
+    <nd ref="170067251"/>
+    <nd ref="170067253"/>
+    <nd ref="170067255"/>
+    <nd ref="170067257"/>
+    <nd ref="170067258"/>
+    <nd ref="170067260"/>
+    <nd ref="170067262"/>
+    <nd ref="170067265"/>
+    <nd ref="170067266"/>
+    <nd ref="170067269"/>
+    <nd ref="170067271"/>
+    <nd ref="170067273"/>
+    <nd ref="170067276"/>
+    <nd ref="170067279"/>
+    <nd ref="170067281"/>
+    <nd ref="170067287"/>
+    <nd ref="170067290"/>
+    <nd ref="170067292"/>
+    <nd ref="170067294"/>
+    <nd ref="170067296"/>
+    <nd ref="170067299"/>
+    <nd ref="170067301"/>
+    <nd ref="170067304"/>
+    <nd ref="170067309"/>
+    <nd ref="170067311"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35942917"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+  </way>
+
+</osm>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16647460">
+    <nd ref="171971720"/>
+    <nd ref="171971722"/>
+    <nd ref="171971725"/>
+    <nd ref="171971728"/>
+    <nd ref="171971731"/>
+    <nd ref="171971733"/>
+    <nd ref="171971736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35502020:35502019"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648219">
+    <nd ref="171978674"/>
+    <nd ref="171978676"/>
+    <nd ref="171978679"/>
+    <nd ref="171978681"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508171"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648221">
+    <nd ref="171978687"/>
+    <nd ref="171978679"/>
+    <nd ref="171978689"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508172:35508168"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648226">
+    <nd ref="171978738"/>
+    <nd ref="171978740"/>
+    <nd ref="171978742"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508177"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648273">
+    <nd ref="171979127"/>
+    <nd ref="171979129"/>
+    <nd ref="171979134"/>
+    <nd ref="171979136"/>
+    <nd ref="171979140"/>
+    <nd ref="171979142"/>
+    <nd ref="171979143"/>
+    <nd ref="171979146"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508192:35508193"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648278">
+    <nd ref="171979142"/>
+    <nd ref="171979181"/>
+    <nd ref="171979185"/>
+    <nd ref="171979188"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508194"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648285">
+    <nd ref="171979235"/>
+    <nd ref="171979238"/>
+    <nd ref="171979241"/>
+    <nd ref="171979243"/>
+    <nd ref="171979246"/>
+    <nd ref="171979142"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508196:35508197"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648288">
+    <nd ref="171979241"/>
+    <nd ref="171979259"/>
+    <nd ref="171979263"/>
+    <nd ref="171979265"/>
+    <nd ref="171979269"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508198"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648659">
+    <nd ref="171982275"/>
+    <nd ref="171982277"/>
+    <nd ref="171982278"/>
+    <nd ref="171982280"/>
+    <nd ref="171982283"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35488994"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16651060">
+    <nd ref="172000558"/>
+    <nd ref="172000561"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508126"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16651149">
+    <nd ref="172001348"/>
+    <nd ref="172001350"/>
+    <nd ref="172001353"/>
+    <nd ref="172001357"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508181:35508184:35508185"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16651155">
+    <nd ref="172001350"/>
+    <nd ref="172001384"/>
+    <nd ref="172001387"/>
+    <nd ref="172001390"/>
+    <nd ref="172001393"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508183"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16651158">
+    <nd ref="172001353"/>
+    <nd ref="172001429"/>
+    <nd ref="172001432"/>
+    <nd ref="172001433"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35508186"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16651398">
+    <nd ref="172003713"/>
+    <nd ref="171978676"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35488986"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16651401">
+    <nd ref="172003740"/>
+    <nd ref="172003742"/>
+    <nd ref="172003744"/>
+    <nd ref="172003746"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35488988"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16652366">
+    <nd ref="172011832"/>
+    <nd ref="172011834"/>
+    <nd ref="172011836"/>
+    <nd ref="172011838"/>
+    <nd ref="172011840"/>
+    <nd ref="172011843"/>
+    <nd ref="172011845"/>
+    <nd ref="172011847"/>
+    <nd ref="172011849"/>
+    <nd ref="172011852"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35510157"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16653447">
+    <nd ref="172022577"/>
+    <nd ref="172022579"/>
+    <nd ref="172022581"/>
+    <nd ref="172003713"/>
+    <nd ref="172011852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Creek Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Creek"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+  </way>
+  <way id="16654204">
+    <nd ref="172033665"/>
+    <nd ref="172033668"/>
+    <nd ref="172033671"/>
+    <nd ref="172033674"/>
+    <nd ref="172033677"/>
+    <nd ref="172033679"/>
+    <nd ref="172000558"/>
+    <nd ref="172033683"/>
+    <nd ref="172033686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Quail Haven Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Quail Haven"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+    <tag k="tiger:zip_left_1" v="28763"/>
+    <tag k="tiger:zip_right" v="28763"/>
+    <tag k="tiger:zip_right_1" v="28763"/>
+  </way>
+  <way id="16654419">
+    <nd ref="172036498"/>
+    <nd ref="171979127"/>
+    <nd ref="172001348"/>
+    <nd ref="171978738"/>
+    <nd ref="171978674"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Little Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16654917">
+    <nd ref="172044954"/>
+    <nd ref="172044956"/>
+    <nd ref="172044958"/>
+    <nd ref="172033686"/>
+    <nd ref="172044959"/>
+    <nd ref="172044962"/>
+    <nd ref="172044969"/>
+    <nd ref="172044971"/>
+    <nd ref="172033665"/>
+    <nd ref="172044973"/>
+    <nd ref="172044975"/>
+    <nd ref="172044978"/>
+    <nd ref="172044981"/>
+    <nd ref="172044984"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Quail Haven Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Quail Haven"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16656501">
+    <nd ref="172070671"/>
+    <nd ref="172070673"/>
+    <nd ref="171986130"/>
+    <nd ref="171988703"/>
+    <nd ref="172070675"/>
+    <nd ref="172070677"/>
+    <nd ref="172070679"/>
+    <nd ref="172047757"/>
+    <nd ref="172070681"/>
+    <nd ref="172044954"/>
+    <nd ref="172070683"/>
+    <nd ref="171982283"/>
+    <nd ref="171971720"/>
+    <nd ref="172003746"/>
+    <nd ref="172070685"/>
+    <nd ref="172070690"/>
+    <nd ref="172070691"/>
+    <nd ref="172070693"/>
+    <nd ref="172070695"/>
+    <nd ref="172070697"/>
+    <nd ref="172011832"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coweeta Lab Road"/>
+    <tag k="name_1" v="State Road 1112"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Coweeta Lab"/>
+    <tag k="tiger:name_base_1" v="State Road 1112"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16656502">
+    <nd ref="172011832"/>
+    <nd ref="172070705"/>
+    <nd ref="172070707"/>
+    <nd ref="172036498"/>
+    <nd ref="172070709"/>
+    <nd ref="171978689"/>
+    <nd ref="172022577"/>
+    <nd ref="172070711"/>
+    <nd ref="172070713"/>
+    <nd ref="172070715"/>
+    <nd ref="171984751"/>
+    <nd ref="172070717"/>
+    <nd ref="171981691"/>
+    <nd ref="172070719"/>
+    <nd ref="172070721"/>
+    <nd ref="172070723"/>
+    <nd ref="172070725"/>
+    <nd ref="172070728"/>
+    <nd ref="172070731"/>
+    <nd ref="172070640"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coweeta Lab Road"/>
+    <tag k="name_1" v="State Road 1110"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Coweeta Lab"/>
+    <tag k="tiger:name_base_1" v="State Road 1110"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16656599">
+    <nd ref="172072203"/>
+    <nd ref="172072206"/>
+    <nd ref="172072209"/>
+    <nd ref="172072212"/>
+    <nd ref="172072215"/>
+    <nd ref="172072218"/>
+    <nd ref="172070685"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buddy Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Buddy Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16656777">
+    <nd ref="172075218"/>
+    <nd ref="172075221"/>
+    <nd ref="172075224"/>
+    <nd ref="172075227"/>
+    <nd ref="172075230"/>
+    <nd ref="172075233"/>
+    <nd ref="172075236"/>
+    <nd ref="172075239"/>
+    <nd ref="172075241"/>
+    <nd ref="172075242"/>
+    <nd ref="172075243"/>
+    <nd ref="172075244"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Caesar Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Caesar"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+    <tag k="tiger:zip_right" v="28763"/>
+  </way>
+  <way id="16658910">
+    <nd ref="172106057"/>
+    <nd ref="172106059"/>
+    <nd ref="172106061"/>
+    <nd ref="172106063"/>
+    <nd ref="172106065"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buddy Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Buddy"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+    <tag k="tiger:zip_right" v="28763"/>
+  </way>
+  <way id="16659389">
+    <nd ref="172070693"/>
+    <nd ref="172111710"/>
+    <nd ref="172111712"/>
+    <nd ref="172111714"/>
+    <nd ref="172111716"/>
+    <nd ref="172111718"/>
+    <nd ref="172106057"/>
+    <nd ref="172111720"/>
+    <nd ref="172111722"/>
+    <nd ref="172111725"/>
+    <nd ref="172111728"/>
+    <nd ref="172111731"/>
+    <nd ref="172111733"/>
+    <nd ref="172111734"/>
+    <nd ref="172111737"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buddy Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Buddy"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16659753">
+    <nd ref="172115852"/>
+    <nd ref="172115854"/>
+    <nd ref="172115857"/>
+    <nd ref="172115860"/>
+    <nd ref="172115863"/>
+    <nd ref="172115866"/>
+    <nd ref="172115869"/>
+    <nd ref="172115872"/>
+    <nd ref="172115875"/>
+    <nd ref="172075244"/>
+    <nd ref="172115878"/>
+    <nd ref="172115881"/>
+    <nd ref="172063469"/>
+    <nd ref="172049682"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Caesar Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="East Caesar"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16660563">
+    <nd ref="172070691"/>
+    <nd ref="172125156"/>
+    <nd ref="172125159"/>
+    <nd ref="172125162"/>
+    <nd ref="172125165"/>
+    <nd ref="172072203"/>
+    <nd ref="172125168"/>
+    <nd ref="172072227"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buddy Gap"/>
+    <tag k="name_1" v="State Road 1110"/>
+    <tag k="name_2" v="Carpenter Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Buddy Gap"/>
+    <tag k="tiger:name_base_1" v="State Road 1110"/>
+    <tag k="tiger:name_base_2" v="Carpenter"/>
+    <tag k="tiger:name_type_2" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+  </way>
+
+</osm>

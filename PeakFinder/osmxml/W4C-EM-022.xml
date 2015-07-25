@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:49:02Z"/>
+
+  <way id="16404639">
+    <nd ref="169312631"/>
+    <nd ref="2857407066"/>
+    <nd ref="2857407069"/>
+    <nd ref="2857407071"/>
+    <nd ref="2857407073"/>
+    <nd ref="2857407074"/>
+    <nd ref="169312633"/>
+    <nd ref="169312634"/>
+    <nd ref="2857407070"/>
+    <nd ref="169312637"/>
+    <nd ref="2857407065"/>
+    <nd ref="2857407064"/>
+    <nd ref="169276526"/>
+    <nd ref="169312640"/>
+    <nd ref="2857407063"/>
+    <nd ref="2857407062"/>
+    <nd ref="2857407061"/>
+    <nd ref="169312643"/>
+    <nd ref="169284454"/>
+    <nd ref="2857407060"/>
+    <nd ref="2857407059"/>
+    <nd ref="2857407058"/>
+    <nd ref="2857407057"/>
+    <nd ref="169312648"/>
+    <nd ref="2857407056"/>
+    <nd ref="2857407055"/>
+    <nd ref="169312651"/>
+    <nd ref="2857407048"/>
+    <nd ref="169312653"/>
+    <nd ref="2857407044"/>
+    <nd ref="2857407045"/>
+    <nd ref="2857407046"/>
+    <nd ref="2857407047"/>
+    <nd ref="169312655"/>
+    <nd ref="2857407051"/>
+    <nd ref="2857407053"/>
+    <nd ref="169312657"/>
+    <nd ref="2857407054"/>
+    <nd ref="169312660"/>
+    <nd ref="2857407052"/>
+    <nd ref="2857407050"/>
+    <nd ref="2857407049"/>
+    <nd ref="169312662"/>
+    <nd ref="2857407043"/>
+    <nd ref="169312664"/>
+    <nd ref="2857407042"/>
+    <nd ref="169312667"/>
+    <nd ref="169277794"/>
+    <nd ref="169312670"/>
+    <nd ref="2857407041"/>
+    <nd ref="2857407038"/>
+    <nd ref="169312674"/>
+    <nd ref="2857407035"/>
+    <nd ref="2857407036"/>
+    <nd ref="2857407037"/>
+    <nd ref="2857407039"/>
+    <nd ref="2857407040"/>
+    <nd ref="169312677"/>
+    <nd ref="2857407034"/>
+    <nd ref="169312678"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grandmother Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Grandmother Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16406760">
+    <nd ref="169317174"/>
+    <nd ref="169336283"/>
+    <nd ref="2813217285"/>
+    <nd ref="169317196"/>
+    <nd ref="169336285"/>
+    <nd ref="169336290"/>
+    <nd ref="2813217287"/>
+    <nd ref="2813217286"/>
+    <nd ref="2813217290"/>
+    <nd ref="2813217289"/>
+    <nd ref="2813217288"/>
+    <nd ref="2813217291"/>
+    <nd ref="2813217292"/>
+    <nd ref="169336293"/>
+    <nd ref="2813217293"/>
+    <nd ref="169336294"/>
+    <nd ref="2813217295"/>
+    <nd ref="2813217296"/>
+    <nd ref="2813217294"/>
+    <nd ref="2813217297"/>
+    <nd ref="169336295"/>
+    <nd ref="2813217298"/>
+    <nd ref="2813217299"/>
+    <nd ref="169336296"/>
+    <nd ref="2813217702"/>
+    <nd ref="2813217701"/>
+    <nd ref="2813217703"/>
+    <nd ref="2813217300"/>
+    <nd ref="2813217707"/>
+    <nd ref="169336297"/>
+    <nd ref="2813217706"/>
+    <nd ref="2813217705"/>
+    <nd ref="2813217704"/>
+    <nd ref="169336298"/>
+    <nd ref="169336299"/>
+    <nd ref="169336302"/>
+    <nd ref="169336305"/>
+    <nd ref="2813217709"/>
+    <nd ref="2813217708"/>
+    <nd ref="2813217710"/>
+    <nd ref="2813217711"/>
+    <nd ref="169336307"/>
+    <nd ref="169336309"/>
+    <nd ref="169277885"/>
+    <nd ref="169336311"/>
+    <nd ref="169336314"/>
+    <nd ref="2813217713"/>
+    <nd ref="169336316"/>
+    <nd ref="2813217712"/>
+    <nd ref="169336319"/>
+    <nd ref="169336322"/>
+    <nd ref="169336324"/>
+    <nd ref="169336327"/>
+    <nd ref="169336328"/>
+    <nd ref="169336330"/>
+    <nd ref="169336332"/>
+    <nd ref="169336334"/>
+    <nd ref="169336336"/>
+    <nd ref="169336338"/>
+    <nd ref="169336341"/>
+    <nd ref="169336343"/>
+    <nd ref="169336346"/>
+    <nd ref="169336349"/>
+    <nd ref="169336352"/>
+    <nd ref="1632052583"/>
+    <nd ref="1632052600"/>
+    <nd ref="1632052607"/>
+    <nd ref="169336355"/>
+    <nd ref="169336358"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Blue Ridge"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="281755109">
+    <nd ref="169276486"/>
+    <nd ref="2857406655"/>
+    <nd ref="2857406656"/>
+    <nd ref="2857406657"/>
+    <nd ref="2857406658"/>
+    <nd ref="2857406659"/>
+    <nd ref="2857406660"/>
+    <nd ref="2857406661"/>
+    <nd ref="2857406662"/>
+    <nd ref="2857406663"/>
+    <nd ref="2857406664"/>
+    <nd ref="2857406665"/>
+    <nd ref="2857406666"/>
+    <nd ref="2857406667"/>
+    <nd ref="2857406668"/>
+    <nd ref="2857406669"/>
+    <nd ref="2857406670"/>
+    <nd ref="2857406671"/>
+    <nd ref="2857406672"/>
+    <nd ref="2857406673"/>
+    <nd ref="2857406674"/>
+    <nd ref="2857406676"/>
+    <nd ref="2857406678"/>
+    <nd ref="2857406679"/>
+    <nd ref="2857406675"/>
+    <nd ref="2857406677"/>
+    <nd ref="2857406680"/>
+    <nd ref="2857406681"/>
+    <nd ref="2857406682"/>
+    <nd ref="2857406683"/>
+    <nd ref="2857406684"/>
+    <nd ref="2857406685"/>
+    <nd ref="2857406686"/>
+    <nd ref="2857406687"/>
+    <nd ref="2857406688"/>
+    <nd ref="2857406689"/>
+    <nd ref="2857406690"/>
+    <nd ref="2857406691"/>
+    <nd ref="2857406698"/>
+    <nd ref="2857407001"/>
+    <nd ref="2857407007"/>
+    <nd ref="2857407011"/>
+    <nd ref="2857407015"/>
+    <nd ref="2857407016"/>
+    <nd ref="2857407017"/>
+    <nd ref="2857407019"/>
+    <nd ref="2857407021"/>
+    <nd ref="2857407022"/>
+    <nd ref="2857407020"/>
+    <nd ref="2857407018"/>
+    <nd ref="2857407014"/>
+    <nd ref="2857407012"/>
+    <nd ref="2857407009"/>
+    <nd ref="169312702"/>
+    <nd ref="2857407008"/>
+    <nd ref="2857407006"/>
+    <nd ref="2857407004"/>
+    <nd ref="2857407003"/>
+    <nd ref="169312705"/>
+    <nd ref="2857407002"/>
+    <nd ref="2863124870"/>
+    <nd ref="169312709"/>
+    <nd ref="169312712"/>
+    <nd ref="2857406695"/>
+    <nd ref="2857406694"/>
+    <nd ref="2857406696"/>
+    <nd ref="2857406697"/>
+    <nd ref="169312715"/>
+    <nd ref="169312717"/>
+    <nd ref="2857406692"/>
+    <nd ref="2857406693"/>
+    <nd ref="2857406699"/>
+    <nd ref="2857406700"/>
+    <nd ref="169312719"/>
+    <nd ref="169276459"/>
+    <nd ref="2857407005"/>
+    <nd ref="2857407010"/>
+    <nd ref="2857407013"/>
+    <nd ref="169312721"/>
+    <nd ref="169312723"/>
+    <nd ref="2857407023"/>
+    <nd ref="2857407024"/>
+    <nd ref="2857407025"/>
+    <nd ref="2857407026"/>
+    <nd ref="2857407027"/>
+    <nd ref="2857407028"/>
+    <nd ref="2857407029"/>
+    <nd ref="169312726"/>
+    <nd ref="2857407030"/>
+    <nd ref="2857407031"/>
+    <nd ref="169312729"/>
+    <nd ref="2857407032"/>
+    <nd ref="2857407033"/>
+    <nd ref="169312678"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grandmother Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Grandmother Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="282399159">
+    <nd ref="169312723"/>
+    <nd ref="2863124842"/>
+    <nd ref="2863124843"/>
+    <nd ref="2863124844"/>
+    <nd ref="2863124845"/>
+    <nd ref="2863124846"/>
+    <nd ref="2863124847"/>
+    <nd ref="2863124848"/>
+    <nd ref="2863124849"/>
+    <nd ref="2863124850"/>
+    <nd ref="2863124857"/>
+    <nd ref="2863124851"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="282399160">
+    <nd ref="2863124847"/>
+    <nd ref="2863124852"/>
+    <nd ref="2863124853"/>
+    <nd ref="2863124854"/>
+    <nd ref="2863124855"/>
+    <nd ref="2863124856"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="282399161">
+    <nd ref="2863124857"/>
+    <nd ref="2863124858"/>
+    <nd ref="2863124859"/>
+    <nd ref="2863124860"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="282399162">
+    <nd ref="2863124849"/>
+    <nd ref="2863124861"/>
+    <nd ref="2863124862"/>
+    <nd ref="2863124863"/>
+    <nd ref="2863124864"/>
+    <nd ref="2863124865"/>
+    <nd ref="2863124866"/>
+    <nd ref="2863124867"/>
+    <nd ref="2863124868"/>
+    <nd ref="2863124869"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+
+</osm>

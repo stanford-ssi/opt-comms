@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="18926348">
+    <nd ref="195851439"/>
+    <nd ref="195851440"/>
+    <nd ref="195851441"/>
+    <nd ref="195851442"/>
+    <nd ref="195851444"/>
+    <nd ref="195851446"/>
+    <nd ref="195851448"/>
+    <nd ref="195851450"/>
+    <nd ref="195851452"/>
+    <nd ref="195851454"/>
+    <nd ref="195851456"/>
+    <nd ref="195851458"/>
+    <nd ref="195851460"/>
+    <nd ref="195851462"/>
+    <nd ref="195851464"/>
+    <nd ref="195851466"/>
+    <nd ref="195851468"/>
+    <nd ref="195851470"/>
+    <nd ref="195851472"/>
+    <nd ref="195851474"/>
+    <nd ref="195851476"/>
+    <nd ref="195851478"/>
+    <nd ref="195851480"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46127152:46127154:46127147"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18927701">
+    <nd ref="195863780"/>
+    <nd ref="195863781"/>
+    <nd ref="195863782"/>
+    <nd ref="195863783"/>
+    <nd ref="195863784"/>
+    <nd ref="195863785"/>
+    <nd ref="195863786"/>
+    <nd ref="195863787"/>
+    <nd ref="195863789"/>
+    <nd ref="195863791"/>
+    <nd ref="195863792"/>
+    <nd ref="195863793"/>
+    <nd ref="195863794"/>
+    <nd ref="195863795"/>
+    <nd ref="195863797"/>
+    <nd ref="195863799"/>
+    <nd ref="195863801"/>
+    <nd ref="195863802"/>
+    <nd ref="195863803"/>
+    <nd ref="195863805"/>
+    <nd ref="195863807"/>
+    <nd ref="195863809"/>
+    <nd ref="195863810"/>
+    <nd ref="195863812"/>
+    <nd ref="195863814"/>
+    <nd ref="195863816"/>
+    <nd ref="195863817"/>
+    <nd ref="195863818"/>
+    <nd ref="195863819"/>
+    <nd ref="195851454"/>
+    <nd ref="195863820"/>
+    <nd ref="195863821"/>
+    <nd ref="195863822"/>
+    <nd ref="195863823"/>
+    <nd ref="195863824"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46126533:46127148"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18932683">
+    <nd ref="195907265"/>
+    <nd ref="195916838"/>
+    <nd ref="195916840"/>
+    <nd ref="195916842"/>
+    <nd ref="195916843"/>
+    <nd ref="195916844"/>
+    <nd ref="195916845"/>
+    <nd ref="195916846"/>
+    <nd ref="195916847"/>
+    <nd ref="195916848"/>
+    <nd ref="195916850"/>
+    <nd ref="195916852"/>
+    <nd ref="195916854"/>
+    <nd ref="195916855"/>
+    <nd ref="195916857"/>
+    <nd ref="195916858"/>
+    <nd ref="195916859"/>
+    <nd ref="195916860"/>
+    <nd ref="195916870"/>
+    <nd ref="195916871"/>
+    <nd ref="195916872"/>
+    <nd ref="195916873"/>
+    <nd ref="195916874"/>
+    <nd ref="195916875"/>
+    <nd ref="195916877"/>
+    <nd ref="195916879"/>
+    <nd ref="195916880"/>
+    <nd ref="195916881"/>
+    <nd ref="195916882"/>
+    <nd ref="195916884"/>
+    <nd ref="195916886"/>
+    <nd ref="195916887"/>
+    <nd ref="195916888"/>
+    <nd ref="195916890"/>
+    <nd ref="195916892"/>
+    <nd ref="195916893"/>
+    <nd ref="195916894"/>
+    <nd ref="195916896"/>
+    <nd ref="195916898"/>
+    <nd ref="195916900"/>
+    <nd ref="195916902"/>
+    <nd ref="195916904"/>
+    <nd ref="195916907"/>
+    <nd ref="195916910"/>
+    <nd ref="195863824"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Trail"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Trail"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46127261:46127217:46127145:46127146"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18934580">
+    <nd ref="195921791"/>
+    <nd ref="195932233"/>
+    <nd ref="195932235"/>
+    <nd ref="195932237"/>
+    <nd ref="195932238"/>
+    <nd ref="195932239"/>
+    <nd ref="195932240"/>
+    <nd ref="195932241"/>
+    <nd ref="195932242"/>
+    <nd ref="195932243"/>
+    <nd ref="195932244"/>
+    <nd ref="195932245"/>
+    <nd ref="195932246"/>
+    <nd ref="195932248"/>
+    <nd ref="195932251"/>
+    <nd ref="195932254"/>
+    <nd ref="195932255"/>
+    <nd ref="195932256"/>
+    <nd ref="195932257"/>
+    <nd ref="195932258"/>
+    <nd ref="195922551"/>
+    <nd ref="195932260"/>
+    <nd ref="195858335"/>
+    <nd ref="195932262"/>
+    <nd ref="195932264"/>
+    <nd ref="195932266"/>
+    <nd ref="195932268"/>
+    <nd ref="195932270"/>
+    <nd ref="195932272"/>
+    <nd ref="195932274"/>
+    <nd ref="195932276"/>
+    <nd ref="195932284"/>
+    <nd ref="195932286"/>
+    <nd ref="195932288"/>
+    <nd ref="195932290"/>
+    <nd ref="195932292"/>
+    <nd ref="195851779"/>
+    <nd ref="195851831"/>
+    <nd ref="195932294"/>
+    <nd ref="195851814"/>
+    <nd ref="195834645"/>
+    <nd ref="195919409"/>
+    <nd ref="195932295"/>
+    <nd ref="195932296"/>
+    <nd ref="195851439"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Longbottom Road"/>
+    <tag k="name_1" v="State Road 1728"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Longbottom"/>
+    <tag k="tiger:name_base_1" v="State Road 1728"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28649"/>
+    <tag k="tiger:zip_left_1" v="28649"/>
+    <tag k="tiger:zip_right" v="28649"/>
+  </way>
+  <way id="18934595">
+    <nd ref="195851439"/>
+    <nd ref="195932468"/>
+    <nd ref="195932469"/>
+    <nd ref="195924213"/>
+    <nd ref="195932470"/>
+    <nd ref="195932471"/>
+    <nd ref="195932472"/>
+    <nd ref="195836405"/>
+    <nd ref="195932474"/>
+    <nd ref="195836415"/>
+    <nd ref="195932476"/>
+    <nd ref="195932478"/>
+    <nd ref="195932480"/>
+    <nd ref="195932482"/>
+    <nd ref="195932484"/>
+    <nd ref="195932486"/>
+    <nd ref="195931410"/>
+    <nd ref="195932487"/>
+    <nd ref="195932488"/>
+    <nd ref="195876721"/>
+    <nd ref="195932489"/>
+    <nd ref="195932490"/>
+    <nd ref="195932492"/>
+    <nd ref="195932494"/>
+    <nd ref="195932496"/>
+    <nd ref="195932498"/>
+    <nd ref="195932500"/>
+    <nd ref="195932502"/>
+    <nd ref="195932505"/>
+    <nd ref="195839895"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Longbottom Road"/>
+    <tag k="name_1" v="State Road 1728"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Longbottom"/>
+    <tag k="tiger:name_base_1" v="State Road 1728"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:01:02Z"/>
+
+  <way id="16656599">
+    <nd ref="172072203"/>
+    <nd ref="172072206"/>
+    <nd ref="172072209"/>
+    <nd ref="172072212"/>
+    <nd ref="172072215"/>
+    <nd ref="172072218"/>
+    <nd ref="172070685"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buddy Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Buddy Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16656680">
+    <nd ref="171971733"/>
+    <nd ref="172073528"/>
+    <nd ref="172073530"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Forest Acres"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Forest Acres"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35502021"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16659047">
+    <nd ref="172072212"/>
+    <nd ref="172107577"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stewart Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Stewart"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16659981">
+    <nd ref="172032607"/>
+    <nd ref="172118654"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rynes Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Rynes"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+    <tag k="tiger:zip_right" v="28763"/>
+  </way>
+
+</osm>

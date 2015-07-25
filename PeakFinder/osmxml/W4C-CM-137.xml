@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16786309">
+    <nd ref="173642233"/>
+    <nd ref="173670823"/>
+    <nd ref="173670826"/>
+    <nd ref="173670829"/>
+    <nd ref="173670830"/>
+    <nd ref="173670837"/>
+    <nd ref="173670839"/>
+    <nd ref="173670842"/>
+    <nd ref="173670843"/>
+    <nd ref="173670845"/>
+    <nd ref="173623820"/>
+    <nd ref="173670847"/>
+    <nd ref="173670850"/>
+    <nd ref="173670854"/>
+    <nd ref="173623933"/>
+    <nd ref="173670857"/>
+    <nd ref="173670859"/>
+    <nd ref="173670861"/>
+    <nd ref="173670863"/>
+    <nd ref="173586103"/>
+    <nd ref="173670867"/>
+    <nd ref="173670870"/>
+    <nd ref="173670873"/>
+    <nd ref="173670876"/>
+    <nd ref="173670880"/>
+    <nd ref="173670883"/>
+    <nd ref="173670887"/>
+    <nd ref="173670890"/>
+    <nd ref="173670894"/>
+    <nd ref="173670897"/>
+    <nd ref="173670901"/>
+    <nd ref="173670904"/>
+    <nd ref="173670908"/>
+    <nd ref="173670911"/>
+    <nd ref="173670914"/>
+    <nd ref="173670918"/>
+    <nd ref="173670921"/>
+    <nd ref="173670923"/>
+    <nd ref="173670926"/>
+    <nd ref="173670929"/>
+    <nd ref="173670931"/>
+    <nd ref="173670933"/>
+    <nd ref="173670937"/>
+    <nd ref="173670940"/>
+    <nd ref="173670942"/>
+    <nd ref="173670946"/>
+    <nd ref="173670949"/>
+    <nd ref="173670953"/>
+    <nd ref="173670956"/>
+    <nd ref="173670958"/>
+    <nd ref="173670959"/>
+    <nd ref="173670963"/>
+    <nd ref="173670967"/>
+    <nd ref="173670970"/>
+    <nd ref="173670973"/>
+    <nd ref="173670975"/>
+    <nd ref="173670976"/>
+    <nd ref="173670978"/>
+    <nd ref="173670979"/>
+    <nd ref="173670982"/>
+    <nd ref="173670985"/>
+    <nd ref="173670987"/>
+    <nd ref="173621993"/>
+    <nd ref="173670989"/>
+    <nd ref="173588388"/>
+    <nd ref="173670991"/>
+    <nd ref="173670994"/>
+    <nd ref="173670997"/>
+    <nd ref="173671001"/>
+    <nd ref="173671004"/>
+    <nd ref="173671009"/>
+    <nd ref="173671012"/>
+    <nd ref="173671014"/>
+    <nd ref="173671016"/>
+    <nd ref="173671017"/>
+    <nd ref="173671019"/>
+    <nd ref="173671021"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nancy Mount Road"/>
+    <tag k="name_1" v="Old CC Road"/>
+    <tag k="name_2" v="State Road 1142"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Nancy Mount"/>
+    <tag k="tiger:name_base_1" v="Old CC"/>
+    <tag k="tiger:name_base_2" v="State Road 1142"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

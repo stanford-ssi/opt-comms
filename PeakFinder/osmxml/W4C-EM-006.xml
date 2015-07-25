@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16405491">
+    <nd ref="169315307"/>
+    <nd ref="169320931"/>
+    <nd ref="169302414"/>
+    <nd ref="169320932"/>
+    <nd ref="169320934"/>
+    <nd ref="169320936"/>
+    <nd ref="169320938"/>
+    <nd ref="169320941"/>
+    <nd ref="169320945"/>
+    <nd ref="169320952"/>
+    <nd ref="169303483"/>
+    <nd ref="169320955"/>
+    <nd ref="169320957"/>
+    <nd ref="169283443"/>
+    <nd ref="169320959"/>
+    <nd ref="169320961"/>
+    <nd ref="169320963"/>
+    <nd ref="169320966"/>
+    <nd ref="169320969"/>
+    <nd ref="169320972"/>
+    <nd ref="169320976"/>
+    <nd ref="169320979"/>
+    <nd ref="169320982"/>
+    <nd ref="169320987"/>
+    <nd ref="169320990"/>
+    <nd ref="169320993"/>
+    <nd ref="169320995"/>
+    <nd ref="169320997"/>
+    <nd ref="169320999"/>
+    <nd ref="169321002"/>
+    <nd ref="169321005"/>
+    <nd ref="169321008"/>
+    <nd ref="169321011"/>
+    <nd ref="169321013"/>
+    <nd ref="169321015"/>
+    <nd ref="169321017"/>
+    <nd ref="169321018"/>
+    <nd ref="169321019"/>
+    <nd ref="169321020"/>
+    <nd ref="169321022"/>
+    <nd ref="169321024"/>
+    <nd ref="169321027"/>
+    <nd ref="169321028"/>
+    <nd ref="169321030"/>
+    <nd ref="169321031"/>
+    <nd ref="169321032"/>
+    <nd ref="169321035"/>
+    <nd ref="169321037"/>
+    <nd ref="169321039"/>
+    <nd ref="169321041"/>
+    <nd ref="169321042"/>
+    <nd ref="169321043"/>
+    <nd ref="169321045"/>
+    <nd ref="169321047"/>
+    <nd ref="169321049"/>
+    <nd ref="169321050"/>
+    <nd ref="169321051"/>
+    <nd ref="169321052"/>
+    <nd ref="169321053"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Powdermill Road"/>
+    <tag k="name_1" v="State Road 1130"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Powdermill"/>
+    <tag k="tiger:name_base_1" v="State Road 1130"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

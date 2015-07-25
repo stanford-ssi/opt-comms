@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16434902">
+    <nd ref="169622971"/>
+    <nd ref="169622973"/>
+    <nd ref="169622975"/>
+    <nd ref="169622977"/>
+    <nd ref="169622978"/>
+    <nd ref="169622981"/>
+    <nd ref="169622983"/>
+    <nd ref="169622985"/>
+    <nd ref="169622988"/>
+    <nd ref="169622990"/>
+    <nd ref="169622992"/>
+    <nd ref="169622996"/>
+    <nd ref="169622999"/>
+    <nd ref="169623003"/>
+    <nd ref="169623007"/>
+    <nd ref="169623010"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Crestview Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Crestview"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16435494">
+    <nd ref="169628462"/>
+    <nd ref="169628464"/>
+    <nd ref="169628466"/>
+    <nd ref="169628469"/>
+    <nd ref="169628471"/>
+    <nd ref="169628472"/>
+    <nd ref="169628474"/>
+    <nd ref="169628476"/>
+    <nd ref="169628478"/>
+    <nd ref="169628480"/>
+    <nd ref="169628482"/>
+    <nd ref="169628484"/>
+    <nd ref="169628487"/>
+    <nd ref="169628491"/>
+    <nd ref="169628494"/>
+    <nd ref="169628496"/>
+    <nd ref="169628497"/>
+    <nd ref="169628499"/>
+    <nd ref="169628501"/>
+    <nd ref="169628503"/>
+    <nd ref="169628505"/>
+    <nd ref="169628507"/>
+    <nd ref="169628509"/>
+    <nd ref="169628511"/>
+    <nd ref="169622971"/>
+    <nd ref="169628513"/>
+    <nd ref="169628515"/>
+    <nd ref="169628518"/>
+    <nd ref="169628525"/>
+    <nd ref="169628528"/>
+    <nd ref="169628531"/>
+    <nd ref="169628534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chapel Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Chapel"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28711"/>
+    <tag k="tiger:zip_right" v="28711"/>
+  </way>
+  <way id="16440577">
+    <nd ref="169684369"/>
+    <nd ref="169684374"/>
+    <nd ref="169684377"/>
+    <nd ref="169684381"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Crest View"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Crest View"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36907330"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16449785">
+    <nd ref="169676910"/>
+    <nd ref="169722571"/>
+    <nd ref="169764654"/>
+    <nd ref="169764656"/>
+    <nd ref="169764658"/>
+    <nd ref="169764661"/>
+    <nd ref="169764664"/>
+    <nd ref="169764667"/>
+    <nd ref="169764670"/>
+    <nd ref="169764673"/>
+    <nd ref="169764675"/>
+    <nd ref="169764678"/>
+    <nd ref="169764680"/>
+    <nd ref="169764683"/>
+    <nd ref="169675927"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Allen Mountain Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Allen Mountain"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28711"/>
+    <tag k="tiger:zip_left_1" v="28711"/>
+  </way>
+  <way id="16452468">
+    <nd ref="169676910"/>
+    <nd ref="169789390"/>
+    <nd ref="169789392"/>
+    <nd ref="169789394"/>
+    <nd ref="169628534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Allen Mtn Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Allen Mtn"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16454219">
+    <nd ref="169623010"/>
+    <nd ref="169805994"/>
+    <nd ref="169805996"/>
+    <nd ref="169684369"/>
+    <nd ref="169805999"/>
+    <nd ref="169806003"/>
+    <nd ref="169806005"/>
+    <nd ref="169806007"/>
+    <nd ref="169806009"/>
+    <nd ref="169806012"/>
+    <nd ref="169806015"/>
+    <nd ref="169806018"/>
+    <nd ref="169622985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pinnacle Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Pinnacle"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28711"/>
+  </way>
+
+</osm>

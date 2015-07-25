@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="16661543">
+    <nd ref="172138702"/>
+    <nd ref="172138705"/>
+    <nd ref="172138708"/>
+    <nd ref="172138710"/>
+    <nd ref="172138712"/>
+    <nd ref="172138715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37297574:37297577:37297579"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16661547">
+    <nd ref="172138708"/>
+    <nd ref="172138788"/>
+    <nd ref="172138796"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37297576"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16661549">
+    <nd ref="172138712"/>
+    <nd ref="172138808"/>
+    <nd ref="172138811"/>
+    <nd ref="172138814"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37297578"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16662540">
+    <nd ref="172129876"/>
+    <nd ref="172155429"/>
+    <nd ref="172155432"/>
+    <nd ref="172155435"/>
+    <nd ref="172155438"/>
+    <nd ref="172155441"/>
+    <nd ref="172155444"/>
+    <nd ref="172155447"/>
+    <nd ref="172155449"/>
+    <nd ref="172155452"/>
+    <nd ref="172155454"/>
+    <nd ref="172155455"/>
+    <nd ref="172155456"/>
+    <nd ref="172155457"/>
+    <nd ref="172155459"/>
+    <nd ref="172155461"/>
+    <nd ref="172155464"/>
+    <nd ref="172155467"/>
+    <nd ref="172155470"/>
+    <nd ref="172155473"/>
+    <nd ref="172155475"/>
+    <nd ref="172155477"/>
+    <nd ref="172155479"/>
+    <nd ref="172155481"/>
+    <nd ref="172155484"/>
+    <nd ref="172155487"/>
+    <nd ref="172155488"/>
+    <nd ref="172155491"/>
+    <nd ref="172155493"/>
+    <nd ref="172155495"/>
+    <nd ref="172155498"/>
+    <nd ref="172155501"/>
+    <nd ref="172155505"/>
+    <nd ref="172155507"/>
+    <nd ref="172155509"/>
+    <nd ref="172155510"/>
+    <nd ref="172155514"/>
+    <nd ref="172155515"/>
+    <nd ref="172155518"/>
+    <nd ref="172155521"/>
+    <nd ref="172155524"/>
+    <nd ref="172155527"/>
+    <nd ref="172155530"/>
+    <nd ref="172155532"/>
+    <nd ref="172155534"/>
+    <nd ref="172155536"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Arrowhead Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Arrowhead Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28777"/>
+    <tag k="tiger:zip_right" v="28777"/>
+  </way>
+  <way id="16663897">
+    <nd ref="172150307"/>
+    <nd ref="172179576"/>
+    <nd ref="172179578"/>
+    <nd ref="172179579"/>
+    <nd ref="172179582"/>
+    <nd ref="172179585"/>
+    <nd ref="172179587"/>
+    <nd ref="172179590"/>
+    <nd ref="172179593"/>
+    <nd ref="172179595"/>
+    <nd ref="172179597"/>
+    <nd ref="172179599"/>
+    <nd ref="172179601"/>
+    <nd ref="172179603"/>
+    <nd ref="172179606"/>
+    <nd ref="172179608"/>
+    <nd ref="172179611"/>
+    <nd ref="172179612"/>
+    <nd ref="172179614"/>
+    <nd ref="172179616"/>
+    <nd ref="172179618"/>
+    <nd ref="172179620"/>
+    <nd ref="172138702"/>
+    <nd ref="172179621"/>
+    <nd ref="172179622"/>
+    <nd ref="172179624"/>
+    <nd ref="172179627"/>
+    <nd ref="172179629"/>
+    <nd ref="172179632"/>
+    <nd ref="172179634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Firetower Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Firetower"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28777"/>
+  </way>
+
+</osm>

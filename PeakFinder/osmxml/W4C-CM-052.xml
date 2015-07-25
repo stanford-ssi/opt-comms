@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16418797">
+    <nd ref="169476084"/>
+    <nd ref="169476087"/>
+    <nd ref="169476089"/>
+    <nd ref="169476092"/>
+    <nd ref="169476094"/>
+    <nd ref="169476097"/>
+    <nd ref="169476100"/>
+    <nd ref="169476103"/>
+    <nd ref="169476106"/>
+    <nd ref="169476109"/>
+    <nd ref="169476112"/>
+    <nd ref="169476114"/>
+    <nd ref="169476116"/>
+    <nd ref="169476118"/>
+    <nd ref="169476121"/>
+    <nd ref="169476125"/>
+    <nd ref="169476128"/>
+    <nd ref="169476130"/>
+    <nd ref="169476133"/>
+    <nd ref="169476136"/>
+    <nd ref="169476139"/>
+    <nd ref="169476142"/>
+    <nd ref="169476144"/>
+    <nd ref="169476147"/>
+    <nd ref="169476150"/>
+    <nd ref="169476152"/>
+    <nd ref="169476154"/>
+    <nd ref="169476157"/>
+    <nd ref="169476160"/>
+    <nd ref="169476163"/>
+    <nd ref="169476166"/>
+    <nd ref="169476169"/>
+    <nd ref="169476171"/>
+    <nd ref="169476174"/>
+    <nd ref="169469129"/>
+    <nd ref="169476177"/>
+    <nd ref="169476180"/>
+    <nd ref="169476182"/>
+    <nd ref="169476185"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36865377:36860658:36860606:36860608:36860609:36860610:36860612:36860616:36860618:36860619"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16419215">
+    <nd ref="169476116"/>
+    <nd ref="169480677"/>
+    <nd ref="169480680"/>
+    <nd ref="169480682"/>
+    <nd ref="169480686"/>
+    <nd ref="169480688"/>
+    <nd ref="169480690"/>
+    <nd ref="169480692"/>
+    <nd ref="169480695"/>
+    <nd ref="169480698"/>
+    <nd ref="169480700"/>
+    <nd ref="169480702"/>
+    <nd ref="169480704"/>
+    <nd ref="169480707"/>
+    <nd ref="169480708"/>
+    <nd ref="169480709"/>
+    <nd ref="169469138"/>
+    <nd ref="169480712"/>
+    <nd ref="169476171"/>
+    <nd ref="169480714"/>
+    <nd ref="169480716"/>
+    <nd ref="169480720"/>
+    <nd ref="169480723"/>
+    <nd ref="169480725"/>
+    <nd ref="169480728"/>
+    <nd ref="169480738"/>
+    <nd ref="169480741"/>
+    <nd ref="169476136"/>
+    <nd ref="169480749"/>
+    <nd ref="169476130"/>
+    <nd ref="169480750"/>
+    <nd ref="169480753"/>
+    <nd ref="169480754"/>
+    <nd ref="169480757"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36860656:36860611:36860613:36859678:36860615:36859680:36859681:36862777"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16420756">
+    <nd ref="169476114"/>
+    <nd ref="169497825"/>
+    <nd ref="169497829"/>
+    <nd ref="169476112"/>
+    <nd ref="169497832"/>
+    <nd ref="169497834"/>
+    <nd ref="169497838"/>
+    <nd ref="169480757"/>
+    <nd ref="169497841"/>
+    <nd ref="169497844"/>
+    <nd ref="169497848"/>
+    <nd ref="169497851"/>
+    <nd ref="169497853"/>
+    <nd ref="169497855"/>
+    <nd ref="169497857"/>
+    <nd ref="169497859"/>
+    <nd ref="169476084"/>
+    <nd ref="169497861"/>
+    <nd ref="169497864"/>
+    <nd ref="169497866"/>
+    <nd ref="169497867"/>
+    <nd ref="169497871"/>
+    <nd ref="169497873"/>
+    <nd ref="169497876"/>
+    <nd ref="169497880"/>
+    <nd ref="169497883"/>
+    <nd ref="169497886"/>
+    <nd ref="169481135"/>
+    <nd ref="169497889"/>
+    <nd ref="169497891"/>
+    <nd ref="169497893"/>
+    <nd ref="169497895"/>
+    <nd ref="169497898"/>
+    <nd ref="169497900"/>
+    <nd ref="169481144"/>
+    <nd ref="169497902"/>
+    <nd ref="169497904"/>
+    <nd ref="169497907"/>
+    <nd ref="169497910"/>
+    <nd ref="169497913"/>
+    <nd ref="169481161"/>
+    <nd ref="169497916"/>
+    <nd ref="169497920"/>
+    <nd ref="169497924"/>
+    <nd ref="169497928"/>
+    <nd ref="169497931"/>
+    <nd ref="169497934"/>
+    <nd ref="169481206"/>
+    <nd ref="169497937"/>
+    <nd ref="169497939"/>
+    <nd ref="169497943"/>
+    <nd ref="169497945"/>
+    <nd ref="169497948"/>
+    <nd ref="169497951"/>
+    <nd ref="169497954"/>
+    <nd ref="169497957"/>
+    <nd ref="169497960"/>
+    <nd ref="169497962"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36883156:36859642:36859953:36860591:36860601:36859676:36865370:36865371:36860652:36860604:36860607:36859677:36860654:36860597:36859661"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16421368">
+    <nd ref="169504009"/>
+    <nd ref="169504012"/>
+    <nd ref="169504014"/>
+    <nd ref="169480680"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36859682"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16425327">
+    <nd ref="169504129"/>
+    <nd ref="169546757"/>
+    <nd ref="169546760"/>
+    <nd ref="169546762"/>
+    <nd ref="169546764"/>
+    <nd ref="169546766"/>
+    <nd ref="169546769"/>
+    <nd ref="169546771"/>
+    <nd ref="169546774"/>
+    <nd ref="169546776"/>
+    <nd ref="169546778"/>
+    <nd ref="169546780"/>
+    <nd ref="169546782"/>
+    <nd ref="169546785"/>
+    <nd ref="169546788"/>
+    <nd ref="169546792"/>
+    <nd ref="169546794"/>
+    <nd ref="169546798"/>
+    <nd ref="169546800"/>
+    <nd ref="169512764"/>
+    <nd ref="169546804"/>
+    <nd ref="169546807"/>
+    <nd ref="169546810"/>
+    <nd ref="169546813"/>
+    <nd ref="169546816"/>
+    <nd ref="169546819"/>
+    <nd ref="169546822"/>
+    <nd ref="169546825"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16656390">
+    <nd ref="172068711"/>
+    <nd ref="172068712"/>
+    <nd ref="172068713"/>
+    <nd ref="172068714"/>
+    <nd ref="172068717"/>
+    <nd ref="172068720"/>
+    <nd ref="172068723"/>
+    <nd ref="172068726"/>
+    <nd ref="172068728"/>
+    <nd ref="172068735"/>
+    <nd ref="172068739"/>
+    <nd ref="172068745"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cell Tower Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Cell Tower"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

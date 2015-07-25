@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="18936815">
+    <nd ref="195958545"/>
+    <nd ref="195958547"/>
+    <nd ref="195958549"/>
+    <nd ref="195958551"/>
+    <nd ref="195958552"/>
+    <nd ref="195958553"/>
+    <nd ref="195958555"/>
+    <nd ref="195958557"/>
+    <nd ref="195958559"/>
+    <nd ref="195958561"/>
+    <nd ref="195958563"/>
+    <nd ref="195958564"/>
+    <nd ref="195958567"/>
+    <nd ref="195958568"/>
+    <nd ref="195958569"/>
+    <nd ref="195958570"/>
+    <nd ref="195958572"/>
+    <nd ref="195958574"/>
+    <nd ref="195958576"/>
+    <nd ref="195958578"/>
+    <nd ref="195958579"/>
+    <nd ref="195958580"/>
+    <nd ref="195958581"/>
+    <nd ref="195958582"/>
+    <nd ref="195958583"/>
+    <nd ref="195958584"/>
+    <nd ref="195958586"/>
+    <nd ref="195958588"/>
+    <nd ref="195963005"/>
+    <nd ref="195958592"/>
+    <nd ref="195958594"/>
+    <nd ref="195958596"/>
+    <nd ref="195958598"/>
+    <nd ref="195958600"/>
+    <nd ref="195958602"/>
+    <nd ref="195958604"/>
+    <nd ref="195958606"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37421710:37429509"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18939666">
+    <nd ref="195958570"/>
+    <nd ref="195984120"/>
+    <nd ref="195984122"/>
+    <nd ref="195984124"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37414644"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+
+</osm>

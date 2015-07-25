@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="16661074">
+    <nd ref="172132063"/>
+    <nd ref="172132065"/>
+    <nd ref="172132068"/>
+    <nd ref="172132070"/>
+    <nd ref="172132073"/>
+    <nd ref="172132076"/>
+    <nd ref="172132079"/>
+    <nd ref="172132082"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37287667:37291812"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16661195">
+    <nd ref="172133521"/>
+    <nd ref="172133524"/>
+    <nd ref="172133527"/>
+    <nd ref="172133530"/>
+    <nd ref="172133533"/>
+    <nd ref="172133539"/>
+    <nd ref="172133542"/>
+    <nd ref="172133545"/>
+    <nd ref="172133548"/>
+    <nd ref="172133551"/>
+    <nd ref="172133553"/>
+    <nd ref="172133555"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37291338:37291810:37287665:37291811"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16661264">
+    <nd ref="172132065"/>
+    <nd ref="172134650"/>
+    <nd ref="172134653"/>
+    <nd ref="172134656"/>
+    <nd ref="172134659"/>
+    <nd ref="172134661"/>
+    <nd ref="172134663"/>
+    <nd ref="172134665"/>
+    <nd ref="172133539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37292160:37292351"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16662218">
+    <nd ref="172149768"/>
+    <nd ref="172149769"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sims Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Sims"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16663343">
+    <nd ref="172133542"/>
+    <nd ref="172169792"/>
+    <nd ref="172169795"/>
+    <nd ref="172149768"/>
+    <nd ref="172169798"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ebner Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Ebner"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

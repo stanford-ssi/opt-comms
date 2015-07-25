@@ -1,0 +1,3810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:37:02Z"/>
+
+  <way id="13547873">
+    <nd ref="124579539"/>
+    <nd ref="124579542"/>
+    <nd ref="124579545"/>
+    <nd ref="124579547"/>
+    <nd ref="124579550"/>
+    <nd ref="124579553"/>
+    <nd ref="124579556"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 2016"/>
+    <tag k="name_1" v="Millen Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 2016"/>
+    <tag k="tiger:name_base_1" v="Millen"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13548024">
+    <nd ref="124581153"/>
+    <nd ref="124581156"/>
+    <nd ref="124581158"/>
+    <nd ref="124581161"/>
+    <nd ref="124581164"/>
+    <nd ref="124581167"/>
+    <nd ref="124581170"/>
+    <nd ref="124581173"/>
+    <nd ref="124581176"/>
+    <nd ref="124581179"/>
+    <nd ref="124581182"/>
+    <nd ref="124581187"/>
+    <nd ref="124581190"/>
+    <nd ref="124581197"/>
+    <nd ref="124581200"/>
+    <nd ref="124581203"/>
+    <nd ref="124581205"/>
+    <nd ref="124581207"/>
+    <nd ref="124581209"/>
+    <nd ref="124581211"/>
+    <nd ref="124581213"/>
+    <nd ref="124581215"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344090:152344093"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548039">
+    <nd ref="124581422"/>
+    <nd ref="124581425"/>
+    <nd ref="124581428"/>
+    <nd ref="124581431"/>
+    <nd ref="124581433"/>
+    <nd ref="124581435"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333160"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548043">
+    <nd ref="124581464"/>
+    <nd ref="124581466"/>
+    <nd ref="124581468"/>
+    <nd ref="124581470"/>
+    <nd ref="124581472"/>
+    <nd ref="124581474"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333162"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548172">
+    <nd ref="124582463"/>
+    <nd ref="124582466"/>
+    <nd ref="124582469"/>
+    <nd ref="124582472"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333155"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548213">
+    <nd ref="124582814"/>
+    <nd ref="124582816"/>
+    <nd ref="124582818"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333225"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548256">
+    <nd ref="124583152"/>
+    <nd ref="124583155"/>
+    <nd ref="124583158"/>
+    <nd ref="124583162"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333148"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548322">
+    <nd ref="124583640"/>
+    <nd ref="124583643"/>
+    <nd ref="124583646"/>
+    <nd ref="124583648"/>
+    <nd ref="124583650"/>
+    <nd ref="124583653"/>
+    <nd ref="124583656"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337492"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548332">
+    <nd ref="124583703"/>
+    <nd ref="124583705"/>
+    <nd ref="124583707"/>
+    <nd ref="124583709"/>
+    <nd ref="124583712"/>
+    <nd ref="124583715"/>
+    <nd ref="124583717"/>
+    <nd ref="124583720"/>
+    <nd ref="124583722"/>
+    <nd ref="124583725"/>
+    <nd ref="124583728"/>
+    <nd ref="124583733"/>
+    <nd ref="124583735"/>
+    <nd ref="124583738"/>
+    <nd ref="124583741"/>
+    <nd ref="124583745"/>
+    <nd ref="124583749"/>
+    <nd ref="124583752"/>
+    <nd ref="124583755"/>
+    <nd ref="124583758"/>
+    <nd ref="124583761"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337496:152337294"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548440">
+    <nd ref="124584796"/>
+    <nd ref="124584800"/>
+    <nd ref="124584803"/>
+    <nd ref="124584806"/>
+    <nd ref="124584811"/>
+    <nd ref="124584812"/>
+    <nd ref="124584815"/>
+    <nd ref="124584817"/>
+    <nd ref="124584820"/>
+    <nd ref="124584823"/>
+    <nd ref="124584826"/>
+    <nd ref="124584828"/>
+    <nd ref="124584830"/>
+    <nd ref="124584831"/>
+    <nd ref="124584833"/>
+    <nd ref="124584835"/>
+    <nd ref="124584837"/>
+    <nd ref="124584839"/>
+    <nd ref="124584841"/>
+    <nd ref="124584843"/>
+    <nd ref="124584845"/>
+    <nd ref="124584847"/>
+    <nd ref="124584849"/>
+    <nd ref="124584851"/>
+    <nd ref="124584853"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337480:152337479:152341973:152337356"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548442">
+    <nd ref="124584861"/>
+    <nd ref="124584863"/>
+    <nd ref="124584865"/>
+    <nd ref="124584867"/>
+    <nd ref="124584869"/>
+    <nd ref="124584872"/>
+    <nd ref="124584873"/>
+    <nd ref="124584876"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337486:152337488"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548443">
+    <nd ref="124584881"/>
+    <nd ref="124584883"/>
+    <nd ref="124584885"/>
+    <nd ref="124584888"/>
+    <nd ref="124584867"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337489"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548876">
+    <nd ref="124588658"/>
+    <nd ref="124588661"/>
+    <nd ref="124588664"/>
+    <nd ref="124588667"/>
+    <nd ref="124588670"/>
+    <nd ref="124588672"/>
+    <nd ref="124588675"/>
+    <nd ref="124588678"/>
+    <nd ref="124588681"/>
+    <nd ref="124588683"/>
+    <nd ref="124588685"/>
+    <nd ref="124588686"/>
+    <nd ref="124588687"/>
+    <nd ref="124588689"/>
+    <nd ref="124588690"/>
+    <nd ref="124588691"/>
+    <nd ref="124588692"/>
+    <nd ref="124588695"/>
+    <nd ref="124588697"/>
+    <nd ref="124588699"/>
+    <nd ref="124588701"/>
+    <nd ref="124584828"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152341971:152337307"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548913">
+    <nd ref="124589080"/>
+    <nd ref="124589083"/>
+    <nd ref="124589086"/>
+    <nd ref="124589089"/>
+    <nd ref="124589091"/>
+    <nd ref="124589093"/>
+    <nd ref="124589095"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337447:152337448"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13548995">
+    <nd ref="124589755"/>
+    <nd ref="124589758"/>
+    <nd ref="124589761"/>
+    <nd ref="124589763"/>
+    <nd ref="124589765"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152332941"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549009">
+    <nd ref="124589785"/>
+    <nd ref="124589787"/>
+    <nd ref="124583703"/>
+    <nd ref="124589790"/>
+    <nd ref="124589793"/>
+    <nd ref="124589796"/>
+    <nd ref="124589799"/>
+    <nd ref="124589801"/>
+    <nd ref="124589804"/>
+    <nd ref="124589807"/>
+    <nd ref="124589810"/>
+    <nd ref="124589813"/>
+    <nd ref="124589816"/>
+    <nd ref="124589821"/>
+    <nd ref="124589824"/>
+    <nd ref="124589826"/>
+    <nd ref="124589828"/>
+    <nd ref="124589830"/>
+    <nd ref="124589833"/>
+    <nd ref="124589834"/>
+    <nd ref="124589835"/>
+    <nd ref="124589839"/>
+    <nd ref="124589844"/>
+    <nd ref="124589845"/>
+    <nd ref="124589846"/>
+    <nd ref="124589848"/>
+    <nd ref="124589851"/>
+    <nd ref="124589853"/>
+    <nd ref="124589856"/>
+    <nd ref="124589858"/>
+    <nd ref="124589861"/>
+    <nd ref="124589864"/>
+    <nd ref="124589866"/>
+    <nd ref="124589869"/>
+    <nd ref="124589872"/>
+    <nd ref="124589874"/>
+    <nd ref="124589876"/>
+    <nd ref="124589878"/>
+    <nd ref="124589880"/>
+    <nd ref="124589883"/>
+    <nd ref="124583761"/>
+    <nd ref="124589886"/>
+    <nd ref="124589887"/>
+    <nd ref="124589889"/>
+    <nd ref="124589891"/>
+    <nd ref="124589893"/>
+    <nd ref="124589896"/>
+    <nd ref="124589898"/>
+    <nd ref="124589901"/>
+    <nd ref="124589904"/>
+    <nd ref="124589906"/>
+    <nd ref="124589908"/>
+    <nd ref="124589910"/>
+    <nd ref="124589915"/>
+    <nd ref="124589917"/>
+    <nd ref="124589919"/>
+    <nd ref="124589921"/>
+    <nd ref="124589922"/>
+    <nd ref="124589924"/>
+    <nd ref="124589928"/>
+    <nd ref="124589930"/>
+    <nd ref="124584796"/>
+    <nd ref="124589932"/>
+    <nd ref="124589936"/>
+    <nd ref="124589937"/>
+    <nd ref="124589939"/>
+    <nd ref="124589941"/>
+    <nd ref="124589942"/>
+    <nd ref="124589943"/>
+    <nd ref="124589944"/>
+    <nd ref="124589946"/>
+    <nd ref="124589949"/>
+    <nd ref="124589952"/>
+    <nd ref="124589955"/>
+    <nd ref="124589958"/>
+    <nd ref="124589961"/>
+    <nd ref="124589964"/>
+    <nd ref="124589967"/>
+    <nd ref="124589969"/>
+    <nd ref="124589971"/>
+    <nd ref="124589974"/>
+    <nd ref="124589977"/>
+    <nd ref="124589980"/>
+    <nd ref="124589983"/>
+    <nd ref="124589985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337295:152337296:152337299:152337478:152337300:152337305:152337308"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549014">
+    <nd ref="124590013"/>
+    <nd ref="124590016"/>
+    <nd ref="124590019"/>
+    <nd ref="124590022"/>
+    <nd ref="124590025"/>
+    <nd ref="124590028"/>
+    <nd ref="124590031"/>
+    <nd ref="124590033"/>
+    <nd ref="124590035"/>
+    <nd ref="124590037"/>
+    <nd ref="124590039"/>
+    <nd ref="124590041"/>
+    <nd ref="124590044"/>
+    <nd ref="124590045"/>
+    <nd ref="124589917"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337297"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549082">
+    <nd ref="124590529"/>
+    <nd ref="124590533"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344492"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549086">
+    <nd ref="124590555"/>
+    <nd ref="124590557"/>
+    <nd ref="124590559"/>
+    <nd ref="124590560"/>
+    <nd ref="124590562"/>
+    <nd ref="124590564"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344495"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549088">
+    <nd ref="124590572"/>
+    <nd ref="124590574"/>
+    <nd ref="124590576"/>
+    <nd ref="124590578"/>
+    <nd ref="124590579"/>
+    <nd ref="124590581"/>
+    <nd ref="124590583"/>
+    <nd ref="124590585"/>
+    <nd ref="124590586"/>
+    <nd ref="124590588"/>
+    <nd ref="124590590"/>
+    <nd ref="124590592"/>
+    <nd ref="124590594"/>
+    <nd ref="124590596"/>
+    <nd ref="124590597"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344498"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549189">
+    <nd ref="124591774"/>
+    <nd ref="124591777"/>
+    <nd ref="124591780"/>
+    <nd ref="124591783"/>
+    <nd ref="124591786"/>
+    <nd ref="124591789"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344486"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549194">
+    <nd ref="124591813"/>
+    <nd ref="124591815"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344489"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549273">
+    <nd ref="124592462"/>
+    <nd ref="124592463"/>
+    <nd ref="124592466"/>
+    <nd ref="124592470"/>
+    <nd ref="124592473"/>
+    <nd ref="124592476"/>
+    <nd ref="124592479"/>
+    <nd ref="124592482"/>
+    <nd ref="124592485"/>
+    <nd ref="124592487"/>
+    <nd ref="124592492"/>
+    <nd ref="124592495"/>
+    <nd ref="124592498"/>
+    <nd ref="124592501"/>
+    <nd ref="124592504"/>
+    <nd ref="124592507"/>
+    <nd ref="124592510"/>
+    <nd ref="124592512"/>
+    <nd ref="124592515"/>
+    <nd ref="124592518"/>
+    <nd ref="124592521"/>
+    <nd ref="124592523"/>
+    <nd ref="124592526"/>
+    <nd ref="124592528"/>
+    <nd ref="124592531"/>
+    <nd ref="124592533"/>
+    <nd ref="124592535"/>
+    <nd ref="124592538"/>
+    <nd ref="124592541"/>
+    <nd ref="124592544"/>
+    <nd ref="124592547"/>
+    <nd ref="124592550"/>
+    <nd ref="124592553"/>
+    <nd ref="124592557"/>
+    <nd ref="124592563"/>
+    <nd ref="124592566"/>
+    <nd ref="124592569"/>
+    <nd ref="124592572"/>
+    <nd ref="124592575"/>
+    <nd ref="124592578"/>
+    <nd ref="124592581"/>
+    <nd ref="124592584"/>
+    <nd ref="124592587"/>
+    <nd ref="124592590"/>
+    <nd ref="124592593"/>
+    <nd ref="124592596"/>
+    <nd ref="124592599"/>
+    <nd ref="124592602"/>
+    <nd ref="124592605"/>
+    <nd ref="124592608"/>
+    <nd ref="124592612"/>
+    <nd ref="124592614"/>
+    <nd ref="124592617"/>
+    <nd ref="124592619"/>
+    <nd ref="124592621"/>
+    <nd ref="124592622"/>
+    <nd ref="124592626"/>
+    <nd ref="124592630"/>
+    <nd ref="124592632"/>
+    <nd ref="124592635"/>
+    <nd ref="124592638"/>
+    <nd ref="124592641"/>
+    <nd ref="124592643"/>
+    <nd ref="124592645"/>
+    <nd ref="124592647"/>
+    <nd ref="124592654"/>
+    <nd ref="124592656"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337417:152337311:152337315:152337317"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549570">
+    <nd ref="124592566"/>
+    <nd ref="124595517"/>
+    <nd ref="124595519"/>
+    <nd ref="124595522"/>
+    <nd ref="124595525"/>
+    <nd ref="124595528"/>
+    <nd ref="124595530"/>
+    <nd ref="124595532"/>
+    <nd ref="124595534"/>
+    <nd ref="124595536"/>
+    <nd ref="124595538"/>
+    <nd ref="124595540"/>
+    <nd ref="124595543"/>
+    <nd ref="124595546"/>
+    <nd ref="124595549"/>
+    <nd ref="124595552"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337313"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549654">
+    <nd ref="124592473"/>
+    <nd ref="124596553"/>
+    <nd ref="124596554"/>
+    <nd ref="124596555"/>
+    <nd ref="124596557"/>
+    <nd ref="124596560"/>
+    <nd ref="124596563"/>
+    <nd ref="124596566"/>
+    <nd ref="124596568"/>
+    <nd ref="124596571"/>
+    <nd ref="124596572"/>
+    <nd ref="124596573"/>
+    <nd ref="124596575"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337302"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549656">
+    <nd ref="124584835"/>
+    <nd ref="124596583"/>
+    <nd ref="124596586"/>
+    <nd ref="124596589"/>
+    <nd ref="124596592"/>
+    <nd ref="124596593"/>
+    <nd ref="124596594"/>
+    <nd ref="124596596"/>
+    <nd ref="124589924"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337304"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549657">
+    <nd ref="124589943"/>
+    <nd ref="124596606"/>
+    <nd ref="124596609"/>
+    <nd ref="124596612"/>
+    <nd ref="124596615"/>
+    <nd ref="124588686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337306"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13549738">
+    <nd ref="124597302"/>
+    <nd ref="124597304"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152344501"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13550443">
+    <nd ref="124638251"/>
+    <nd ref="124604067"/>
+    <nd ref="2902874310"/>
+    <nd ref="124604069"/>
+    <nd ref="124604071"/>
+    <nd ref="124604073"/>
+    <nd ref="124604075"/>
+    <nd ref="124604076"/>
+    <nd ref="124604077"/>
+    <nd ref="124604078"/>
+    <nd ref="124604079"/>
+    <nd ref="124604081"/>
+    <nd ref="124604083"/>
+    <nd ref="124595609"/>
+    <nd ref="124604085"/>
+    <nd ref="124604087"/>
+    <nd ref="124604088"/>
+    <nd ref="124604090"/>
+    <nd ref="124604092"/>
+    <nd ref="124595552"/>
+    <nd ref="124604095"/>
+    <nd ref="124604097"/>
+    <nd ref="124604099"/>
+    <nd ref="124604101"/>
+    <nd ref="124604103"/>
+    <nd ref="124604105"/>
+    <nd ref="124604107"/>
+    <nd ref="124604108"/>
+    <nd ref="124604109"/>
+    <nd ref="124604110"/>
+    <nd ref="124604111"/>
+    <nd ref="124604112"/>
+    <nd ref="124604114"/>
+    <nd ref="124604115"/>
+    <nd ref="124584853"/>
+    <nd ref="124589785"/>
+    <nd ref="124604116"/>
+    <nd ref="124604117"/>
+    <nd ref="124604119"/>
+    <nd ref="124604121"/>
+    <nd ref="124604123"/>
+    <nd ref="124604125"/>
+    <nd ref="124604127"/>
+    <nd ref="124604129"/>
+    <nd ref="124604131"/>
+    <nd ref="124604133"/>
+    <nd ref="124604134"/>
+    <nd ref="124604135"/>
+    <nd ref="124581215"/>
+    <nd ref="124604136"/>
+    <nd ref="124604138"/>
+    <nd ref="124604141"/>
+    <nd ref="124604143"/>
+    <nd ref="124604147"/>
+    <nd ref="124604149"/>
+    <nd ref="124604150"/>
+    <nd ref="124584881"/>
+    <nd ref="124604152"/>
+    <nd ref="124604154"/>
+    <nd ref="124604155"/>
+    <nd ref="124584861"/>
+    <nd ref="124604156"/>
+    <nd ref="124604157"/>
+    <nd ref="124604158"/>
+    <nd ref="124604159"/>
+    <nd ref="124604160"/>
+    <nd ref="124604162"/>
+    <nd ref="124604164"/>
+    <nd ref="124604166"/>
+    <nd ref="124604168"/>
+    <nd ref="124604170"/>
+    <nd ref="124604171"/>
+    <nd ref="124604173"/>
+    <nd ref="124604176"/>
+    <nd ref="124604178"/>
+    <nd ref="124604180"/>
+    <nd ref="124604182"/>
+    <nd ref="124604184"/>
+    <nd ref="124604186"/>
+    <nd ref="124604188"/>
+    <nd ref="124604190"/>
+    <nd ref="124604192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5201"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5201"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13550485">
+    <nd ref="124604908"/>
+    <nd ref="124604911"/>
+    <nd ref="124604914"/>
+    <nd ref="124604917"/>
+    <nd ref="124604920"/>
+    <nd ref="124583640"/>
+    <nd ref="124604926"/>
+    <nd ref="124604931"/>
+    <nd ref="124604934"/>
+    <nd ref="124604938"/>
+    <nd ref="124604940"/>
+    <nd ref="124604943"/>
+    <nd ref="124604946"/>
+    <nd ref="124604949"/>
+    <nd ref="124604952"/>
+    <nd ref="124604955"/>
+    <nd ref="124604958"/>
+    <nd ref="124604960"/>
+    <nd ref="124604962"/>
+    <nd ref="124604965"/>
+    <nd ref="124604969"/>
+    <nd ref="124604156"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5203"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5203"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337490:152343978"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13550618">
+    <nd ref="124606820"/>
+    <nd ref="124606823"/>
+    <nd ref="124606826"/>
+    <nd ref="124606828"/>
+    <nd ref="124606830"/>
+    <nd ref="124606832"/>
+    <nd ref="124606834"/>
+    <nd ref="124606836"/>
+    <nd ref="124606838"/>
+    <nd ref="124606840"/>
+    <nd ref="124606843"/>
+    <nd ref="124606846"/>
+    <nd ref="124606849"/>
+    <nd ref="124606852"/>
+    <nd ref="124591774"/>
+    <nd ref="124606855"/>
+    <nd ref="124606858"/>
+    <nd ref="124579539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5018"/>
+    <tag k="name_1" v="Millen Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5018"/>
+    <tag k="tiger:name_base_1" v="Millen"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13551005">
+    <nd ref="124577448"/>
+    <nd ref="124581600"/>
+    <nd ref="124581602"/>
+    <nd ref="124581605"/>
+    <nd ref="124638820"/>
+    <nd ref="124638821"/>
+    <nd ref="124625503"/>
+    <nd ref="124638822"/>
+    <nd ref="124638823"/>
+    <nd ref="124638824"/>
+    <nd ref="124638825"/>
+    <nd ref="124625510"/>
+    <nd ref="124638826"/>
+    <nd ref="124638827"/>
+    <nd ref="124638828"/>
+    <nd ref="124638830"/>
+    <nd ref="124635580"/>
+    <nd ref="124610249"/>
+    <nd ref="124579946"/>
+    <nd ref="124610233"/>
+    <nd ref="124638832"/>
+    <nd ref="124638834"/>
+    <nd ref="124638837"/>
+    <nd ref="124638840"/>
+    <nd ref="124638841"/>
+    <nd ref="124638842"/>
+    <nd ref="124604294"/>
+    <nd ref="124638845"/>
+    <nd ref="124638847"/>
+    <nd ref="124598196"/>
+    <nd ref="124638849"/>
+    <nd ref="124638852"/>
+    <nd ref="124638855"/>
+    <nd ref="124611743"/>
+    <nd ref="124611740"/>
+    <nd ref="124609125"/>
+    <nd ref="124611737"/>
+    <nd ref="124609143"/>
+    <nd ref="124611734"/>
+    <nd ref="124596551"/>
+    <nd ref="124611732"/>
+    <nd ref="124611730"/>
+    <nd ref="124611727"/>
+    <nd ref="124611724"/>
+    <nd ref="124596524"/>
+    <nd ref="124611721"/>
+    <nd ref="124611719"/>
+    <nd ref="124611716"/>
+    <nd ref="124611713"/>
+    <nd ref="124611711"/>
+    <nd ref="124611709"/>
+    <nd ref="124611707"/>
+    <nd ref="124585836"/>
+    <nd ref="124611704"/>
+    <nd ref="124611702"/>
+    <nd ref="124611700"/>
+    <nd ref="124611699"/>
+    <nd ref="124611698"/>
+    <nd ref="124611697"/>
+    <nd ref="124589021"/>
+    <nd ref="124611696"/>
+    <nd ref="124611695"/>
+    <nd ref="124638235"/>
+    <nd ref="124638238"/>
+    <nd ref="124638241"/>
+    <nd ref="124638243"/>
+    <nd ref="124638246"/>
+    <nd ref="124634481"/>
+    <nd ref="124638251"/>
+    <nd ref="124638772"/>
+    <nd ref="124638774"/>
+    <nd ref="124638777"/>
+    <nd ref="124591237"/>
+    <nd ref="124592656"/>
+    <nd ref="124638780"/>
+    <nd ref="124638783"/>
+    <nd ref="124592407"/>
+    <nd ref="124638788"/>
+    <nd ref="132762872"/>
+    <nd ref="132709079"/>
+    <nd ref="132762873"/>
+    <nd ref="132762874"/>
+    <nd ref="132742756"/>
+    <nd ref="132762876"/>
+    <nd ref="132734982"/>
+    <nd ref="132707591"/>
+    <nd ref="132762880"/>
+    <nd ref="132727695"/>
+    <nd ref="132762883"/>
+    <nd ref="132762884"/>
+    <nd ref="132762885"/>
+    <nd ref="132710917"/>
+    <nd ref="132762888"/>
+    <nd ref="132762891"/>
+    <nd ref="132762894"/>
+    <nd ref="132761786"/>
+    <nd ref="132745778"/>
+    <nd ref="132762898"/>
+    <nd ref="132762900"/>
+    <nd ref="2142867761"/>
+    <nd ref="132762901"/>
+    <nd ref="2142867766"/>
+    <nd ref="2142867769"/>
+    <nd ref="132762902"/>
+    <nd ref="132762903"/>
+    <nd ref="132750387"/>
+    <nd ref="132762906"/>
+    <nd ref="132762910"/>
+    <nd ref="132729218"/>
+    <nd ref="132760288"/>
+    <nd ref="132762914"/>
+    <nd ref="132762916"/>
+    <nd ref="132762918"/>
+    <nd ref="2142867816"/>
+    <nd ref="2142867817"/>
+    <nd ref="132762920"/>
+    <nd ref="132762923"/>
+    <nd ref="2142867822"/>
+    <nd ref="132762926"/>
+    <nd ref="2142867823"/>
+    <nd ref="2142867824"/>
+    <nd ref="132762929"/>
+    <nd ref="2142867827"/>
+    <nd ref="2142867826"/>
+    <nd ref="2142867825"/>
+    <nd ref="132762933"/>
+    <nd ref="132762936"/>
+    <nd ref="2142867820"/>
+    <nd ref="132762939"/>
+    <nd ref="132756523"/>
+    <nd ref="132762942"/>
+    <nd ref="132746445"/>
+    <nd ref="132762945"/>
+    <nd ref="132762949"/>
+    <nd ref="132718567"/>
+    <nd ref="132762951"/>
+    <nd ref="2142867805"/>
+    <nd ref="132762953"/>
+    <nd ref="2142867802"/>
+    <nd ref="2142867801"/>
+    <nd ref="132762955"/>
+    <nd ref="132761009"/>
+    <nd ref="2142867810"/>
+    <nd ref="132762957"/>
+    <nd ref="132761063"/>
+    <nd ref="132762959"/>
+    <nd ref="132762962"/>
+    <nd ref="132708947"/>
+    <nd ref="132729085"/>
+    <nd ref="2142748008"/>
+    <nd ref="2142748039"/>
+    <nd ref="132762965"/>
+    <nd ref="2142748059"/>
+    <nd ref="132762968"/>
+    <nd ref="2142748070"/>
+    <nd ref="132762969"/>
+    <nd ref="132710835"/>
+    <nd ref="132762971"/>
+    <nd ref="2142748012"/>
+    <nd ref="132762973"/>
+    <nd ref="2142748061"/>
+    <nd ref="2142748066"/>
+    <nd ref="132762974"/>
+    <nd ref="132762976"/>
+    <nd ref="132719714"/>
+    <nd ref="2142748057"/>
+    <nd ref="2142748068"/>
+    <nd ref="132762979"/>
+    <nd ref="2142748073"/>
+    <nd ref="132731512"/>
+    <nd ref="132762981"/>
+    <nd ref="2142748077"/>
+    <nd ref="132762983"/>
+    <nd ref="2142748083"/>
+    <nd ref="2142748086"/>
+    <nd ref="132707797"/>
+    <nd ref="2142748090"/>
+    <nd ref="2142748097"/>
+    <nd ref="2142748100"/>
+    <nd ref="132762984"/>
+    <nd ref="132762986"/>
+    <nd ref="2142748094"/>
+    <nd ref="132762989"/>
+    <nd ref="2142748103"/>
+    <nd ref="132762991"/>
+    <nd ref="132762994"/>
+    <nd ref="132762997"/>
+    <nd ref="2142748169"/>
+    <nd ref="2142748182"/>
+    <nd ref="2142748184"/>
+    <nd ref="132722380"/>
+    <nd ref="132720965"/>
+    <nd ref="132720931"/>
+    <nd ref="132763000"/>
+    <nd ref="132739901"/>
+    <nd ref="132763003"/>
+    <nd ref="2142748191"/>
+    <nd ref="132763006"/>
+    <nd ref="132751203"/>
+    <nd ref="132763009"/>
+    <nd ref="132763011"/>
+    <nd ref="2142748203"/>
+    <nd ref="132713163"/>
+    <nd ref="132722237"/>
+    <nd ref="132763015"/>
+    <nd ref="2142748232"/>
+    <nd ref="132713177"/>
+    <nd ref="132763018"/>
+    <nd ref="132763021"/>
+    <nd ref="132762761"/>
+    <nd ref="132763024"/>
+    <nd ref="132763027"/>
+    <nd ref="132725451"/>
+    <nd ref="132763028"/>
+    <nd ref="132763031"/>
+    <nd ref="132763034"/>
+    <nd ref="132763038"/>
+    <nd ref="132763040"/>
+    <nd ref="132763043"/>
+    <nd ref="132726187"/>
+    <nd ref="132763046"/>
+    <nd ref="132763049"/>
+    <nd ref="132715609"/>
+    <nd ref="132721869"/>
+    <nd ref="132763054"/>
+    <nd ref="132717470"/>
+    <nd ref="132763055"/>
+    <nd ref="132715867"/>
+    <nd ref="132763056"/>
+    <nd ref="132763057"/>
+    <nd ref="132729538"/>
+    <nd ref="132763059"/>
+    <nd ref="132751296"/>
+    <nd ref="132763061"/>
+    <nd ref="132730737"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="ref" v="MS 14"/>
+    <tag k="source" v="Yahoo!. TIGER, Bing"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23 http://www.gomdot.com/Divisions/IntermodalPlanning/Resources/Maps/pdf/FA%20Primary%20System%20of%201988.pdf"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A31:A41"/>
+    <tag k="tiger:county" v="Attala, MS:Winston, MS"/>
+    <tag k="tiger:name_base" v="State Highway 14"/>
+    <tag k="tiger:name_direction_suffix" v="E"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13551120">
+    <nd ref="124612877"/>
+    <nd ref="124612878"/>
+    <nd ref="124612880"/>
+    <nd ref="124612883"/>
+    <nd ref="124612885"/>
+    <nd ref="124604192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5233"/>
+    <tag k="name_1" v="Burks Road"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5233"/>
+    <tag k="tiger:name_base_1" v="Burks"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13551125">
+    <nd ref="124604192"/>
+    <nd ref="124612895"/>
+    <nd ref="124612896"/>
+    <nd ref="124612898"/>
+    <nd ref="124612902"/>
+    <nd ref="124612905"/>
+    <nd ref="124612908"/>
+    <nd ref="124612912"/>
+    <nd ref="124612915"/>
+    <nd ref="124612918"/>
+    <nd ref="124612921"/>
+    <nd ref="124612924"/>
+    <nd ref="124612927"/>
+    <nd ref="124589080"/>
+    <nd ref="124612929"/>
+    <nd ref="124612932"/>
+    <nd ref="124612934"/>
+    <nd ref="124612936"/>
+    <nd ref="124612938"/>
+    <nd ref="124612943"/>
+    <nd ref="124612948"/>
+    <nd ref="124612952"/>
+    <nd ref="124612955"/>
+    <nd ref="124612957"/>
+    <nd ref="124612959"/>
+    <nd ref="124612960"/>
+    <nd ref="124612962"/>
+    <nd ref="124612964"/>
+    <nd ref="124612967"/>
+    <nd ref="124612969"/>
+    <nd ref="124612970"/>
+    <nd ref="124612972"/>
+    <nd ref="124612974"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5233"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5233"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152341982:152337377:152337286:152337276"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13551128">
+    <nd ref="124612974"/>
+    <nd ref="124612988"/>
+    <nd ref="124612991"/>
+    <nd ref="124612994"/>
+    <nd ref="124612997"/>
+    <nd ref="124613000"/>
+    <nd ref="124613002"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5233"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5233"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337441:152337285"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13551131">
+    <nd ref="124613015"/>
+    <nd ref="124613017"/>
+    <nd ref="124613020"/>
+    <nd ref="124613021"/>
+    <nd ref="124613022"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5233"/>
+    <tag k="name_1" v="Burks Road"/>
+    <tag k="surface" v="undefined"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5233"/>
+    <tag k="tiger:name_base_1" v="Burks"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13551207">
+    <nd ref="124613841"/>
+    <nd ref="124613842"/>
+    <nd ref="124613843"/>
+    <nd ref="124613845"/>
+    <nd ref="124613847"/>
+    <nd ref="124613848"/>
+    <nd ref="124613850"/>
+    <nd ref="124612974"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5237"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5237"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337289"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13551666">
+    <nd ref="124605240"/>
+    <nd ref="124620382"/>
+    <nd ref="124620384"/>
+    <nd ref="124620386"/>
+    <nd ref="124578883"/>
+    <nd ref="124620388"/>
+    <nd ref="124620391"/>
+    <nd ref="124620394"/>
+    <nd ref="124620396"/>
+    <nd ref="124620398"/>
+    <nd ref="124620400"/>
+    <nd ref="124620403"/>
+    <nd ref="124620406"/>
+    <nd ref="124620408"/>
+    <nd ref="124620410"/>
+    <nd ref="124620412"/>
+    <nd ref="124620414"/>
+    <nd ref="124620417"/>
+    <nd ref="124620420"/>
+    <nd ref="124620422"/>
+    <nd ref="124620424"/>
+    <nd ref="124620426"/>
+    <nd ref="124620428"/>
+    <nd ref="124620432"/>
+    <nd ref="124620434"/>
+    <nd ref="124620436"/>
+    <nd ref="124620438"/>
+    <nd ref="124620441"/>
+    <nd ref="124620444"/>
+    <nd ref="124620447"/>
+    <nd ref="124620450"/>
+    <nd ref="124620452"/>
+    <nd ref="124620454"/>
+    <nd ref="124620456"/>
+    <nd ref="124620458"/>
+    <nd ref="124620460"/>
+    <nd ref="124620462"/>
+    <nd ref="124620465"/>
+    <nd ref="124620467"/>
+    <nd ref="124620469"/>
+    <nd ref="124620471"/>
+    <nd ref="124620473"/>
+    <nd ref="124620476"/>
+    <nd ref="124620479"/>
+    <nd ref="124620482"/>
+    <nd ref="124620484"/>
+    <nd ref="124590758"/>
+    <nd ref="124612444"/>
+    <nd ref="124620486"/>
+    <nd ref="124620489"/>
+    <nd ref="124620492"/>
+    <nd ref="124620495"/>
+    <nd ref="124620498"/>
+    <nd ref="124620501"/>
+    <nd ref="124620503"/>
+    <nd ref="124620505"/>
+    <nd ref="124620507"/>
+    <nd ref="124613002"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="County Road 5210"/>
+    <tag k="name_1" v="Harmony Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5210"/>
+    <tag k="tiger:name_base_1" v="Harmony"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13551820">
+    <nd ref="124622521"/>
+    <nd ref="124622524"/>
+    <nd ref="124622527"/>
+    <nd ref="124622529"/>
+    <nd ref="124622531"/>
+    <nd ref="124622533"/>
+    <nd ref="124622535"/>
+    <nd ref="124622536"/>
+    <nd ref="124622538"/>
+    <nd ref="124622540"/>
+    <nd ref="124622542"/>
+    <nd ref="124622544"/>
+    <nd ref="124622547"/>
+    <nd ref="124622550"/>
+    <nd ref="124622553"/>
+    <nd ref="124622556"/>
+    <nd ref="124622558"/>
+    <nd ref="124622560"/>
+    <nd ref="124622563"/>
+    <nd ref="124622566"/>
+    <nd ref="124622568"/>
+    <nd ref="124622570"/>
+    <nd ref="124622572"/>
+    <nd ref="124622575"/>
+    <nd ref="124622577"/>
+    <nd ref="124622579"/>
+    <nd ref="124622582"/>
+    <nd ref="124622584"/>
+    <nd ref="124622587"/>
+    <nd ref="124622590"/>
+    <nd ref="124622593"/>
+    <nd ref="124622596"/>
+    <nd ref="124622599"/>
+    <nd ref="124622603"/>
+    <nd ref="124622605"/>
+    <nd ref="124622607"/>
+    <nd ref="124591709"/>
+    <nd ref="124622609"/>
+    <nd ref="124622611"/>
+    <nd ref="124622613"/>
+    <nd ref="124622615"/>
+    <nd ref="124622617"/>
+    <nd ref="124622619"/>
+    <nd ref="124622621"/>
+    <nd ref="124622624"/>
+    <nd ref="124597642"/>
+    <nd ref="124622626"/>
+    <nd ref="124622629"/>
+    <nd ref="124622631"/>
+    <nd ref="124622633"/>
+    <nd ref="124622635"/>
+    <nd ref="124622637"/>
+    <nd ref="124617368"/>
+    <nd ref="124622639"/>
+    <nd ref="124622641"/>
+    <nd ref="124622643"/>
+    <nd ref="124622645"/>
+    <nd ref="124622648"/>
+    <nd ref="124622651"/>
+    <nd ref="124622654"/>
+    <nd ref="124622657"/>
+    <nd ref="124581422"/>
+    <nd ref="124622660"/>
+    <nd ref="124622663"/>
+    <nd ref="124622666"/>
+    <nd ref="124622668"/>
+    <nd ref="124622670"/>
+    <nd ref="124622673"/>
+    <nd ref="124581464"/>
+    <nd ref="124622678"/>
+    <nd ref="124622681"/>
+    <nd ref="124622683"/>
+    <nd ref="124589755"/>
+    <nd ref="124622685"/>
+    <nd ref="124622686"/>
+    <nd ref="124622687"/>
+    <nd ref="124622689"/>
+    <nd ref="124612840"/>
+    <nd ref="124622690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 2006"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 2006"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333161:152344229:152333159:152332943:152332935"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13551829">
+    <nd ref="124582463"/>
+    <nd ref="124622841"/>
+    <nd ref="124622845"/>
+    <nd ref="124622848"/>
+    <nd ref="124622851"/>
+    <nd ref="124622854"/>
+    <nd ref="124622857"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 2244"/>
+    <tag k="name_1" v="County Road 5244"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 2244"/>
+    <tag k="tiger:name_base_1" v="County Road 5244"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152332953"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13551863">
+    <nd ref="124582814"/>
+    <nd ref="124623430"/>
+    <nd ref="124623433"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="County Road 2246"/>
+    <tag k="name_1" v="Kyle Road"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 2246"/>
+    <tag k="tiger:name_base_1" v="Kyle"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13552131">
+    <nd ref="124612921"/>
+    <nd ref="124627579"/>
+    <nd ref="124627582"/>
+    <nd ref="124627584"/>
+    <nd ref="124627587"/>
+    <nd ref="124627589"/>
+    <nd ref="124627592"/>
+    <nd ref="124627595"/>
+    <nd ref="124627597"/>
+    <nd ref="124627600"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5240"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5240"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337277"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13552158">
+    <nd ref="124613000"/>
+    <nd ref="124628345"/>
+    <nd ref="124628351"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5241"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5241"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152337442"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13552240">
+    <nd ref="124613002"/>
+    <nd ref="124629436"/>
+    <nd ref="124629438"/>
+    <nd ref="124629441"/>
+    <nd ref="124629444"/>
+    <nd ref="124629447"/>
+    <nd ref="124629450"/>
+    <nd ref="124629453"/>
+    <nd ref="124629456"/>
+    <nd ref="124629459"/>
+    <nd ref="124629462"/>
+    <nd ref="124629465"/>
+    <nd ref="124629468"/>
+    <nd ref="124629471"/>
+    <nd ref="124627600"/>
+    <nd ref="124629473"/>
+    <nd ref="124629475"/>
+    <nd ref="124629477"/>
+    <nd ref="124629479"/>
+    <nd ref="124582463"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Highway 411"/>
+    <tag k="surface" v="grass"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="State Highway 411"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152339923:152344219:152333052:152333049:152332948:152332952:152333059:152337282:152341681:152333279"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13552372">
+    <nd ref="124622857"/>
+    <nd ref="124631566"/>
+    <nd ref="124631567"/>
+    <nd ref="124622864"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5244"/>
+    <tag k="name_1" v="County Road 2244"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5244"/>
+    <tag k="tiger:name_base_1" v="County Road 2244"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152333277"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13552426">
+    <nd ref="124632231"/>
+    <nd ref="124613030"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5008"/>
+    <tag k="name_1" v="Hunt Road"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5008"/>
+    <tag k="tiger:name_base_1" v="Hunt"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13552434">
+    <nd ref="124612877"/>
+    <nd ref="124632385"/>
+    <nd ref="124632388"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5246"/>
+    <tag k="name_1" v="County Road 2246"/>
+    <tag k="name_2" v="Kyle Road"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5246"/>
+    <tag k="tiger:name_base_1" v="County Road 2246"/>
+    <tag k="tiger:name_base_2" v="Kyle"/>
+    <tag k="tiger:name_type_2" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13552443">
+    <nd ref="124583162"/>
+    <nd ref="124632451"/>
+    <nd ref="124632454"/>
+    <nd ref="1998964923"/>
+    <nd ref="124632457"/>
+    <nd ref="124632460"/>
+    <nd ref="124632463"/>
+    <nd ref="124579556"/>
+    <nd ref="124632465"/>
+    <nd ref="124632468"/>
+    <nd ref="124632469"/>
+    <nd ref="124632470"/>
+    <nd ref="1998964926"/>
+    <nd ref="124632472"/>
+    <nd ref="124632474"/>
+    <nd ref="124632476"/>
+    <nd ref="124632479"/>
+    <nd ref="124632484"/>
+    <nd ref="124632486"/>
+    <nd ref="124632489"/>
+    <nd ref="124632492"/>
+    <nd ref="124632495"/>
+    <nd ref="124632498"/>
+    <nd ref="124632501"/>
+    <nd ref="124632504"/>
+    <nd ref="124632506"/>
+    <nd ref="124632507"/>
+    <nd ref="124632508"/>
+    <nd ref="124632509"/>
+    <nd ref="124632510"/>
+    <nd ref="124632511"/>
+    <nd ref="124622122"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5009"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5009"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152341691:152333034:152341698"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+  <way id="13552501">
+    <nd ref="124632388"/>
+    <nd ref="124633368"/>
+    <nd ref="124633370"/>
+    <nd ref="124633372"/>
+    <nd ref="124633374"/>
+    <nd ref="124633376"/>
+    <nd ref="124633378"/>
+    <nd ref="124633381"/>
+    <nd ref="124633384"/>
+    <nd ref="124633387"/>
+    <nd ref="124633390"/>
+    <nd ref="124633393"/>
+    <nd ref="124633395"/>
+    <nd ref="124633397"/>
+    <nd ref="124633398"/>
+    <nd ref="124590572"/>
+    <nd ref="124633401"/>
+    <nd ref="124633404"/>
+    <nd ref="124633407"/>
+    <nd ref="124633410"/>
+    <nd ref="124633413"/>
+    <nd ref="124633416"/>
+    <nd ref="124633419"/>
+    <nd ref="124582814"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5248"/>
+    <tag k="name_1" v="County Road 2246"/>
+    <tag k="name_2" v="Kyle Road"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5248"/>
+    <tag k="tiger:name_base_1" v="County Road 2246"/>
+    <tag k="tiger:name_base_2" v="Kyle"/>
+    <tag k="tiger:name_type_2" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13552942">
+    <nd ref="124612877"/>
+    <nd ref="124639122"/>
+    <nd ref="124639123"/>
+    <nd ref="124597302"/>
+    <nd ref="124613015"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Road 5223"/>
+    <tag k="name_1" v="Burks Road"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5223"/>
+    <tag k="tiger:name_base_1" v="Burks"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13559641">
+    <nd ref="124708191"/>
+    <nd ref="124708194"/>
+    <nd ref="124708197"/>
+    <nd ref="124708200"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161216662:161216663:161213752"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13559910">
+    <nd ref="124710440"/>
+    <nd ref="124710442"/>
+    <nd ref="124710444"/>
+    <nd ref="124710446"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211330"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13559989">
+    <nd ref="124711105"/>
+    <nd ref="124711109"/>
+    <nd ref="124711111"/>
+    <nd ref="124711113"/>
+    <nd ref="124711118"/>
+    <nd ref="124711121"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211321"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560006">
+    <nd ref="124711209"/>
+    <nd ref="124711211"/>
+    <nd ref="124711212"/>
+    <nd ref="124711215"/>
+    <nd ref="124711218"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161212740"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560045">
+    <nd ref="124711599"/>
+    <nd ref="124711602"/>
+    <nd ref="124711605"/>
+    <nd ref="124711607"/>
+    <nd ref="124711609"/>
+    <nd ref="124711611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211314"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560047">
+    <nd ref="124711616"/>
+    <nd ref="124711619"/>
+    <nd ref="124711621"/>
+    <nd ref="124711623"/>
+    <nd ref="124711625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211316"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560051">
+    <nd ref="124711650"/>
+    <nd ref="124711653"/>
+    <nd ref="124711656"/>
+    <nd ref="124711659"/>
+    <nd ref="124711662"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211318"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560080">
+    <nd ref="124711820"/>
+    <nd ref="124711822"/>
+    <nd ref="124711825"/>
+    <nd ref="124711827"/>
+    <nd ref="124711829"/>
+    <nd ref="124711831"/>
+    <nd ref="124711833"/>
+    <nd ref="124711836"/>
+    <nd ref="124711839"/>
+    <nd ref="124711840"/>
+    <nd ref="124711841"/>
+    <nd ref="124711842"/>
+    <nd ref="124711843"/>
+    <nd ref="124711845"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211161"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560476">
+    <nd ref="124714729"/>
+    <nd ref="124604908"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211730"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560478">
+    <nd ref="124583656"/>
+    <nd ref="124714739"/>
+    <nd ref="124714741"/>
+    <nd ref="124714744"/>
+    <nd ref="124714746"/>
+    <nd ref="124714749"/>
+    <nd ref="124714751"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="161211734"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-a2eb4619-0d6d-4268-a0ac-b79146a3bd94"/>
+  </way>
+  <way id="13560875">
+    <nd ref="124718784"/>
+    <nd ref="124718785"/>
+    <nd ref="124718786"/>
+    <nd ref="124718789"/>
+    <nd ref="124718792"/>
+    <nd ref="124718794"/>
+    <nd ref="124718796"/>
+    <nd ref="124718798"/>
+    <nd ref="124718800"/>
+    <nd ref="124718802"/>
+    <nd ref="124718805"/>
+    <nd ref="124718808"/>
+    <nd ref="124718811"/>
+    <nd ref="124718816"/>
+    <nd ref="124718817"/>
+    <nd ref="124718818"/>
+    <nd ref="124718821"/>
+    <nd ref="124718824"/>
+    <nd ref="124718825"/>
+    <nd ref="124718826"/>
+    <nd ref="124718830"/>
+    <nd ref="124718833"/>
+    <nd ref="124718836"/>
+    <nd ref="124718838"/>
+    <nd ref="124718840"/>
+    <nd ref="124718843"/>
+    <nd ref="124718846"/>
+    <nd ref="124718849"/>
+    <nd ref="124718852"/>
+    <nd ref="124718855"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Townsend Road"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Townsend"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561074">
+    <nd ref="124721127"/>
+    <nd ref="124721130"/>
+    <nd ref="124721133"/>
+    <nd ref="124721135"/>
+    <nd ref="124721136"/>
+    <nd ref="124721137"/>
+    <nd ref="124721138"/>
+    <nd ref="124721139"/>
+    <nd ref="124721140"/>
+    <nd ref="124721141"/>
+    <nd ref="124721143"/>
+    <nd ref="124721145"/>
+    <nd ref="124721147"/>
+    <nd ref="124721149"/>
+    <nd ref="124721151"/>
+    <nd ref="124721153"/>
+    <nd ref="124721155"/>
+    <nd ref="124711845"/>
+    <nd ref="124721157"/>
+    <nd ref="124721159"/>
+    <nd ref="124721162"/>
+    <nd ref="124721165"/>
+    <nd ref="124721167"/>
+    <nd ref="124721169"/>
+    <nd ref="124721171"/>
+    <nd ref="124721174"/>
+    <nd ref="124721176"/>
+    <nd ref="124721178"/>
+    <nd ref="124721182"/>
+    <nd ref="124721183"/>
+    <nd ref="124721185"/>
+    <nd ref="124721188"/>
+    <nd ref="124721190"/>
+    <nd ref="124721193"/>
+    <nd ref="124721194"/>
+    <nd ref="124721195"/>
+    <nd ref="124721197"/>
+    <nd ref="124721200"/>
+    <nd ref="124721204"/>
+    <nd ref="124721208"/>
+    <nd ref="124721210"/>
+    <nd ref="124721212"/>
+    <nd ref="124721214"/>
+    <nd ref="124721216"/>
+    <nd ref="124721218"/>
+    <nd ref="124721219"/>
+    <nd ref="124721221"/>
+    <nd ref="124721223"/>
+    <nd ref="124721225"/>
+    <nd ref="124721228"/>
+    <nd ref="124721231"/>
+    <nd ref="124721234"/>
+    <nd ref="124721237"/>
+    <nd ref="124721239"/>
+    <nd ref="124721241"/>
+    <nd ref="124721244"/>
+    <nd ref="124721247"/>
+    <nd ref="124721250"/>
+    <nd ref="124721252"/>
+    <nd ref="124721254"/>
+    <nd ref="124721257"/>
+    <nd ref="124721259"/>
+    <nd ref="124721262"/>
+    <nd ref="124721265"/>
+    <nd ref="124721268"/>
+    <nd ref="124721271"/>
+    <nd ref="124721273"/>
+    <nd ref="124721276"/>
+    <nd ref="124721279"/>
+    <nd ref="124721282"/>
+    <nd ref="124721285"/>
+    <nd ref="124721288"/>
+    <nd ref="124721291"/>
+    <nd ref="124721293"/>
+    <nd ref="124721296"/>
+    <nd ref="124721302"/>
+    <nd ref="124721304"/>
+    <nd ref="124721306"/>
+    <nd ref="124721308"/>
+    <nd ref="124721309"/>
+    <nd ref="124721311"/>
+    <nd ref="124721313"/>
+    <nd ref="124721315"/>
+    <nd ref="124721317"/>
+    <nd ref="124721318"/>
+    <nd ref="124721320"/>
+    <nd ref="124721322"/>
+    <nd ref="124721325"/>
+    <nd ref="124721328"/>
+    <nd ref="124721331"/>
+    <nd ref="124721334"/>
+    <nd ref="124721337"/>
+    <nd ref="124721338"/>
+    <nd ref="124721340"/>
+    <nd ref="124721343"/>
+    <nd ref="124710061"/>
+    <nd ref="124721344"/>
+    <nd ref="124721346"/>
+    <nd ref="124721348"/>
+    <nd ref="124721350"/>
+    <nd ref="124721352"/>
+    <nd ref="124721355"/>
+    <nd ref="124721358"/>
+    <nd ref="124721360"/>
+    <nd ref="124721361"/>
+    <nd ref="124627537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McCool Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="McCool"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561116">
+    <nd ref="124721881"/>
+    <nd ref="124721884"/>
+    <nd ref="124721887"/>
+    <nd ref="124721889"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McCool &amp; Highpoint Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="McCool &amp; Highpoint"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561249">
+    <nd ref="124723295"/>
+    <nd ref="124723296"/>
+    <nd ref="124723298"/>
+    <nd ref="124723301"/>
+    <nd ref="124723303"/>
+    <nd ref="124723305"/>
+    <nd ref="124723308"/>
+    <nd ref="124723311"/>
+    <nd ref="124723314"/>
+    <nd ref="124723316"/>
+    <nd ref="124723319"/>
+    <nd ref="124723321"/>
+    <nd ref="124723324"/>
+    <nd ref="124723326"/>
+    <nd ref="124723329"/>
+    <nd ref="124723331"/>
+    <nd ref="124723333"/>
+    <nd ref="124723336"/>
+    <nd ref="124723339"/>
+    <nd ref="124723341"/>
+    <nd ref="124723342"/>
+    <nd ref="124723343"/>
+    <nd ref="124723346"/>
+    <nd ref="124723348"/>
+    <nd ref="124723350"/>
+    <nd ref="124723353"/>
+    <nd ref="124723356"/>
+    <nd ref="124723359"/>
+    <nd ref="124723360"/>
+    <nd ref="124723361"/>
+    <nd ref="124723363"/>
+    <nd ref="124723366"/>
+    <nd ref="124723369"/>
+    <nd ref="124723371"/>
+    <nd ref="124723374"/>
+    <nd ref="124723376"/>
+    <nd ref="124723378"/>
+    <nd ref="124723380"/>
+    <nd ref="124723383"/>
+    <nd ref="124723386"/>
+    <nd ref="124723389"/>
+    <nd ref="124723392"/>
+    <nd ref="124723395"/>
+    <nd ref="124723398"/>
+    <nd ref="124723401"/>
+    <nd ref="124723404"/>
+    <nd ref="124711650"/>
+    <nd ref="124723407"/>
+    <nd ref="124723410"/>
+    <nd ref="124723413"/>
+    <nd ref="124723416"/>
+    <nd ref="124723419"/>
+    <nd ref="124723422"/>
+    <nd ref="124723425"/>
+    <nd ref="124723426"/>
+    <nd ref="124723428"/>
+    <nd ref="124723430"/>
+    <nd ref="124723432"/>
+    <nd ref="124723433"/>
+    <nd ref="124723434"/>
+    <nd ref="124723435"/>
+    <nd ref="124723437"/>
+    <nd ref="124723439"/>
+    <nd ref="124723441"/>
+    <nd ref="124723444"/>
+    <nd ref="124723445"/>
+    <nd ref="124723446"/>
+    <nd ref="124723448"/>
+    <nd ref="124723451"/>
+    <nd ref="124723454"/>
+    <nd ref="124723456"/>
+    <nd ref="124721136"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stevenson-Kerr Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Stevenson-Kerr"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561546">
+    <nd ref="124727272"/>
+    <nd ref="124727275"/>
+    <nd ref="124727278"/>
+    <nd ref="124727281"/>
+    <nd ref="124727283"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mangrall Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Mangrall"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561593">
+    <nd ref="124727773"/>
+    <nd ref="124727775"/>
+    <nd ref="124727778"/>
+    <nd ref="124727781"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mangrum Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Mangrum"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561666">
+    <nd ref="124728512"/>
+    <nd ref="124728515"/>
+    <nd ref="124728518"/>
+    <nd ref="124728520"/>
+    <nd ref="124728522"/>
+    <nd ref="124728524"/>
+    <nd ref="124728527"/>
+    <nd ref="124728529"/>
+    <nd ref="124728531"/>
+    <nd ref="124728534"/>
+    <nd ref="124728537"/>
+    <nd ref="124728540"/>
+    <nd ref="124728542"/>
+    <nd ref="124728545"/>
+    <nd ref="124728546"/>
+    <nd ref="124728549"/>
+    <nd ref="124728552"/>
+    <nd ref="124728554"/>
+    <nd ref="124728559"/>
+    <nd ref="124728560"/>
+    <nd ref="124728562"/>
+    <nd ref="124728564"/>
+    <nd ref="124728567"/>
+    <nd ref="124728570"/>
+    <nd ref="124728573"/>
+    <nd ref="124728575"/>
+    <nd ref="124728578"/>
+    <nd ref="124728581"/>
+    <nd ref="124728584"/>
+    <nd ref="124728586"/>
+    <nd ref="124728589"/>
+    <nd ref="124728592"/>
+    <nd ref="124728595"/>
+    <nd ref="124728598"/>
+    <nd ref="124728601"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ashford Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Ashford"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561736">
+    <nd ref="124729318"/>
+    <nd ref="124729320"/>
+    <nd ref="124729322"/>
+    <nd ref="124729323"/>
+    <nd ref="124729326"/>
+    <nd ref="124729329"/>
+    <nd ref="124729332"/>
+    <nd ref="124729334"/>
+    <nd ref="124729335"/>
+    <nd ref="124729336"/>
+    <nd ref="124721881"/>
+    <nd ref="124729338"/>
+    <nd ref="124729340"/>
+    <nd ref="124729341"/>
+    <nd ref="124729342"/>
+    <nd ref="124729343"/>
+    <nd ref="124729344"/>
+    <nd ref="124729345"/>
+    <nd ref="124729347"/>
+    <nd ref="124729350"/>
+    <nd ref="124729353"/>
+    <nd ref="124729356"/>
+    <nd ref="124729359"/>
+    <nd ref="124729361"/>
+    <nd ref="124729363"/>
+    <nd ref="124729366"/>
+    <nd ref="124729369"/>
+    <nd ref="124729372"/>
+    <nd ref="124729375"/>
+    <nd ref="124729381"/>
+    <nd ref="124729383"/>
+    <nd ref="124729384"/>
+    <nd ref="124729386"/>
+    <nd ref="124729388"/>
+    <nd ref="124729391"/>
+    <nd ref="124729393"/>
+    <nd ref="124729395"/>
+    <nd ref="124729399"/>
+    <nd ref="124729402"/>
+    <nd ref="124729405"/>
+    <nd ref="124729407"/>
+    <nd ref="124729409"/>
+    <nd ref="124729411"/>
+    <nd ref="124729414"/>
+    <nd ref="124729416"/>
+    <nd ref="124729418"/>
+    <nd ref="124729420"/>
+    <nd ref="124729422"/>
+    <nd ref="124729424"/>
+    <nd ref="124729426"/>
+    <nd ref="124729428"/>
+    <nd ref="124729431"/>
+    <nd ref="124729435"/>
+    <nd ref="124729438"/>
+    <nd ref="124729439"/>
+    <nd ref="124729442"/>
+    <nd ref="124729445"/>
+    <nd ref="124729447"/>
+    <nd ref="124729449"/>
+    <nd ref="124729451"/>
+    <nd ref="124729453"/>
+    <nd ref="124729456"/>
+    <nd ref="124729459"/>
+    <nd ref="124729462"/>
+    <nd ref="124729464"/>
+    <nd ref="124729466"/>
+    <nd ref="124729468"/>
+    <nd ref="124729470"/>
+    <nd ref="124729472"/>
+    <nd ref="124729474"/>
+    <nd ref="124729477"/>
+    <nd ref="124712347"/>
+    <nd ref="124729479"/>
+    <nd ref="124729481"/>
+    <nd ref="124729483"/>
+    <nd ref="124729485"/>
+    <nd ref="124729488"/>
+    <nd ref="124729491"/>
+    <nd ref="124729494"/>
+    <nd ref="124729497"/>
+    <nd ref="124729500"/>
+    <nd ref="124729503"/>
+    <nd ref="124729505"/>
+    <nd ref="124729507"/>
+    <nd ref="124729509"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fentress-Panhandle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Fentress-Panhandle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561752">
+    <nd ref="124729514"/>
+    <nd ref="124729516"/>
+    <nd ref="124729518"/>
+    <nd ref="124729521"/>
+    <nd ref="124729524"/>
+    <nd ref="124729527"/>
+    <nd ref="124729532"/>
+    <nd ref="124729534"/>
+    <nd ref="124729537"/>
+    <nd ref="124729539"/>
+    <nd ref="124729540"/>
+    <nd ref="124729541"/>
+    <nd ref="124729542"/>
+    <nd ref="124729543"/>
+    <nd ref="124729544"/>
+    <nd ref="124723295"/>
+    <nd ref="124729546"/>
+    <nd ref="124729548"/>
+    <nd ref="124729550"/>
+    <nd ref="124729552"/>
+    <nd ref="124729555"/>
+    <nd ref="124729558"/>
+    <nd ref="124729561"/>
+    <nd ref="124729562"/>
+    <nd ref="124729563"/>
+    <nd ref="124729565"/>
+    <nd ref="124729570"/>
+    <nd ref="124729572"/>
+    <nd ref="124729574"/>
+    <nd ref="124729575"/>
+    <nd ref="124711616"/>
+    <nd ref="124729577"/>
+    <nd ref="124711599"/>
+    <nd ref="124729580"/>
+    <nd ref="124729583"/>
+    <nd ref="124729586"/>
+    <nd ref="124729589"/>
+    <nd ref="124729591"/>
+    <nd ref="124729593"/>
+    <nd ref="124729595"/>
+    <nd ref="124729597"/>
+    <nd ref="124729598"/>
+    <nd ref="124729600"/>
+    <nd ref="124729602"/>
+    <nd ref="124729603"/>
+    <nd ref="124729605"/>
+    <nd ref="124729608"/>
+    <nd ref="124729611"/>
+    <nd ref="124729613"/>
+    <nd ref="124729617"/>
+    <nd ref="124729620"/>
+    <nd ref="124729623"/>
+    <nd ref="124729625"/>
+    <nd ref="124729626"/>
+    <nd ref="124721127"/>
+    <nd ref="124729628"/>
+    <nd ref="124729630"/>
+    <nd ref="124729632"/>
+    <nd ref="124729634"/>
+    <nd ref="124729637"/>
+    <nd ref="124729640"/>
+    <nd ref="124729643"/>
+    <nd ref="124729644"/>
+    <nd ref="124729646"/>
+    <nd ref="124729649"/>
+    <nd ref="124729318"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fentress-Panhandle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Fentress-Panhandle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561824">
+    <nd ref="124730640"/>
+    <nd ref="124730643"/>
+    <nd ref="124730645"/>
+    <nd ref="124730647"/>
+    <nd ref="124730649"/>
+    <nd ref="124730651"/>
+    <nd ref="124730654"/>
+    <nd ref="124730657"/>
+    <nd ref="124727773"/>
+    <nd ref="124730660"/>
+    <nd ref="124730663"/>
+    <nd ref="124730666"/>
+    <nd ref="124730669"/>
+    <nd ref="124730670"/>
+    <nd ref="124730673"/>
+    <nd ref="124730675"/>
+    <nd ref="124730678"/>
+    <nd ref="124730681"/>
+    <nd ref="124730683"/>
+    <nd ref="124730686"/>
+    <nd ref="124730688"/>
+    <nd ref="124730690"/>
+    <nd ref="124730692"/>
+    <nd ref="124730694"/>
+    <nd ref="124730696"/>
+    <nd ref="124730698"/>
+    <nd ref="124730700"/>
+    <nd ref="124727272"/>
+    <nd ref="124730701"/>
+    <nd ref="124730703"/>
+    <nd ref="124730704"/>
+    <nd ref="124730705"/>
+    <nd ref="124730707"/>
+    <nd ref="124730709"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Morgan Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Morgan"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13561829">
+    <nd ref="124730720"/>
+    <nd ref="124730723"/>
+    <nd ref="124730725"/>
+    <nd ref="124730729"/>
+    <nd ref="124730732"/>
+    <nd ref="124730735"/>
+    <nd ref="124730737"/>
+    <nd ref="124730739"/>
+    <nd ref="124730741"/>
+    <nd ref="124730743"/>
+    <nd ref="124730640"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Morgan Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Morgan"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562064">
+    <nd ref="124733783"/>
+    <nd ref="124733784"/>
+    <nd ref="124733787"/>
+    <nd ref="124733792"/>
+    <nd ref="124733795"/>
+    <nd ref="124733798"/>
+    <nd ref="124733801"/>
+    <nd ref="124733803"/>
+    <nd ref="124733805"/>
+    <nd ref="124733806"/>
+    <nd ref="124733808"/>
+    <nd ref="124733811"/>
+    <nd ref="124733815"/>
+    <nd ref="124733817"/>
+    <nd ref="124733818"/>
+    <nd ref="124711209"/>
+    <nd ref="124733819"/>
+    <nd ref="124733820"/>
+    <nd ref="124733822"/>
+    <nd ref="124733825"/>
+    <nd ref="124733827"/>
+    <nd ref="124733830"/>
+    <nd ref="124733832"/>
+    <nd ref="124733834"/>
+    <nd ref="124733835"/>
+    <nd ref="124733837"/>
+    <nd ref="124733840"/>
+    <nd ref="124733843"/>
+    <nd ref="124729575"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ray Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Ray"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562129">
+    <nd ref="124734846"/>
+    <nd ref="124734848"/>
+    <nd ref="124734851"/>
+    <nd ref="124734854"/>
+    <nd ref="124734857"/>
+    <nd ref="124734860"/>
+    <nd ref="124734863"/>
+    <nd ref="124734866"/>
+    <nd ref="124734868"/>
+    <nd ref="124734869"/>
+    <nd ref="124734870"/>
+    <nd ref="124734871"/>
+    <nd ref="124734874"/>
+    <nd ref="124734877"/>
+    <nd ref="124734880"/>
+    <nd ref="124734883"/>
+    <nd ref="124734886"/>
+    <nd ref="124734889"/>
+    <nd ref="124734891"/>
+    <nd ref="124734893"/>
+    <nd ref="124734898"/>
+    <nd ref="124734901"/>
+    <nd ref="124734905"/>
+    <nd ref="124734908"/>
+    <nd ref="124734911"/>
+    <nd ref="124734914"/>
+    <nd ref="124734916"/>
+    <nd ref="124734918"/>
+    <nd ref="124734920"/>
+    <nd ref="124734922"/>
+    <nd ref="124734925"/>
+    <nd ref="124734928"/>
+    <nd ref="124734930"/>
+    <nd ref="124734932"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Van Landing Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Van Landing"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562132">
+    <nd ref="124734948"/>
+    <nd ref="124708191"/>
+    <nd ref="124734951"/>
+    <nd ref="124734954"/>
+    <nd ref="124734957"/>
+    <nd ref="124734962"/>
+    <nd ref="124734965"/>
+    <nd ref="124734968"/>
+    <nd ref="124734972"/>
+    <nd ref="124734975"/>
+    <nd ref="124734978"/>
+    <nd ref="124734981"/>
+    <nd ref="124734984"/>
+    <nd ref="124734986"/>
+    <nd ref="124734988"/>
+    <nd ref="124734991"/>
+    <nd ref="124734993"/>
+    <nd ref="124734996"/>
+    <nd ref="124734998"/>
+    <nd ref="124735001"/>
+    <nd ref="124735004"/>
+    <nd ref="124735012"/>
+    <nd ref="124735013"/>
+    <nd ref="124735014"/>
+    <nd ref="124735015"/>
+    <nd ref="124735016"/>
+    <nd ref="124735017"/>
+    <nd ref="124735018"/>
+    <nd ref="124735020"/>
+    <nd ref="124735023"/>
+    <nd ref="124735026"/>
+    <nd ref="124735029"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Haste Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Haste"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562515">
+    <nd ref="124735026"/>
+    <nd ref="124740965"/>
+    <nd ref="124740968"/>
+    <nd ref="124740971"/>
+    <nd ref="124740974"/>
+    <nd ref="124740977"/>
+    <nd ref="124740980"/>
+    <nd ref="124740983"/>
+    <nd ref="124740986"/>
+    <nd ref="124740989"/>
+    <nd ref="124740992"/>
+    <nd ref="124740995"/>
+    <nd ref="124740997"/>
+    <nd ref="124741000"/>
+    <nd ref="124741002"/>
+    <nd ref="124741005"/>
+    <nd ref="124741008"/>
+    <nd ref="124741011"/>
+    <nd ref="124741014"/>
+    <nd ref="124741017"/>
+    <nd ref="124741020"/>
+    <nd ref="124741023"/>
+    <nd ref="124741026"/>
+    <nd ref="124741028"/>
+    <nd ref="124741031"/>
+    <nd ref="124741034"/>
+    <nd ref="124741041"/>
+    <nd ref="124741045"/>
+    <nd ref="124741048"/>
+    <nd ref="124741051"/>
+    <nd ref="124741054"/>
+    <nd ref="124741057"/>
+    <nd ref="124741060"/>
+    <nd ref="124741063"/>
+    <nd ref="124741066"/>
+    <nd ref="124741068"/>
+    <nd ref="124741070"/>
+    <nd ref="124741072"/>
+    <nd ref="124741073"/>
+    <nd ref="124728512"/>
+    <nd ref="124741074"/>
+    <nd ref="124741075"/>
+    <nd ref="124741076"/>
+    <nd ref="124741077"/>
+    <nd ref="124741078"/>
+    <nd ref="124741079"/>
+    <nd ref="124741080"/>
+    <nd ref="124741081"/>
+    <nd ref="124741082"/>
+    <nd ref="124741083"/>
+    <nd ref="124741084"/>
+    <nd ref="124741087"/>
+    <nd ref="124741089"/>
+    <nd ref="124741092"/>
+    <nd ref="124741094"/>
+    <nd ref="124721259"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Strawbridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Strawbridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562568">
+    <nd ref="124729336"/>
+    <nd ref="124741724"/>
+    <nd ref="124721889"/>
+    <nd ref="124741726"/>
+    <nd ref="124741728"/>
+    <nd ref="124741730"/>
+    <nd ref="124741731"/>
+    <nd ref="124741733"/>
+    <nd ref="124741734"/>
+    <nd ref="124741735"/>
+    <nd ref="124735029"/>
+    <nd ref="124741737"/>
+    <nd ref="124741738"/>
+    <nd ref="124741739"/>
+    <nd ref="124710440"/>
+    <nd ref="124741740"/>
+    <nd ref="124741742"/>
+    <nd ref="124741745"/>
+    <nd ref="124741747"/>
+    <nd ref="124741749"/>
+    <nd ref="124741752"/>
+    <nd ref="124741754"/>
+    <nd ref="124741756"/>
+    <nd ref="124741758"/>
+    <nd ref="124741761"/>
+    <nd ref="124741763"/>
+    <nd ref="124741765"/>
+    <nd ref="124741767"/>
+    <nd ref="124741769"/>
+    <nd ref="124741771"/>
+    <nd ref="124728601"/>
+    <nd ref="124741772"/>
+    <nd ref="124741774"/>
+    <nd ref="124731513"/>
+    <nd ref="124741776"/>
+    <nd ref="124741778"/>
+    <nd ref="124741781"/>
+    <nd ref="124741784"/>
+    <nd ref="124741785"/>
+    <nd ref="124741788"/>
+    <nd ref="124741791"/>
+    <nd ref="124741794"/>
+    <nd ref="124741797"/>
+    <nd ref="124741800"/>
+    <nd ref="124741803"/>
+    <nd ref="124741806"/>
+    <nd ref="124741809"/>
+    <nd ref="124741814"/>
+    <nd ref="124741816"/>
+    <nd ref="124741819"/>
+    <nd ref="124741821"/>
+    <nd ref="124741824"/>
+    <nd ref="124741827"/>
+    <nd ref="124741829"/>
+    <nd ref="124741832"/>
+    <nd ref="124741835"/>
+    <nd ref="124741838"/>
+    <nd ref="124741841"/>
+    <nd ref="124741844"/>
+    <nd ref="124741847"/>
+    <nd ref="124741850"/>
+    <nd ref="124741852"/>
+    <nd ref="124741855"/>
+    <nd ref="124741858"/>
+    <nd ref="124741864"/>
+    <nd ref="124741866"/>
+    <nd ref="124741869"/>
+    <nd ref="124741872"/>
+    <nd ref="124741875"/>
+    <nd ref="124741878"/>
+    <nd ref="124741882"/>
+    <nd ref="124741885"/>
+    <nd ref="124741886"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Panhandle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Panhandle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562649">
+    <nd ref="124743703"/>
+    <nd ref="124743706"/>
+    <nd ref="124743709"/>
+    <nd ref="124743712"/>
+    <nd ref="124743714"/>
+    <nd ref="124743716"/>
+    <nd ref="124743720"/>
+    <nd ref="124743723"/>
+    <nd ref="124743726"/>
+    <nd ref="124743732"/>
+    <nd ref="124743735"/>
+    <nd ref="124743738"/>
+    <nd ref="124743741"/>
+    <nd ref="124743743"/>
+    <nd ref="124743745"/>
+    <nd ref="124743747"/>
+    <nd ref="124743749"/>
+    <nd ref="124743751"/>
+    <nd ref="124743753"/>
+    <nd ref="124743756"/>
+    <nd ref="124743760"/>
+    <nd ref="124743762"/>
+    <nd ref="124743764"/>
+    <nd ref="124743767"/>
+    <nd ref="124743769"/>
+    <nd ref="124743772"/>
+    <nd ref="124743774"/>
+    <nd ref="124743776"/>
+    <nd ref="124743778"/>
+    <nd ref="124743781"/>
+    <nd ref="124743784"/>
+    <nd ref="124743785"/>
+    <nd ref="124743788"/>
+    <nd ref="124743791"/>
+    <nd ref="124743794"/>
+    <nd ref="124743796"/>
+    <nd ref="124743800"/>
+    <nd ref="124743802"/>
+    <nd ref="124743804"/>
+    <nd ref="124718784"/>
+    <nd ref="124743807"/>
+    <nd ref="124743809"/>
+    <nd ref="124743811"/>
+    <nd ref="124743813"/>
+    <nd ref="124743816"/>
+    <nd ref="124743818"/>
+    <nd ref="124743820"/>
+    <nd ref="124743822"/>
+    <nd ref="124730709"/>
+    <nd ref="124743825"/>
+    <nd ref="124743828"/>
+    <nd ref="124743831"/>
+    <nd ref="124743833"/>
+    <nd ref="124743836"/>
+    <nd ref="124743839"/>
+    <nd ref="124743842"/>
+    <nd ref="124734932"/>
+    <nd ref="124743845"/>
+    <nd ref="124743848"/>
+    <nd ref="124743851"/>
+    <nd ref="124743854"/>
+    <nd ref="124743857"/>
+    <nd ref="124743860"/>
+    <nd ref="124743863"/>
+    <nd ref="124743866"/>
+    <nd ref="124743869"/>
+    <nd ref="124743872"/>
+    <nd ref="124743876"/>
+    <nd ref="124743880"/>
+    <nd ref="124743883"/>
+    <nd ref="124743886"/>
+    <nd ref="124743889"/>
+    <nd ref="124743891"/>
+    <nd ref="124743893"/>
+    <nd ref="124743895"/>
+    <nd ref="124743897"/>
+    <nd ref="124723346"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hopewell - McCool Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Hopewell - McCool"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562726">
+    <nd ref="124744923"/>
+    <nd ref="124744924"/>
+    <nd ref="124744925"/>
+    <nd ref="124744927"/>
+    <nd ref="124744929"/>
+    <nd ref="124744930"/>
+    <nd ref="124744931"/>
+    <nd ref="124744935"/>
+    <nd ref="124744939"/>
+    <nd ref="124744941"/>
+    <nd ref="124744944"/>
+    <nd ref="124744947"/>
+    <nd ref="124744949"/>
+    <nd ref="124744952"/>
+    <nd ref="124744955"/>
+    <nd ref="124744958"/>
+    <nd ref="124744961"/>
+    <nd ref="124744963"/>
+    <nd ref="124744966"/>
+    <nd ref="124744968"/>
+    <nd ref="124744969"/>
+    <nd ref="124744970"/>
+    <nd ref="124744971"/>
+    <nd ref="124744973"/>
+    <nd ref="124744975"/>
+    <nd ref="124744978"/>
+    <nd ref="124742550"/>
+    <nd ref="124744980"/>
+    <nd ref="124744981"/>
+    <nd ref="124744985"/>
+    <nd ref="124744988"/>
+    <nd ref="124744991"/>
+    <nd ref="124744994"/>
+    <nd ref="124744997"/>
+    <nd ref="124744998"/>
+    <nd ref="124744999"/>
+    <nd ref="124712547"/>
+    <nd ref="124711892"/>
+    <nd ref="124745000"/>
+    <nd ref="124745002"/>
+    <nd ref="124745010"/>
+    <nd ref="124745014"/>
+    <nd ref="124712524"/>
+    <nd ref="124745017"/>
+    <nd ref="124745020"/>
+    <nd ref="124711578"/>
+    <nd ref="124745022"/>
+    <nd ref="124745024"/>
+    <nd ref="124745026"/>
+    <nd ref="124745029"/>
+    <nd ref="124745032"/>
+    <nd ref="124745035"/>
+    <nd ref="124745038"/>
+    <nd ref="124745041"/>
+    <nd ref="124745044"/>
+    <nd ref="124745046"/>
+    <nd ref="124745049"/>
+    <nd ref="124745051"/>
+    <nd ref="124745053"/>
+    <nd ref="124745055"/>
+    <nd ref="124745058"/>
+    <nd ref="124729318"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whitmire Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Whitmire"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562932">
+    <nd ref="124749635"/>
+    <nd ref="124749637"/>
+    <nd ref="124749639"/>
+    <nd ref="124749641"/>
+    <nd ref="124749643"/>
+    <nd ref="124749645"/>
+    <nd ref="124749647"/>
+    <nd ref="124749649"/>
+    <nd ref="124749652"/>
+    <nd ref="124749655"/>
+    <nd ref="124749658"/>
+    <nd ref="124749660"/>
+    <nd ref="124749663"/>
+    <nd ref="124749666"/>
+    <nd ref="124749667"/>
+    <nd ref="124583152"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hutchinson Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Hutchinson"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13562995">
+    <nd ref="124739078"/>
+    <nd ref="124750805"/>
+    <nd ref="124716882"/>
+    <nd ref="124715985"/>
+    <nd ref="124720496"/>
+    <nd ref="124750807"/>
+    <nd ref="124750810"/>
+    <nd ref="124750813"/>
+    <nd ref="124729318"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Vowell Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Vowell"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13563072">
+    <nd ref="124741754"/>
+    <nd ref="124751898"/>
+    <nd ref="124751901"/>
+    <nd ref="124751903"/>
+    <nd ref="124751905"/>
+    <nd ref="124751907"/>
+    <nd ref="124751910"/>
+    <nd ref="124751913"/>
+    <nd ref="124751914"/>
+    <nd ref="124751917"/>
+    <nd ref="124751920"/>
+    <nd ref="124751923"/>
+    <nd ref="124751926"/>
+    <nd ref="124751929"/>
+    <nd ref="124731531"/>
+    <nd ref="124751932"/>
+    <nd ref="124751935"/>
+    <nd ref="124751937"/>
+    <nd ref="124751939"/>
+    <nd ref="124751942"/>
+    <nd ref="124751945"/>
+    <nd ref="124751948"/>
+    <nd ref="124741950"/>
+    <nd ref="124751951"/>
+    <nd ref="124751954"/>
+    <nd ref="124751957"/>
+    <nd ref="124751958"/>
+    <nd ref="124751961"/>
+    <nd ref="124751964"/>
+    <nd ref="124751967"/>
+    <nd ref="124751970"/>
+    <nd ref="124751973"/>
+    <nd ref="124751976"/>
+    <nd ref="124751978"/>
+    <nd ref="124751980"/>
+    <nd ref="124751982"/>
+    <nd ref="124751984"/>
+    <nd ref="124751986"/>
+    <nd ref="124751988"/>
+    <nd ref="124751989"/>
+    <nd ref="124751992"/>
+    <nd ref="124751995"/>
+    <nd ref="124751998"/>
+    <nd ref="124752001"/>
+    <nd ref="124752003"/>
+    <nd ref="124752005"/>
+    <nd ref="124752007"/>
+    <nd ref="124752010"/>
+    <nd ref="124752012"/>
+    <nd ref="124752016"/>
+    <nd ref="124752020"/>
+    <nd ref="124752022"/>
+    <nd ref="124752024"/>
+    <nd ref="124752026"/>
+    <nd ref="124752027"/>
+    <nd ref="124752028"/>
+    <nd ref="124752030"/>
+    <nd ref="124752032"/>
+    <nd ref="124752034"/>
+    <nd ref="124752036"/>
+    <nd ref="124752038"/>
+    <nd ref="124752040"/>
+    <nd ref="124752042"/>
+    <nd ref="124752044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hopewell Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Hopewell"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13563122">
+    <nd ref="124743703"/>
+    <nd ref="124753049"/>
+    <nd ref="124753052"/>
+    <nd ref="124753055"/>
+    <nd ref="124753057"/>
+    <nd ref="124753062"/>
+    <nd ref="124753065"/>
+    <nd ref="124753068"/>
+    <nd ref="124753071"/>
+    <nd ref="124753074"/>
+    <nd ref="124753077"/>
+    <nd ref="124753080"/>
+    <nd ref="124753083"/>
+    <nd ref="124753086"/>
+    <nd ref="124753089"/>
+    <nd ref="124753091"/>
+    <nd ref="124753093"/>
+    <nd ref="124753095"/>
+    <nd ref="124753097"/>
+    <nd ref="124753099"/>
+    <nd ref="124753101"/>
+    <nd ref="124753103"/>
+    <nd ref="124753105"/>
+    <nd ref="124753108"/>
+    <nd ref="124753111"/>
+    <nd ref="124753114"/>
+    <nd ref="124753117"/>
+    <nd ref="124753119"/>
+    <nd ref="124753121"/>
+    <nd ref="124753123"/>
+    <nd ref="124753125"/>
+    <nd ref="124753128"/>
+    <nd ref="124753131"/>
+    <nd ref="124753134"/>
+    <nd ref="124753136"/>
+    <nd ref="124753138"/>
+    <nd ref="124753141"/>
+    <nd ref="124753144"/>
+    <nd ref="124753147"/>
+    <nd ref="124753150"/>
+    <nd ref="124753153"/>
+    <nd ref="124753156"/>
+    <nd ref="124749635"/>
+    <nd ref="124753159"/>
+    <nd ref="124753162"/>
+    <nd ref="124753165"/>
+    <nd ref="124753168"/>
+    <nd ref="124753171"/>
+    <nd ref="124753173"/>
+    <nd ref="124721285"/>
+    <nd ref="124753176"/>
+    <nd ref="124753178"/>
+    <nd ref="124753181"/>
+    <nd ref="124753184"/>
+    <nd ref="124753187"/>
+    <nd ref="124753190"/>
+    <nd ref="124753193"/>
+    <nd ref="124753196"/>
+    <nd ref="124753199"/>
+    <nd ref="124753202"/>
+    <nd ref="124753205"/>
+    <nd ref="124753208"/>
+    <nd ref="124753211"/>
+    <nd ref="124753217"/>
+    <nd ref="124753220"/>
+    <nd ref="124753222"/>
+    <nd ref="124753224"/>
+    <nd ref="124753226"/>
+    <nd ref="124731473"/>
+    <nd ref="124753228"/>
+    <nd ref="124753230"/>
+    <nd ref="124753232"/>
+    <nd ref="124753234"/>
+    <nd ref="124753236"/>
+    <nd ref="124753239"/>
+    <nd ref="124753242"/>
+    <nd ref="124753245"/>
+    <nd ref="124753248"/>
+    <nd ref="124753251"/>
+    <nd ref="124753254"/>
+    <nd ref="124753256"/>
+    <nd ref="124753257"/>
+    <nd ref="124753259"/>
+    <nd ref="124753261"/>
+    <nd ref="124753263"/>
+    <nd ref="124753266"/>
+    <nd ref="124753268"/>
+    <nd ref="124753270"/>
+    <nd ref="124741809"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13563185">
+    <nd ref="124743703"/>
+    <nd ref="124754175"/>
+    <nd ref="124754177"/>
+    <nd ref="124754180"/>
+    <nd ref="124754183"/>
+    <nd ref="124754185"/>
+    <nd ref="124754186"/>
+    <nd ref="124754187"/>
+    <nd ref="124754188"/>
+    <nd ref="124754189"/>
+    <nd ref="124754192"/>
+    <nd ref="124754194"/>
+    <nd ref="124754195"/>
+    <nd ref="124754197"/>
+    <nd ref="124754199"/>
+    <nd ref="124754201"/>
+    <nd ref="124754204"/>
+    <nd ref="124754207"/>
+    <nd ref="124754210"/>
+    <nd ref="124754213"/>
+    <nd ref="124754215"/>
+    <nd ref="124754218"/>
+    <nd ref="124754221"/>
+    <nd ref="124754224"/>
+    <nd ref="124711105"/>
+    <nd ref="124754226"/>
+    <nd ref="124754229"/>
+    <nd ref="124632231"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hunt Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Hunt"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13563608">
+    <nd ref="124729336"/>
+    <nd ref="124760578"/>
+    <nd ref="124760581"/>
+    <nd ref="124760584"/>
+    <nd ref="124760587"/>
+    <nd ref="124760590"/>
+    <nd ref="124760597"/>
+    <nd ref="124760599"/>
+    <nd ref="124760601"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mt Zion Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Choctaw, MS"/>
+    <tag k="tiger:name_base" v="Mt Zion"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13996807">
+    <nd ref="132709079"/>
+    <nd ref="132709080"/>
+    <nd ref="132709082"/>
+    <nd ref="132709085"/>
+    <nd ref="132709087"/>
+    <nd ref="132709089"/>
+    <nd ref="132709091"/>
+    <nd ref="132709093"/>
+    <nd ref="132709095"/>
+    <nd ref="132709097"/>
+    <nd ref="132709099"/>
+    <nd ref="132709100"/>
+    <nd ref="132709103"/>
+    <nd ref="132709105"/>
+    <nd ref="132709107"/>
+    <nd ref="132709109"/>
+    <nd ref="132709110"/>
+    <nd ref="132709112"/>
+    <nd ref="132709114"/>
+    <nd ref="132709116"/>
+    <nd ref="132709119"/>
+    <nd ref="132709121"/>
+    <nd ref="132709123"/>
+    <nd ref="132709125"/>
+    <nd ref="132709128"/>
+    <nd ref="132709129"/>
+    <nd ref="132709133"/>
+    <nd ref="132709136"/>
+    <nd ref="132709139"/>
+    <nd ref="132709142"/>
+    <nd ref="132709145"/>
+    <nd ref="132709148"/>
+    <nd ref="132709151"/>
+    <nd ref="132709155"/>
+    <nd ref="132709157"/>
+    <nd ref="132709159"/>
+    <nd ref="132709161"/>
+    <nd ref="132709163"/>
+    <nd ref="132709165"/>
+    <nd ref="124592462"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908754:908892"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13996925">
+    <nd ref="132710917"/>
+    <nd ref="132710920"/>
+    <nd ref="132710923"/>
+    <nd ref="132710926"/>
+    <nd ref="132710929"/>
+    <nd ref="132710933"/>
+    <nd ref="132710937"/>
+    <nd ref="132710940"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908744"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997119">
+    <nd ref="132713353"/>
+    <nd ref="132713356"/>
+    <nd ref="132713359"/>
+    <nd ref="132713363"/>
+    <nd ref="124730720"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908724"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997423">
+    <nd ref="132716902"/>
+    <nd ref="132716904"/>
+    <nd ref="132716906"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="909010:909007"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997426">
+    <nd ref="132716911"/>
+    <nd ref="132716913"/>
+    <nd ref="132716916"/>
+    <nd ref="132716919"/>
+    <nd ref="132716922"/>
+    <nd ref="132716924"/>
+    <nd ref="132716925"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="909012"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997500">
+    <nd ref="132718241"/>
+    <nd ref="132718244"/>
+    <nd ref="132718247"/>
+    <nd ref="132718250"/>
+    <nd ref="132718252"/>
+    <nd ref="132718255"/>
+    <nd ref="132718260"/>
+    <nd ref="132718263"/>
+    <nd ref="132718266"/>
+    <nd ref="132718269"/>
+    <nd ref="132718272"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="909000"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997501">
+    <nd ref="132718279"/>
+    <nd ref="132718283"/>
+    <nd ref="132718286"/>
+    <nd ref="132718289"/>
+    <nd ref="132718291"/>
+    <nd ref="132718294"/>
+    <nd ref="132718297"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="909002"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997504">
+    <nd ref="132718310"/>
+    <nd ref="132718312"/>
+    <nd ref="132718315"/>
+    <nd ref="132718318"/>
+    <nd ref="132718321"/>
+    <nd ref="132718324"/>
+    <nd ref="132718327"/>
+    <nd ref="132718330"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="909004"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997507">
+    <nd ref="132718337"/>
+    <nd ref="132718340"/>
+    <nd ref="132716906"/>
+    <nd ref="132718343"/>
+    <nd ref="132718346"/>
+    <nd ref="132718350"/>
+    <nd ref="132718354"/>
+    <nd ref="132716904"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="909008:909009"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997844">
+    <nd ref="132722577"/>
+    <nd ref="132722584"/>
+    <nd ref="132722586"/>
+    <nd ref="132722590"/>
+    <nd ref="132722591"/>
+    <nd ref="132722594"/>
+    <nd ref="132722595"/>
+    <nd ref="132722597"/>
+    <nd ref="132722599"/>
+    <nd ref="132722601"/>
+    <nd ref="132722603"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908991"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997849">
+    <nd ref="132722635"/>
+    <nd ref="132722637"/>
+    <nd ref="132722639"/>
+    <nd ref="132722641"/>
+    <nd ref="132722644"/>
+    <nd ref="132722647"/>
+    <nd ref="132722650"/>
+    <nd ref="132722653"/>
+    <nd ref="132722656"/>
+    <nd ref="132722659"/>
+    <nd ref="132722662"/>
+    <nd ref="132722665"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908994"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997851">
+    <nd ref="132722676"/>
+    <nd ref="132722679"/>
+    <nd ref="132722685"/>
+    <nd ref="132722695"/>
+    <nd ref="132722700"/>
+    <nd ref="132722703"/>
+    <nd ref="132722706"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908996"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13997858">
+    <nd ref="132722887"/>
+    <nd ref="132722890"/>
+    <nd ref="132722893"/>
+    <nd ref="132722896"/>
+    <nd ref="132722900"/>
+    <nd ref="132722904"/>
+    <nd ref="132722907"/>
+    <nd ref="132722910"/>
+    <nd ref="132722913"/>
+    <nd ref="132722915"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908998"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13998120">
+    <nd ref="124596575"/>
+    <nd ref="132725764"/>
+    <nd ref="132725766"/>
+    <nd ref="132725767"/>
+    <nd ref="132725769"/>
+    <nd ref="132725770"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="908951"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-99c67302-ca93-4ad1-ad28-144d2089e72d"/>
+  </way>
+  <way id="13998360">
+    <nd ref="132707580"/>
+    <nd ref="132727680"/>
+    <nd ref="132727682"/>
+    <nd ref="132727684"/>
+    <nd ref="132727686"/>
+    <nd ref="132727689"/>
+    <nd ref="132727691"/>
+    <nd ref="132727693"/>
+    <nd ref="132727695"/>
+    <nd ref="132727697"/>
+    <nd ref="132727699"/>
+    <nd ref="132718279"/>
+    <nd ref="132727701"/>
+    <nd ref="132727703"/>
+    <nd ref="132727704"/>
+    <nd ref="132727706"/>
+    <nd ref="132727708"/>
+    <nd ref="132727710"/>
+    <nd ref="132727712"/>
+    <nd ref="132710940"/>
+    <nd ref="132727715"/>
+    <nd ref="132727717"/>
+    <nd ref="132727719"/>
+    <nd ref="132727722"/>
+    <nd ref="132727724"/>
+    <nd ref="132727726"/>
+    <nd ref="132727728"/>
+    <nd ref="132727730"/>
+    <nd ref="132727732"/>
+    <nd ref="132727734"/>
+    <nd ref="132727736"/>
+    <nd ref="132727738"/>
+    <nd ref="132727741"/>
+    <nd ref="132727743"/>
+    <nd ref="132727744"/>
+    <nd ref="132727745"/>
+    <nd ref="132727746"/>
+    <nd ref="132727747"/>
+    <nd ref="132727748"/>
+    <nd ref="132727749"/>
+    <nd ref="132727750"/>
+    <nd ref="132727751"/>
+    <nd ref="132727754"/>
+    <nd ref="132727756"/>
+    <nd ref="132727759"/>
+    <nd ref="132727761"/>
+    <nd ref="132727763"/>
+    <nd ref="132727768"/>
+    <nd ref="132727771"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ballard Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="Ballard"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13999199">
+    <nd ref="132727719"/>
+    <nd ref="132736644"/>
+    <nd ref="132736646"/>
+    <nd ref="132736648"/>
+    <nd ref="132736650"/>
+    <nd ref="132736653"/>
+    <nd ref="132736655"/>
+    <nd ref="132736658"/>
+    <nd ref="132718337"/>
+    <nd ref="132736661"/>
+    <nd ref="132716902"/>
+    <nd ref="132718310"/>
+    <nd ref="132736663"/>
+    <nd ref="132736665"/>
+    <nd ref="132736667"/>
+    <nd ref="132736670"/>
+    <nd ref="132736673"/>
+    <nd ref="132736676"/>
+    <nd ref="132736680"/>
+    <nd ref="132736683"/>
+    <nd ref="132736685"/>
+    <nd ref="132736687"/>
+    <nd ref="132736689"/>
+    <nd ref="132736692"/>
+    <nd ref="132736699"/>
+    <nd ref="132736704"/>
+    <nd ref="132736709"/>
+    <nd ref="132736713"/>
+    <nd ref="132736718"/>
+    <nd ref="132736727"/>
+    <nd ref="132736732"/>
+    <nd ref="132736737"/>
+    <nd ref="132736744"/>
+    <nd ref="132736749"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="B Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="B"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13999210">
+    <nd ref="132736859"/>
+    <nd ref="132736861"/>
+    <nd ref="132736863"/>
+    <nd ref="132736865"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fentress Pan Handle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="Fentress Pan Handle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13999955">
+    <nd ref="132727771"/>
+    <nd ref="2142867813"/>
+    <nd ref="2142867814"/>
+    <nd ref="2142867815"/>
+    <nd ref="132736859"/>
+    <nd ref="132744972"/>
+    <nd ref="2142867818"/>
+    <nd ref="132744974"/>
+    <nd ref="132744979"/>
+    <nd ref="132719406"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="H B Tabor Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="H B Tabor"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="13999980">
+    <nd ref="132707591"/>
+    <nd ref="132745067"/>
+    <nd ref="132745069"/>
+    <nd ref="132745072"/>
+    <nd ref="132745075"/>
+    <nd ref="132745077"/>
+    <nd ref="132745079"/>
+    <nd ref="132745082"/>
+    <nd ref="132745085"/>
+    <nd ref="132745089"/>
+    <nd ref="132745092"/>
+    <nd ref="132745095"/>
+    <nd ref="132745099"/>
+    <nd ref="132745101"/>
+    <nd ref="132745102"/>
+    <nd ref="132745104"/>
+    <nd ref="132745107"/>
+    <nd ref="132745109"/>
+    <nd ref="132745111"/>
+    <nd ref="132722665"/>
+    <nd ref="132745114"/>
+    <nd ref="132718241"/>
+    <nd ref="132745117"/>
+    <nd ref="132745121"/>
+    <nd ref="132745124"/>
+    <nd ref="132745127"/>
+    <nd ref="132745128"/>
+    <nd ref="132745133"/>
+    <nd ref="132722887"/>
+    <nd ref="132745136"/>
+    <nd ref="132745139"/>
+    <nd ref="132722676"/>
+    <nd ref="132722635"/>
+    <nd ref="132745141"/>
+    <nd ref="132745143"/>
+    <nd ref="132745145"/>
+    <nd ref="132745148"/>
+    <nd ref="132745151"/>
+    <nd ref="132745153"/>
+    <nd ref="132745155"/>
+    <nd ref="132745157"/>
+    <nd ref="132745160"/>
+    <nd ref="132745163"/>
+    <nd ref="132745167"/>
+    <nd ref="132745169"/>
+    <nd ref="132745171"/>
+    <nd ref="132745174"/>
+    <nd ref="132722577"/>
+    <nd ref="132745178"/>
+    <nd ref="132745179"/>
+    <nd ref="132745181"/>
+    <nd ref="132745184"/>
+    <nd ref="132745187"/>
+    <nd ref="132745191"/>
+    <nd ref="132745194"/>
+    <nd ref="132745196"/>
+    <nd ref="132725770"/>
+    <nd ref="132745198"/>
+    <nd ref="132745200"/>
+    <nd ref="132745203"/>
+    <nd ref="132745207"/>
+    <nd ref="132736749"/>
+    <nd ref="132745210"/>
+    <nd ref="132745213"/>
+    <nd ref="132745215"/>
+    <nd ref="132745219"/>
+    <nd ref="132713353"/>
+    <nd ref="132745221"/>
+    <nd ref="132745223"/>
+    <nd ref="124714729"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="A Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="A"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="14000040">
+    <nd ref="132745778"/>
+    <nd ref="132745780"/>
+    <nd ref="132745782"/>
+    <nd ref="132745786"/>
+    <nd ref="132745789"/>
+    <nd ref="132745793"/>
+    <nd ref="132727743"/>
+    <nd ref="132745795"/>
+    <nd ref="132745797"/>
+    <nd ref="132745798"/>
+    <nd ref="132745801"/>
+    <nd ref="132745803"/>
+    <nd ref="132745805"/>
+    <nd ref="132716911"/>
+    <nd ref="132745807"/>
+    <nd ref="132745809"/>
+    <nd ref="132745812"/>
+    <nd ref="132745815"/>
+    <nd ref="132745817"/>
+    <nd ref="132745821"/>
+    <nd ref="132745824"/>
+    <nd ref="132745826"/>
+    <nd ref="132745828"/>
+    <nd ref="132745830"/>
+    <nd ref="132745831"/>
+    <nd ref="132745832"/>
+    <nd ref="132745834"/>
+    <nd ref="132745837"/>
+    <nd ref="132745840"/>
+    <nd ref="124734846"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Higgason Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="Higgason"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="39108"/>
+  </way>
+  <way id="14000439">
+    <nd ref="132750387"/>
+    <nd ref="132750388"/>
+    <nd ref="132750396"/>
+    <nd ref="132750399"/>
+    <nd ref="132750404"/>
+    <nd ref="132750410"/>
+    <nd ref="2142867794"/>
+    <nd ref="132750413"/>
+    <nd ref="2142867807"/>
+    <nd ref="132750416"/>
+    <nd ref="2142867812"/>
+    <nd ref="132727771"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fentress-Pan Handle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="Fentress-Pan Handle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="14000652">
+    <nd ref="132752206"/>
+    <nd ref="132752211"/>
+    <nd ref="132752213"/>
+    <nd ref="132752217"/>
+    <nd ref="132752221"/>
+    <nd ref="132752224"/>
+    <nd ref="132752227"/>
+    <nd ref="132752231"/>
+    <nd ref="132752234"/>
+    <nd ref="132752237"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="C L Black Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="C L Black"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="14000844">
+    <nd ref="132727771"/>
+    <nd ref="132754146"/>
+    <nd ref="132754150"/>
+    <nd ref="2142867819"/>
+    <nd ref="2142867821"/>
+    <nd ref="132754152"/>
+    <nd ref="132754154"/>
+    <nd ref="132736865"/>
+    <nd ref="132754156"/>
+    <nd ref="132754159"/>
+    <nd ref="2142867828"/>
+    <nd ref="2142867829"/>
+    <nd ref="132754162"/>
+    <nd ref="124729514"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hopewell Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="Hopewell"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="14001438">
+    <nd ref="132745215"/>
+    <nd ref="132759281"/>
+    <nd ref="132759283"/>
+    <nd ref="132759285"/>
+    <nd ref="132759288"/>
+    <nd ref="132759290"/>
+    <nd ref="124581153"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="County Line Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="County Line"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="14001732">
+    <nd ref="132742297"/>
+    <nd ref="132716053"/>
+    <nd ref="132761704"/>
+    <nd ref="132761709"/>
+    <nd ref="132761712"/>
+    <nd ref="132761715"/>
+    <nd ref="132761718"/>
+    <nd ref="132761721"/>
+    <nd ref="132761724"/>
+    <nd ref="132761727"/>
+    <nd ref="132761731"/>
+    <nd ref="132741664"/>
+    <nd ref="132752653"/>
+    <nd ref="132761734"/>
+    <nd ref="132761735"/>
+    <nd ref="132761738"/>
+    <nd ref="132761740"/>
+    <nd ref="132761742"/>
+    <nd ref="132737559"/>
+    <nd ref="132761745"/>
+    <nd ref="132761748"/>
+    <nd ref="132761753"/>
+    <nd ref="132752206"/>
+    <nd ref="132761755"/>
+    <nd ref="132761757"/>
+    <nd ref="132761759"/>
+    <nd ref="132761761"/>
+    <nd ref="132761763"/>
+    <nd ref="132761765"/>
+    <nd ref="132761766"/>
+    <nd ref="132761768"/>
+    <nd ref="132761771"/>
+    <nd ref="132761774"/>
+    <nd ref="132761777"/>
+    <nd ref="132761779"/>
+    <nd ref="132761782"/>
+    <nd ref="132761784"/>
+    <nd ref="132761786"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Massey-Hisaw Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Winston, MS"/>
+    <tag k="tiger:name_base" v="Massey-Hisaw"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="93620417">
+    <nd ref="124613022"/>
+    <nd ref="124613027"/>
+    <nd ref="124613030"/>
+    <nd ref="124591813"/>
+    <nd ref="124613033"/>
+    <nd ref="124613035"/>
+    <nd ref="124613036"/>
+    <nd ref="124613038"/>
+    <nd ref="124590529"/>
+    <nd ref="124613041"/>
+    <nd ref="124613043"/>
+    <nd ref="124613047"/>
+    <nd ref="124613050"/>
+    <nd ref="124613054"/>
+    <nd ref="124613057"/>
+    <nd ref="124613060"/>
+    <nd ref="124613065"/>
+    <nd ref="124613068"/>
+    <nd ref="124613072"/>
+    <nd ref="124613075"/>
+    <nd ref="124613078"/>
+    <nd ref="124613081"/>
+    <nd ref="124613084"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="County Road 5233"/>
+    <tag k="name_1" v="Burks Road"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="County Road 5233"/>
+    <tag k="tiger:name_base_1" v="Burks"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="93620420">
+    <nd ref="124582463"/>
+    <nd ref="124629481"/>
+    <nd ref="124629483"/>
+    <nd ref="124629485"/>
+    <nd ref="124629489"/>
+    <nd ref="124629493"/>
+    <nd ref="124623433"/>
+    <nd ref="124582818"/>
+    <nd ref="124629496"/>
+    <nd ref="124629499"/>
+    <nd ref="124629502"/>
+    <nd ref="124629505"/>
+    <nd ref="124629508"/>
+    <nd ref="124629511"/>
+    <nd ref="124629514"/>
+    <nd ref="124629517"/>
+    <nd ref="124629520"/>
+    <nd ref="124629526"/>
+    <nd ref="124629529"/>
+    <nd ref="124629532"/>
+    <nd ref="124629535"/>
+    <nd ref="124629538"/>
+    <nd ref="124629540"/>
+    <nd ref="124629542"/>
+    <nd ref="124629544"/>
+    <nd ref="124629546"/>
+    <nd ref="124629548"/>
+    <nd ref="124629550"/>
+    <nd ref="124629552"/>
+    <nd ref="124629555"/>
+    <nd ref="124629557"/>
+    <nd ref="124629560"/>
+    <nd ref="124629562"/>
+    <nd ref="124629564"/>
+    <nd ref="124629566"/>
+    <nd ref="124629568"/>
+    <nd ref="124613084"/>
+    <nd ref="124629354"/>
+    <nd ref="124590555"/>
+    <nd ref="124629356"/>
+    <nd ref="124629358"/>
+    <nd ref="124629360"/>
+    <nd ref="124629362"/>
+    <nd ref="124629364"/>
+    <nd ref="124629366"/>
+    <nd ref="124629368"/>
+    <nd ref="124629370"/>
+    <nd ref="124629372"/>
+    <nd ref="124606820"/>
+    <nd ref="124629373"/>
+    <nd ref="124629376"/>
+    <nd ref="124629378"/>
+    <nd ref="124629380"/>
+    <nd ref="124629382"/>
+    <nd ref="124629385"/>
+    <nd ref="124629388"/>
+    <nd ref="124613507"/>
+    <nd ref="124629395"/>
+    <nd ref="124629397"/>
+    <nd ref="124629399"/>
+    <nd ref="124629401"/>
+    <nd ref="124629404"/>
+    <nd ref="124629407"/>
+    <nd ref="124629410"/>
+    <nd ref="124629416"/>
+    <nd ref="124629418"/>
+    <nd ref="124629421"/>
+    <nd ref="124629423"/>
+    <nd ref="124629332"/>
+    <nd ref="124629334"/>
+    <nd ref="124629336"/>
+    <nd ref="124629339"/>
+    <nd ref="124629342"/>
+    <nd ref="124629345"/>
+    <nd ref="124609710"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="ref" v="MS 411"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Attala, MS"/>
+    <tag k="tiger:name_base" v="State Highway 411"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070813"/>
+    <tag k="tiger:tlid" v="152332933:152332948:152332952:152333037:152333049:152333052:152333059:152333094:152333163:152333240:152333279:152337282:152339923:152341681:152344217:152344219:152344493:152344494"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-986da802-8d57-4027-ba94-a8a5f351f3dc"/>
+  </way>
+
+</osm>

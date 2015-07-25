@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:55:01Z"/>
+
+  <way id="12521802">
+    <nd ref="113930838"/>
+    <nd ref="114074112"/>
+    <nd ref="114074113"/>
+    <nd ref="114074116"/>
+    <nd ref="114074118"/>
+    <nd ref="114074120"/>
+    <nd ref="114074124"/>
+    <nd ref="114074132"/>
+    <nd ref="114074145"/>
+    <nd ref="114074148"/>
+    <nd ref="114074151"/>
+    <nd ref="114074154"/>
+    <nd ref="114074157"/>
+    <nd ref="114074159"/>
+    <nd ref="114074160"/>
+    <nd ref="114074162"/>
+    <nd ref="114074164"/>
+    <nd ref="114074166"/>
+    <nd ref="114074169"/>
+    <nd ref="114074172"/>
+    <nd ref="114074174"/>
+    <nd ref="114074176"/>
+    <nd ref="114074179"/>
+    <nd ref="114074182"/>
+    <nd ref="114074188"/>
+    <nd ref="113822175"/>
+    <nd ref="114074190"/>
+    <nd ref="114074192"/>
+    <nd ref="114037308"/>
+    <nd ref="114074194"/>
+    <nd ref="114074196"/>
+    <nd ref="114074199"/>
+    <nd ref="114074201"/>
+    <nd ref="114074204"/>
+    <nd ref="114074209"/>
+    <nd ref="114074212"/>
+    <nd ref="114074214"/>
+    <nd ref="114074216"/>
+    <nd ref="114074221"/>
+    <nd ref="114074224"/>
+    <nd ref="114074227"/>
+    <nd ref="3078571984"/>
+    <nd ref="114074230"/>
+    <nd ref="114074232"/>
+    <nd ref="114074240"/>
+    <nd ref="114074241"/>
+    <nd ref="114074244"/>
+    <nd ref="114074248"/>
+    <nd ref="114074249"/>
+    <nd ref="114074251"/>
+    <nd ref="114074253"/>
+    <nd ref="114074255"/>
+    <nd ref="114074257"/>
+    <nd ref="114074260"/>
+    <nd ref="114074263"/>
+    <nd ref="114074267"/>
+    <nd ref="114074271"/>
+    <nd ref="114074274"/>
+    <nd ref="114074277"/>
+    <nd ref="114074279"/>
+    <nd ref="114074281"/>
+    <nd ref="114074285"/>
+    <nd ref="114074288"/>
+    <nd ref="114074291"/>
+    <nd ref="114074293"/>
+    <nd ref="114074295"/>
+    <nd ref="114074297"/>
+    <nd ref="114074299"/>
+    <nd ref="3078572026"/>
+    <nd ref="114074302"/>
+    <nd ref="114074305"/>
+    <nd ref="114074315"/>
+    <nd ref="113843038"/>
+    <nd ref="3078572055"/>
+    <nd ref="113843044"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mill Creek Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Mill Creek"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29685"/>
+    <tag k="tiger:zip_right" v="29685"/>
+  </way>
+  <way id="303499784">
+    <nd ref="113812980"/>
+    <nd ref="3078572047"/>
+    <nd ref="3078572058"/>
+    <nd ref="3078572061"/>
+    <nd ref="3078572074"/>
+    <nd ref="3078572079"/>
+    <nd ref="3078572082"/>
+    <nd ref="3078572083"/>
+    <nd ref="3078572081"/>
+    <nd ref="3078572080"/>
+    <nd ref="3078572078"/>
+    <nd ref="3078572071"/>
+    <nd ref="3078572068"/>
+    <nd ref="3078572070"/>
+    <nd ref="3078572069"/>
+    <nd ref="3078572065"/>
+    <nd ref="3078572064"/>
+    <nd ref="3078572063"/>
+    <nd ref="3078572066"/>
+    <nd ref="3078572067"/>
+    <nd ref="3078572075"/>
+    <nd ref="3078572087"/>
+    <nd ref="3078572088"/>
+    <nd ref="3078572085"/>
+    <nd ref="3078572076"/>
+    <nd ref="3078572060"/>
+    <nd ref="3078572057"/>
+    <nd ref="3078572056"/>
+    <nd ref="3078572053"/>
+    <nd ref="3078572050"/>
+    <nd ref="3078572044"/>
+    <nd ref="3078572033"/>
+    <nd ref="3078572028"/>
+    <nd ref="3078572021"/>
+    <nd ref="3078572018"/>
+    <nd ref="3078572013"/>
+    <nd ref="3078572012"/>
+    <nd ref="3078572011"/>
+    <nd ref="3078572015"/>
+    <nd ref="3078572019"/>
+    <nd ref="3078572016"/>
+    <nd ref="3078572017"/>
+    <nd ref="3078572022"/>
+    <nd ref="3078572023"/>
+    <nd ref="3078572030"/>
+    <nd ref="3078572031"/>
+    <nd ref="3078572039"/>
+    <nd ref="3078572041"/>
+    <nd ref="3078572038"/>
+    <nd ref="3078572037"/>
+    <nd ref="3078572034"/>
+    <nd ref="3078572035"/>
+    <nd ref="3078572042"/>
+    <nd ref="3078572036"/>
+    <nd ref="3078572027"/>
+    <nd ref="3078572014"/>
+    <nd ref="3078572008"/>
+    <nd ref="3078572006"/>
+    <nd ref="3078572005"/>
+    <nd ref="3078572004"/>
+    <nd ref="3078572001"/>
+    <nd ref="3078572000"/>
+    <nd ref="3078572002"/>
+    <nd ref="3078572010"/>
+    <nd ref="3078572020"/>
+    <nd ref="3078572029"/>
+    <nd ref="3078572040"/>
+    <nd ref="3078572043"/>
+    <nd ref="3078572045"/>
+    <nd ref="3078572051"/>
+    <nd ref="3078572054"/>
+    <nd ref="3078572072"/>
+    <nd ref="3078572089"/>
+    <nd ref="3078572095"/>
+    <nd ref="3078572098"/>
+    <nd ref="3078572099"/>
+    <nd ref="3078572094"/>
+    <nd ref="3078572086"/>
+    <nd ref="404126248"/>
+    <nd ref="3078572055"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Mill Creek Road"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Mill Creek"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tracktype" v="grade4"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+  <way id="303499785">
+    <nd ref="3078572616"/>
+    <nd ref="3078572611"/>
+    <nd ref="3078572610"/>
+    <nd ref="3078572607"/>
+    <nd ref="3078572604"/>
+    <nd ref="3078572600"/>
+    <nd ref="3078572593"/>
+    <nd ref="3078572590"/>
+    <nd ref="3078572588"/>
+    <nd ref="3078572586"/>
+    <nd ref="3078572580"/>
+    <nd ref="3078572575"/>
+    <nd ref="3078572562"/>
+    <nd ref="3078572553"/>
+    <nd ref="3078572551"/>
+    <nd ref="3078572554"/>
+    <nd ref="3078572559"/>
+    <nd ref="3078572570"/>
+    <nd ref="3078572583"/>
+    <nd ref="3078572584"/>
+    <nd ref="3078572581"/>
+    <nd ref="3078572567"/>
+    <nd ref="3078572556"/>
+    <nd ref="3078572549"/>
+    <nd ref="3078572539"/>
+    <nd ref="3078572533"/>
+    <nd ref="3078572531"/>
+    <nd ref="3078572529"/>
+    <nd ref="3078572530"/>
+    <nd ref="3078572535"/>
+    <nd ref="3078572543"/>
+    <nd ref="3078572546"/>
+    <nd ref="3078572547"/>
+    <nd ref="3078572550"/>
+    <nd ref="3078572558"/>
+    <nd ref="3078572565"/>
+    <nd ref="3078572573"/>
+    <nd ref="3078572579"/>
+    <nd ref="3078572574"/>
+    <nd ref="3078572568"/>
+    <nd ref="3078572561"/>
+    <nd ref="3078572552"/>
+    <nd ref="3078572545"/>
+    <nd ref="3078572534"/>
+    <nd ref="3078572528"/>
+    <nd ref="3078572527"/>
+    <nd ref="3078572525"/>
+    <nd ref="3078572522"/>
+    <nd ref="3078572520"/>
+    <nd ref="3078572517"/>
+    <nd ref="3078572514"/>
+    <nd ref="3078572510"/>
+    <nd ref="3078572505"/>
+    <nd ref="3078572500"/>
+    <nd ref="3078572499"/>
+    <nd ref="3078572503"/>
+    <nd ref="3078572506"/>
+    <nd ref="3078572507"/>
+    <nd ref="3078572508"/>
+    <nd ref="3078572501"/>
+    <nd ref="3078572498"/>
+    <nd ref="3078572497"/>
+    <nd ref="3078572490"/>
+    <nd ref="3078572484"/>
+    <nd ref="3078572479"/>
+    <nd ref="113835640"/>
+    <nd ref="113835637"/>
+    <nd ref="113835634"/>
+    <nd ref="113835632"/>
+    <nd ref="113835629"/>
+    <nd ref="113835627"/>
+    <nd ref="113835624"/>
+    <nd ref="113835621"/>
+    <nd ref="113835618"/>
+    <nd ref="113835616"/>
+    <nd ref="113835614"/>
+    <nd ref="114016793"/>
+    <nd ref="114016792"/>
+    <nd ref="114016789"/>
+    <nd ref="114016786"/>
+    <nd ref="114016782"/>
+    <nd ref="114016778"/>
+    <nd ref="114016776"/>
+    <nd ref="114016774"/>
+    <nd ref="114016771"/>
+    <nd ref="114016770"/>
+    <nd ref="114016767"/>
+    <nd ref="114016765"/>
+    <nd ref="114016763"/>
+    <nd ref="114016762"/>
+    <nd ref="114016760"/>
+    <nd ref="114016758"/>
+    <nd ref="114016757"/>
+    <nd ref="114016754"/>
+    <nd ref="113843044"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Prince Cove Road"/>
+    <tag k="noexit" v="yes"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Mill Creek:Willis Fields Road"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tracktype" v="grade4"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+
+</osm>

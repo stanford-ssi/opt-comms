@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="16656648">
+    <nd ref="172072633"/>
+    <nd ref="196011684"/>
+    <nd ref="1731069187"/>
+    <nd ref="196011686"/>
+    <nd ref="196011687"/>
+    <nd ref="1731069236"/>
+    <nd ref="196011688"/>
+    <nd ref="1731069255"/>
+    <nd ref="1731069257"/>
+    <nd ref="196011690"/>
+    <nd ref="196011692"/>
+    <nd ref="196011694"/>
+    <nd ref="196011696"/>
+    <nd ref="196011698"/>
+    <nd ref="196011703"/>
+    <nd ref="196011704"/>
+    <nd ref="196011705"/>
+    <nd ref="196011706"/>
+    <nd ref="196011708"/>
+    <nd ref="196011710"/>
+    <nd ref="196011712"/>
+    <nd ref="196011713"/>
+    <nd ref="196011714"/>
+    <nd ref="196011716"/>
+    <nd ref="196011718"/>
+    <nd ref="196011720"/>
+    <nd ref="172072912"/>
+    <nd ref="172072914"/>
+    <nd ref="172072917"/>
+    <nd ref="172072918"/>
+    <nd ref="172072919"/>
+    <nd ref="172072921"/>
+    <nd ref="172072922"/>
+    <nd ref="172072923"/>
+    <nd ref="172072924"/>
+    <nd ref="172072925"/>
+    <nd ref="172072927"/>
+    <nd ref="172072929"/>
+    <nd ref="172072931"/>
+    <nd ref="2731886047"/>
+    <nd ref="172072933"/>
+    <nd ref="172072935"/>
+    <nd ref="172072936"/>
+    <nd ref="172072937"/>
+    <nd ref="172072938"/>
+    <nd ref="172072939"/>
+    <nd ref="172072940"/>
+    <nd ref="172072942"/>
+    <nd ref="172072946"/>
+    <nd ref="172072948"/>
+    <nd ref="172072950"/>
+    <nd ref="172072952"/>
+    <nd ref="172072954"/>
+    <nd ref="172072955"/>
+    <nd ref="172072957"/>
+    <nd ref="172072958"/>
+    <nd ref="172072960"/>
+    <nd ref="172072962"/>
+    <nd ref="172072964"/>
+    <nd ref="172072967"/>
+    <nd ref="172072968"/>
+    <nd ref="172072971"/>
+    <nd ref="172072974"/>
+    <nd ref="195967304"/>
+    <nd ref="172072980"/>
+    <nd ref="172072983"/>
+    <nd ref="2731838659"/>
+    <nd ref="172072986"/>
+    <nd ref="172072989"/>
+    <nd ref="172072992"/>
+    <nd ref="172072995"/>
+    <nd ref="172072998"/>
+    <nd ref="172073001"/>
+    <nd ref="172073003"/>
+    <nd ref="172073005"/>
+    <nd ref="172073007"/>
+    <nd ref="172073009"/>
+    <nd ref="172073011"/>
+    <nd ref="172073013"/>
+    <nd ref="172073016"/>
+    <nd ref="172073019"/>
+    <nd ref="172073021"/>
+    <nd ref="172073022"/>
+    <nd ref="172073023"/>
+    <nd ref="172073024"/>
+    <nd ref="172073026"/>
+    <nd ref="172073028"/>
+    <nd ref="172073032"/>
+    <nd ref="172073034"/>
+    <nd ref="172073036"/>
+    <nd ref="172073038"/>
+    <nd ref="172073041"/>
+    <nd ref="172073044"/>
+    <nd ref="172073046"/>
+    <nd ref="172073048"/>
+    <nd ref="172073050"/>
+    <nd ref="172073055"/>
+    <nd ref="172073058"/>
+    <nd ref="172073061"/>
+    <nd ref="172073064"/>
+    <nd ref="172073068"/>
+    <nd ref="172073071"/>
+    <nd ref="196011812"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="rcn_ref" v="2"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC; Yancey, NC"/>
+    <tag k="tiger:name_base" v="Blue Ridge"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="18942327">
+    <nd ref="196011812"/>
+    <nd ref="196011814"/>
+    <nd ref="196011816"/>
+    <nd ref="1731069265"/>
+    <nd ref="1731069267"/>
+    <nd ref="1731069269"/>
+    <nd ref="1731069270"/>
+    <nd ref="196011817"/>
+    <nd ref="1731069272"/>
+    <nd ref="1731069278"/>
+    <nd ref="1731069283"/>
+    <nd ref="196011818"/>
+    <nd ref="196011820"/>
+    <nd ref="1731069289"/>
+    <nd ref="1731069295"/>
+    <nd ref="1731069306"/>
+    <nd ref="1731069309"/>
+    <nd ref="1731069311"/>
+    <nd ref="1731069314"/>
+    <nd ref="196011822"/>
+    <nd ref="1731069317"/>
+    <nd ref="1731069320"/>
+    <nd ref="196011823"/>
+    <nd ref="1731069322"/>
+    <nd ref="196011824"/>
+    <nd ref="1731069325"/>
+    <nd ref="196011826"/>
+    <nd ref="196011828"/>
+    <nd ref="196011830"/>
+    <nd ref="1731069327"/>
+    <nd ref="1731069329"/>
+    <nd ref="1731069330"/>
+    <nd ref="1731069331"/>
+    <nd ref="196011832"/>
+    <nd ref="196011833"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="rcn_ref" v="2"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:name_base" v="Blue Ridge"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37419244"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="161111133">
+    <nd ref="1731069272"/>
+    <nd ref="1731069275"/>
+    <nd ref="1731069280"/>
+    <nd ref="1731069285"/>
+    <nd ref="1731069287"/>
+    <nd ref="1731069291"/>
+    <nd ref="1731069293"/>
+    <nd ref="1731069303"/>
+    <nd ref="1731069306"/>
+    <tag k="highway" v="service"/>
+  </way>
+
+</osm>

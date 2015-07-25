@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16628632">
+    <nd ref="171755661"/>
+    <nd ref="171755664"/>
+    <nd ref="171755666"/>
+    <nd ref="2905216861"/>
+    <nd ref="171755668"/>
+    <nd ref="171755670"/>
+    <nd ref="171755672"/>
+    <nd ref="2905216862"/>
+    <nd ref="2905216863"/>
+    <nd ref="171755674"/>
+    <nd ref="2905216865"/>
+    <nd ref="171755677"/>
+    <nd ref="2905216872"/>
+    <nd ref="2905216875"/>
+    <nd ref="2905216877"/>
+    <nd ref="2905216876"/>
+    <nd ref="2905216873"/>
+    <nd ref="2905216870"/>
+    <nd ref="2905216869"/>
+    <nd ref="2905216868"/>
+    <nd ref="171755679"/>
+    <nd ref="171755682"/>
+    <nd ref="171755685"/>
+    <nd ref="2905216880"/>
+    <nd ref="2905216882"/>
+    <nd ref="2905216883"/>
+    <nd ref="2905216884"/>
+    <nd ref="171755688"/>
+    <nd ref="2905216886"/>
+    <nd ref="2905216891"/>
+    <nd ref="2905216893"/>
+    <nd ref="171755690"/>
+    <nd ref="2905216896"/>
+    <nd ref="2905216898"/>
+    <nd ref="171755692"/>
+    <nd ref="171755694"/>
+    <nd ref="2905217010"/>
+    <nd ref="2905217012"/>
+    <nd ref="2905217015"/>
+    <nd ref="171755696"/>
+    <nd ref="2905217019"/>
+    <nd ref="171755698"/>
+    <nd ref="171755701"/>
+    <nd ref="171755703"/>
+    <nd ref="171755705"/>
+    <nd ref="171755708"/>
+    <nd ref="171713010"/>
+    <nd ref="171755711"/>
+    <nd ref="171667052"/>
+    <nd ref="171755713"/>
+    <nd ref="171755717"/>
+    <nd ref="171755722"/>
+    <nd ref="171755724"/>
+    <nd ref="171755577"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Big Ridge Road"/>
+    <tag k="name_1" v="State Road 1129"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Big Ridge"/>
+    <tag k="tiger:name_base_1" v="State Road 1129"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16628638">
+    <nd ref="171755996"/>
+    <nd ref="171755997"/>
+    <nd ref="171755998"/>
+    <nd ref="171755976"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Big Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Big Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629495">
+    <nd ref="171766730"/>
+    <nd ref="171766733"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Valley View Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Valley View Tr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629497">
+    <nd ref="171766741"/>
+    <nd ref="171766744"/>
+    <nd ref="171766730"/>
+    <nd ref="171766747"/>
+    <nd ref="171766750"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Valley View Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Valley View Tr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28736"/>
+  </way>
+  <way id="16629499">
+    <nd ref="171766747"/>
+    <nd ref="171766756"/>
+    <nd ref="171766760"/>
+    <nd ref="171766763"/>
+    <nd ref="171766767"/>
+    <nd ref="171766770"/>
+    <nd ref="171766773"/>
+    <nd ref="171766776"/>
+    <nd ref="171766779"/>
+    <nd ref="171766783"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Valley View Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Valley View Tr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16632714">
+    <nd ref="171766741"/>
+    <nd ref="171800456"/>
+    <nd ref="171802604"/>
+    <nd ref="171802607"/>
+    <nd ref="171802610"/>
+    <nd ref="171802612"/>
+    <nd ref="171802615"/>
+    <nd ref="171802618"/>
+    <nd ref="171802620"/>
+    <nd ref="171802621"/>
+    <nd ref="171802622"/>
+    <nd ref="171802624"/>
+    <nd ref="171802626"/>
+    <nd ref="171802629"/>
+    <nd ref="171802634"/>
+    <nd ref="171670480"/>
+    <nd ref="171802637"/>
+    <nd ref="171802639"/>
+    <nd ref="171802641"/>
+    <nd ref="171802642"/>
+    <nd ref="171802643"/>
+    <nd ref="171802645"/>
+    <nd ref="171802647"/>
+    <nd ref="171802650"/>
+    <nd ref="171802653"/>
+    <nd ref="171802656"/>
+    <nd ref="171723892"/>
+    <nd ref="171802659"/>
+    <nd ref="171802661"/>
+    <nd ref="171802663"/>
+    <nd ref="171802666"/>
+    <nd ref="171802669"/>
+    <nd ref="171802671"/>
+    <nd ref="171802673"/>
+    <nd ref="171802677"/>
+    <nd ref="171802680"/>
+    <nd ref="171802683"/>
+    <nd ref="171802685"/>
+    <nd ref="171802687"/>
+    <nd ref="171802689"/>
+    <nd ref="171802691"/>
+    <nd ref="171802693"/>
+    <nd ref="171802696"/>
+    <nd ref="171802703"/>
+    <nd ref="171802710"/>
+    <nd ref="171666352"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1126"/>
+    <tag k="name_1" v="Fowler Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="State Road 1126"/>
+    <tag k="tiger:name_base_1" v="Fowler"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="271668571">
+    <nd ref="171755747"/>
+    <nd ref="171755749"/>
+    <nd ref="171755751"/>
+    <nd ref="171755753"/>
+    <nd ref="171755755"/>
+    <nd ref="171721573"/>
+    <nd ref="171747209"/>
+    <nd ref="171755757"/>
+    <nd ref="171755759"/>
+    <nd ref="171708284"/>
+    <nd ref="171755762"/>
+    <nd ref="171755765"/>
+    <nd ref="171755768"/>
+    <nd ref="171755771"/>
+    <nd ref="171755773"/>
+    <nd ref="171755777"/>
+    <nd ref="171755781"/>
+    <nd ref="171755784"/>
+    <nd ref="171755787"/>
+    <nd ref="171755790"/>
+    <nd ref="171755793"/>
+    <nd ref="171755796"/>
+    <nd ref="171755799"/>
+    <nd ref="171755804"/>
+    <nd ref="171755807"/>
+    <nd ref="171755810"/>
+    <nd ref="171755813"/>
+    <nd ref="171755818"/>
+    <nd ref="171755821"/>
+    <nd ref="171755824"/>
+    <nd ref="171755828"/>
+    <nd ref="171755831"/>
+    <nd ref="171755835"/>
+    <nd ref="171755839"/>
+    <nd ref="171755842"/>
+    <nd ref="171755845"/>
+    <nd ref="171755848"/>
+    <nd ref="171755851"/>
+    <nd ref="171755855"/>
+    <nd ref="171755857"/>
+    <nd ref="171755862"/>
+    <nd ref="171755864"/>
+    <nd ref="171755866"/>
+    <nd ref="171755869"/>
+    <nd ref="171755871"/>
+    <nd ref="171755874"/>
+    <nd ref="171755876"/>
+    <nd ref="171755880"/>
+    <nd ref="171755883"/>
+    <nd ref="171755886"/>
+    <nd ref="171755888"/>
+    <nd ref="171755891"/>
+    <nd ref="171755893"/>
+    <nd ref="171755896"/>
+    <nd ref="171755899"/>
+    <nd ref="171755903"/>
+    <nd ref="171755906"/>
+    <nd ref="171755909"/>
+    <nd ref="171755912"/>
+    <nd ref="171755915"/>
+    <nd ref="171755918"/>
+    <nd ref="171755921"/>
+    <nd ref="171755924"/>
+    <nd ref="171755927"/>
+    <nd ref="171755929"/>
+    <nd ref="171755931"/>
+    <nd ref="171755935"/>
+    <nd ref="171755939"/>
+    <nd ref="171755942"/>
+    <nd ref="171755945"/>
+    <nd ref="171755948"/>
+    <nd ref="171755951"/>
+    <nd ref="171755953"/>
+    <nd ref="171755956"/>
+    <nd ref="171755959"/>
+    <nd ref="171755962"/>
+    <nd ref="171755965"/>
+    <nd ref="171755969"/>
+    <nd ref="171755971"/>
+    <nd ref="171755974"/>
+    <nd ref="171755976"/>
+    <nd ref="171755978"/>
+    <nd ref="171755981"/>
+    <nd ref="171755983"/>
+    <nd ref="171755985"/>
+    <nd ref="171755661"/>
+    <nd ref="171755987"/>
+    <nd ref="171755989"/>
+    <nd ref="171755990"/>
+    <nd ref="171755991"/>
+    <nd ref="171755992"/>
+    <nd ref="171755993"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Big Ridge Road"/>
+    <tag k="name_1" v="State Road 1129"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Big Ridge"/>
+    <tag k="tiger:name_base_1" v="State Road 1129"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

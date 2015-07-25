@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="18939435">
+    <nd ref="195982447"/>
+    <nd ref="195982449"/>
+    <nd ref="195982451"/>
+    <nd ref="195982453"/>
+    <nd ref="195982455"/>
+    <nd ref="195982457"/>
+    <nd ref="195965218"/>
+    <nd ref="195982459"/>
+    <nd ref="195982461"/>
+    <nd ref="195982463"/>
+    <nd ref="195982465"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37428178:37418170:37428165"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18939606">
+    <nd ref="195983592"/>
+    <nd ref="195983593"/>
+    <nd ref="195983594"/>
+    <nd ref="195983595"/>
+    <nd ref="195983597"/>
+    <nd ref="195983599"/>
+    <nd ref="195983601"/>
+    <nd ref="195983603"/>
+    <nd ref="195983605"/>
+    <nd ref="195983606"/>
+    <nd ref="195982463"/>
+    <nd ref="195983608"/>
+    <nd ref="195983609"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37428164:37428167:37428168"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+
+</osm>

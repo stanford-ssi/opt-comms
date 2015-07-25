@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16761877">
+    <nd ref="173282075"/>
+    <nd ref="173282077"/>
+    <nd ref="173282079"/>
+    <nd ref="173282081"/>
+    <nd ref="173282084"/>
+    <nd ref="173282087"/>
+    <nd ref="173282089"/>
+    <nd ref="173282091"/>
+    <nd ref="173282094"/>
+    <nd ref="173282096"/>
+    <nd ref="173282098"/>
+    <nd ref="173282099"/>
+    <nd ref="173282100"/>
+    <nd ref="173282102"/>
+    <nd ref="173282104"/>
+    <nd ref="173282106"/>
+    <nd ref="173282107"/>
+    <nd ref="173282108"/>
+    <nd ref="173282110"/>
+    <nd ref="173282113"/>
+    <nd ref="173282115"/>
+    <nd ref="173282117"/>
+    <nd ref="173282119"/>
+    <nd ref="173282121"/>
+    <nd ref="173282124"/>
+    <nd ref="173282127"/>
+    <nd ref="173282131"/>
+    <nd ref="173282135"/>
+    <nd ref="173282142"/>
+    <nd ref="173282148"/>
+    <nd ref="173282154"/>
+    <nd ref="173282167"/>
+    <nd ref="173282172"/>
+    <nd ref="173282175"/>
+    <nd ref="173282177"/>
+    <nd ref="173282179"/>
+    <nd ref="173282182"/>
+    <nd ref="173282185"/>
+    <nd ref="173282188"/>
+    <nd ref="173282191"/>
+    <nd ref="173282194"/>
+    <nd ref="173282195"/>
+    <nd ref="173282198"/>
+    <nd ref="173282201"/>
+    <nd ref="173282204"/>
+    <nd ref="173282207"/>
+    <nd ref="173282209"/>
+    <nd ref="173282212"/>
+    <nd ref="173282214"/>
+    <nd ref="173282218"/>
+    <nd ref="173282221"/>
+    <nd ref="173282223"/>
+    <nd ref="173282224"/>
+    <nd ref="173282227"/>
+    <nd ref="173282229"/>
+    <nd ref="173282232"/>
+    <nd ref="173282235"/>
+    <nd ref="173282237"/>
+    <nd ref="173282239"/>
+    <nd ref="173282241"/>
+    <nd ref="173282243"/>
+    <nd ref="173282244"/>
+    <nd ref="173282247"/>
+    <nd ref="173282251"/>
+    <nd ref="173282252"/>
+    <nd ref="173282254"/>
+    <nd ref="173282256"/>
+    <nd ref="173282259"/>
+    <nd ref="173282262"/>
+    <nd ref="173282265"/>
+    <nd ref="173282269"/>
+    <nd ref="173282272"/>
+    <nd ref="173282277"/>
+    <nd ref="173222496"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mt Forest Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Mt Forest"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28167"/>
+    <tag k="tiger:zip_left_1" v="28167"/>
+  </way>
+
+</osm>

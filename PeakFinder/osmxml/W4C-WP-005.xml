@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16393315">
+    <nd ref="169107148"/>
+    <nd ref="169146776"/>
+    <nd ref="169146778"/>
+    <nd ref="169146780"/>
+    <nd ref="169146781"/>
+    <nd ref="169146783"/>
+    <nd ref="169146786"/>
+    <nd ref="169146789"/>
+    <nd ref="169146792"/>
+    <nd ref="169146795"/>
+    <nd ref="169146798"/>
+    <nd ref="169146801"/>
+    <nd ref="169146804"/>
+    <nd ref="169146807"/>
+    <nd ref="169146810"/>
+    <nd ref="169146813"/>
+    <nd ref="169146815"/>
+    <nd ref="169146818"/>
+    <nd ref="169146820"/>
+    <nd ref="169146823"/>
+    <nd ref="169146829"/>
+    <nd ref="169146833"/>
+    <nd ref="169146836"/>
+    <nd ref="169146839"/>
+    <nd ref="169146842"/>
+    <nd ref="169146846"/>
+    <nd ref="169146849"/>
+    <nd ref="169146854"/>
+    <nd ref="169146857"/>
+    <nd ref="169146862"/>
+    <nd ref="169146865"/>
+    <nd ref="169146868"/>
+    <nd ref="169146870"/>
+    <nd ref="169146872"/>
+    <nd ref="169146874"/>
+    <nd ref="169146876"/>
+    <nd ref="169146878"/>
+    <nd ref="169146880"/>
+    <nd ref="169146882"/>
+    <nd ref="169146885"/>
+    <nd ref="169146887"/>
+    <nd ref="169146889"/>
+    <nd ref="169146890"/>
+    <nd ref="169146892"/>
+    <nd ref="169146895"/>
+    <nd ref="169146898"/>
+    <nd ref="169146901"/>
+    <nd ref="169146903"/>
+    <nd ref="169146906"/>
+    <nd ref="169146910"/>
+    <nd ref="169146913"/>
+    <nd ref="169146915"/>
+    <nd ref="169146918"/>
+    <nd ref="169146921"/>
+    <nd ref="169146924"/>
+    <nd ref="169146927"/>
+    <nd ref="169146930"/>
+    <nd ref="169146934"/>
+    <nd ref="169146937"/>
+    <nd ref="169146940"/>
+    <nd ref="169146944"/>
+    <nd ref="169146948"/>
+    <nd ref="169146951"/>
+    <nd ref="169146954"/>
+    <nd ref="169146956"/>
+    <nd ref="169146960"/>
+    <nd ref="169146963"/>
+    <nd ref="169146966"/>
+    <nd ref="169146969"/>
+    <nd ref="169146971"/>
+    <nd ref="169146973"/>
+    <nd ref="169146975"/>
+    <nd ref="169146977"/>
+    <nd ref="169146979"/>
+    <nd ref="169146981"/>
+    <nd ref="169146984"/>
+    <nd ref="169146987"/>
+    <nd ref="169146990"/>
+    <nd ref="169146993"/>
+    <nd ref="169146996"/>
+    <nd ref="169146999"/>
+    <nd ref="169147002"/>
+    <nd ref="169147005"/>
+    <nd ref="169147008"/>
+    <nd ref="169147011"/>
+    <nd ref="169147014"/>
+    <nd ref="169147016"/>
+    <nd ref="169147019"/>
+    <nd ref="169147022"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Woods Walk Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alexander, NC"/>
+    <tag k="tiger:name_base" v="Woods Walk"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45785876:45795896"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b529d0d7-773e-4673-82b7-701f5db2f97a"/>
+    <tag k="tiger:zip_left" v="28681"/>
+    <tag k="tiger:zip_right" v="28681"/>
+  </way>
+
+</osm>

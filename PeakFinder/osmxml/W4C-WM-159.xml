@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16561452">
+    <nd ref="170923972"/>
+    <nd ref="170923975"/>
+    <nd ref="170923978"/>
+    <nd ref="170923980"/>
+    <nd ref="170923982"/>
+    <nd ref="170923985"/>
+    <nd ref="170923987"/>
+    <nd ref="170923989"/>
+    <nd ref="170923990"/>
+    <nd ref="170923992"/>
+    <nd ref="170923994"/>
+    <nd ref="170923996"/>
+    <nd ref="170923999"/>
+    <nd ref="170924000"/>
+    <nd ref="170924003"/>
+    <nd ref="170924005"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35962292:35962294:35962295"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-16bf96f5-6ebb-468b-abda-e2f8318fdf16"/>
+  </way>
+  <way id="16567445">
+    <nd ref="170941585"/>
+    <nd ref="170997501"/>
+    <nd ref="170997503"/>
+    <nd ref="170997505"/>
+    <nd ref="170997507"/>
+    <nd ref="170997511"/>
+    <nd ref="170997513"/>
+    <nd ref="170997516"/>
+    <nd ref="170997519"/>
+    <nd ref="170997521"/>
+    <nd ref="170997524"/>
+    <nd ref="170940712"/>
+    <nd ref="170997527"/>
+    <nd ref="170997528"/>
+    <nd ref="170997529"/>
+    <nd ref="170997530"/>
+    <nd ref="170997531"/>
+    <nd ref="170997533"/>
+    <nd ref="170997535"/>
+    <nd ref="170997537"/>
+    <nd ref="170997540"/>
+    <nd ref="170997543"/>
+    <nd ref="170997546"/>
+    <nd ref="170997549"/>
+    <nd ref="170940771"/>
+    <nd ref="170997552"/>
+    <nd ref="170997555"/>
+    <nd ref="170997558"/>
+    <nd ref="170997560"/>
+    <nd ref="170997562"/>
+    <nd ref="170997564"/>
+    <nd ref="170997566"/>
+    <nd ref="170997568"/>
+    <nd ref="170997571"/>
+    <nd ref="170997573"/>
+    <nd ref="170997575"/>
+    <nd ref="170997578"/>
+    <nd ref="170997581"/>
+    <nd ref="170997583"/>
+    <nd ref="170997586"/>
+    <nd ref="170997589"/>
+    <nd ref="170997592"/>
+    <nd ref="170997595"/>
+    <nd ref="170997598"/>
+    <nd ref="170997601"/>
+    <nd ref="170997604"/>
+    <nd ref="170997607"/>
+    <nd ref="170997610"/>
+    <nd ref="170997613"/>
+    <nd ref="170997615"/>
+    <nd ref="170997616"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jimmy Davis Road"/>
+    <tag k="name_1" v="County Road 1137"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:name_base" v="Jimmy Davis"/>
+    <tag k="tiger:name_base_1" v="County Road 1137"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28771"/>
+    <tag k="tiger:zip_right" v="28771"/>
+  </way>
+  <way id="16570939">
+    <nd ref="171046744"/>
+    <nd ref="170940938"/>
+    <nd ref="171046746"/>
+    <nd ref="171046748"/>
+    <nd ref="171046750"/>
+    <nd ref="171046753"/>
+    <nd ref="171046756"/>
+    <nd ref="171046759"/>
+    <nd ref="171046763"/>
+    <nd ref="171046765"/>
+    <nd ref="171046770"/>
+    <nd ref="171046773"/>
+    <nd ref="171046776"/>
+    <nd ref="171046779"/>
+    <nd ref="171046782"/>
+    <nd ref="171046785"/>
+    <nd ref="171046788"/>
+    <nd ref="171046790"/>
+    <nd ref="171046792"/>
+    <nd ref="171046794"/>
+    <nd ref="171046798"/>
+    <nd ref="171046800"/>
+    <nd ref="171046803"/>
+    <nd ref="171046806"/>
+    <nd ref="171046809"/>
+    <nd ref="171046811"/>
+    <nd ref="171046813"/>
+    <nd ref="171046815"/>
+    <nd ref="171046817"/>
+    <nd ref="171046819"/>
+    <nd ref="171046822"/>
+    <nd ref="171046824"/>
+    <nd ref="171046826"/>
+    <nd ref="171046828"/>
+    <nd ref="171046830"/>
+    <nd ref="171046832"/>
+    <nd ref="171046834"/>
+    <nd ref="171046835"/>
+    <nd ref="171046837"/>
+    <nd ref="171046840"/>
+    <nd ref="171046843"/>
+    <nd ref="171046846"/>
+    <nd ref="171046849"/>
+    <nd ref="171046852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mauney Branch Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:name_base" v="Mauney Branch"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28771"/>
+    <tag k="tiger:zip_right" v="28771"/>
+  </way>
+
+</osm>

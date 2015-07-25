@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12402540">
+    <nd ref="112810288"/>
+    <nd ref="112810291"/>
+    <nd ref="2910258704"/>
+    <nd ref="2910258703"/>
+    <nd ref="2910258702"/>
+    <nd ref="2910258701"/>
+    <nd ref="112810295"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tower Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Tower"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12402544">
+    <nd ref="112810302"/>
+    <nd ref="112810304"/>
+    <nd ref="112810306"/>
+    <nd ref="112810309"/>
+    <nd ref="112810313"/>
+    <nd ref="112810316"/>
+    <nd ref="112810319"/>
+    <nd ref="112810322"/>
+    <nd ref="112810327"/>
+    <nd ref="112810330"/>
+    <nd ref="112810334"/>
+    <nd ref="112810337"/>
+    <nd ref="112810340"/>
+    <nd ref="112810345"/>
+    <nd ref="112810348"/>
+    <nd ref="112810351"/>
+    <nd ref="112810356"/>
+    <nd ref="112810359"/>
+    <nd ref="112810363"/>
+    <nd ref="112810367"/>
+    <nd ref="112810370"/>
+    <nd ref="112810373"/>
+    <nd ref="112810376"/>
+    <nd ref="112810383"/>
+    <nd ref="112810386"/>
+    <nd ref="112810390"/>
+    <nd ref="112810394"/>
+    <nd ref="112810397"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tower Road"/>
+    <tag k="name_1" v="County Road 505"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Tower"/>
+    <tag k="tiger:name_base_1" v="County Road 505"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12403924">
+    <nd ref="112831531"/>
+    <nd ref="112831534"/>
+    <nd ref="112831538"/>
+    <nd ref="112831541"/>
+    <nd ref="112831545"/>
+    <nd ref="112831549"/>
+    <nd ref="112831552"/>
+    <nd ref="112831556"/>
+    <nd ref="112831560"/>
+    <nd ref="112831563"/>
+    <nd ref="112831566"/>
+    <nd ref="112831568"/>
+    <nd ref="112831571"/>
+    <nd ref="112831574"/>
+    <nd ref="112831575"/>
+    <nd ref="112831578"/>
+    <nd ref="112831581"/>
+    <nd ref="112831584"/>
+    <nd ref="112831590"/>
+    <nd ref="112831592"/>
+    <nd ref="112831595"/>
+    <nd ref="112831599"/>
+    <nd ref="112831603"/>
+    <nd ref="112831606"/>
+    <nd ref="112831610"/>
+    <nd ref="112831614"/>
+    <nd ref="112831617"/>
+    <nd ref="112831620"/>
+    <nd ref="112831625"/>
+    <nd ref="112831628"/>
+    <nd ref="112831631"/>
+    <nd ref="112831634"/>
+    <nd ref="112831637"/>
+    <nd ref="112831640"/>
+    <nd ref="112831642"/>
+    <nd ref="112831645"/>
+    <nd ref="112831651"/>
+    <nd ref="112831654"/>
+    <nd ref="112831661"/>
+    <nd ref="112831662"/>
+    <nd ref="112831668"/>
+    <nd ref="112831670"/>
+    <nd ref="112831675"/>
+    <nd ref="112831678"/>
+    <nd ref="112831682"/>
+    <nd ref="112831688"/>
+    <nd ref="112831695"/>
+    <nd ref="112831699"/>
+    <nd ref="112831702"/>
+    <nd ref="112831705"/>
+    <nd ref="112831708"/>
+    <nd ref="112831709"/>
+    <nd ref="112831712"/>
+    <nd ref="112831713"/>
+    <nd ref="112831717"/>
+    <nd ref="112831719"/>
+    <nd ref="112831721"/>
+    <nd ref="112831725"/>
+    <nd ref="112831728"/>
+    <nd ref="112831731"/>
+    <nd ref="112831733"/>
+    <nd ref="112831736"/>
+    <nd ref="112831738"/>
+    <nd ref="112831742"/>
+    <nd ref="112831746"/>
+    <nd ref="112831749"/>
+    <nd ref="112831752"/>
+    <nd ref="112831754"/>
+    <nd ref="112831759"/>
+    <nd ref="112831763"/>
+    <nd ref="112831768"/>
+    <nd ref="112831772"/>
+    <nd ref="112831776"/>
+    <nd ref="112831780"/>
+    <nd ref="112831784"/>
+    <nd ref="112831788"/>
+    <nd ref="112831793"/>
+    <nd ref="112831809"/>
+    <nd ref="112831813"/>
+    <nd ref="112831817"/>
+    <nd ref="112831819"/>
+    <nd ref="112831824"/>
+    <nd ref="112831825"/>
+    <nd ref="112831828"/>
+    <nd ref="112831835"/>
+    <nd ref="112831839"/>
+    <nd ref="112831843"/>
+    <nd ref="112831846"/>
+    <nd ref="112831850"/>
+    <nd ref="112831852"/>
+    <nd ref="112831856"/>
+    <nd ref="112831860"/>
+    <nd ref="112831863"/>
+    <nd ref="112831867"/>
+    <nd ref="112831871"/>
+    <nd ref="112831875"/>
+    <nd ref="112831880"/>
+    <nd ref="112831884"/>
+    <nd ref="112831888"/>
+    <nd ref="112831891"/>
+    <nd ref="112831895"/>
+    <nd ref="112831898"/>
+    <nd ref="112831903"/>
+    <nd ref="112831907"/>
+    <nd ref="112831913"/>
+    <nd ref="112831919"/>
+    <nd ref="112831922"/>
+    <nd ref="112831926"/>
+    <nd ref="112831930"/>
+    <nd ref="112831934"/>
+    <nd ref="112831937"/>
+    <nd ref="112831941"/>
+    <nd ref="112831945"/>
+    <nd ref="112831948"/>
+    <nd ref="112831952"/>
+    <nd ref="112831956"/>
+    <nd ref="112831960"/>
+    <nd ref="112831964"/>
+    <nd ref="112831968"/>
+    <nd ref="112831972"/>
+    <nd ref="112831976"/>
+    <nd ref="112831979"/>
+    <nd ref="112831982"/>
+    <nd ref="1129932630"/>
+    <nd ref="112831985"/>
+    <nd ref="112831988"/>
+    <nd ref="112831990"/>
+    <nd ref="112831993"/>
+    <nd ref="112831995"/>
+    <nd ref="112831997"/>
+    <nd ref="112831999"/>
+    <nd ref="112832001"/>
+    <nd ref="112832003"/>
+    <nd ref="112832006"/>
+    <nd ref="112832009"/>
+    <nd ref="112832012"/>
+    <nd ref="112832015"/>
+    <nd ref="112832018"/>
+    <nd ref="112832020"/>
+    <nd ref="112832023"/>
+    <nd ref="112832026"/>
+    <nd ref="112832028"/>
+    <nd ref="112832030"/>
+    <nd ref="112832032"/>
+    <nd ref="112832035"/>
+    <nd ref="112832038"/>
+    <nd ref="112832040"/>
+    <nd ref="112832043"/>
+    <nd ref="112832045"/>
+    <nd ref="112832049"/>
+    <nd ref="112832052"/>
+    <nd ref="112832056"/>
+    <nd ref="112832060"/>
+    <nd ref="112832063"/>
+    <nd ref="112832068"/>
+    <nd ref="112832071"/>
+    <nd ref="112832072"/>
+    <nd ref="112832077"/>
+    <nd ref="112832081"/>
+    <nd ref="112832085"/>
+    <nd ref="112832088"/>
+    <nd ref="112832094"/>
+    <nd ref="112832097"/>
+    <nd ref="112832099"/>
+    <nd ref="112832104"/>
+    <nd ref="112832108"/>
+    <nd ref="112832111"/>
+    <nd ref="112832117"/>
+    <nd ref="112832123"/>
+    <nd ref="112832126"/>
+    <nd ref="112832131"/>
+    <nd ref="112832135"/>
+    <nd ref="112832140"/>
+    <nd ref="112832141"/>
+    <nd ref="112832146"/>
+    <nd ref="112832147"/>
+    <nd ref="112832152"/>
+    <nd ref="112832154"/>
+    <nd ref="112832157"/>
+    <nd ref="112832160"/>
+    <nd ref="112832164"/>
+    <nd ref="112832166"/>
+    <nd ref="112832168"/>
+    <nd ref="112832171"/>
+    <nd ref="112832172"/>
+    <nd ref="112832173"/>
+    <nd ref="112832176"/>
+    <nd ref="112832181"/>
+    <nd ref="112832183"/>
+    <nd ref="112832185"/>
+    <nd ref="112832187"/>
+    <nd ref="112832188"/>
+    <nd ref="112832189"/>
+    <nd ref="112832192"/>
+    <nd ref="112832195"/>
+    <nd ref="112832199"/>
+    <nd ref="112832201"/>
+    <nd ref="112832204"/>
+    <nd ref="112832205"/>
+    <nd ref="112832207"/>
+    <nd ref="112832210"/>
+    <nd ref="112832213"/>
+    <nd ref="112832216"/>
+    <nd ref="112832219"/>
+    <nd ref="112832222"/>
+    <nd ref="112832226"/>
+    <nd ref="112832230"/>
+    <nd ref="112832235"/>
+    <nd ref="112832239"/>
+    <nd ref="112832243"/>
+    <nd ref="112832247"/>
+    <nd ref="112832253"/>
+    <nd ref="112832256"/>
+    <nd ref="112832260"/>
+    <nd ref="112832264"/>
+    <nd ref="112832267"/>
+    <nd ref="112832275"/>
+    <nd ref="112832281"/>
+    <nd ref="112832285"/>
+    <nd ref="112832288"/>
+    <nd ref="112832292"/>
+    <nd ref="112832296"/>
+    <nd ref="112832299"/>
+    <nd ref="112832303"/>
+    <nd ref="112832308"/>
+    <nd ref="112832310"/>
+    <nd ref="112832313"/>
+    <nd ref="112832317"/>
+    <nd ref="112832321"/>
+    <nd ref="112832324"/>
+    <nd ref="112832328"/>
+    <nd ref="112832331"/>
+    <nd ref="112832335"/>
+    <nd ref="112832340"/>
+    <nd ref="112832344"/>
+    <nd ref="112832349"/>
+    <nd ref="112832352"/>
+    <nd ref="112832356"/>
+    <nd ref="112832360"/>
+    <nd ref="112832363"/>
+    <nd ref="112832367"/>
+    <nd ref="112832371"/>
+    <nd ref="112832374"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Altamont Road"/>
+    <tag k="name_1" v="County Road 46"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Altamont"/>
+    <tag k="tiger:name_base_1" v="County Road 46"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12403961">
+    <nd ref="112717959"/>
+    <nd ref="112832442"/>
+    <nd ref="112832447"/>
+    <nd ref="112832452"/>
+    <nd ref="112832455"/>
+    <nd ref="112832458"/>
+    <nd ref="112832463"/>
+    <nd ref="112832466"/>
+    <nd ref="112832468"/>
+    <nd ref="112832469"/>
+    <nd ref="112832471"/>
+    <nd ref="112832475"/>
+    <nd ref="112832482"/>
+    <nd ref="112832489"/>
+    <nd ref="112832492"/>
+    <nd ref="112832497"/>
+    <nd ref="112832500"/>
+    <nd ref="112832504"/>
+    <nd ref="112832508"/>
+    <nd ref="112832511"/>
+    <nd ref="112832515"/>
+    <nd ref="112832520"/>
+    <nd ref="112832524"/>
+    <nd ref="112832532"/>
+    <nd ref="112832536"/>
+    <nd ref="112832540"/>
+    <nd ref="112832543"/>
+    <nd ref="112832547"/>
+    <nd ref="112832551"/>
+    <nd ref="112832554"/>
+    <nd ref="112832557"/>
+    <nd ref="112832559"/>
+    <nd ref="112832562"/>
+    <nd ref="112832567"/>
+    <nd ref="112832571"/>
+    <nd ref="112832574"/>
+    <nd ref="112832577"/>
+    <nd ref="112832580"/>
+    <nd ref="112832582"/>
+    <nd ref="112832585"/>
+    <nd ref="112832589"/>
+    <nd ref="112832592"/>
+    <nd ref="112832597"/>
+    <nd ref="112812712"/>
+    <nd ref="112832601"/>
+    <nd ref="112832605"/>
+    <nd ref="112832607"/>
+    <nd ref="112832612"/>
+    <nd ref="112832618"/>
+    <nd ref="112832621"/>
+    <nd ref="112832626"/>
+    <nd ref="112832629"/>
+    <nd ref="112832633"/>
+    <nd ref="112832637"/>
+    <nd ref="112832640"/>
+    <nd ref="112832645"/>
+    <nd ref="112832648"/>
+    <nd ref="112832653"/>
+    <nd ref="112832656"/>
+    <nd ref="112832660"/>
+    <nd ref="112832665"/>
+    <nd ref="112832668"/>
+    <nd ref="112832673"/>
+    <nd ref="112832679"/>
+    <nd ref="112832683"/>
+    <nd ref="112832686"/>
+    <nd ref="112832690"/>
+    <nd ref="112832693"/>
+    <nd ref="112832698"/>
+    <nd ref="112832702"/>
+    <nd ref="112832705"/>
+    <nd ref="112832711"/>
+    <nd ref="112832714"/>
+    <nd ref="112832715"/>
+    <nd ref="112832719"/>
+    <nd ref="112832723"/>
+    <nd ref="112832726"/>
+    <nd ref="112832730"/>
+    <nd ref="112832734"/>
+    <nd ref="112832738"/>
+    <nd ref="112832741"/>
+    <nd ref="112832745"/>
+    <nd ref="112832749"/>
+    <nd ref="112832752"/>
+    <nd ref="112832757"/>
+    <nd ref="112832758"/>
+    <nd ref="112832762"/>
+    <nd ref="112832766"/>
+    <nd ref="112832769"/>
+    <nd ref="112832774"/>
+    <nd ref="112832779"/>
+    <nd ref="112832782"/>
+    <nd ref="112832790"/>
+    <nd ref="112832796"/>
+    <nd ref="112832798"/>
+    <nd ref="112832802"/>
+    <nd ref="112832804"/>
+    <nd ref="112832805"/>
+    <nd ref="112832808"/>
+    <nd ref="112832809"/>
+    <nd ref="112832811"/>
+    <nd ref="112832813"/>
+    <nd ref="112832816"/>
+    <nd ref="112832817"/>
+    <nd ref="112832818"/>
+    <nd ref="112832821"/>
+    <nd ref="112832823"/>
+    <nd ref="112832825"/>
+    <nd ref="112832829"/>
+    <nd ref="112832831"/>
+    <nd ref="112832835"/>
+    <nd ref="112832837"/>
+    <nd ref="112832839"/>
+    <nd ref="112832843"/>
+    <nd ref="112832845"/>
+    <nd ref="112832848"/>
+    <nd ref="112832850"/>
+    <nd ref="112832851"/>
+    <nd ref="112832853"/>
+    <nd ref="112832855"/>
+    <nd ref="112832856"/>
+    <nd ref="112832858"/>
+    <nd ref="112832861"/>
+    <nd ref="112832864"/>
+    <nd ref="112832868"/>
+    <nd ref="112832872"/>
+    <nd ref="112832875"/>
+    <nd ref="112832880"/>
+    <nd ref="112832881"/>
+    <nd ref="112832885"/>
+    <nd ref="112832888"/>
+    <nd ref="112832890"/>
+    <nd ref="112832893"/>
+    <nd ref="112832896"/>
+    <nd ref="112832898"/>
+    <nd ref="112832901"/>
+    <nd ref="112832905"/>
+    <nd ref="112832910"/>
+    <nd ref="112832914"/>
+    <nd ref="112832918"/>
+    <nd ref="112832923"/>
+    <nd ref="112832927"/>
+    <nd ref="112832930"/>
+    <nd ref="112832934"/>
+    <nd ref="112832940"/>
+    <nd ref="112832945"/>
+    <nd ref="112832948"/>
+    <nd ref="112832951"/>
+    <nd ref="112832955"/>
+    <nd ref="112832960"/>
+    <nd ref="112832966"/>
+    <nd ref="112832968"/>
+    <nd ref="112832972"/>
+    <nd ref="112832975"/>
+    <nd ref="112832979"/>
+    <nd ref="112832982"/>
+    <nd ref="112832986"/>
+    <nd ref="112832990"/>
+    <nd ref="112832993"/>
+    <nd ref="112832998"/>
+    <nd ref="112833002"/>
+    <nd ref="112833006"/>
+    <nd ref="112833010"/>
+    <nd ref="112833015"/>
+    <nd ref="112833018"/>
+    <nd ref="112833021"/>
+    <nd ref="112833025"/>
+    <nd ref="112833027"/>
+    <nd ref="112833030"/>
+    <nd ref="112833033"/>
+    <nd ref="112833039"/>
+    <nd ref="112833043"/>
+    <nd ref="112833048"/>
+    <nd ref="112833051"/>
+    <nd ref="112833053"/>
+    <nd ref="112833057"/>
+    <nd ref="112833059"/>
+    <nd ref="112833061"/>
+    <nd ref="112833065"/>
+    <nd ref="112833067"/>
+    <nd ref="112833070"/>
+    <nd ref="112833073"/>
+    <nd ref="112833082"/>
+    <nd ref="112833086"/>
+    <nd ref="112833089"/>
+    <nd ref="112833098"/>
+    <nd ref="112833103"/>
+    <nd ref="112833112"/>
+    <nd ref="112833120"/>
+    <nd ref="112833125"/>
+    <nd ref="112833131"/>
+    <nd ref="112833137"/>
+    <nd ref="112833142"/>
+    <nd ref="112833148"/>
+    <nd ref="112833151"/>
+    <nd ref="112833155"/>
+    <nd ref="112833158"/>
+    <nd ref="112833160"/>
+    <nd ref="112833162"/>
+    <nd ref="112833164"/>
+    <nd ref="112833168"/>
+    <nd ref="112833172"/>
+    <nd ref="112833177"/>
+    <nd ref="112833181"/>
+    <nd ref="112833185"/>
+    <nd ref="112833189"/>
+    <nd ref="112833192"/>
+    <nd ref="112833196"/>
+    <nd ref="112833201"/>
+    <nd ref="112833205"/>
+    <nd ref="112833208"/>
+    <nd ref="112833211"/>
+    <nd ref="112833213"/>
+    <nd ref="112833216"/>
+    <nd ref="112833219"/>
+    <nd ref="112833222"/>
+    <nd ref="112833226"/>
+    <nd ref="112766857"/>
+    <nd ref="112766810"/>
+    <nd ref="112833230"/>
+    <nd ref="112833236"/>
+    <nd ref="112833241"/>
+    <nd ref="112833245"/>
+    <nd ref="112833250"/>
+    <nd ref="112833254"/>
+    <nd ref="112833257"/>
+    <nd ref="112833259"/>
+    <nd ref="112833261"/>
+    <nd ref="112833263"/>
+    <nd ref="112833266"/>
+    <nd ref="112833269"/>
+    <nd ref="112833270"/>
+    <nd ref="112833272"/>
+    <nd ref="112833274"/>
+    <nd ref="112833275"/>
+    <nd ref="112833277"/>
+    <nd ref="112833280"/>
+    <nd ref="112833282"/>
+    <nd ref="112833284"/>
+    <nd ref="112833286"/>
+    <nd ref="112833289"/>
+    <nd ref="112833293"/>
+    <nd ref="112833297"/>
+    <nd ref="112833299"/>
+    <nd ref="112833303"/>
+    <nd ref="112833304"/>
+    <nd ref="112833307"/>
+    <nd ref="112833309"/>
+    <nd ref="112833312"/>
+    <nd ref="112833315"/>
+    <nd ref="112833318"/>
+    <nd ref="112833325"/>
+    <nd ref="112833328"/>
+    <nd ref="112833330"/>
+    <nd ref="112833334"/>
+    <nd ref="112833336"/>
+    <nd ref="112833340"/>
+    <nd ref="112833343"/>
+    <nd ref="112833346"/>
+    <nd ref="112833350"/>
+    <nd ref="112833353"/>
+    <nd ref="112833357"/>
+    <nd ref="112833361"/>
+    <nd ref="112833364"/>
+    <nd ref="112833368"/>
+    <nd ref="112833372"/>
+    <nd ref="112833375"/>
+    <nd ref="112833377"/>
+    <nd ref="112833380"/>
+    <nd ref="112833382"/>
+    <nd ref="112833386"/>
+    <nd ref="112833389"/>
+    <nd ref="112833391"/>
+    <nd ref="112833394"/>
+    <nd ref="112833398"/>
+    <nd ref="112833402"/>
+    <nd ref="112833405"/>
+    <nd ref="112833408"/>
+    <nd ref="112833410"/>
+    <nd ref="112833413"/>
+    <nd ref="112833416"/>
+    <nd ref="112833418"/>
+    <nd ref="112833420"/>
+    <nd ref="112833422"/>
+    <nd ref="112833423"/>
+    <nd ref="112833429"/>
+    <nd ref="112833432"/>
+    <nd ref="112833436"/>
+    <nd ref="112833440"/>
+    <nd ref="112833443"/>
+    <nd ref="112833445"/>
+    <nd ref="112833448"/>
+    <nd ref="112833452"/>
+    <nd ref="112833455"/>
+    <nd ref="112833459"/>
+    <nd ref="112833465"/>
+    <nd ref="112833468"/>
+    <nd ref="112833471"/>
+    <nd ref="112833475"/>
+    <nd ref="112833479"/>
+    <nd ref="112833481"/>
+    <nd ref="112833484"/>
+    <nd ref="112833488"/>
+    <nd ref="112833493"/>
+    <nd ref="112833497"/>
+    <nd ref="112833500"/>
+    <nd ref="112833505"/>
+    <nd ref="112833508"/>
+    <nd ref="112833511"/>
+    <nd ref="112833513"/>
+    <nd ref="112833515"/>
+    <nd ref="112833518"/>
+    <nd ref="112833522"/>
+    <nd ref="112833527"/>
+    <nd ref="112833530"/>
+    <nd ref="112833534"/>
+    <nd ref="112833535"/>
+    <nd ref="112833538"/>
+    <nd ref="112833539"/>
+    <nd ref="112833541"/>
+    <nd ref="112810288"/>
+    <nd ref="112833543"/>
+    <nd ref="112833546"/>
+    <nd ref="112833547"/>
+    <nd ref="112833550"/>
+    <nd ref="112833552"/>
+    <nd ref="112833556"/>
+    <nd ref="112833558"/>
+    <nd ref="112833561"/>
+    <nd ref="112833565"/>
+    <nd ref="112833568"/>
+    <nd ref="112833571"/>
+    <nd ref="112833575"/>
+    <nd ref="112833576"/>
+    <nd ref="112833582"/>
+    <nd ref="112833585"/>
+    <nd ref="112833589"/>
+    <nd ref="112833590"/>
+    <nd ref="112833593"/>
+    <nd ref="112833595"/>
+    <nd ref="112833598"/>
+    <nd ref="112833602"/>
+    <nd ref="112833606"/>
+    <nd ref="112833610"/>
+    <nd ref="112833612"/>
+    <nd ref="112833616"/>
+    <nd ref="112833620"/>
+    <nd ref="112833624"/>
+    <nd ref="112833628"/>
+    <nd ref="112833631"/>
+    <nd ref="112833635"/>
+    <nd ref="112833639"/>
+    <nd ref="112833642"/>
+    <nd ref="112833646"/>
+    <nd ref="112833650"/>
+    <nd ref="112831531"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Altamont Road"/>
+    <tag k="name_1" v="County Road 46"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Altamont"/>
+    <tag k="tiger:name_base_1" v="County Road 46"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12409473">
+    <nd ref="112831531"/>
+    <nd ref="112945171"/>
+    <nd ref="112945177"/>
+    <nd ref="112945185"/>
+    <nd ref="112945188"/>
+    <nd ref="112945193"/>
+    <nd ref="112945196"/>
+    <nd ref="112945201"/>
+    <nd ref="112945205"/>
+    <nd ref="112945207"/>
+    <nd ref="112945212"/>
+    <nd ref="112945215"/>
+    <nd ref="112945221"/>
+    <nd ref="112945226"/>
+    <nd ref="112945230"/>
+    <nd ref="112945233"/>
+    <nd ref="112945239"/>
+    <nd ref="112945242"/>
+    <nd ref="112945247"/>
+    <nd ref="112945250"/>
+    <nd ref="112945253"/>
+    <nd ref="112945258"/>
+    <nd ref="112945261"/>
+    <nd ref="112945266"/>
+    <nd ref="112945271"/>
+    <nd ref="112945273"/>
+    <nd ref="112945276"/>
+    <nd ref="112945281"/>
+    <nd ref="112945284"/>
+    <nd ref="112945287"/>
+    <nd ref="112945291"/>
+    <nd ref="112945295"/>
+    <nd ref="112945301"/>
+    <nd ref="112945304"/>
+    <nd ref="112945308"/>
+    <nd ref="112945311"/>
+    <nd ref="112945316"/>
+    <nd ref="112945319"/>
+    <nd ref="112945324"/>
+    <nd ref="112945327"/>
+    <nd ref="112945330"/>
+    <nd ref="112945334"/>
+    <nd ref="112945337"/>
+    <nd ref="112945340"/>
+    <nd ref="112945343"/>
+    <nd ref="112945347"/>
+    <nd ref="112945350"/>
+    <nd ref="112945353"/>
+    <nd ref="1129932510"/>
+    <nd ref="112945362"/>
+    <nd ref="112945364"/>
+    <nd ref="112945365"/>
+    <nd ref="112945368"/>
+    <nd ref="112945372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Altamont Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Old Altamont Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12418590">
+    <nd ref="113023866"/>
+    <nd ref="113023868"/>
+    <nd ref="113023869"/>
+    <nd ref="113023870"/>
+    <nd ref="113023873"/>
+    <nd ref="113023876"/>
+    <nd ref="113023879"/>
+    <nd ref="113023881"/>
+    <nd ref="113023883"/>
+    <nd ref="113023884"/>
+    <nd ref="113023885"/>
+    <nd ref="113023887"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hickory Ridge"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Hickory Ridge"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="38297423"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f4b332de-cd92-4f5a-acff-5f1a1acec231"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12420687">
+    <nd ref="113034303"/>
+    <nd ref="113034306"/>
+    <nd ref="113034309"/>
+    <nd ref="113034312"/>
+    <nd ref="113034314"/>
+    <nd ref="113034316"/>
+    <nd ref="113034319"/>
+    <nd ref="113034322"/>
+    <nd ref="113034325"/>
+    <nd ref="113034329"/>
+    <nd ref="113034332"/>
+    <nd ref="113034333"/>
+    <nd ref="113034336"/>
+    <nd ref="113034338"/>
+    <nd ref="113034340"/>
+    <nd ref="113034343"/>
+    <nd ref="113034345"/>
+    <nd ref="113034347"/>
+    <nd ref="113034349"/>
+    <nd ref="113034351"/>
+    <nd ref="113034352"/>
+    <nd ref="113034354"/>
+    <nd ref="113034356"/>
+    <nd ref="113034359"/>
+    <nd ref="113034362"/>
+    <nd ref="113034365"/>
+    <nd ref="113034368"/>
+    <nd ref="113034372"/>
+    <nd ref="113034374"/>
+    <nd ref="113034376"/>
+    <nd ref="113034378"/>
+    <nd ref="113034380"/>
+    <nd ref="113034383"/>
+    <nd ref="113034386"/>
+    <nd ref="113034389"/>
+    <nd ref="113034391"/>
+    <nd ref="113034392"/>
+    <nd ref="113034395"/>
+    <nd ref="113034397"/>
+    <nd ref="113034399"/>
+    <nd ref="113034403"/>
+    <nd ref="113034406"/>
+    <nd ref="113034408"/>
+    <nd ref="113034410"/>
+    <nd ref="113034412"/>
+    <nd ref="113034415"/>
+    <nd ref="113034418"/>
+    <nd ref="113034420"/>
+    <nd ref="113034422"/>
+    <nd ref="113034424"/>
+    <nd ref="113034426"/>
+    <nd ref="113034428"/>
+    <nd ref="113034430"/>
+    <nd ref="113034431"/>
+    <nd ref="113034432"/>
+    <nd ref="113034433"/>
+    <nd ref="113034436"/>
+    <nd ref="113034439"/>
+    <nd ref="113034441"/>
+    <nd ref="113034444"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Rockhouse Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Old Rockhouse"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12432386">
+    <nd ref="112833423"/>
+    <nd ref="113118210"/>
+    <nd ref="113118213"/>
+    <nd ref="113118214"/>
+    <nd ref="113118216"/>
+    <nd ref="113118219"/>
+    <nd ref="113118222"/>
+    <nd ref="112833394"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Summit Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="The Summit"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12434177">
+    <nd ref="112833527"/>
+    <nd ref="113141862"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Altamont Forest Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Altamont Forest"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12434182">
+    <nd ref="113141862"/>
+    <nd ref="113141868"/>
+    <nd ref="113141871"/>
+    <nd ref="113141874"/>
+    <nd ref="113141877"/>
+    <nd ref="113141879"/>
+    <nd ref="113141883"/>
+    <nd ref="113141886"/>
+    <nd ref="113141888"/>
+    <nd ref="113141891"/>
+    <nd ref="113141893"/>
+    <nd ref="113141897"/>
+    <nd ref="113023866"/>
+    <nd ref="113141900"/>
+    <nd ref="113141903"/>
+    <nd ref="113141905"/>
+    <nd ref="113141908"/>
+    <nd ref="113141912"/>
+    <nd ref="113141915"/>
+    <nd ref="113141918"/>
+    <nd ref="113141921"/>
+    <nd ref="113141924"/>
+    <nd ref="113141927"/>
+    <nd ref="113141929"/>
+    <nd ref="113141932"/>
+    <nd ref="113141934"/>
+    <nd ref="113141938"/>
+    <nd ref="113141942"/>
+    <nd ref="113141946"/>
+    <nd ref="113141952"/>
+    <nd ref="113141955"/>
+    <nd ref="113141958"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Altamont Forest Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Altamont Forest"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="12444490">
+    <nd ref="112743023"/>
+    <nd ref="113250101"/>
+    <nd ref="113250104"/>
+    <nd ref="113250107"/>
+    <nd ref="113250109"/>
+    <nd ref="113250112"/>
+    <nd ref="113250114"/>
+    <nd ref="113164069"/>
+    <nd ref="113250118"/>
+    <nd ref="113250121"/>
+    <nd ref="113250124"/>
+    <nd ref="113250129"/>
+    <nd ref="113250132"/>
+    <nd ref="113250134"/>
+    <nd ref="1129748498"/>
+    <nd ref="113250138"/>
+    <nd ref="113250141"/>
+    <nd ref="113250144"/>
+    <nd ref="113250147"/>
+    <nd ref="113250150"/>
+    <nd ref="113250154"/>
+    <nd ref="113250157"/>
+    <nd ref="113250160"/>
+    <nd ref="113250163"/>
+    <nd ref="113250166"/>
+    <nd ref="113250169"/>
+    <nd ref="113250172"/>
+    <nd ref="113250175"/>
+    <nd ref="113250178"/>
+    <nd ref="113250181"/>
+    <nd ref="113250184"/>
+    <nd ref="113250188"/>
+    <nd ref="113250191"/>
+    <nd ref="113250196"/>
+    <nd ref="113250198"/>
+    <nd ref="113250200"/>
+    <nd ref="113250202"/>
+    <nd ref="113250205"/>
+    <nd ref="113250208"/>
+    <nd ref="113250211"/>
+    <nd ref="113250214"/>
+    <nd ref="113250217"/>
+    <nd ref="113250220"/>
+    <nd ref="113250223"/>
+    <nd ref="113034444"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Club View Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Club View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12448828">
+    <nd ref="112810302"/>
+    <nd ref="113275512"/>
+    <nd ref="113275514"/>
+    <nd ref="113275515"/>
+    <nd ref="113275516"/>
+    <nd ref="113275518"/>
+    <nd ref="113275520"/>
+    <nd ref="113275523"/>
+    <nd ref="113275526"/>
+    <nd ref="113275528"/>
+    <nd ref="113275531"/>
+    <nd ref="113275533"/>
+    <nd ref="113275535"/>
+    <nd ref="113275537"/>
+    <nd ref="113275539"/>
+    <nd ref="113275542"/>
+    <nd ref="113275545"/>
+    <nd ref="2525313267"/>
+    <nd ref="113275548"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road S-23-505"/>
+    <tag k="name_1" v="County Road 505"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="State Road S-23-505"/>
+    <tag k="tiger:name_base_1" v="County Road 505"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12459036">
+    <nd ref="112833550"/>
+    <nd ref="113343863"/>
+    <nd ref="113343867"/>
+    <nd ref="113343870"/>
+    <nd ref="113343873"/>
+    <nd ref="113343876"/>
+    <nd ref="113343879"/>
+    <nd ref="113343883"/>
+    <nd ref="113343888"/>
+    <nd ref="113343891"/>
+    <nd ref="113343896"/>
+    <nd ref="113343900"/>
+    <nd ref="113343909"/>
+    <nd ref="113343915"/>
+    <nd ref="113343918"/>
+    <nd ref="112810302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="S-23-505"/>
+    <tag k="name_1" v="County Road 505"/>
+    <tag k="name_2" v="Tower Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="S-23-505"/>
+    <tag k="tiger:name_base_1" v="County Road 505"/>
+    <tag k="tiger:name_base_2" v="Tower"/>
+    <tag k="tiger:name_type_2" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12461412">
+    <nd ref="113141862"/>
+    <nd ref="113376467"/>
+    <nd ref="113376468"/>
+    <nd ref="113376470"/>
+    <nd ref="113376474"/>
+    <nd ref="113376477"/>
+    <nd ref="113376479"/>
+    <nd ref="113376482"/>
+    <nd ref="113376485"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Persimmon Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Persimmon"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+  <way id="97587745">
+    <nd ref="1129748383"/>
+    <nd ref="1129748948"/>
+    <nd ref="1129748852"/>
+    <nd ref="1129749042"/>
+    <nd ref="1129748521"/>
+    <nd ref="1129748938"/>
+    <nd ref="1129748268"/>
+    <nd ref="113034428"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Forrest Haven Court"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110125185611"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:tlid" v="614102459"/>
+    <tag k="tiger:zip_left" v="29609"/>
+    <tag k="tiger:zip_right" v="29609"/>
+  </way>
+
+</osm>

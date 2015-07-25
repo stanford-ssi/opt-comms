@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:01:02Z"/>
+
+  <way id="16477098">
+    <nd ref="170088989"/>
+    <nd ref="170088990"/>
+    <nd ref="170088993"/>
+    <nd ref="170088995"/>
+    <nd ref="170088998"/>
+    <nd ref="170089001"/>
+    <nd ref="170089005"/>
+    <nd ref="170089007"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lower Knob Path"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Lower Knob"/>
+    <tag k="tiger:name_type" v="Path"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35942593"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16477176">
+    <nd ref="170066714"/>
+    <nd ref="170090328"/>
+    <nd ref="170090330"/>
+    <nd ref="170090332"/>
+    <nd ref="170084579"/>
+    <nd ref="170090334"/>
+    <nd ref="170090336"/>
+    <nd ref="170090338"/>
+    <nd ref="170090340"/>
+    <nd ref="170090343"/>
+    <nd ref="170090345"/>
+    <nd ref="170090347"/>
+    <nd ref="170090349"/>
+    <nd ref="170090351"/>
+    <nd ref="170090353"/>
+    <nd ref="170090355"/>
+    <nd ref="170090357"/>
+    <nd ref="170090359"/>
+    <nd ref="170090361"/>
+    <nd ref="170090363"/>
+    <nd ref="170090364"/>
+    <nd ref="170090366"/>
+    <nd ref="170090368"/>
+    <nd ref="170090369"/>
+    <nd ref="170084768"/>
+    <nd ref="170090370"/>
+    <nd ref="170090371"/>
+    <nd ref="170090372"/>
+    <nd ref="170090373"/>
+    <nd ref="170090375"/>
+    <nd ref="170090377"/>
+    <nd ref="170090379"/>
+    <nd ref="170090381"/>
+    <nd ref="170090383"/>
+    <nd ref="170090385"/>
+    <nd ref="170090387"/>
+    <nd ref="170090389"/>
+    <nd ref="170090391"/>
+    <nd ref="170090393"/>
+    <nd ref="170090394"/>
+    <nd ref="170090395"/>
+    <nd ref="170090397"/>
+    <nd ref="170090399"/>
+    <nd ref="170090400"/>
+    <nd ref="170090401"/>
+    <nd ref="170090402"/>
+    <nd ref="170090403"/>
+    <nd ref="170090404"/>
+    <nd ref="170090406"/>
+    <nd ref="170090408"/>
+    <nd ref="170090410"/>
+    <nd ref="170090412"/>
+    <nd ref="170090414"/>
+    <nd ref="170090415"/>
+    <nd ref="170090416"/>
+    <nd ref="170090418"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Double Knobs Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Double Knobs"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478205">
+    <nd ref="170102642"/>
+    <nd ref="170102645"/>
+    <nd ref="170102648"/>
+    <nd ref="170102650"/>
+    <nd ref="170102652"/>
+    <nd ref="170102654"/>
+    <nd ref="170102656"/>
+    <nd ref="170102657"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Summit Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Summit"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478864">
+    <nd ref="170109104"/>
+    <nd ref="170109107"/>
+    <nd ref="170109108"/>
+    <nd ref="170109110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pinnacle Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Pinnacle"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479077">
+    <nd ref="170088989"/>
+    <nd ref="170113077"/>
+    <nd ref="170113079"/>
+    <nd ref="170113081"/>
+    <nd ref="170113083"/>
+    <nd ref="170113084"/>
+    <nd ref="170113085"/>
+    <nd ref="170113088"/>
+    <nd ref="170113092"/>
+    <nd ref="170113095"/>
+    <nd ref="170113098"/>
+    <nd ref="170113100"/>
+    <nd ref="170113104"/>
+    <nd ref="170113105"/>
+    <nd ref="170113107"/>
+    <nd ref="170113109"/>
+    <nd ref="170113112"/>
+    <nd ref="170113115"/>
+    <nd ref="170113116"/>
+    <nd ref="170113118"/>
+    <nd ref="170113120"/>
+    <nd ref="170113122"/>
+    <nd ref="170113125"/>
+    <nd ref="170113127"/>
+    <nd ref="170113130"/>
+    <nd ref="170102642"/>
+    <nd ref="170113133"/>
+    <nd ref="170113136"/>
+    <nd ref="170113139"/>
+    <nd ref="170109104"/>
+    <nd ref="170113146"/>
+    <nd ref="170113149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Double Knobs Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="East Double Knobs"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479252">
+    <nd ref="170058043"/>
+    <nd ref="170115932"/>
+    <nd ref="170115936"/>
+    <nd ref="170115939"/>
+    <nd ref="170115942"/>
+    <nd ref="170115945"/>
+    <nd ref="170115948"/>
+    <nd ref="170115950"/>
+    <nd ref="170115952"/>
+    <nd ref="170115953"/>
+    <nd ref="170115954"/>
+    <nd ref="170115955"/>
+    <nd ref="170115958"/>
+    <nd ref="170115960"/>
+    <nd ref="170115962"/>
+    <nd ref="170115964"/>
+    <nd ref="170115967"/>
+    <nd ref="170115971"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Fox Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Fox Ridge"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+
+</osm>

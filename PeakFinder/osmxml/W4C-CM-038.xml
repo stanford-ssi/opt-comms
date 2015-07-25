@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16427131">
+    <nd ref="169563089"/>
+    <nd ref="169563091"/>
+    <nd ref="169563093"/>
+    <nd ref="169563096"/>
+    <nd ref="169563099"/>
+    <nd ref="169563103"/>
+    <nd ref="169563105"/>
+    <nd ref="169563108"/>
+    <nd ref="169563110"/>
+    <nd ref="169563112"/>
+    <nd ref="169563116"/>
+    <nd ref="169563122"/>
+    <nd ref="169563126"/>
+    <nd ref="169563129"/>
+    <nd ref="169563132"/>
+    <nd ref="169563134"/>
+    <nd ref="169563137"/>
+    <nd ref="169563142"/>
+    <nd ref="169563143"/>
+    <nd ref="169563144"/>
+    <nd ref="169563147"/>
+    <nd ref="169563152"/>
+    <nd ref="169563155"/>
+    <nd ref="169563158"/>
+    <nd ref="169563161"/>
+    <nd ref="169563164"/>
+    <nd ref="169563167"/>
+    <nd ref="169563170"/>
+    <nd ref="169563173"/>
+    <nd ref="169563176"/>
+    <nd ref="169563180"/>
+    <nd ref="169563183"/>
+    <nd ref="169563186"/>
+    <nd ref="169563189"/>
+    <nd ref="169563193"/>
+    <nd ref="169563195"/>
+    <nd ref="169563198"/>
+    <nd ref="169563201"/>
+    <nd ref="169563204"/>
+    <nd ref="169563207"/>
+    <nd ref="169563209"/>
+    <nd ref="169563211"/>
+    <nd ref="169563213"/>
+    <nd ref="169563216"/>
+    <nd ref="169563218"/>
+    <nd ref="169563221"/>
+    <nd ref="169563224"/>
+    <nd ref="169563227"/>
+    <nd ref="169563230"/>
+    <nd ref="169563233"/>
+    <nd ref="169563235"/>
+    <nd ref="169563237"/>
+    <nd ref="169563239"/>
+    <nd ref="169563241"/>
+    <nd ref="169563244"/>
+    <nd ref="169563246"/>
+    <nd ref="169563248"/>
+    <nd ref="169563249"/>
+    <nd ref="169563252"/>
+    <nd ref="169563254"/>
+    <nd ref="169563257"/>
+    <nd ref="169563259"/>
+    <nd ref="169563260"/>
+    <nd ref="169563261"/>
+    <nd ref="169563264"/>
+    <nd ref="169563268"/>
+    <nd ref="169563271"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36858696"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+
+</osm>

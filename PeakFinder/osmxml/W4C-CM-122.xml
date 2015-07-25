@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16596962">
+    <nd ref="171378653"/>
+    <nd ref="171378656"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152311722"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16596965">
+    <nd ref="171378656"/>
+    <nd ref="171378689"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152311723"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16600955">
+    <nd ref="171418034"/>
+    <nd ref="171418038"/>
+    <nd ref="171418040"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152311711"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16600956">
+    <nd ref="171418044"/>
+    <nd ref="171418046"/>
+    <nd ref="171418049"/>
+    <nd ref="171418052"/>
+    <nd ref="171418055"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152311716:152311717"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16614604">
+    <nd ref="171591742"/>
+    <nd ref="171591744"/>
+    <nd ref="171378656"/>
+    <nd ref="171591747"/>
+    <nd ref="171591750"/>
+    <nd ref="171591752"/>
+    <nd ref="171591754"/>
+    <nd ref="171591757"/>
+    <nd ref="171591759"/>
+    <nd ref="171591761"/>
+    <nd ref="171591763"/>
+    <nd ref="171591765"/>
+    <nd ref="171591768"/>
+    <nd ref="171591772"/>
+    <nd ref="171591774"/>
+    <nd ref="171591777"/>
+    <nd ref="171591780"/>
+    <nd ref="171591783"/>
+    <nd ref="171591788"/>
+    <nd ref="171591791"/>
+    <nd ref="171591794"/>
+    <nd ref="171591796"/>
+    <nd ref="171591798"/>
+    <nd ref="171591801"/>
+    <nd ref="171591804"/>
+    <nd ref="171591807"/>
+    <nd ref="171591810"/>
+    <nd ref="171591812"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lavern Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Lavern"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28792"/>
+    <tag k="tiger:zip_right" v="28792"/>
+  </way>
+  <way id="16618080">
+    <nd ref="171397277"/>
+    <nd ref="171636883"/>
+    <nd ref="171636885"/>
+    <nd ref="171636887"/>
+    <nd ref="171636890"/>
+    <nd ref="171636892"/>
+    <nd ref="171636894"/>
+    <nd ref="171636895"/>
+    <nd ref="171636896"/>
+    <nd ref="171636897"/>
+    <nd ref="171636898"/>
+    <nd ref="171636899"/>
+    <nd ref="171636901"/>
+    <nd ref="171636902"/>
+    <nd ref="171636903"/>
+    <nd ref="171636904"/>
+    <nd ref="171636905"/>
+    <nd ref="171636908"/>
+    <nd ref="171636911"/>
+    <nd ref="171636914"/>
+    <nd ref="171636916"/>
+    <nd ref="171636918"/>
+    <nd ref="171636921"/>
+    <nd ref="171636924"/>
+    <nd ref="171418034"/>
+    <nd ref="171636927"/>
+    <nd ref="171636930"/>
+    <nd ref="171636932"/>
+    <nd ref="171636935"/>
+    <nd ref="171636937"/>
+    <nd ref="171636939"/>
+    <nd ref="171636941"/>
+    <nd ref="171418044"/>
+    <nd ref="171378653"/>
+    <nd ref="171591742"/>
+    <nd ref="171636943"/>
+    <nd ref="171636946"/>
+    <nd ref="171636949"/>
+    <nd ref="171636951"/>
+    <nd ref="171636955"/>
+    <nd ref="171636962"/>
+    <nd ref="171636964"/>
+    <nd ref="171636968"/>
+    <nd ref="171636969"/>
+    <nd ref="171636970"/>
+    <nd ref="171636972"/>
+    <nd ref="171636974"/>
+    <nd ref="171636977"/>
+    <nd ref="171636980"/>
+    <nd ref="171378696"/>
+    <nd ref="171636983"/>
+    <nd ref="171636986"/>
+    <nd ref="171519811"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kyles Creek Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Kyles Creek"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28792"/>
+  </way>
+
+</osm>

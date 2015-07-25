@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="101816269">
+    <nd ref="1175395265"/>
+    <nd ref="1175395158"/>
+    <nd ref="1175396954"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="School House Road"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:separated" v="N"/>
+    <tag k="tiger:tlid" v="133748269"/>
+    <tag k="tiger:zip_left" v="28768"/>
+  </way>
+  <way id="101816274">
+    <nd ref="1175395838"/>
+    <nd ref="1175397224"/>
+    <nd ref="1175396700"/>
+    <nd ref="1175397211"/>
+    <nd ref="1175395562"/>
+    <nd ref="1175397242"/>
+    <nd ref="1175394707"/>
+    <nd ref="1175396766"/>
+    <nd ref="1175395015"/>
+    <nd ref="1175395566"/>
+    <nd ref="1175396965"/>
+    <nd ref="1175396031"/>
+    <nd ref="1175394319"/>
+    <nd ref="1175397149"/>
+    <nd ref="1175397433"/>
+    <nd ref="1175396496"/>
+    <nd ref="1175396864"/>
+    <nd ref="1175394235"/>
+    <nd ref="1175396260"/>
+    <nd ref="1175397286"/>
+    <nd ref="1175397565"/>
+    <nd ref="1175395107"/>
+    <nd ref="1175397358"/>
+    <nd ref="1175394845"/>
+    <nd ref="1175395188"/>
+    <nd ref="1175395957"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Country Estates Drive"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:tlid" v="616183759"/>
+  </way>
+  <way id="101816277">
+    <nd ref="1175396649"/>
+    <nd ref="1175396108"/>
+    <nd ref="1175397010"/>
+    <nd ref="1175396780"/>
+    <nd ref="1175396255"/>
+    <nd ref="1175395916"/>
+    <nd ref="1175394434"/>
+    <nd ref="1175394130"/>
+    <nd ref="1175396720"/>
+    <nd ref="1175394713"/>
+    <nd ref="1175397444"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ridgeview Drive"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:separated" v="N"/>
+    <tag k="tiger:tlid" v="614832264:633832058"/>
+    <tag k="tiger:zip_left" v="28768"/>
+    <tag k="tiger:zip_right" v="28768"/>
+  </way>
+  <way id="101816282">
+    <nd ref="1175397444"/>
+    <nd ref="1175396928"/>
+    <nd ref="1175394334"/>
+    <nd ref="1175394634"/>
+    <nd ref="1175395265"/>
+    <nd ref="1175394390"/>
+    <nd ref="1175394533"/>
+    <nd ref="1175395844"/>
+    <nd ref="1175395195"/>
+    <nd ref="1175397135"/>
+    <nd ref="1175394056"/>
+    <nd ref="1175397530"/>
+    <nd ref="1175394445"/>
+    <nd ref="1175395372"/>
+    <nd ref="1175397584"/>
+    <nd ref="1175395957"/>
+    <nd ref="2841038082"/>
+    <nd ref="1175396835"/>
+    <nd ref="1175397295"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pisgah Forest Drive"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:zip_left" v="28768"/>
+    <tag k="tiger:zip_right" v="28768"/>
+  </way>
+  <way id="101816285">
+    <nd ref="1175397473"/>
+    <nd ref="1175397314"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:separated" v="N"/>
+    <tag k="tiger:tlid" v="133748274"/>
+  </way>
+  <way id="101816315">
+    <nd ref="1175396954"/>
+    <nd ref="1175396430"/>
+    <nd ref="1175396159"/>
+    <nd ref="1175395051"/>
+    <nd ref="1175395004"/>
+    <nd ref="1175395332"/>
+    <nd ref="1175395063"/>
+    <nd ref="1175396517"/>
+    <nd ref="1175394175"/>
+    <nd ref="1175394725"/>
+    <nd ref="1175397406"/>
+    <nd ref="1175395272"/>
+    <nd ref="1175394611"/>
+    <nd ref="1175396638"/>
+    <nd ref="1175396171"/>
+    <nd ref="1175396867"/>
+    <nd ref="1175395458"/>
+    <nd ref="1175397314"/>
+    <nd ref="1175394260"/>
+    <nd ref="1175396521"/>
+    <nd ref="1175394382"/>
+    <nd ref="1175395073"/>
+    <nd ref="1175395650"/>
+    <nd ref="1175396326"/>
+    <nd ref="1175396498"/>
+    <nd ref="1175396593"/>
+    <nd ref="1175394881"/>
+    <nd ref="1175394488"/>
+    <nd ref="1175396577"/>
+    <nd ref="1175394574"/>
+    <nd ref="1175396278"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Black Walnut Lane"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:separated" v="N"/>
+    <tag k="tiger:tlid" v="133748273:616183862:616183863"/>
+    <tag k="tiger:zip_left" v="28768"/>
+    <tag k="tiger:zip_right" v="28768"/>
+  </way>
+  <way id="101816317">
+    <nd ref="1175395000"/>
+    <nd ref="1175396163"/>
+    <nd ref="1175397485"/>
+    <nd ref="1175395820"/>
+    <nd ref="1175397447"/>
+    <nd ref="1175397216"/>
+    <nd ref="1175394282"/>
+    <nd ref="1175394038"/>
+    <nd ref="1175394021"/>
+    <nd ref="1175397094"/>
+    <nd ref="1175394523"/>
+    <nd ref="1175395464"/>
+    <nd ref="1175394857"/>
+    <nd ref="1175395242"/>
+    <nd ref="1175396389"/>
+    <nd ref="1175395740"/>
+    <nd ref="1175394068"/>
+    <nd ref="1175396590"/>
+    <nd ref="1175394901"/>
+    <nd ref="1175397526"/>
+    <nd ref="1175397025"/>
+    <nd ref="1175397292"/>
+    <nd ref="1175395415"/>
+    <nd ref="1175397251"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Red Maple Lane"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:tlid" v="611216941"/>
+    <tag k="tiger:zip_right" v="28768"/>
+  </way>
+  <way id="101816345">
+    <nd ref="1175396328"/>
+    <nd ref="1175396004"/>
+    <nd ref="1175397100"/>
+    <nd ref="1175397350"/>
+    <nd ref="1175396479"/>
+    <nd ref="1175397498"/>
+    <nd ref="1175395354"/>
+    <nd ref="1175394678"/>
+    <nd ref="1175394113"/>
+    <nd ref="1175394405"/>
+    <nd ref="1175394182"/>
+    <nd ref="1175395895"/>
+    <nd ref="1175396816"/>
+    <nd ref="1175394730"/>
+    <nd ref="1175394179"/>
+    <nd ref="1175394452"/>
+    <nd ref="1175396251"/>
+    <nd ref="1175397251"/>
+    <nd ref="1175395622"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Firefly Lane"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:tlid" v="611220120:616185200:633831230"/>
+    <tag k="tiger:zip_left" v="28768"/>
+    <tag k="tiger:zip_right" v="28768"/>
+  </way>
+  <way id="101816347">
+    <nd ref="1175395844"/>
+    <nd ref="1175394529"/>
+    <nd ref="1175395687"/>
+    <nd ref="1175394305"/>
+    <nd ref="1175395508"/>
+    <nd ref="1175396902"/>
+    <nd ref="1175394107"/>
+    <nd ref="1175397218"/>
+    <nd ref="1175397187"/>
+    <nd ref="1175397451"/>
+    <nd ref="1175394989"/>
+    <nd ref="1175396002"/>
+    <nd ref="1175397097"/>
+    <nd ref="1175397364"/>
+    <nd ref="1175394863"/>
+    <nd ref="1175394239"/>
+    <nd ref="1175394469"/>
+    <nd ref="1175396330"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McDonald Court"/>
+    <tag k="source" v="tiger2010_import_v0.3_20110226135250"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:mtfcc" v="S1400"/>
+    <tag k="tiger:separated" v="N"/>
+    <tag k="tiger:tlid" v="629097262:629097446:629097447"/>
+    <tag k="tiger:zip_left" v="28768"/>
+    <tag k="tiger:zip_right" v="28768"/>
+  </way>
+
+</osm>

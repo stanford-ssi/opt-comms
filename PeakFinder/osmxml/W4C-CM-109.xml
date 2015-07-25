@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="16599489">
+    <nd ref="171404543"/>
+    <nd ref="171404546"/>
+    <nd ref="171404551"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152311316"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16599811">
+    <nd ref="171407673"/>
+    <nd ref="171407676"/>
+    <nd ref="171407679"/>
+    <nd ref="171407682"/>
+    <nd ref="171407685"/>
+    <nd ref="171407687"/>
+    <nd ref="171407690"/>
+    <nd ref="171407692"/>
+    <nd ref="171407694"/>
+    <nd ref="171407696"/>
+    <nd ref="171407699"/>
+    <nd ref="171407702"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152318360:152318361:152311335"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16609297">
+    <nd ref="171519745"/>
+    <nd ref="171519748"/>
+    <nd ref="171519751"/>
+    <nd ref="171519753"/>
+    <nd ref="171519755"/>
+    <nd ref="171519756"/>
+    <nd ref="171519759"/>
+    <nd ref="171519762"/>
+    <nd ref="171519765"/>
+    <nd ref="171519767"/>
+    <nd ref="171519769"/>
+    <nd ref="171519772"/>
+    <nd ref="171519775"/>
+    <nd ref="171519777"/>
+    <nd ref="171519779"/>
+    <nd ref="171519782"/>
+    <nd ref="171519785"/>
+    <nd ref="171519788"/>
+    <nd ref="171519791"/>
+    <nd ref="171519794"/>
+    <nd ref="171519796"/>
+    <nd ref="171519798"/>
+    <nd ref="171519802"/>
+    <nd ref="171519805"/>
+    <nd ref="171519808"/>
+    <nd ref="171519811"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pioneer Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Pioneer"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

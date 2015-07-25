@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16594132">
+    <nd ref="171341477"/>
+    <nd ref="171341479"/>
+    <nd ref="171341482"/>
+    <nd ref="171341486"/>
+    <nd ref="171341489"/>
+    <nd ref="171341491"/>
+    <nd ref="171341494"/>
+    <nd ref="171341497"/>
+    <nd ref="171341499"/>
+    <nd ref="171341501"/>
+    <nd ref="171341503"/>
+    <nd ref="171341505"/>
+    <nd ref="171341507"/>
+    <nd ref="171341508"/>
+    <nd ref="171341509"/>
+    <nd ref="171341510"/>
+    <nd ref="171341512"/>
+    <nd ref="171341514"/>
+    <nd ref="171341518"/>
+    <nd ref="171341520"/>
+    <nd ref="171341522"/>
+    <nd ref="171341525"/>
+    <nd ref="171341527"/>
+    <nd ref="171341529"/>
+    <nd ref="171341531"/>
+    <nd ref="171341534"/>
+    <nd ref="171341537"/>
+    <nd ref="171341539"/>
+    <nd ref="171341540"/>
+    <nd ref="171341542"/>
+    <nd ref="171341543"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Windalier Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Windalier"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16594136">
+    <nd ref="171341543"/>
+    <nd ref="171341559"/>
+    <nd ref="171341562"/>
+    <nd ref="171341564"/>
+    <nd ref="171341566"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Windalier Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Windalier"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16595149">
+    <nd ref="171356336"/>
+    <nd ref="171356343"/>
+    <nd ref="171356349"/>
+    <nd ref="171356350"/>
+    <nd ref="171356352"/>
+    <nd ref="171356355"/>
+    <nd ref="171356358"/>
+    <nd ref="171356360"/>
+    <nd ref="171356361"/>
+    <nd ref="171356363"/>
+    <nd ref="171356364"/>
+    <nd ref="171356367"/>
+    <nd ref="171356370"/>
+    <nd ref="171341477"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Country Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Old Country"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16602935">
+    <nd ref="171440929"/>
+    <nd ref="171440932"/>
+    <nd ref="171440935"/>
+    <nd ref="171440937"/>
+    <nd ref="171440939"/>
+    <nd ref="171440941"/>
+    <nd ref="171440943"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tanglewood Trail"/>
+    <tag k="name_1" v="Tanglewood Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Tanglewood"/>
+    <tag k="tiger:name_base_1" v="Tanglewood"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16603694">
+    <nd ref="171450792"/>
+    <nd ref="171450795"/>
+    <nd ref="171450797"/>
+    <nd ref="171450798"/>
+    <nd ref="171440943"/>
+    <nd ref="171450800"/>
+    <nd ref="171450801"/>
+    <nd ref="171450804"/>
+    <nd ref="171450808"/>
+    <nd ref="171450810"/>
+    <nd ref="171450812"/>
+    <nd ref="171450815"/>
+    <nd ref="171450818"/>
+    <nd ref="171450822"/>
+    <nd ref="171450824"/>
+    <nd ref="171450827"/>
+    <nd ref="171450828"/>
+    <nd ref="171450831"/>
+    <nd ref="171450833"/>
+    <nd ref="171450835"/>
+    <nd ref="171450836"/>
+    <nd ref="171450839"/>
+    <nd ref="171450840"/>
+    <nd ref="171450843"/>
+    <nd ref="171450845"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brandywine Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Brandywine"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16604475">
+    <nd ref="171460336"/>
+    <nd ref="171460338"/>
+    <nd ref="171460340"/>
+    <nd ref="171450843"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blessings Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Blessings"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16607561">
+    <nd ref="171356352"/>
+    <nd ref="171499148"/>
+    <nd ref="171499151"/>
+    <nd ref="171499154"/>
+    <nd ref="171499156"/>
+    <nd ref="171499158"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McGuires Ridge"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="McGuires Ridge"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151799107"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+
+</osm>

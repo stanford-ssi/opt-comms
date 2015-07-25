@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="18929297">
+    <nd ref="195877674"/>
+    <nd ref="195877676"/>
+    <nd ref="195877678"/>
+    <nd ref="195877680"/>
+    <nd ref="195877682"/>
+    <nd ref="195877684"/>
+    <nd ref="195877686"/>
+    <nd ref="195877687"/>
+    <nd ref="195877688"/>
+    <nd ref="195877689"/>
+    <nd ref="195877690"/>
+    <nd ref="195877691"/>
+    <nd ref="195877692"/>
+    <nd ref="195877693"/>
+    <nd ref="195877694"/>
+    <nd ref="195877695"/>
+    <nd ref="195877696"/>
+    <nd ref="195877697"/>
+    <nd ref="195877699"/>
+    <nd ref="195877701"/>
+    <nd ref="195877703"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Green Street Mt Resort"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Green Street Mt Resort"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46128387:46127362:46128385"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18929301">
+    <nd ref="195877710"/>
+    <nd ref="195877712"/>
+    <nd ref="195877714"/>
+    <nd ref="195877716"/>
+    <nd ref="195877674"/>
+    <nd ref="195877718"/>
+    <nd ref="195877720"/>
+    <nd ref="195877722"/>
+    <nd ref="195877703"/>
+    <nd ref="195877724"/>
+    <nd ref="195877725"/>
+    <nd ref="195877726"/>
+    <nd ref="195877727"/>
+    <nd ref="195877728"/>
+    <nd ref="195877729"/>
+    <nd ref="195877731"/>
+    <nd ref="195877733"/>
+    <nd ref="195877735"/>
+    <nd ref="195877738"/>
+    <nd ref="195877739"/>
+    <nd ref="195877740"/>
+    <nd ref="195877741"/>
+    <nd ref="195877742"/>
+    <nd ref="195877743"/>
+    <nd ref="195877744"/>
+    <nd ref="195877746"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Green Street Mt Resort"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Green Street Mt Resort"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46127359:46152542:46152539:46127363:46128383"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18929998">
+    <nd ref="195886903"/>
+    <nd ref="195886905"/>
+    <nd ref="195886907"/>
+    <nd ref="195886909"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Clubhouse Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Clubhouse"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18932325">
+    <nd ref="195877710"/>
+    <nd ref="195913954"/>
+    <nd ref="195913957"/>
+    <nd ref="195913960"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fairview"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Fairview"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46152543"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18934553">
+    <nd ref="195877712"/>
+    <nd ref="195931957"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grandview"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Grandview"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46152540"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18935045">
+    <nd ref="195877758"/>
+    <nd ref="195938443"/>
+    <nd ref="195938445"/>
+    <nd ref="195938447"/>
+    <nd ref="195938449"/>
+    <nd ref="195938451"/>
+    <nd ref="195938452"/>
+    <nd ref="195938453"/>
+    <nd ref="195938454"/>
+    <nd ref="195938455"/>
+    <nd ref="195938456"/>
+    <nd ref="195938457"/>
+    <nd ref="195938458"/>
+    <nd ref="195938459"/>
+    <nd ref="195886903"/>
+    <nd ref="195938460"/>
+    <nd ref="195938461"/>
+    <nd ref="195938462"/>
+    <nd ref="195938463"/>
+    <nd ref="195938465"/>
+    <nd ref="195938468"/>
+    <nd ref="195877710"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenstreet Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Greenstreet"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28685"/>
+    <tag k="tiger:zip_left_1" v="28685"/>
+    <tag k="tiger:zip_right" v="28685"/>
+  </way>
+
+</osm>

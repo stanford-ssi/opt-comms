@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16443458">
+    <nd ref="169707780"/>
+    <nd ref="169707783"/>
+    <nd ref="169707785"/>
+    <nd ref="169707787"/>
+    <nd ref="169707788"/>
+    <nd ref="169707790"/>
+    <nd ref="169707792"/>
+    <nd ref="169707794"/>
+    <nd ref="169707797"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45862699:45873187:45873188"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16445606">
+    <nd ref="169725376"/>
+    <nd ref="169725379"/>
+    <nd ref="169725382"/>
+    <nd ref="169725385"/>
+    <nd ref="169725388"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45862680:45862681"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16445609">
+    <nd ref="169725385"/>
+    <nd ref="169725402"/>
+    <nd ref="169725404"/>
+    <nd ref="169725406"/>
+    <nd ref="169725408"/>
+    <nd ref="169725411"/>
+    <nd ref="169725414"/>
+    <nd ref="169725420"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45862682"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16446865">
+    <nd ref="169707790"/>
+    <nd ref="169735297"/>
+    <nd ref="169735299"/>
+    <nd ref="169735300"/>
+    <nd ref="169735301"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45873190:45873191"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16446866">
+    <nd ref="169735306"/>
+    <nd ref="169735309"/>
+    <nd ref="169735312"/>
+    <nd ref="169735315"/>
+    <nd ref="169735317"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45873193:45873194"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16448557">
+    <nd ref="169707780"/>
+    <nd ref="169752764"/>
+    <nd ref="169752767"/>
+    <nd ref="169752770"/>
+    <nd ref="169735306"/>
+    <nd ref="169752773"/>
+    <nd ref="169752775"/>
+    <nd ref="169752777"/>
+    <nd ref="169752779"/>
+    <nd ref="169752783"/>
+    <nd ref="169752786"/>
+    <nd ref="169752790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Red Hill Place"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Red Hill"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16449105">
+    <nd ref="169758268"/>
+    <nd ref="169758312"/>
+    <nd ref="169758314"/>
+    <nd ref="169758317"/>
+    <nd ref="169758320"/>
+    <nd ref="169758323"/>
+    <nd ref="169758324"/>
+    <nd ref="169758325"/>
+    <nd ref="169758326"/>
+    <nd ref="169758327"/>
+    <nd ref="169758329"/>
+    <nd ref="169758332"/>
+    <nd ref="169758334"/>
+    <nd ref="169758335"/>
+    <nd ref="169758337"/>
+    <nd ref="169758340"/>
+    <nd ref="169758342"/>
+    <nd ref="169758344"/>
+    <nd ref="169758346"/>
+    <nd ref="169758348"/>
+    <nd ref="169758350"/>
+    <nd ref="169758353"/>
+    <nd ref="169758357"/>
+    <nd ref="169758360"/>
+    <nd ref="169758361"/>
+    <nd ref="169758363"/>
+    <nd ref="169758365"/>
+    <nd ref="169758368"/>
+    <nd ref="169758371"/>
+    <nd ref="169758373"/>
+    <nd ref="169758375"/>
+    <nd ref="169758376"/>
+    <nd ref="169758377"/>
+    <nd ref="169758378"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hibriten Mountain Road"/>
+    <tag k="name_1" v="State Road 1714"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Hibriten Mountain"/>
+    <tag k="tiger:name_base_1" v="State Road 1714"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16452071">
+    <nd ref="169757066"/>
+    <nd ref="169785663"/>
+    <nd ref="169785666"/>
+    <nd ref="169785669"/>
+    <nd ref="169785671"/>
+    <nd ref="169785673"/>
+    <nd ref="169785675"/>
+    <nd ref="169785677"/>
+    <nd ref="169785679"/>
+    <nd ref="169785682"/>
+    <nd ref="169785685"/>
+    <nd ref="169785688"/>
+    <nd ref="169785691"/>
+    <nd ref="169785693"/>
+    <nd ref="169785695"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Whippoorwill Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Whippoorwill"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28645"/>
+  </way>
+  <way id="16453456">
+    <nd ref="169757060"/>
+    <nd ref="169705541"/>
+    <nd ref="169707780"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Haigler Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Haigler"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

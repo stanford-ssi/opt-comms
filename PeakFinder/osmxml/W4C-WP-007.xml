@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16472166">
+    <nd ref="170018560"/>
+    <nd ref="170018563"/>
+    <nd ref="170018565"/>
+    <nd ref="169952234"/>
+    <nd ref="170018568"/>
+    <nd ref="170018571"/>
+    <nd ref="170018575"/>
+    <nd ref="170018577"/>
+    <nd ref="170018580"/>
+    <nd ref="170018582"/>
+    <nd ref="170018584"/>
+    <nd ref="170018587"/>
+    <nd ref="170018590"/>
+    <nd ref="170018593"/>
+    <nd ref="170018596"/>
+    <nd ref="170018599"/>
+    <nd ref="170018601"/>
+    <nd ref="170018603"/>
+    <nd ref="170018604"/>
+    <nd ref="170018607"/>
+    <nd ref="170018610"/>
+    <nd ref="170018612"/>
+    <nd ref="170018615"/>
+    <nd ref="170018618"/>
+    <nd ref="170018621"/>
+    <nd ref="170018624"/>
+    <nd ref="170018627"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eps Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Catawba, NC"/>
+    <tag k="tiger:name_base" v="Eps"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28602"/>
+    <tag k="tiger:zip_right" v="28602"/>
+  </way>
+
+</osm>

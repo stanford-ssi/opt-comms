@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16650256">
+    <nd ref="171993119"/>
+    <nd ref="171993122"/>
+    <nd ref="171993125"/>
+    <nd ref="171993127"/>
+    <nd ref="171993129"/>
+    <nd ref="171993131"/>
+    <nd ref="171993137"/>
+    <nd ref="171993141"/>
+    <nd ref="171993142"/>
+    <nd ref="171993143"/>
+    <nd ref="171993144"/>
+    <nd ref="171993147"/>
+    <nd ref="171993150"/>
+    <nd ref="171993152"/>
+    <nd ref="171993155"/>
+    <nd ref="171993158"/>
+    <nd ref="171993160"/>
+    <nd ref="171993161"/>
+    <nd ref="171993163"/>
+    <nd ref="171993166"/>
+    <nd ref="171993168"/>
+    <nd ref="171993170"/>
+    <nd ref="171993172"/>
+    <nd ref="171993175"/>
+    <nd ref="171993178"/>
+    <nd ref="171993180"/>
+    <nd ref="171993182"/>
+    <nd ref="171993184"/>
+    <nd ref="171993186"/>
+    <nd ref="171993189"/>
+    <nd ref="171993190"/>
+    <nd ref="171993192"/>
+    <nd ref="171993195"/>
+    <nd ref="171993198"/>
+    <nd ref="171993201"/>
+    <nd ref="171993204"/>
+    <nd ref="171993207"/>
+    <nd ref="171993210"/>
+    <nd ref="171993212"/>
+    <nd ref="171993214"/>
+    <nd ref="171993216"/>
+    <nd ref="171993218"/>
+    <nd ref="171993220"/>
+    <nd ref="171993222"/>
+    <nd ref="171993224"/>
+    <nd ref="171993226"/>
+    <nd ref="171993227"/>
+    <nd ref="171993229"/>
+    <nd ref="171993231"/>
+    <nd ref="171993234"/>
+    <nd ref="171993237"/>
+    <nd ref="171993240"/>
+    <nd ref="171993241"/>
+    <nd ref="171993243"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40943070:40943071"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+
+</osm>

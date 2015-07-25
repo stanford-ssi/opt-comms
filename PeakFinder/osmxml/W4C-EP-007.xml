@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:53:02Z"/>
+
+  <way id="16732638">
+    <nd ref="173004124"/>
+    <nd ref="173004128"/>
+    <nd ref="173004133"/>
+    <nd ref="173004136"/>
+    <nd ref="173004139"/>
+    <nd ref="173004142"/>
+    <nd ref="173004145"/>
+    <nd ref="173004148"/>
+    <nd ref="173004150"/>
+    <nd ref="173004153"/>
+    <nd ref="173004155"/>
+    <nd ref="173004157"/>
+    <nd ref="173004160"/>
+    <nd ref="173004163"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mt Shepherd Road"/>
+    <tag k="name_1" v="State Road 1686"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Randolph, NC"/>
+    <tag k="tiger:name_base" v="Mt Shepherd"/>
+    <tag k="tiger:name_base_1" v="State Road 1686"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="27205"/>
+    <tag k="tiger:zip_right" v="27205"/>
+  </way>
+
+</osm>

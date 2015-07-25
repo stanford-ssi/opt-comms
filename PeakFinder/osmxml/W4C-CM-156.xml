@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16416628">
+    <nd ref="169451796"/>
+    <nd ref="169451798"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Woodwind Terrace"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Woodwind"/>
+    <tag k="tiger:name_type" v="Ter"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28806"/>
+    <tag k="tiger:zip_right" v="28806"/>
+  </way>
+  <way id="16442932">
+    <nd ref="169703439"/>
+    <nd ref="169703441"/>
+    <nd ref="169703444"/>
+    <nd ref="169703446"/>
+    <nd ref="169451796"/>
+    <nd ref="169703448"/>
+    <nd ref="169703451"/>
+    <nd ref="169703453"/>
+    <nd ref="169703455"/>
+    <nd ref="169703457"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gasrow Mtn Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Gasrow Mtn"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16444474">
+    <nd ref="169691377"/>
+    <nd ref="169715892"/>
+    <nd ref="169715894"/>
+    <nd ref="169715896"/>
+    <nd ref="169715898"/>
+    <nd ref="169715900"/>
+    <nd ref="169715902"/>
+    <nd ref="169715905"/>
+    <nd ref="169715908"/>
+    <nd ref="169715911"/>
+    <nd ref="169715913"/>
+    <nd ref="169715915"/>
+    <nd ref="169715917"/>
+    <nd ref="169715922"/>
+    <nd ref="169715926"/>
+    <nd ref="169715929"/>
+    <nd ref="169715931"/>
+    <nd ref="169715933"/>
+    <nd ref="169715935"/>
+    <nd ref="169715938"/>
+    <nd ref="169715941"/>
+    <nd ref="169715944"/>
+    <nd ref="169715947"/>
+    <nd ref="169715950"/>
+    <nd ref="169715953"/>
+    <nd ref="169715956"/>
+    <nd ref="169715959"/>
+    <nd ref="169715961"/>
+    <nd ref="169715963"/>
+    <nd ref="169715965"/>
+    <nd ref="169715967"/>
+    <nd ref="169715970"/>
+    <nd ref="169703439"/>
+    <nd ref="169715972"/>
+    <nd ref="169715975"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gaston Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Gaston Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16454568">
+    <nd ref="169667623"/>
+    <nd ref="169809938"/>
+    <nd ref="169809942"/>
+    <nd ref="169809945"/>
+    <nd ref="169809948"/>
+    <nd ref="169543803"/>
+    <nd ref="169809950"/>
+    <nd ref="169809952"/>
+    <nd ref="169543676"/>
+    <nd ref="169809954"/>
+    <nd ref="169809956"/>
+    <nd ref="169809959"/>
+    <nd ref="169809961"/>
+    <nd ref="169514022"/>
+    <nd ref="169809963"/>
+    <nd ref="169809965"/>
+    <nd ref="169809968"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brown Road"/>
+    <tag k="name_1" v="State Road 3555"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Brown"/>
+    <tag k="tiger:name_base_1" v="State Road 3555"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="246520156">
+    <nd ref="169669958"/>
+    <nd ref="2535546455"/>
+    <nd ref="2535546450"/>
+    <nd ref="2535546441"/>
+    <nd ref="2535546439"/>
+    <nd ref="2535546428"/>
+    <nd ref="2535546396"/>
+    <nd ref="2535546342"/>
+    <nd ref="2535546290"/>
+    <nd ref="2535546286"/>
+    <nd ref="2535546283"/>
+    <nd ref="2535546284"/>
+    <nd ref="2535546317"/>
+    <nd ref="2535546323"/>
+    <nd ref="2535546326"/>
+    <nd ref="2535546408"/>
+    <nd ref="2535546421"/>
+    <nd ref="2535546426"/>
+    <nd ref="2535546436"/>
+    <nd ref="2535546444"/>
+    <nd ref="2535546458"/>
+    <nd ref="2535546470"/>
+    <nd ref="2535546488"/>
+    <nd ref="2535546516"/>
+    <nd ref="2535546531"/>
+    <nd ref="2535546534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wickhams Fancy Drive"/>
+  </way>
+
+</osm>

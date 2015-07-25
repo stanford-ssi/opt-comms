@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:40:02Z"/>
+
+  <way id="16595623">
+    <nd ref="171363078"/>
+    <nd ref="171363080"/>
+    <nd ref="171363083"/>
+    <nd ref="171363087"/>
+    <nd ref="171363090"/>
+    <nd ref="171363093"/>
+    <nd ref="171363096"/>
+    <nd ref="171363101"/>
+    <nd ref="171363104"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Alpine Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Alpine"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16595690">
+    <nd ref="171363749"/>
+    <nd ref="171363751"/>
+    <nd ref="171363753"/>
+    <nd ref="171363754"/>
+    <nd ref="171363755"/>
+    <nd ref="171363758"/>
+    <nd ref="171363761"/>
+    <nd ref="171363764"/>
+    <nd ref="171363767"/>
+    <nd ref="171363770"/>
+    <nd ref="171363773"/>
+    <nd ref="171363777"/>
+    <nd ref="171363780"/>
+    <nd ref="171363782"/>
+    <nd ref="171363784"/>
+    <nd ref="171363785"/>
+    <nd ref="171363787"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Anisidi Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Anisidi"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28751"/>
+    <tag k="tiger:zip_right" v="28751"/>
+  </way>
+  <way id="16596461">
+    <nd ref="171373313"/>
+    <nd ref="171373314"/>
+    <nd ref="171373315"/>
+    <nd ref="171373317"/>
+    <nd ref="171373319"/>
+    <nd ref="171373321"/>
+    <nd ref="171373323"/>
+    <nd ref="171373324"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagle Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Eagle Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16602628">
+    <nd ref="171437089"/>
+    <nd ref="171437092"/>
+    <nd ref="171437095"/>
+    <nd ref="171437103"/>
+    <nd ref="171437112"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Soquili Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Soquili"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28751"/>
+    <tag k="tiger:zip_right" v="28751"/>
+  </way>
+  <way id="16602632">
+    <nd ref="171437218"/>
+    <nd ref="171437221"/>
+    <nd ref="171437222"/>
+    <nd ref="171437225"/>
+    <nd ref="171437228"/>
+    <nd ref="171437231"/>
+    <nd ref="171437234"/>
+    <nd ref="171437089"/>
+    <nd ref="171437237"/>
+    <nd ref="171437240"/>
+    <nd ref="171437242"/>
+    <nd ref="171437245"/>
+    <nd ref="171437248"/>
+    <nd ref="171437251"/>
+    <nd ref="171358263"/>
+    <nd ref="171437254"/>
+    <nd ref="171437257"/>
+    <nd ref="171437260"/>
+    <nd ref="171437263"/>
+    <nd ref="171437266"/>
+    <nd ref="171437269"/>
+    <nd ref="171437272"/>
+    <nd ref="171353350"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Asgi Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Asgi"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28751"/>
+    <tag k="tiger:zip_right" v="28751"/>
+  </way>
+  <way id="16602633">
+    <nd ref="171353194"/>
+    <nd ref="171437285"/>
+    <nd ref="171437288"/>
+    <nd ref="171437291"/>
+    <nd ref="171437294"/>
+    <nd ref="171437297"/>
+    <nd ref="171437300"/>
+    <nd ref="171437303"/>
+    <nd ref="171437305"/>
+    <nd ref="171437308"/>
+    <nd ref="171437311"/>
+    <nd ref="171437313"/>
+    <nd ref="171437315"/>
+    <nd ref="171437318"/>
+    <nd ref="171437321"/>
+    <nd ref="171437323"/>
+    <nd ref="171437327"/>
+    <nd ref="171437330"/>
+    <nd ref="171437333"/>
+    <nd ref="171437336"/>
+    <nd ref="171437339"/>
+    <nd ref="171437342"/>
+    <nd ref="171437344"/>
+    <nd ref="171363749"/>
+    <nd ref="171437218"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Asgi Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Asgi"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28751"/>
+    <tag k="tiger:zip_right" v="28751"/>
+  </way>
+  <way id="16604058">
+    <nd ref="171455359"/>
+    <nd ref="171455362"/>
+    <nd ref="171455363"/>
+    <nd ref="171455365"/>
+    <nd ref="171455370"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagle View Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Eagle View"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16604060">
+    <nd ref="171455378"/>
+    <nd ref="171455381"/>
+    <nd ref="171455384"/>
+    <nd ref="171455387"/>
+    <nd ref="171455390"/>
+    <nd ref="171455392"/>
+    <nd ref="171455394"/>
+    <nd ref="171455396"/>
+    <nd ref="171455359"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagle View Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Eagle View"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16606753">
+    <nd ref="171489763"/>
+    <nd ref="171489765"/>
+    <nd ref="171489767"/>
+    <nd ref="171489768"/>
+    <nd ref="171489770"/>
+    <nd ref="171489772"/>
+    <nd ref="171489775"/>
+    <nd ref="171455381"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bent Oak Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Bent Oak"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16607478">
+    <nd ref="171498199"/>
+    <nd ref="171498202"/>
+    <nd ref="171498205"/>
+    <nd ref="171489763"/>
+    <nd ref="171498208"/>
+    <nd ref="171373313"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagles Nest Road"/>
+    <tag k="name_1" v="State Road 1177"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Eagles Nest"/>
+    <tag k="tiger:name_base_1" v="State Road 1177"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16607501">
+    <nd ref="171373313"/>
+    <nd ref="171498217"/>
+    <nd ref="171498223"/>
+    <nd ref="171455378"/>
+    <nd ref="171498225"/>
+    <nd ref="171498227"/>
+    <nd ref="171498229"/>
+    <nd ref="171498231"/>
+    <nd ref="171498233"/>
+    <nd ref="171498235"/>
+    <nd ref="171455370"/>
+    <nd ref="171498238"/>
+    <nd ref="171363078"/>
+    <nd ref="171498241"/>
+    <nd ref="171498245"/>
+    <nd ref="171498248"/>
+    <nd ref="171498251"/>
+    <nd ref="171498254"/>
+    <nd ref="171498257"/>
+    <nd ref="171498260"/>
+    <nd ref="171498263"/>
+    <nd ref="171498267"/>
+    <nd ref="171498270"/>
+    <nd ref="171498272"/>
+    <nd ref="171498274"/>
+    <nd ref="171498276"/>
+    <nd ref="171498278"/>
+    <nd ref="171498281"/>
+    <nd ref="171498284"/>
+    <nd ref="171498286"/>
+    <nd ref="171498288"/>
+    <nd ref="171498290"/>
+    <nd ref="171498291"/>
+    <nd ref="171498294"/>
+    <nd ref="171353377"/>
+    <nd ref="171498296"/>
+    <nd ref="171391169"/>
+    <nd ref="171498298"/>
+    <nd ref="171498299"/>
+    <nd ref="171498302"/>
+    <nd ref="171498304"/>
+    <nd ref="171498306"/>
+    <nd ref="171498309"/>
+    <nd ref="171498312"/>
+    <nd ref="171498314"/>
+    <nd ref="171498316"/>
+    <nd ref="171498318"/>
+    <nd ref="171498321"/>
+    <nd ref="171498326"/>
+    <nd ref="171498329"/>
+    <nd ref="171498330"/>
+    <nd ref="171498333"/>
+    <nd ref="171498336"/>
+    <nd ref="171498339"/>
+    <nd ref="171498342"/>
+    <nd ref="171498345"/>
+    <nd ref="171498348"/>
+    <nd ref="171498351"/>
+    <nd ref="171498354"/>
+    <nd ref="171311355"/>
+    <nd ref="171498357"/>
+    <nd ref="171498359"/>
+    <nd ref="171498361"/>
+    <nd ref="171498363"/>
+    <nd ref="171498365"/>
+    <nd ref="171498368"/>
+    <nd ref="171498372"/>
+    <nd ref="171498375"/>
+    <nd ref="171498378"/>
+    <nd ref="171498381"/>
+    <nd ref="171498385"/>
+    <nd ref="171498393"/>
+    <nd ref="171498396"/>
+    <nd ref="171498398"/>
+    <nd ref="171498400"/>
+    <nd ref="171498402"/>
+    <nd ref="171498404"/>
+    <nd ref="171498406"/>
+    <nd ref="171498408"/>
+    <nd ref="171498410"/>
+    <nd ref="171498412"/>
+    <nd ref="171498415"/>
+    <nd ref="171498419"/>
+    <nd ref="171498422"/>
+    <nd ref="171498425"/>
+    <nd ref="171498427"/>
+    <nd ref="171498428"/>
+    <nd ref="171498430"/>
+    <nd ref="171498431"/>
+    <nd ref="171498433"/>
+    <nd ref="171498435"/>
+    <nd ref="171498439"/>
+    <nd ref="171498442"/>
+    <nd ref="171498445"/>
+    <nd ref="171498448"/>
+    <nd ref="171498451"/>
+    <nd ref="171498454"/>
+    <nd ref="171410510"/>
+    <nd ref="171498457"/>
+    <nd ref="171498461"/>
+    <nd ref="171498464"/>
+    <nd ref="171498467"/>
+    <nd ref="171498469"/>
+    <nd ref="171498472"/>
+    <nd ref="171498476"/>
+    <nd ref="171498478"/>
+    <nd ref="171498481"/>
+    <nd ref="171498484"/>
+    <nd ref="171364813"/>
+    <nd ref="171498487"/>
+    <nd ref="171408623"/>
+    <nd ref="171498490"/>
+    <nd ref="171498492"/>
+    <nd ref="171498495"/>
+    <nd ref="171498498"/>
+    <nd ref="171498499"/>
+    <nd ref="171498500"/>
+    <nd ref="171498501"/>
+    <nd ref="171498502"/>
+    <nd ref="171498504"/>
+    <nd ref="171498506"/>
+    <nd ref="171498510"/>
+    <nd ref="171498513"/>
+    <nd ref="171498516"/>
+    <nd ref="171498518"/>
+    <nd ref="171498520"/>
+    <nd ref="171498523"/>
+    <nd ref="171498524"/>
+    <nd ref="171498527"/>
+    <nd ref="171498529"/>
+    <nd ref="171498533"/>
+    <nd ref="171477476"/>
+    <nd ref="171498537"/>
+    <nd ref="171498540"/>
+    <nd ref="171498544"/>
+    <nd ref="171498548"/>
+    <nd ref="171498552"/>
+    <nd ref="171366847"/>
+    <nd ref="171498555"/>
+    <nd ref="171498558"/>
+    <nd ref="171289684"/>
+    <nd ref="171498562"/>
+    <nd ref="171498566"/>
+    <nd ref="171498569"/>
+    <nd ref="171498571"/>
+    <nd ref="171498573"/>
+    <nd ref="171498575"/>
+    <nd ref="171498577"/>
+    <nd ref="171498580"/>
+    <nd ref="171498584"/>
+    <nd ref="171359779"/>
+    <nd ref="171498588"/>
+    <nd ref="171498592"/>
+    <nd ref="171498595"/>
+    <nd ref="171498599"/>
+    <nd ref="171498602"/>
+    <nd ref="171498604"/>
+    <nd ref="171498606"/>
+    <nd ref="171381359"/>
+    <nd ref="171383663"/>
+    <nd ref="171498608"/>
+    <nd ref="171498610"/>
+    <nd ref="171498613"/>
+    <nd ref="171498615"/>
+    <nd ref="171498617"/>
+    <nd ref="171410814"/>
+    <nd ref="171498618"/>
+    <nd ref="171453916"/>
+    <nd ref="171498620"/>
+    <nd ref="171383808"/>
+    <nd ref="171314246"/>
+    <nd ref="171498622"/>
+    <nd ref="171498624"/>
+    <nd ref="171292826"/>
+    <nd ref="171498626"/>
+    <nd ref="171437424"/>
+    <nd ref="171498630"/>
+    <nd ref="171351842"/>
+    <nd ref="171313438"/>
+    <nd ref="171304490"/>
+    <nd ref="171359140"/>
+    <nd ref="171359127"/>
+    <nd ref="171319088"/>
+    <nd ref="171274450"/>
+    <nd ref="171274533"/>
+    <nd ref="171296175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagles Nest Road"/>
+    <tag k="name_1" v="State Road 1177"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Eagles Nest"/>
+    <tag k="tiger:name_base_1" v="State Road 1177"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+
+</osm>

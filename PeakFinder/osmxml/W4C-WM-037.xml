@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16658599">
+    <nd ref="172101272"/>
+    <nd ref="2965156839"/>
+    <nd ref="2965156835"/>
+    <nd ref="2965156833"/>
+    <nd ref="2965156730"/>
+    <nd ref="2965156727"/>
+    <nd ref="2965156723"/>
+    <nd ref="172015384"/>
+    <nd ref="172044678"/>
+    <nd ref="2965156711"/>
+    <nd ref="2965156708"/>
+    <nd ref="172084143"/>
+    <nd ref="2965156700"/>
+    <nd ref="172102528"/>
+    <nd ref="2965156690"/>
+    <nd ref="172102530"/>
+    <nd ref="2965156669"/>
+    <nd ref="2965156661"/>
+    <nd ref="2965156653"/>
+    <nd ref="2965156649"/>
+    <nd ref="2965156647"/>
+    <nd ref="2965156646"/>
+    <nd ref="2965156644"/>
+    <nd ref="2965156645"/>
+    <nd ref="2965156648"/>
+    <nd ref="2965156650"/>
+    <nd ref="2965156654"/>
+    <nd ref="2965156658"/>
+    <nd ref="2965156662"/>
+    <nd ref="2965156670"/>
+    <nd ref="2965156677"/>
+    <nd ref="2965156681"/>
+    <nd ref="2965156688"/>
+    <nd ref="2965156695"/>
+    <nd ref="2965156698"/>
+    <nd ref="2965156697"/>
+    <nd ref="2965156692"/>
+    <nd ref="2965156686"/>
+    <nd ref="2965156683"/>
+    <nd ref="2965156676"/>
+    <nd ref="2965156673"/>
+    <nd ref="2965156672"/>
+    <nd ref="2965156675"/>
+    <nd ref="2965156679"/>
+    <nd ref="2965156685"/>
+    <nd ref="2965156687"/>
+    <nd ref="2965156693"/>
+    <nd ref="2965156696"/>
+    <nd ref="2965156701"/>
+    <nd ref="2965156699"/>
+    <nd ref="2965156694"/>
+    <nd ref="2965156689"/>
+    <nd ref="2965156682"/>
+    <nd ref="2965156678"/>
+    <nd ref="2965156674"/>
+    <nd ref="2965156667"/>
+    <nd ref="2965156665"/>
+    <nd ref="2965156664"/>
+    <nd ref="2965156663"/>
+    <nd ref="2965156660"/>
+    <nd ref="2965156657"/>
+    <nd ref="2965156651"/>
+    <nd ref="2965156652"/>
+    <nd ref="2965156656"/>
+    <nd ref="2965156659"/>
+    <nd ref="2965156666"/>
+    <nd ref="2965156680"/>
+    <nd ref="2965156691"/>
+    <nd ref="2965156703"/>
+    <nd ref="2965156707"/>
+    <nd ref="2965156706"/>
+    <nd ref="2965156704"/>
+    <nd ref="2965156709"/>
+    <nd ref="2965156712"/>
+    <nd ref="2965156718"/>
+    <nd ref="2965156725"/>
+    <nd ref="2965156731"/>
+    <nd ref="2965156838"/>
+    <nd ref="2965156842"/>
+    <nd ref="2965156844"/>
+    <nd ref="2965156845"/>
+    <nd ref="2965156849"/>
+    <nd ref="2965156853"/>
+    <nd ref="2965156856"/>
+    <nd ref="2965156859"/>
+    <nd ref="2965156868"/>
+    <nd ref="2965156875"/>
+    <nd ref="2965156881"/>
+    <nd ref="2965156894"/>
+    <nd ref="2965156900"/>
+    <nd ref="2965156907"/>
+    <nd ref="2965156909"/>
+    <nd ref="2965156911"/>
+    <nd ref="2965156912"/>
+    <nd ref="2965156910"/>
+    <nd ref="2965156908"/>
+    <nd ref="2965156906"/>
+    <nd ref="2965156905"/>
+    <nd ref="2965156903"/>
+    <nd ref="2965156895"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Black Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Black Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+  </way>
+
+</osm>

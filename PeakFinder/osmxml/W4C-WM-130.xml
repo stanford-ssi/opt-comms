@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:01:02Z"/>
+
+  <way id="16622167">
+    <nd ref="171685209"/>
+    <nd ref="171685215"/>
+    <nd ref="171685218"/>
+    <nd ref="171685219"/>
+    <nd ref="171685221"/>
+    <nd ref="171685224"/>
+    <nd ref="171685226"/>
+    <nd ref="171685228"/>
+    <nd ref="171685231"/>
+    <nd ref="171685234"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35974210"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16627753">
+    <nd ref="171744923"/>
+    <nd ref="171744926"/>
+    <nd ref="171744929"/>
+    <nd ref="171744932"/>
+    <nd ref="171744935"/>
+    <nd ref="171744938"/>
+    <nd ref="171744941"/>
+    <nd ref="171744943"/>
+    <nd ref="171744945"/>
+    <nd ref="171744947"/>
+    <nd ref="171744949"/>
+    <nd ref="171655232"/>
+    <nd ref="171744951"/>
+    <nd ref="171744954"/>
+    <nd ref="171744958"/>
+    <nd ref="171655149"/>
+    <nd ref="171744960"/>
+    <nd ref="171744961"/>
+    <nd ref="2967038349"/>
+    <nd ref="171744962"/>
+    <nd ref="2967038346"/>
+    <nd ref="2967038345"/>
+    <nd ref="2967038347"/>
+    <nd ref="2967038348"/>
+    <nd ref="171744964"/>
+    <nd ref="171744966"/>
+    <nd ref="171655208"/>
+    <nd ref="2967038350"/>
+    <nd ref="2967038351"/>
+    <nd ref="2967038352"/>
+    <nd ref="2967038353"/>
+    <nd ref="2967038354"/>
+    <nd ref="171685234"/>
+    <nd ref="2967038355"/>
+    <nd ref="2967038356"/>
+    <nd ref="2967038358"/>
+    <nd ref="2967038368"/>
+    <nd ref="171744968"/>
+    <nd ref="2967038390"/>
+    <nd ref="2967038391"/>
+    <nd ref="171744969"/>
+    <nd ref="2967038387"/>
+    <nd ref="2967038386"/>
+    <nd ref="2967038381"/>
+    <nd ref="171744970"/>
+    <nd ref="2967038376"/>
+    <nd ref="171744972"/>
+    <nd ref="171744975"/>
+    <nd ref="171744978"/>
+    <nd ref="171705266"/>
+    <nd ref="171744980"/>
+    <nd ref="171744982"/>
+    <nd ref="171744983"/>
+    <nd ref="171744985"/>
+    <nd ref="2967038443"/>
+    <nd ref="171744986"/>
+    <nd ref="2967038446"/>
+    <nd ref="2967038447"/>
+    <nd ref="2967038450"/>
+    <nd ref="2967038452"/>
+    <nd ref="2967038463"/>
+    <nd ref="171744988"/>
+    <nd ref="2967038477"/>
+    <nd ref="171744991"/>
+    <nd ref="2967038490"/>
+    <nd ref="2967038492"/>
+    <nd ref="171744994"/>
+    <nd ref="171744997"/>
+    <nd ref="171730204"/>
+    <nd ref="171745001"/>
+    <nd ref="171745003"/>
+    <nd ref="2967038558"/>
+    <nd ref="171704754"/>
+    <nd ref="171745004"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ridgeway Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Ridgeway"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16630449">
+    <nd ref="171736777"/>
+    <nd ref="171778308"/>
+    <nd ref="171778313"/>
+    <nd ref="171778316"/>
+    <nd ref="171778317"/>
+    <nd ref="171778319"/>
+    <nd ref="171778320"/>
+    <nd ref="171656581"/>
+    <nd ref="171778321"/>
+    <nd ref="171778323"/>
+    <nd ref="171778325"/>
+    <nd ref="171778327"/>
+    <nd ref="171778330"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Briarwood Road"/>
+    <tag k="name_1" v="State Road 1347"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Briarwood"/>
+    <tag k="tiger:name_base_1" v="State Road 1347"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

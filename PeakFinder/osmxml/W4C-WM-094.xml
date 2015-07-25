@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16774366">
+    <nd ref="173484049"/>
+    <nd ref="173484052"/>
+    <nd ref="173484055"/>
+    <nd ref="173484058"/>
+    <nd ref="173484061"/>
+    <nd ref="173484063"/>
+    <nd ref="173484066"/>
+    <nd ref="173484069"/>
+    <nd ref="173484075"/>
+    <nd ref="173484076"/>
+    <nd ref="173484078"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36132325"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16776613">
+    <nd ref="173520333"/>
+    <nd ref="173520336"/>
+    <nd ref="173520339"/>
+    <nd ref="173520342"/>
+    <nd ref="173520344"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wildwood Lane"/>
+    <tag k="name_1" v="State Road 1179"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Wildwood"/>
+    <tag k="tiger:name_base_1" v="State Road 1179"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28789"/>
+  </way>
+  <way id="16777200">
+    <nd ref="173508401"/>
+    <nd ref="173531746"/>
+    <nd ref="173531749"/>
+    <nd ref="173531752"/>
+    <nd ref="173531755"/>
+    <nd ref="173531759"/>
+    <nd ref="173531762"/>
+    <nd ref="173531765"/>
+    <nd ref="173531768"/>
+    <nd ref="173531771"/>
+    <nd ref="173531774"/>
+    <nd ref="173531776"/>
+    <nd ref="173531779"/>
+    <nd ref="173531782"/>
+    <nd ref="173531787"/>
+    <nd ref="173531789"/>
+    <nd ref="173531791"/>
+    <nd ref="173531795"/>
+    <nd ref="173531800"/>
+    <nd ref="173531802"/>
+    <nd ref="173531804"/>
+    <nd ref="173531805"/>
+    <nd ref="173531807"/>
+    <nd ref="173531809"/>
+    <nd ref="173531811"/>
+    <nd ref="173531813"/>
+    <nd ref="173531815"/>
+    <nd ref="173531819"/>
+    <nd ref="173531821"/>
+    <nd ref="173531824"/>
+    <nd ref="173531827"/>
+    <nd ref="173531830"/>
+    <nd ref="173531833"/>
+    <nd ref="173531836"/>
+    <nd ref="173531839"/>
+    <nd ref="173531841"/>
+    <nd ref="173484078"/>
+    <nd ref="173531843"/>
+    <nd ref="173520333"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Conley Mountain Association Road"/>
+    <tag k="name_1" v="State Road 1179"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Conley Mountain Association"/>
+    <tag k="tiger:name_base_1" v="State Road 1179"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_left_1" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777204">
+    <nd ref="173520333"/>
+    <nd ref="173531860"/>
+    <nd ref="173531863"/>
+    <nd ref="173531865"/>
+    <nd ref="173531868"/>
+    <nd ref="173531871"/>
+    <nd ref="173531874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Conley Mountain Association Road"/>
+    <tag k="name_1" v="State Road 1179"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Conley Mountain Association"/>
+    <tag k="tiger:name_base_1" v="State Road 1179"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16778021">
+    <nd ref="173554129"/>
+    <nd ref="173554133"/>
+    <nd ref="173554136"/>
+    <nd ref="173554141"/>
+    <nd ref="173554145"/>
+    <nd ref="173554147"/>
+    <nd ref="173531836"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bear Lake Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Bear Lake"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+
+</osm>

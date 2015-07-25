@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="18936402">
+    <nd ref="195954328"/>
+    <nd ref="195954330"/>
+    <nd ref="195954332"/>
+    <nd ref="195954334"/>
+    <nd ref="195954336"/>
+    <nd ref="195954338"/>
+    <nd ref="195954340"/>
+    <nd ref="195954342"/>
+    <nd ref="195954344"/>
+    <nd ref="195954346"/>
+    <nd ref="195954348"/>
+    <nd ref="195954350"/>
+    <nd ref="195954352"/>
+    <nd ref="195954354"/>
+    <nd ref="195954355"/>
+    <nd ref="195954358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37416816:37422320:37428388:37428389"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+
+</osm>

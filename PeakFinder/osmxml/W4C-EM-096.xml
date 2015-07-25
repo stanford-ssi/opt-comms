@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16426890">
+    <nd ref="169561379"/>
+    <nd ref="169561380"/>
+    <nd ref="169561381"/>
+    <nd ref="169561382"/>
+    <nd ref="169561383"/>
+    <nd ref="169561384"/>
+    <nd ref="2996557915"/>
+    <nd ref="2996557916"/>
+    <nd ref="2996557917"/>
+    <nd ref="2996557918"/>
+    <nd ref="2996557919"/>
+    <nd ref="2996557920"/>
+    <nd ref="2996557921"/>
+    <nd ref="2996557922"/>
+    <nd ref="2996557923"/>
+    <nd ref="2996557924"/>
+    <nd ref="2996557925"/>
+    <nd ref="2996557926"/>
+    <nd ref="2996557927"/>
+    <nd ref="2996557928"/>
+    <nd ref="2996557929"/>
+    <nd ref="2996557930"/>
+    <nd ref="2996557931"/>
+    <nd ref="2996557932"/>
+    <nd ref="2996561833"/>
+    <nd ref="2996561834"/>
+    <nd ref="2996561835"/>
+    <nd ref="2996561836"/>
+    <nd ref="2996561837"/>
+    <nd ref="2996561838"/>
+    <nd ref="2996561839"/>
+    <nd ref="2996561840"/>
+    <nd ref="2996561841"/>
+    <nd ref="2996561842"/>
+    <nd ref="2996561843"/>
+    <nd ref="2996561844"/>
+    <nd ref="2996561845"/>
+    <nd ref="2996561846"/>
+    <nd ref="2996561847"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stones Throw Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Stones Throw"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16438436">
+    <nd ref="169620728"/>
+    <nd ref="169661028"/>
+    <nd ref="169661034"/>
+    <nd ref="169661040"/>
+    <nd ref="169661042"/>
+    <nd ref="169661046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mountain Vista Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Mountain Vista"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16441726">
+    <nd ref="169661046"/>
+    <nd ref="169693462"/>
+    <nd ref="169693463"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Peak Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="High Peak Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28690"/>
+    <tag k="tiger:zip_right" v="28690"/>
+  </way>
+  <way id="16441748">
+    <nd ref="169656018"/>
+    <nd ref="169693469"/>
+    <nd ref="169598241"/>
+    <nd ref="169693471"/>
+    <nd ref="169693472"/>
+    <nd ref="169693476"/>
+    <nd ref="169693479"/>
+    <nd ref="169583195"/>
+    <nd ref="169693481"/>
+    <nd ref="169693485"/>
+    <nd ref="169693488"/>
+    <nd ref="169626282"/>
+    <nd ref="169693490"/>
+    <nd ref="169693496"/>
+    <nd ref="169693499"/>
+    <nd ref="169693502"/>
+    <nd ref="169693504"/>
+    <nd ref="169693506"/>
+    <nd ref="169693508"/>
+    <nd ref="169693510"/>
+    <nd ref="169693513"/>
+    <nd ref="169693519"/>
+    <nd ref="169693522"/>
+    <nd ref="169693525"/>
+    <nd ref="169693528"/>
+    <nd ref="169693531"/>
+    <nd ref="169581121"/>
+    <nd ref="169693534"/>
+    <nd ref="169693536"/>
+    <nd ref="169693538"/>
+    <nd ref="169693540"/>
+    <nd ref="169693542"/>
+    <nd ref="169693544"/>
+    <nd ref="169693546"/>
+    <nd ref="169693548"/>
+    <nd ref="169693551"/>
+    <nd ref="169693553"/>
+    <nd ref="169693555"/>
+    <nd ref="169693557"/>
+    <nd ref="169693559"/>
+    <nd ref="169693561"/>
+    <nd ref="169693563"/>
+    <nd ref="169693565"/>
+    <nd ref="169693567"/>
+    <nd ref="169693571"/>
+    <nd ref="169693575"/>
+    <nd ref="169693579"/>
+    <nd ref="169693582"/>
+    <nd ref="169693584"/>
+    <nd ref="169693586"/>
+    <nd ref="169693589"/>
+    <nd ref="169693591"/>
+    <nd ref="169601672"/>
+    <nd ref="169693593"/>
+    <nd ref="169693595"/>
+    <nd ref="169693598"/>
+    <nd ref="169693603"/>
+    <nd ref="169693605"/>
+    <nd ref="169693607"/>
+    <nd ref="169693608"/>
+    <nd ref="169693609"/>
+    <nd ref="169693610"/>
+    <nd ref="169693611"/>
+    <nd ref="169693612"/>
+    <nd ref="169693613"/>
+    <nd ref="169693614"/>
+    <nd ref="169693615"/>
+    <nd ref="169693616"/>
+    <nd ref="169693617"/>
+    <nd ref="169693618"/>
+    <nd ref="169693619"/>
+    <nd ref="169693620"/>
+    <nd ref="169693621"/>
+    <nd ref="169693622"/>
+    <nd ref="169693623"/>
+    <nd ref="169693624"/>
+    <nd ref="169693625"/>
+    <nd ref="169693626"/>
+    <nd ref="169693627"/>
+    <nd ref="169693628"/>
+    <nd ref="169693629"/>
+    <nd ref="169693630"/>
+    <nd ref="169693631"/>
+    <nd ref="169693632"/>
+    <nd ref="169693633"/>
+    <nd ref="169693634"/>
+    <nd ref="169693635"/>
+    <nd ref="169693636"/>
+    <nd ref="169693637"/>
+    <nd ref="169693638"/>
+    <nd ref="169693639"/>
+    <nd ref="169693640"/>
+    <nd ref="169693641"/>
+    <nd ref="169693642"/>
+    <nd ref="169693643"/>
+    <nd ref="169693644"/>
+    <nd ref="169693645"/>
+    <nd ref="169693646"/>
+    <nd ref="169693647"/>
+    <nd ref="169693648"/>
+    <nd ref="169661046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Peak Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="High Peak Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28690"/>
+    <tag k="tiger:zip_right" v="28690"/>
+  </way>
+
+</osm>

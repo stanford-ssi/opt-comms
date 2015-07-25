@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16655264">
+    <nd ref="172051081"/>
+    <nd ref="172051084"/>
+    <nd ref="172051086"/>
+    <nd ref="172051087"/>
+    <nd ref="172051088"/>
+    <nd ref="172051089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pinecrest Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Pinecrest"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+    <tag k="tiger:zip_right" v="28734"/>
+  </way>
+  <way id="16655273">
+    <nd ref="172015685"/>
+    <nd ref="172051204"/>
+    <nd ref="172051207"/>
+    <nd ref="172051210"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Roy Bodine Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Roy Bodine"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+  </way>
+  <way id="16656633">
+    <nd ref="172072787"/>
+    <nd ref="172072791"/>
+    <nd ref="172072794"/>
+    <nd ref="172072797"/>
+    <nd ref="172051081"/>
+    <nd ref="172072800"/>
+    <nd ref="172072803"/>
+    <nd ref="172038509"/>
+    <nd ref="172072806"/>
+    <nd ref="172072808"/>
+    <nd ref="172072811"/>
+    <nd ref="172072812"/>
+    <nd ref="172072815"/>
+    <nd ref="172072818"/>
+    <nd ref="172072821"/>
+    <nd ref="172072824"/>
+    <nd ref="172072827"/>
+    <nd ref="172072830"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cannon Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Cannon"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+  </way>
+
+</osm>

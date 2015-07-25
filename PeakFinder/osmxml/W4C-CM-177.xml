@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16644783">
+    <nd ref="171942999"/>
+    <nd ref="171943002"/>
+    <nd ref="171943005"/>
+    <nd ref="171943009"/>
+    <nd ref="171943012"/>
+    <nd ref="171943015"/>
+    <nd ref="171943019"/>
+    <nd ref="171943024"/>
+    <nd ref="171943027"/>
+    <nd ref="171943030"/>
+    <nd ref="171943034"/>
+    <nd ref="171943037"/>
+    <nd ref="171943040"/>
+    <nd ref="171943046"/>
+    <nd ref="171943050"/>
+    <nd ref="171943053"/>
+    <nd ref="171943056"/>
+    <nd ref="171943060"/>
+    <nd ref="171943062"/>
+    <nd ref="171943063"/>
+    <nd ref="171943066"/>
+    <nd ref="171943068"/>
+    <nd ref="171943072"/>
+    <nd ref="171943074"/>
+    <nd ref="171943076"/>
+    <nd ref="171943078"/>
+    <nd ref="171943080"/>
+    <nd ref="171943082"/>
+    <nd ref="171943084"/>
+    <nd ref="171943086"/>
+    <nd ref="171943088"/>
+    <nd ref="171943091"/>
+    <nd ref="171943094"/>
+    <nd ref="171943097"/>
+    <nd ref="171943100"/>
+    <nd ref="171943107"/>
+    <nd ref="171943110"/>
+    <nd ref="171943113"/>
+    <nd ref="171943116"/>
+    <nd ref="171943118"/>
+    <nd ref="171943121"/>
+    <nd ref="171943124"/>
+    <nd ref="171943127"/>
+    <nd ref="171943130"/>
+    <nd ref="171943133"/>
+    <nd ref="171943136"/>
+    <nd ref="171943139"/>
+    <nd ref="171943142"/>
+    <nd ref="171943145"/>
+    <nd ref="171943147"/>
+    <nd ref="171943149"/>
+    <nd ref="171943153"/>
+    <nd ref="171943155"/>
+    <nd ref="171943157"/>
+    <nd ref="171943159"/>
+    <nd ref="171943161"/>
+    <nd ref="171943163"/>
+    <nd ref="171943165"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="233031517:233031461:233031490:233030282:233031750"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+  </way>
+
+</osm>

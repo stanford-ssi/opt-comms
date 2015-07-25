@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16650008">
+    <nd ref="171991627"/>
+    <nd ref="171991629"/>
+    <nd ref="172135671"/>
+    <nd ref="171991635"/>
+    <nd ref="171991638"/>
+    <nd ref="171991641"/>
+    <nd ref="171991643"/>
+    <nd ref="171991645"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35885101:35925366:35885097"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+  </way>
+
+</osm>

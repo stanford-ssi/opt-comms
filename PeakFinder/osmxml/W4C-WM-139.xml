@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:01:02Z"/>
+
+  <way id="16774186">
+    <nd ref="173481445"/>
+    <nd ref="173481448"/>
+    <nd ref="173481450"/>
+    <nd ref="173481453"/>
+    <nd ref="173481456"/>
+    <nd ref="173481459"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129304"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16774194">
+    <nd ref="173481621"/>
+    <nd ref="173481623"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129307"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16777695">
+    <nd ref="173525061"/>
+    <nd ref="173503900"/>
+    <nd ref="173516454"/>
+    <nd ref="173546912"/>
+    <nd ref="173533006"/>
+    <nd ref="173546914"/>
+    <nd ref="173546917"/>
+    <nd ref="173546919"/>
+    <nd ref="173546921"/>
+    <nd ref="173546924"/>
+    <nd ref="173546927"/>
+    <nd ref="173546930"/>
+    <nd ref="173481621"/>
+    <nd ref="173475295"/>
+    <nd ref="173546933"/>
+    <nd ref="173493497"/>
+    <nd ref="173546936"/>
+    <nd ref="173546940"/>
+    <nd ref="173546942"/>
+    <nd ref="173546945"/>
+    <nd ref="173546949"/>
+    <nd ref="173546952"/>
+    <nd ref="173546956"/>
+    <nd ref="173546960"/>
+    <nd ref="173546964"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mineral Springs Road"/>
+    <tag k="name_1" v="State Road 1312"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Mineral Springs"/>
+    <tag k="tiger:name_base_1" v="State Road 1312"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777774">
+    <nd ref="173546964"/>
+    <nd ref="173548819"/>
+    <nd ref="173548822"/>
+    <nd ref="173548825"/>
+    <nd ref="173548828"/>
+    <nd ref="173548832"/>
+    <nd ref="173548835"/>
+    <nd ref="173481445"/>
+    <nd ref="173493698"/>
+    <nd ref="173477062"/>
+    <nd ref="173548836"/>
+    <nd ref="173548839"/>
+    <nd ref="173513012"/>
+    <nd ref="173548845"/>
+    <nd ref="173548846"/>
+    <nd ref="173548850"/>
+    <nd ref="173548852"/>
+    <nd ref="173548856"/>
+    <nd ref="173548858"/>
+    <nd ref="173548860"/>
+    <nd ref="173548864"/>
+    <nd ref="173548866"/>
+    <nd ref="173548868"/>
+    <nd ref="173548870"/>
+    <nd ref="173548879"/>
+    <nd ref="173548885"/>
+    <nd ref="173548891"/>
+    <nd ref="173548893"/>
+    <nd ref="173548895"/>
+    <nd ref="173493819"/>
+    <nd ref="173548898"/>
+    <nd ref="173548900"/>
+    <nd ref="173548903"/>
+    <nd ref="173548906"/>
+    <nd ref="173548908"/>
+    <nd ref="173548912"/>
+    <nd ref="173548917"/>
+    <nd ref="173548920"/>
+    <nd ref="173548922"/>
+    <nd ref="173548923"/>
+    <nd ref="173548925"/>
+    <nd ref="173548927"/>
+    <nd ref="173548929"/>
+    <nd ref="173502147"/>
+    <nd ref="173548931"/>
+    <nd ref="173548934"/>
+    <nd ref="173548937"/>
+    <nd ref="173548940"/>
+    <nd ref="173484773"/>
+    <nd ref="173548941"/>
+    <nd ref="173548943"/>
+    <nd ref="173548945"/>
+    <nd ref="173548947"/>
+    <nd ref="173548950"/>
+    <nd ref="173548953"/>
+    <nd ref="173548954"/>
+    <nd ref="173548958"/>
+    <nd ref="173508507"/>
+    <nd ref="173548962"/>
+    <nd ref="173543529"/>
+    <nd ref="173548967"/>
+    <nd ref="173508487"/>
+    <nd ref="173548969"/>
+    <nd ref="173520482"/>
+    <nd ref="173548974"/>
+    <nd ref="173548978"/>
+    <nd ref="173548981"/>
+    <nd ref="173503774"/>
+    <nd ref="173548984"/>
+    <nd ref="173548986"/>
+    <nd ref="173548989"/>
+    <nd ref="173548992"/>
+    <nd ref="173548994"/>
+    <nd ref="173548998"/>
+    <nd ref="173549002"/>
+    <nd ref="173549003"/>
+    <nd ref="173549004"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greasy Branch Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Greasy Branch"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_left_1" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16778153">
+    <nd ref="173546964"/>
+    <nd ref="173557209"/>
+    <nd ref="173557211"/>
+    <nd ref="173557214"/>
+    <nd ref="173557218"/>
+    <nd ref="173507893"/>
+    <nd ref="173557222"/>
+    <nd ref="173557225"/>
+    <nd ref="173498516"/>
+    <nd ref="173557228"/>
+    <nd ref="173557230"/>
+    <nd ref="173557233"/>
+    <nd ref="173557237"/>
+    <nd ref="173507992"/>
+    <nd ref="173506409"/>
+    <nd ref="173557238"/>
+    <nd ref="173557244"/>
+    <nd ref="173557247"/>
+    <nd ref="173557249"/>
+    <nd ref="173557252"/>
+    <nd ref="173557255"/>
+    <nd ref="173557260"/>
+    <nd ref="173557263"/>
+    <nd ref="173487870"/>
+    <nd ref="173557268"/>
+    <nd ref="173489361"/>
+    <nd ref="173557271"/>
+    <nd ref="173557275"/>
+    <nd ref="173557278"/>
+    <nd ref="173557281"/>
+    <nd ref="173557285"/>
+    <nd ref="173557288"/>
+    <nd ref="173557291"/>
+    <nd ref="173557297"/>
+    <nd ref="173557302"/>
+    <nd ref="173557307"/>
+    <nd ref="173557309"/>
+    <nd ref="173557314"/>
+    <nd ref="173557317"/>
+    <nd ref="173483880"/>
+    <nd ref="173557321"/>
+    <nd ref="173515209"/>
+    <nd ref="173557324"/>
+    <nd ref="173483963"/>
+    <nd ref="173557328"/>
+    <nd ref="173557331"/>
+    <nd ref="173557334"/>
+    <nd ref="173515032"/>
+    <nd ref="173557338"/>
+    <nd ref="173557342"/>
+    <nd ref="173557346"/>
+    <nd ref="173557349"/>
+    <nd ref="173557353"/>
+    <nd ref="173557358"/>
+    <nd ref="173491311"/>
+    <nd ref="173557361"/>
+    <nd ref="173483857"/>
+    <nd ref="173557365"/>
+    <nd ref="173557367"/>
+    <nd ref="173514962"/>
+    <nd ref="173557373"/>
+    <nd ref="173486230"/>
+    <nd ref="173522432"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Round Hill Road"/>
+    <tag k="name_1" v="State Road 1312"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Round Hill"/>
+    <tag k="tiger:name_base_1" v="State Road 1312"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_left_1" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+    <tag k="tiger:zip_right_1" v="28713"/>
+  </way>
+
+</osm>

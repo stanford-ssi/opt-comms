@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:40:02Z"/>
+
+  <way id="16597051">
+    <nd ref="171349266"/>
+    <nd ref="171379410"/>
+    <nd ref="171379412"/>
+    <nd ref="171379414"/>
+    <nd ref="171379416"/>
+    <nd ref="171379418"/>
+    <nd ref="171379422"/>
+    <nd ref="171379425"/>
+    <nd ref="171379427"/>
+    <nd ref="171379429"/>
+    <nd ref="171379431"/>
+    <nd ref="171379435"/>
+    <nd ref="171379438"/>
+    <nd ref="171379441"/>
+    <nd ref="171379443"/>
+    <nd ref="171379446"/>
+    <nd ref="171379449"/>
+    <nd ref="171379452"/>
+    <nd ref="171379455"/>
+    <nd ref="171379458"/>
+    <nd ref="171379460"/>
+    <nd ref="171379462"/>
+    <nd ref="171379465"/>
+    <nd ref="171379468"/>
+    <nd ref="171379472"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fabry Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Fabry Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+
+</osm>

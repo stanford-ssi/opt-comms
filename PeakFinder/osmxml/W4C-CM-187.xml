@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16653941">
+    <nd ref="172029031"/>
+    <nd ref="172029034"/>
+    <nd ref="172029036"/>
+    <nd ref="172029038"/>
+    <nd ref="172029041"/>
+    <nd ref="172029043"/>
+    <nd ref="172029045"/>
+    <nd ref="172029048"/>
+    <nd ref="172029051"/>
+    <nd ref="172029054"/>
+    <nd ref="172029056"/>
+    <nd ref="172029059"/>
+    <nd ref="172029062"/>
+    <nd ref="172029065"/>
+    <nd ref="172029068"/>
+    <nd ref="172029072"/>
+    <nd ref="172029075"/>
+    <nd ref="172029078"/>
+    <nd ref="172029081"/>
+    <nd ref="172029082"/>
+    <nd ref="172029085"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kids Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Kids"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35911440:35911439"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+    <tag k="tiger:zip_left" v="28752"/>
+    <tag k="tiger:zip_right" v="28752"/>
+  </way>
+
+</osm>

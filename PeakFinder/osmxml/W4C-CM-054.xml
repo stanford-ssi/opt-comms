@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16588075">
+    <nd ref="171274826"/>
+    <nd ref="171274829"/>
+    <nd ref="171274832"/>
+    <nd ref="171274836"/>
+    <nd ref="171274840"/>
+    <nd ref="171274844"/>
+    <nd ref="171274850"/>
+    <nd ref="171274853"/>
+    <nd ref="171274857"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151811890:151839721"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+  </way>
+  <way id="16592697">
+    <nd ref="171323200"/>
+    <nd ref="171323202"/>
+    <nd ref="171323205"/>
+    <nd ref="171323207"/>
+    <nd ref="171323210"/>
+    <nd ref="171323213"/>
+    <nd ref="171323215"/>
+    <nd ref="171323217"/>
+    <nd ref="171323219"/>
+    <nd ref="171323220"/>
+    <nd ref="171323223"/>
+    <nd ref="171323225"/>
+    <nd ref="171323227"/>
+    <nd ref="171323228"/>
+    <nd ref="171323229"/>
+    <nd ref="171323230"/>
+    <nd ref="171323232"/>
+    <nd ref="171253867"/>
+    <nd ref="171323237"/>
+    <nd ref="171323240"/>
+    <nd ref="171323242"/>
+    <nd ref="171323247"/>
+    <nd ref="171323251"/>
+    <nd ref="171323254"/>
+    <nd ref="171323257"/>
+    <nd ref="171323259"/>
+    <nd ref="171323262"/>
+    <nd ref="171323269"/>
+    <nd ref="171323272"/>
+    <nd ref="171323274"/>
+    <nd ref="171323277"/>
+    <nd ref="171323279"/>
+    <nd ref="171323280"/>
+    <nd ref="171323283"/>
+    <nd ref="171323286"/>
+    <nd ref="171323288"/>
+    <nd ref="171323290"/>
+    <nd ref="171323292"/>
+    <nd ref="171323294"/>
+    <nd ref="171323298"/>
+    <nd ref="171323300"/>
+    <nd ref="171323302"/>
+    <nd ref="171323305"/>
+    <nd ref="171323307"/>
+    <nd ref="171323309"/>
+    <nd ref="171323312"/>
+    <nd ref="171323315"/>
+    <nd ref="171323318"/>
+    <nd ref="171323321"/>
+    <nd ref="171323323"/>
+    <nd ref="171323325"/>
+    <nd ref="171323327"/>
+    <nd ref="171323328"/>
+    <nd ref="171323332"/>
+    <nd ref="171323335"/>
+    <nd ref="171323337"/>
+    <nd ref="171323339"/>
+    <nd ref="171323341"/>
+    <nd ref="171323344"/>
+    <nd ref="171323347"/>
+    <nd ref="171323350"/>
+    <nd ref="171323353"/>
+    <nd ref="171323356"/>
+    <nd ref="171323358"/>
+    <nd ref="171323360"/>
+    <nd ref="171323362"/>
+    <nd ref="171323364"/>
+    <nd ref="171323365"/>
+    <nd ref="171323366"/>
+    <nd ref="171323368"/>
+    <nd ref="171323369"/>
+    <nd ref="171323374"/>
+    <nd ref="171323377"/>
+    <nd ref="171323381"/>
+    <nd ref="171323383"/>
+    <nd ref="171323386"/>
+    <nd ref="171323391"/>
+    <nd ref="171323394"/>
+    <nd ref="171323397"/>
+    <nd ref="171323400"/>
+    <nd ref="171323403"/>
+    <nd ref="171323409"/>
+    <nd ref="171323410"/>
+    <nd ref="171323411"/>
+    <nd ref="171323413"/>
+    <nd ref="171323416"/>
+    <nd ref="171323418"/>
+    <nd ref="171323421"/>
+    <nd ref="171323424"/>
+    <nd ref="171323428"/>
+    <nd ref="171323431"/>
+    <nd ref="171323434"/>
+    <nd ref="171323437"/>
+    <nd ref="171323439"/>
+    <nd ref="171323440"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugar Bush Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Sugar Bush"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16596933">
+    <nd ref="171249126"/>
+    <nd ref="171378291"/>
+    <nd ref="171378293"/>
+    <nd ref="171378296"/>
+    <nd ref="171378299"/>
+    <nd ref="171378302"/>
+    <nd ref="171378305"/>
+    <nd ref="171378308"/>
+    <nd ref="171378310"/>
+    <nd ref="171378312"/>
+    <nd ref="171378315"/>
+    <nd ref="171378318"/>
+    <nd ref="171378321"/>
+    <nd ref="171378324"/>
+    <nd ref="171378327"/>
+    <nd ref="171378329"/>
+    <nd ref="171378331"/>
+    <nd ref="171378337"/>
+    <nd ref="171378340"/>
+    <nd ref="171378343"/>
+    <nd ref="171378345"/>
+    <nd ref="171378346"/>
+    <nd ref="171274826"/>
+    <nd ref="171378347"/>
+    <nd ref="171378348"/>
+    <nd ref="171378350"/>
+    <nd ref="171378352"/>
+    <nd ref="171378354"/>
+    <nd ref="171378357"/>
+    <nd ref="171378359"/>
+    <nd ref="171378361"/>
+    <nd ref="171378363"/>
+    <nd ref="171378365"/>
+    <nd ref="171378368"/>
+    <nd ref="171378371"/>
+    <nd ref="171378374"/>
+    <nd ref="171378377"/>
+    <nd ref="171378380"/>
+    <nd ref="171378383"/>
+    <nd ref="171378386"/>
+    <nd ref="171378389"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mountain Glen Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Mountain Glen"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

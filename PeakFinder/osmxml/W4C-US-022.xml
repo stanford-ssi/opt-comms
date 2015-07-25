@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="303499791">
+    <nd ref="3078572363"/>
+    <nd ref="3078572377"/>
+    <nd ref="3078572388"/>
+    <nd ref="3078572393"/>
+    <nd ref="3078572397"/>
+    <nd ref="3078572399"/>
+    <nd ref="3078572401"/>
+    <nd ref="3078572400"/>
+    <nd ref="3078572402"/>
+    <nd ref="3078572408"/>
+    <nd ref="3078572410"/>
+    <nd ref="3078572412"/>
+    <nd ref="3078572416"/>
+    <nd ref="3078572424"/>
+    <nd ref="3078572430"/>
+    <nd ref="3078572437"/>
+    <nd ref="3078572436"/>
+    <nd ref="3078572433"/>
+    <nd ref="3078572431"/>
+    <nd ref="3078572435"/>
+    <nd ref="3078572434"/>
+    <nd ref="3078572440"/>
+    <nd ref="3078572442"/>
+    <nd ref="3078572443"/>
+    <nd ref="3078572446"/>
+    <nd ref="3078572448"/>
+    <nd ref="3078572450"/>
+    <nd ref="3078572452"/>
+    <nd ref="3078572453"/>
+    <nd ref="3078572454"/>
+    <nd ref="3078572456"/>
+    <nd ref="3078572457"/>
+    <nd ref="3078572458"/>
+    <nd ref="3078572461"/>
+    <nd ref="3078572464"/>
+    <nd ref="3078572467"/>
+    <nd ref="3078572470"/>
+    <nd ref="3078572473"/>
+    <nd ref="3078572474"/>
+    <nd ref="3078572475"/>
+    <nd ref="3078572477"/>
+    <nd ref="3078572480"/>
+    <nd ref="3078572481"/>
+    <nd ref="3078572483"/>
+    <nd ref="3078572485"/>
+    <nd ref="3078572487"/>
+    <nd ref="3078572491"/>
+    <nd ref="3078572493"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Widow's Bottom Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tracktype" v="grade4"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+  <way id="303499792">
+    <nd ref="113904134"/>
+    <nd ref="3078572354"/>
+    <nd ref="3078572349"/>
+    <nd ref="3078572347"/>
+    <nd ref="3078572344"/>
+    <nd ref="3078572338"/>
+    <nd ref="3078572334"/>
+    <nd ref="3078572232"/>
+    <nd ref="3078572228"/>
+    <nd ref="3078572217"/>
+    <nd ref="3078572216"/>
+    <nd ref="3078572211"/>
+    <nd ref="3078572202"/>
+    <nd ref="3078572195"/>
+    <nd ref="3078572194"/>
+    <nd ref="3078572196"/>
+    <nd ref="3078572200"/>
+    <nd ref="3078572201"/>
+    <nd ref="3078572205"/>
+    <nd ref="3078572198"/>
+    <nd ref="3078572192"/>
+    <nd ref="3078572190"/>
+    <nd ref="3078572183"/>
+    <nd ref="3078572172"/>
+    <nd ref="3078572158"/>
+    <nd ref="3078572147"/>
+    <nd ref="3078572145"/>
+    <nd ref="3078572141"/>
+    <nd ref="3078572134"/>
+    <nd ref="3078572136"/>
+    <nd ref="3078572140"/>
+    <nd ref="3078572144"/>
+    <nd ref="3078572148"/>
+    <nd ref="3078572157"/>
+    <nd ref="3078572168"/>
+    <nd ref="3078572178"/>
+    <nd ref="3078572180"/>
+    <nd ref="3078572193"/>
+    <nd ref="3078572220"/>
+    <nd ref="3078572224"/>
+    <nd ref="3078572227"/>
+    <nd ref="3078572231"/>
+    <nd ref="3078572336"/>
+    <nd ref="3078572339"/>
+    <nd ref="3078572340"/>
+    <nd ref="3078572342"/>
+    <nd ref="3078572348"/>
+    <nd ref="3078572350"/>
+    <nd ref="3078572352"/>
+    <nd ref="3078572358"/>
+    <nd ref="3078572359"/>
+    <nd ref="3078572367"/>
+    <nd ref="3078572375"/>
+    <nd ref="3078572380"/>
+    <nd ref="3078572378"/>
+    <nd ref="3078572368"/>
+    <nd ref="3078572365"/>
+    <nd ref="3078572366"/>
+    <nd ref="3078572369"/>
+    <nd ref="3078572372"/>
+    <nd ref="3078572379"/>
+    <nd ref="3078572382"/>
+    <nd ref="3078572373"/>
+    <nd ref="3078572376"/>
+    <nd ref="3078572384"/>
+    <nd ref="3078572385"/>
+    <nd ref="3078572387"/>
+    <nd ref="3078572389"/>
+    <nd ref="3078572394"/>
+    <nd ref="3078572392"/>
+    <nd ref="3078572390"/>
+    <nd ref="3078572383"/>
+    <nd ref="3078572371"/>
+    <nd ref="3078572363"/>
+    <nd ref="3078572361"/>
+    <nd ref="3078572356"/>
+    <nd ref="3078572351"/>
+    <nd ref="3078572346"/>
+    <nd ref="3078572230"/>
+    <nd ref="3078572219"/>
+    <nd ref="3078572212"/>
+    <nd ref="3078572199"/>
+    <nd ref="3078572187"/>
+    <nd ref="3078572181"/>
+    <nd ref="3078572173"/>
+    <nd ref="3078572163"/>
+    <nd ref="3078572153"/>
+    <nd ref="3078572143"/>
+    <nd ref="3078572137"/>
+    <nd ref="3078572132"/>
+    <nd ref="3078572125"/>
+    <nd ref="3078572119"/>
+    <nd ref="3078572114"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Widow's Bottom Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tracktype" v="grade4"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+
+</osm>

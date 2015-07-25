@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16774221">
+    <nd ref="173482258"/>
+    <nd ref="173482260"/>
+    <nd ref="173482263"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36132334"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16774403">
+    <nd ref="173484694"/>
+    <nd ref="173484790"/>
+    <nd ref="173484793"/>
+    <nd ref="173484795"/>
+    <nd ref="173484797"/>
+    <nd ref="173484799"/>
+    <nd ref="173484801"/>
+    <nd ref="173484803"/>
+    <nd ref="173484805"/>
+    <nd ref="173484808"/>
+    <nd ref="173484811"/>
+    <nd ref="173484813"/>
+    <nd ref="173484815"/>
+    <nd ref="173484817"/>
+    <nd ref="173484819"/>
+    <nd ref="173484821"/>
+    <nd ref="173484824"/>
+    <nd ref="173484826"/>
+    <nd ref="173484829"/>
+    <nd ref="173484832"/>
+    <nd ref="173484836"/>
+    <nd ref="173484841"/>
+    <nd ref="173484845"/>
+    <nd ref="173484848"/>
+    <nd ref="173484849"/>
+    <nd ref="173484851"/>
+    <nd ref="173484853"/>
+    <nd ref="173484856"/>
+    <nd ref="173484858"/>
+    <nd ref="173484860"/>
+    <nd ref="173484862"/>
+    <nd ref="173484864"/>
+    <nd ref="173484866"/>
+    <nd ref="173484868"/>
+    <nd ref="173484870"/>
+    <nd ref="173484872"/>
+    <nd ref="173484873"/>
+    <nd ref="173484874"/>
+    <nd ref="173484876"/>
+    <nd ref="173484878"/>
+    <nd ref="173484880"/>
+    <nd ref="173484881"/>
+    <nd ref="173484883"/>
+    <nd ref="173484897"/>
+    <nd ref="173484899"/>
+    <nd ref="173484901"/>
+    <nd ref="173484904"/>
+    <nd ref="173484907"/>
+    <nd ref="173484909"/>
+    <nd ref="173484917"/>
+    <nd ref="173484924"/>
+    <nd ref="173484927"/>
+    <nd ref="173484930"/>
+    <nd ref="173484932"/>
+    <nd ref="173484934"/>
+    <nd ref="173484937"/>
+    <nd ref="173484940"/>
+    <nd ref="173484943"/>
+    <nd ref="173484948"/>
+    <nd ref="173484950"/>
+    <nd ref="173484953"/>
+    <nd ref="173484955"/>
+    <nd ref="173484959"/>
+    <nd ref="173484962"/>
+    <nd ref="173484965"/>
+    <nd ref="173484968"/>
+    <nd ref="173484971"/>
+    <nd ref="173484974"/>
+    <nd ref="173484978"/>
+    <nd ref="173484983"/>
+    <nd ref="173484986"/>
+    <nd ref="173484989"/>
+    <nd ref="173484992"/>
+    <nd ref="173484996"/>
+    <nd ref="173484999"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36118936:36119373:36119243"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775108">
+    <nd ref="173548984"/>
+    <nd ref="173494932"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36132831"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775730">
+    <nd ref="173503774"/>
+    <nd ref="173503775"/>
+    <nd ref="173503778"/>
+    <nd ref="173503780"/>
+    <nd ref="173503782"/>
+    <nd ref="173503785"/>
+    <nd ref="173503788"/>
+    <nd ref="173503791"/>
+    <nd ref="173503794"/>
+    <nd ref="173503799"/>
+    <nd ref="173503802"/>
+    <nd ref="173503805"/>
+    <nd ref="173503808"/>
+    <nd ref="173503810"/>
+    <nd ref="173503812"/>
+    <nd ref="173503814"/>
+    <nd ref="173503820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129291"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775810">
+    <nd ref="173505172"/>
+    <nd ref="173503755"/>
+    <nd ref="173505175"/>
+    <nd ref="173505178"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129284"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775914">
+    <nd ref="173506605"/>
+    <nd ref="173506609"/>
+    <nd ref="173506613"/>
+    <nd ref="173506617"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129276"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775916">
+    <nd ref="173506649"/>
+    <nd ref="173506605"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129277"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775917">
+    <nd ref="173506656"/>
+    <nd ref="173506659"/>
+    <nd ref="173506662"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36129278"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16776060">
+    <nd ref="173508487"/>
+    <nd ref="173508489"/>
+    <nd ref="173508490"/>
+    <nd ref="173508493"/>
+    <nd ref="173508495"/>
+    <nd ref="173508499"/>
+    <nd ref="173508502"/>
+    <nd ref="173508505"/>
+    <nd ref="173508507"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Conard Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Conard"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16776625">
+    <nd ref="173520482"/>
+    <nd ref="173520485"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Harry Haney Hollow"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Harry Haney Hollow"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36132830"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16777604">
+    <nd ref="173543529"/>
+    <nd ref="173505172"/>
+    <nd ref="173506656"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Clark Road"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Clark"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777774">
+    <nd ref="173546964"/>
+    <nd ref="173548819"/>
+    <nd ref="173548822"/>
+    <nd ref="173548825"/>
+    <nd ref="173548828"/>
+    <nd ref="173548832"/>
+    <nd ref="173548835"/>
+    <nd ref="173481445"/>
+    <nd ref="173493698"/>
+    <nd ref="173477062"/>
+    <nd ref="173548836"/>
+    <nd ref="173548839"/>
+    <nd ref="173513012"/>
+    <nd ref="173548845"/>
+    <nd ref="173548846"/>
+    <nd ref="173548850"/>
+    <nd ref="173548852"/>
+    <nd ref="173548856"/>
+    <nd ref="173548858"/>
+    <nd ref="173548860"/>
+    <nd ref="173548864"/>
+    <nd ref="173548866"/>
+    <nd ref="173548868"/>
+    <nd ref="173548870"/>
+    <nd ref="173548879"/>
+    <nd ref="173548885"/>
+    <nd ref="173548891"/>
+    <nd ref="173548893"/>
+    <nd ref="173548895"/>
+    <nd ref="173493819"/>
+    <nd ref="173548898"/>
+    <nd ref="173548900"/>
+    <nd ref="173548903"/>
+    <nd ref="173548906"/>
+    <nd ref="173548908"/>
+    <nd ref="173548912"/>
+    <nd ref="173548917"/>
+    <nd ref="173548920"/>
+    <nd ref="173548922"/>
+    <nd ref="173548923"/>
+    <nd ref="173548925"/>
+    <nd ref="173548927"/>
+    <nd ref="173548929"/>
+    <nd ref="173502147"/>
+    <nd ref="173548931"/>
+    <nd ref="173548934"/>
+    <nd ref="173548937"/>
+    <nd ref="173548940"/>
+    <nd ref="173484773"/>
+    <nd ref="173548941"/>
+    <nd ref="173548943"/>
+    <nd ref="173548945"/>
+    <nd ref="173548947"/>
+    <nd ref="173548950"/>
+    <nd ref="173548953"/>
+    <nd ref="173548954"/>
+    <nd ref="173548958"/>
+    <nd ref="173508507"/>
+    <nd ref="173548962"/>
+    <nd ref="173543529"/>
+    <nd ref="173548967"/>
+    <nd ref="173508487"/>
+    <nd ref="173548969"/>
+    <nd ref="173520482"/>
+    <nd ref="173548974"/>
+    <nd ref="173548978"/>
+    <nd ref="173548981"/>
+    <nd ref="173503774"/>
+    <nd ref="173548984"/>
+    <nd ref="173548986"/>
+    <nd ref="173548989"/>
+    <nd ref="173548992"/>
+    <nd ref="173548994"/>
+    <nd ref="173548998"/>
+    <nd ref="173549002"/>
+    <nd ref="173549003"/>
+    <nd ref="173549004"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greasy Branch Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Greasy Branch"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_left_1" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16778070">
+    <nd ref="173548969"/>
+    <nd ref="173482258"/>
+    <nd ref="173506605"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Crawford Road"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Crawford"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+
+</osm>

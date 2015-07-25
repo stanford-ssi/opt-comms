@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="18928575">
+    <nd ref="195870763"/>
+    <nd ref="195870765"/>
+    <nd ref="195870767"/>
+    <nd ref="195870773"/>
+    <nd ref="195870776"/>
+    <nd ref="195870779"/>
+    <nd ref="195870781"/>
+    <nd ref="195870784"/>
+    <nd ref="195870787"/>
+    <nd ref="195870789"/>
+    <nd ref="195870795"/>
+    <nd ref="195870797"/>
+    <nd ref="195870799"/>
+    <nd ref="195870800"/>
+    <nd ref="195870802"/>
+    <nd ref="195870804"/>
+    <nd ref="195870806"/>
+    <nd ref="195870809"/>
+    <nd ref="195870811"/>
+    <nd ref="195870814"/>
+    <nd ref="195870817"/>
+    <nd ref="195870820"/>
+    <nd ref="195870822"/>
+    <nd ref="195870824"/>
+    <nd ref="195870826"/>
+    <nd ref="195870830"/>
+    <nd ref="195870833"/>
+    <nd ref="195870834"/>
+    <nd ref="195870837"/>
+    <nd ref="195870840"/>
+    <nd ref="195870841"/>
+    <nd ref="195870843"/>
+    <nd ref="195870845"/>
+    <nd ref="195870847"/>
+    <nd ref="195870850"/>
+    <nd ref="195870853"/>
+    <nd ref="195870856"/>
+    <nd ref="195870858"/>
+    <nd ref="195870861"/>
+    <nd ref="195870864"/>
+    <nd ref="195870866"/>
+    <nd ref="195870869"/>
+    <nd ref="195870872"/>
+    <nd ref="195870876"/>
+    <nd ref="195870881"/>
+    <nd ref="195870885"/>
+    <nd ref="195870888"/>
+    <nd ref="195870890"/>
+    <nd ref="195870893"/>
+    <nd ref="195870896"/>
+    <nd ref="195870898"/>
+    <nd ref="195870900"/>
+    <nd ref="195870903"/>
+    <nd ref="195870904"/>
+    <nd ref="195870907"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46136572"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+  <way id="18931288">
+    <nd ref="195879251"/>
+    <nd ref="195904797"/>
+    <nd ref="195904799"/>
+    <nd ref="195904801"/>
+    <nd ref="195904803"/>
+    <nd ref="195904805"/>
+    <nd ref="195904807"/>
+    <nd ref="195904809"/>
+    <nd ref="195904811"/>
+    <nd ref="195904813"/>
+    <nd ref="195904815"/>
+    <nd ref="195904817"/>
+    <nd ref="195904819"/>
+    <nd ref="195904821"/>
+    <nd ref="195904823"/>
+    <nd ref="195868114"/>
+    <nd ref="195904825"/>
+    <nd ref="195904827"/>
+    <nd ref="195904829"/>
+    <nd ref="195904831"/>
+    <nd ref="195904833"/>
+    <nd ref="195904835"/>
+    <nd ref="195904837"/>
+    <nd ref="195904839"/>
+    <nd ref="195904841"/>
+    <nd ref="195904842"/>
+    <nd ref="195904843"/>
+    <nd ref="195904844"/>
+    <nd ref="195904845"/>
+    <nd ref="195904846"/>
+    <nd ref="195904847"/>
+    <nd ref="195904848"/>
+    <nd ref="195904849"/>
+    <nd ref="195904850"/>
+    <nd ref="195904851"/>
+    <nd ref="195904852"/>
+    <nd ref="195904853"/>
+    <nd ref="195904854"/>
+    <nd ref="195904855"/>
+    <nd ref="195904856"/>
+    <nd ref="195904857"/>
+    <nd ref="195904858"/>
+    <nd ref="195904859"/>
+    <nd ref="195904860"/>
+    <nd ref="195843685"/>
+    <nd ref="195904861"/>
+    <nd ref="195904862"/>
+    <nd ref="195904863"/>
+    <nd ref="195904864"/>
+    <nd ref="195904865"/>
+    <nd ref="195904866"/>
+    <nd ref="195904867"/>
+    <nd ref="195904868"/>
+    <nd ref="195904869"/>
+    <nd ref="195904870"/>
+    <nd ref="195904871"/>
+    <nd ref="195904872"/>
+    <nd ref="195904873"/>
+    <nd ref="195904874"/>
+    <nd ref="195904875"/>
+    <nd ref="195904876"/>
+    <nd ref="195904877"/>
+    <nd ref="195904878"/>
+    <nd ref="195904879"/>
+    <nd ref="195904880"/>
+    <nd ref="195904881"/>
+    <nd ref="195904883"/>
+    <nd ref="195904885"/>
+    <nd ref="195904886"/>
+    <nd ref="195904887"/>
+    <nd ref="195904888"/>
+    <nd ref="195904889"/>
+    <nd ref="195904890"/>
+    <nd ref="195904891"/>
+    <nd ref="195904892"/>
+    <nd ref="195904893"/>
+    <nd ref="195904894"/>
+    <nd ref="195904895"/>
+    <nd ref="195904896"/>
+    <nd ref="195904897"/>
+    <nd ref="195904898"/>
+    <nd ref="195904899"/>
+    <nd ref="195904900"/>
+    <nd ref="195904901"/>
+    <nd ref="195870907"/>
+    <nd ref="195904902"/>
+    <nd ref="195904903"/>
+    <nd ref="195904904"/>
+    <nd ref="195904905"/>
+    <nd ref="195904906"/>
+    <nd ref="195904907"/>
+    <nd ref="195904908"/>
+    <nd ref="195904909"/>
+    <nd ref="195904910"/>
+    <nd ref="195904911"/>
+    <nd ref="195904912"/>
+    <nd ref="195904913"/>
+    <nd ref="195904914"/>
+    <nd ref="195904915"/>
+    <nd ref="195904916"/>
+    <nd ref="195904917"/>
+    <nd ref="195904918"/>
+    <nd ref="195904919"/>
+    <nd ref="195904920"/>
+    <nd ref="195904921"/>
+    <nd ref="195904923"/>
+    <nd ref="195904924"/>
+    <nd ref="195904925"/>
+    <nd ref="195904926"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pores Knob Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Pores Knob"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

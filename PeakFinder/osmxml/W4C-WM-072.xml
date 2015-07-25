@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16619364">
+    <nd ref="171653825"/>
+    <nd ref="171653828"/>
+    <nd ref="171653831"/>
+    <nd ref="171653834"/>
+    <nd ref="171653838"/>
+    <nd ref="171653841"/>
+    <nd ref="171653844"/>
+    <nd ref="171653847"/>
+    <nd ref="171653849"/>
+    <nd ref="171653851"/>
+    <nd ref="171653853"/>
+    <nd ref="171653856"/>
+    <nd ref="171653858"/>
+    <nd ref="171653860"/>
+    <nd ref="171653863"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35986875:35984880"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+
+</osm>

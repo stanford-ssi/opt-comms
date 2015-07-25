@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16597501">
+    <nd ref="171384451"/>
+    <nd ref="171384453"/>
+    <nd ref="171384455"/>
+    <nd ref="171384457"/>
+    <nd ref="171384459"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152263734"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16598193">
+    <nd ref="171391603"/>
+    <nd ref="171391604"/>
+    <nd ref="171391605"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152292558:152276598"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+  </way>
+  <way id="16613999">
+    <nd ref="171585469"/>
+    <nd ref="171585471"/>
+    <nd ref="171585473"/>
+    <nd ref="171585475"/>
+    <nd ref="171585476"/>
+    <nd ref="171585477"/>
+    <nd ref="171585480"/>
+    <nd ref="171585483"/>
+    <nd ref="171585486"/>
+    <nd ref="171585488"/>
+    <nd ref="171585490"/>
+    <nd ref="171585492"/>
+    <nd ref="171585495"/>
+    <nd ref="171585498"/>
+    <nd ref="171585501"/>
+    <nd ref="171585504"/>
+    <nd ref="171585507"/>
+    <nd ref="171585509"/>
+    <nd ref="171585511"/>
+    <nd ref="171585513"/>
+    <nd ref="171585515"/>
+    <nd ref="171585517"/>
+    <nd ref="171585518"/>
+    <nd ref="171585520"/>
+    <nd ref="171585522"/>
+    <nd ref="171585525"/>
+    <nd ref="171585528"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Keith Memorial Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Keith Memorial"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_left_1" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+    <tag k="tiger:zip_right_1" v="28704"/>
+  </way>
+  <way id="16620260">
+    <nd ref="445192776"/>
+    <nd ref="171663559"/>
+    <nd ref="171663561"/>
+    <nd ref="171663564"/>
+    <nd ref="171663567"/>
+    <nd ref="171663570"/>
+    <nd ref="171663572"/>
+    <nd ref="171663574"/>
+    <nd ref="171663576"/>
+    <nd ref="171663578"/>
+    <nd ref="171663582"/>
+    <nd ref="171663584"/>
+    <nd ref="171663586"/>
+    <nd ref="171663589"/>
+    <nd ref="171663592"/>
+    <nd ref="171663594"/>
+    <nd ref="171663596"/>
+    <nd ref="171663599"/>
+    <nd ref="171663602"/>
+    <nd ref="171663605"/>
+    <nd ref="171663608"/>
+    <nd ref="171663613"/>
+    <nd ref="171663616"/>
+    <nd ref="171663618"/>
+    <nd ref="171663620"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buck Point Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Buck Point"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28742"/>
+    <tag k="tiger:zip_right" v="28742"/>
+  </way>
+  <way id="16620833">
+    <nd ref="171647120"/>
+    <nd ref="171670764"/>
+    <nd ref="171670767"/>
+    <nd ref="445192822"/>
+    <nd ref="445192821"/>
+    <nd ref="171670781"/>
+    <nd ref="171670785"/>
+    <nd ref="171670787"/>
+    <nd ref="445192744"/>
+    <nd ref="445192741"/>
+    <nd ref="445192742"/>
+    <nd ref="445192739"/>
+    <nd ref="445192740"/>
+    <nd ref="445192737"/>
+    <nd ref="171670804"/>
+    <nd ref="445192745"/>
+    <nd ref="171670810"/>
+    <nd ref="171670813"/>
+    <nd ref="445192776"/>
+    <nd ref="171670816"/>
+    <nd ref="445192778"/>
+    <nd ref="445192773"/>
+    <nd ref="171670823"/>
+    <nd ref="171670827"/>
+    <nd ref="171514693"/>
+    <nd ref="171670830"/>
+    <nd ref="171670833"/>
+    <nd ref="445192937"/>
+    <nd ref="445192938"/>
+    <nd ref="171670841"/>
+    <nd ref="445192940"/>
+    <nd ref="171670847"/>
+    <nd ref="445192923"/>
+    <nd ref="445192935"/>
+    <nd ref="445192936"/>
+    <nd ref="171670854"/>
+    <nd ref="445192905"/>
+    <nd ref="171670857"/>
+    <nd ref="445192859"/>
+    <nd ref="445192858"/>
+    <nd ref="445192857"/>
+    <nd ref="171670862"/>
+    <nd ref="445192869"/>
+    <nd ref="445192862"/>
+    <nd ref="445192861"/>
+    <nd ref="171670872"/>
+    <nd ref="445192749"/>
+    <nd ref="171670878"/>
+    <nd ref="445192788"/>
+    <nd ref="445192787"/>
+    <nd ref="445192786"/>
+    <nd ref="445192793"/>
+    <nd ref="171670888"/>
+    <nd ref="171670890"/>
+    <nd ref="171583606"/>
+    <nd ref="445192785"/>
+    <nd ref="445192784"/>
+    <nd ref="445192757"/>
+    <nd ref="445192758"/>
+    <nd ref="445192759"/>
+    <nd ref="171670904"/>
+    <nd ref="171670906"/>
+    <nd ref="445192754"/>
+    <nd ref="171585469"/>
+    <nd ref="171670911"/>
+    <nd ref="171670914"/>
+    <nd ref="171670919"/>
+    <nd ref="171670922"/>
+    <nd ref="445192925"/>
+    <nd ref="445192928"/>
+    <nd ref="171670927"/>
+    <nd ref="171670929"/>
+    <nd ref="445192929"/>
+    <nd ref="171670933"/>
+    <nd ref="445192931"/>
+    <nd ref="445192934"/>
+    <nd ref="171670942"/>
+    <nd ref="171670945"/>
+    <nd ref="171670946"/>
+    <nd ref="445192890"/>
+    <nd ref="171670948"/>
+    <nd ref="445192896"/>
+    <nd ref="445192897"/>
+    <nd ref="445192894"/>
+    <nd ref="445192895"/>
+    <nd ref="171670958"/>
+    <nd ref="445192901"/>
+    <nd ref="445192871"/>
+    <nd ref="445192870"/>
+    <nd ref="171670968"/>
+    <nd ref="445192868"/>
+    <nd ref="445192867"/>
+    <nd ref="445192866"/>
+    <nd ref="445192864"/>
+    <nd ref="171670979"/>
+    <nd ref="445192879"/>
+    <nd ref="445192878"/>
+    <nd ref="171670988"/>
+    <nd ref="445192812"/>
+    <nd ref="445192813"/>
+    <nd ref="445192814"/>
+    <nd ref="171671004"/>
+    <nd ref="171671007"/>
+    <nd ref="445192817"/>
+    <nd ref="171671014"/>
+    <nd ref="445192809"/>
+    <nd ref="445192810"/>
+    <nd ref="171671021"/>
+    <nd ref="445192800"/>
+    <nd ref="171671027"/>
+    <nd ref="445192802"/>
+    <nd ref="171671029"/>
+    <nd ref="171671031"/>
+    <nd ref="171671034"/>
+    <nd ref="171671038"/>
+    <nd ref="445192795"/>
+    <nd ref="445192794"/>
+    <nd ref="171671049"/>
+    <nd ref="171671050"/>
+    <nd ref="171671052"/>
+    <nd ref="445192769"/>
+    <nd ref="445192766"/>
+    <nd ref="171671058"/>
+    <nd ref="171671060"/>
+    <nd ref="445192765"/>
+    <nd ref="445192762"/>
+    <nd ref="171671065"/>
+    <nd ref="171671067"/>
+    <nd ref="171671069"/>
+    <nd ref="445192722"/>
+    <nd ref="171671074"/>
+    <nd ref="171671076"/>
+    <nd ref="445192727"/>
+    <nd ref="445192726"/>
+    <nd ref="171671085"/>
+    <nd ref="171671087"/>
+    <nd ref="445192731"/>
+    <nd ref="171671091"/>
+    <nd ref="445192911"/>
+    <nd ref="171671095"/>
+    <nd ref="445192913"/>
+    <nd ref="445192906"/>
+    <nd ref="171671102"/>
+    <nd ref="171671105"/>
+    <nd ref="169730813"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pennsylvania Road"/>
+    <tag k="name_1" v="County Road 1348"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Pennsylvania"/>
+    <tag k="tiger:name_base_1" v="County Road 1348"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16627634">
+    <nd ref="171726175"/>
+    <nd ref="171743726"/>
+    <nd ref="171495536"/>
+    <nd ref="171743729"/>
+    <nd ref="171743730"/>
+    <nd ref="171743732"/>
+    <nd ref="171743734"/>
+    <nd ref="171426434"/>
+    <nd ref="171743736"/>
+    <nd ref="171743738"/>
+    <nd ref="171743740"/>
+    <nd ref="171743742"/>
+    <nd ref="171384451"/>
+    <nd ref="171743744"/>
+    <nd ref="171743746"/>
+    <nd ref="171391605"/>
+    <nd ref="171743748"/>
+    <nd ref="171743750"/>
+    <nd ref="171670927"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="McDowell Road"/>
+    <tag k="name_1" v="County Road 1349"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="McDowell"/>
+    <tag k="tiger:name_base_1" v="County Road 1349"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+
+</osm>

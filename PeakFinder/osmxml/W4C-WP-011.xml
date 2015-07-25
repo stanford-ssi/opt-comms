@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16548772">
+    <nd ref="170760175"/>
+    <nd ref="170760176"/>
+    <nd ref="170760180"/>
+    <nd ref="444795193"/>
+    <nd ref="170760186"/>
+    <nd ref="170760189"/>
+    <nd ref="170760191"/>
+    <nd ref="170760194"/>
+    <nd ref="170760197"/>
+    <nd ref="170760199"/>
+    <nd ref="170760202"/>
+    <nd ref="170760205"/>
+    <nd ref="170760207"/>
+    <nd ref="170760210"/>
+    <nd ref="170760213"/>
+    <nd ref="170760216"/>
+    <nd ref="170760219"/>
+    <nd ref="170760222"/>
+    <nd ref="170760224"/>
+    <nd ref="170760225"/>
+    <nd ref="170760228"/>
+    <nd ref="170760231"/>
+    <nd ref="170760234"/>
+    <nd ref="170760236"/>
+    <nd ref="170760239"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Gaston, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="70464965:70464966:70409818:70373470:70464956"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0097f49e-2d44-4469-903c-4af61fdaa27c"/>
+  </way>
+  <way id="16549190">
+    <nd ref="170765863"/>
+    <nd ref="170765865"/>
+    <nd ref="170765868"/>
+    <nd ref="170765871"/>
+    <nd ref="170765875"/>
+    <nd ref="170765878"/>
+    <nd ref="170765881"/>
+    <nd ref="170765883"/>
+    <nd ref="170765886"/>
+    <nd ref="170765888"/>
+    <nd ref="170765892"/>
+    <nd ref="170765895"/>
+    <nd ref="170765899"/>
+    <nd ref="170765902"/>
+    <nd ref="170765906"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="track"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Gaston, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16569175">
+    <nd ref="2448254455"/>
+    <nd ref="171019954"/>
+    <nd ref="171019956"/>
+    <nd ref="171019958"/>
+    <nd ref="171019961"/>
+    <nd ref="171019962"/>
+    <nd ref="171019965"/>
+    <nd ref="171019967"/>
+    <nd ref="171019969"/>
+    <nd ref="171019971"/>
+    <nd ref="171019974"/>
+    <nd ref="171019977"/>
+    <nd ref="171019979"/>
+    <nd ref="171019981"/>
+    <nd ref="171019984"/>
+    <nd ref="171019987"/>
+    <nd ref="171019993"/>
+    <nd ref="171019996"/>
+    <nd ref="171019998"/>
+    <nd ref="171020002"/>
+    <nd ref="171020005"/>
+    <nd ref="171020008"/>
+    <nd ref="171020011"/>
+    <nd ref="171020013"/>
+    <nd ref="171020015"/>
+    <nd ref="171020017"/>
+    <nd ref="171020020"/>
+    <nd ref="171020026"/>
+    <nd ref="171020028"/>
+    <nd ref="171020030"/>
+    <nd ref="171020032"/>
+    <nd ref="171020035"/>
+    <nd ref="171020037"/>
+    <nd ref="171020039"/>
+    <nd ref="171020041"/>
+    <nd ref="171020044"/>
+    <nd ref="171020047"/>
+    <nd ref="171020049"/>
+    <nd ref="171020051"/>
+    <nd ref="171020055"/>
+    <nd ref="171020058"/>
+    <nd ref="171020078"/>
+    <nd ref="171020081"/>
+    <nd ref="171020084"/>
+    <nd ref="171020087"/>
+    <nd ref="171020088"/>
+    <nd ref="171020090"/>
+    <nd ref="171020093"/>
+    <nd ref="171020096"/>
+    <nd ref="171020098"/>
+    <nd ref="171020100"/>
+    <nd ref="171020103"/>
+    <nd ref="171020106"/>
+    <nd ref="171020109"/>
+    <nd ref="171020111"/>
+    <nd ref="171020113"/>
+    <nd ref="171020115"/>
+    <nd ref="171020118"/>
+    <nd ref="171020121"/>
+    <nd ref="171020123"/>
+    <nd ref="171020124"/>
+    <nd ref="171020127"/>
+    <nd ref="171020130"/>
+    <nd ref="171020133"/>
+    <nd ref="171020136"/>
+    <nd ref="171020139"/>
+    <nd ref="171020142"/>
+    <nd ref="171020145"/>
+    <nd ref="171020148"/>
+    <nd ref="171020151"/>
+    <nd ref="171020154"/>
+    <nd ref="171020156"/>
+    <nd ref="171020158"/>
+    <nd ref="171020159"/>
+    <nd ref="171020161"/>
+    <nd ref="171020163"/>
+    <nd ref="171020165"/>
+    <nd ref="171020168"/>
+    <nd ref="171020171"/>
+    <nd ref="171020173"/>
+    <nd ref="171020175"/>
+    <nd ref="171020177"/>
+    <nd ref="171020180"/>
+    <nd ref="171020183"/>
+    <nd ref="171020185"/>
+    <nd ref="171020187"/>
+    <nd ref="171020190"/>
+    <nd ref="171020192"/>
+    <nd ref="171020193"/>
+    <nd ref="171020194"/>
+    <nd ref="171020195"/>
+    <nd ref="171020196"/>
+    <nd ref="171020197"/>
+    <nd ref="171020198"/>
+    <nd ref="171020200"/>
+    <nd ref="170760239"/>
+    <nd ref="171020201"/>
+    <nd ref="171020202"/>
+    <nd ref="171020203"/>
+    <nd ref="171020204"/>
+    <nd ref="171020206"/>
+    <nd ref="171020208"/>
+    <nd ref="171020209"/>
+    <nd ref="171020210"/>
+    <nd ref="171020212"/>
+    <nd ref="171020214"/>
+    <nd ref="171020216"/>
+    <nd ref="171020218"/>
+    <nd ref="171020221"/>
+    <nd ref="171020225"/>
+    <nd ref="171020226"/>
+    <nd ref="171020229"/>
+    <nd ref="171020230"/>
+    <nd ref="171020232"/>
+    <nd ref="171020234"/>
+    <nd ref="171020237"/>
+    <nd ref="171020239"/>
+    <nd ref="171020241"/>
+    <nd ref="171020243"/>
+    <nd ref="171020246"/>
+    <nd ref="171020249"/>
+    <nd ref="171020251"/>
+    <nd ref="171020253"/>
+    <nd ref="171020255"/>
+    <nd ref="171020258"/>
+    <nd ref="171020261"/>
+    <nd ref="171020264"/>
+    <nd ref="171020266"/>
+    <nd ref="171020269"/>
+    <nd ref="171020272"/>
+    <nd ref="171020275"/>
+    <nd ref="171020278"/>
+    <nd ref="171020282"/>
+    <nd ref="171020284"/>
+    <nd ref="171020286"/>
+    <nd ref="171020289"/>
+    <nd ref="171020292"/>
+    <nd ref="171020295"/>
+    <nd ref="171020298"/>
+    <nd ref="171020301"/>
+    <nd ref="444796433"/>
+    <nd ref="171020309"/>
+    <nd ref="171020311"/>
+    <nd ref="171020313"/>
+    <nd ref="171020315"/>
+    <nd ref="171020321"/>
+    <nd ref="171020324"/>
+    <nd ref="171020327"/>
+    <nd ref="171020330"/>
+    <nd ref="171020333"/>
+    <nd ref="171020336"/>
+    <nd ref="171020339"/>
+    <nd ref="171020342"/>
+    <nd ref="171020344"/>
+    <nd ref="171020347"/>
+    <nd ref="171020350"/>
+    <nd ref="171020353"/>
+    <nd ref="171020356"/>
+    <nd ref="171020358"/>
+    <nd ref="171020361"/>
+    <nd ref="171020364"/>
+    <nd ref="171020366"/>
+    <nd ref="171020369"/>
+    <nd ref="171020372"/>
+    <nd ref="171020375"/>
+    <nd ref="171020378"/>
+    <nd ref="171020384"/>
+    <nd ref="171020387"/>
+    <nd ref="171020390"/>
+    <nd ref="171020393"/>
+    <nd ref="171020396"/>
+    <nd ref="171020398"/>
+    <nd ref="171020401"/>
+    <nd ref="171020404"/>
+    <nd ref="171020407"/>
+    <nd ref="171020410"/>
+    <nd ref="171020413"/>
+    <nd ref="171020416"/>
+    <nd ref="171020419"/>
+    <nd ref="171020422"/>
+    <nd ref="171020425"/>
+    <nd ref="171020428"/>
+    <nd ref="171020434"/>
+    <nd ref="171020437"/>
+    <nd ref="171020440"/>
+    <nd ref="171020443"/>
+    <nd ref="171020446"/>
+    <nd ref="171020449"/>
+    <nd ref="171020452"/>
+    <nd ref="171020455"/>
+    <nd ref="171020458"/>
+    <nd ref="171020461"/>
+    <nd ref="171020466"/>
+    <nd ref="171020469"/>
+    <nd ref="171020472"/>
+    <nd ref="171020475"/>
+    <nd ref="171020477"/>
+    <nd ref="171020479"/>
+    <nd ref="171020481"/>
+    <nd ref="171020484"/>
+    <nd ref="171020486"/>
+    <nd ref="171020487"/>
+    <nd ref="171020488"/>
+    <nd ref="171020490"/>
+    <nd ref="170765906"/>
+    <nd ref="171020491"/>
+    <nd ref="171020494"/>
+    <nd ref="171020497"/>
+    <nd ref="171020499"/>
+    <nd ref="171020502"/>
+    <nd ref="171020505"/>
+    <nd ref="171020508"/>
+    <nd ref="171020510"/>
+    <nd ref="171020515"/>
+    <nd ref="171020517"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="track"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Crowders Mountain Access Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Gaston, NC"/>
+    <tag k="tiger:name_base" v="Crowders Mountain Access"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="236862277">
+    <nd ref="2448254448"/>
+    <nd ref="2448254449"/>
+    <nd ref="2448254450"/>
+    <nd ref="2448254451"/>
+    <nd ref="2448254452"/>
+    <nd ref="2448254453"/>
+    <nd ref="2448254454"/>
+    <nd ref="170765863"/>
+    <tag k="highway" v="steps"/>
+  </way>
+  <way id="236862278">
+    <nd ref="2448254448"/>
+    <nd ref="2448254459"/>
+    <nd ref="2448254458"/>
+    <nd ref="2448254457"/>
+    <nd ref="2448254456"/>
+    <nd ref="2448254455"/>
+    <tag k="highway" v="footway"/>
+  </way>
+
+</osm>

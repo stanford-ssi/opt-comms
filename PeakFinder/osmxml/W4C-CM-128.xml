@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16421318">
+    <nd ref="169503479"/>
+    <nd ref="169503481"/>
+    <nd ref="169503483"/>
+    <nd ref="169503485"/>
+    <nd ref="169503487"/>
+    <nd ref="169503489"/>
+    <nd ref="169503491"/>
+    <nd ref="169503493"/>
+    <nd ref="169503495"/>
+    <nd ref="169503497"/>
+    <nd ref="169503499"/>
+    <nd ref="169503501"/>
+    <nd ref="169503502"/>
+    <nd ref="169503503"/>
+    <nd ref="169503506"/>
+    <nd ref="169503508"/>
+    <nd ref="169503510"/>
+    <nd ref="169503512"/>
+    <nd ref="169503514"/>
+    <nd ref="169503516"/>
+    <nd ref="169503518"/>
+    <nd ref="169503520"/>
+    <nd ref="169503522"/>
+    <nd ref="169503525"/>
+    <nd ref="169503527"/>
+    <nd ref="169503529"/>
+    <nd ref="169503531"/>
+    <nd ref="169503535"/>
+    <nd ref="169503537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36873490:36873491:36914300:36910614:36912480"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16425074">
+    <nd ref="169544277"/>
+    <nd ref="169544280"/>
+    <nd ref="169544283"/>
+    <nd ref="169503493"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36860824"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16451573">
+    <nd ref="169503537"/>
+    <nd ref="169781236"/>
+    <nd ref="169781237"/>
+    <nd ref="169781238"/>
+    <nd ref="169781240"/>
+    <nd ref="169781242"/>
+    <nd ref="169781245"/>
+    <nd ref="169781247"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Echo Mountain View Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Echo Mountain View"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28730"/>
+    <tag k="tiger:zip_right" v="28730"/>
+  </way>
+  <way id="16451579">
+    <nd ref="169650810"/>
+    <nd ref="169781257"/>
+    <nd ref="169781259"/>
+    <nd ref="169781262"/>
+    <nd ref="169781266"/>
+    <nd ref="169781269"/>
+    <nd ref="169781272"/>
+    <nd ref="169781276"/>
+    <nd ref="169781278"/>
+    <nd ref="169781280"/>
+    <nd ref="169781282"/>
+    <nd ref="169781284"/>
+    <nd ref="169781286"/>
+    <nd ref="169781288"/>
+    <nd ref="169781290"/>
+    <nd ref="169781292"/>
+    <nd ref="169781295"/>
+    <nd ref="169781297"/>
+    <nd ref="169781300"/>
+    <nd ref="169781302"/>
+    <nd ref="169781303"/>
+    <nd ref="169781305"/>
+    <nd ref="169781307"/>
+    <nd ref="169781309"/>
+    <nd ref="169503537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Echo Mountain View Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Echo Mountain View"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28730"/>
+    <tag k="tiger:zip_right" v="28730"/>
+  </way>
+
+</osm>

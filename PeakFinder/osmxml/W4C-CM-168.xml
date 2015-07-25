@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16651023">
+    <nd ref="172000112"/>
+    <nd ref="172000163"/>
+    <nd ref="172000166"/>
+    <nd ref="172000169"/>
+    <nd ref="172000172"/>
+    <nd ref="172000175"/>
+    <nd ref="172000177"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40941685"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="16653430">
+    <nd ref="172022383"/>
+    <nd ref="1786505608"/>
+    <nd ref="172022384"/>
+    <nd ref="172022387"/>
+    <nd ref="172022390"/>
+    <nd ref="1786505594"/>
+    <nd ref="1786505591"/>
+    <nd ref="1786505590"/>
+    <nd ref="1786505592"/>
+    <nd ref="1786505593"/>
+    <nd ref="1786505595"/>
+    <nd ref="1786505596"/>
+    <nd ref="1786505597"/>
+    <nd ref="1786505599"/>
+    <nd ref="1786505600"/>
+    <nd ref="1786505601"/>
+    <nd ref="172022393"/>
+    <nd ref="1786505603"/>
+    <nd ref="1786505606"/>
+    <nd ref="1786505607"/>
+    <nd ref="172022402"/>
+    <nd ref="1786505612"/>
+    <nd ref="1786505615"/>
+    <nd ref="1786505616"/>
+    <nd ref="1786505614"/>
+    <nd ref="1786505611"/>
+    <nd ref="1786505609"/>
+    <nd ref="1786505610"/>
+    <nd ref="1786505613"/>
+    <nd ref="1786505617"/>
+    <nd ref="1786505618"/>
+    <nd ref="1786505619"/>
+    <nd ref="1786505620"/>
+    <nd ref="1786505628"/>
+    <nd ref="172022403"/>
+    <nd ref="1786505630"/>
+    <nd ref="1786505634"/>
+    <nd ref="1786505637"/>
+    <nd ref="1786505639"/>
+    <nd ref="1786505640"/>
+    <nd ref="172022406"/>
+    <nd ref="1786505641"/>
+    <nd ref="1786505650"/>
+    <nd ref="1786505648"/>
+    <nd ref="1786505642"/>
+    <nd ref="1786505646"/>
+    <nd ref="1786505664"/>
+    <nd ref="1786505668"/>
+    <nd ref="1786505670"/>
+    <nd ref="1786505672"/>
+    <nd ref="1786505675"/>
+    <nd ref="1786505679"/>
+    <nd ref="1786505685"/>
+    <nd ref="1786505688"/>
+    <nd ref="1786505691"/>
+    <nd ref="1786505700"/>
+    <nd ref="1786505714"/>
+    <nd ref="1786505717"/>
+    <nd ref="1786505719"/>
+    <nd ref="1786505715"/>
+    <nd ref="1786505713"/>
+    <nd ref="1786505697"/>
+    <nd ref="1786505694"/>
+    <nd ref="1786505716"/>
+    <nd ref="1786505723"/>
+    <nd ref="1786505743"/>
+    <nd ref="1786505758"/>
+    <nd ref="1786505759"/>
+    <nd ref="1786505760"/>
+    <nd ref="1786505762"/>
+    <nd ref="1786505764"/>
+    <nd ref="1786505765"/>
+    <nd ref="1786505767"/>
+    <nd ref="1786505768"/>
+    <nd ref="1786505770"/>
+    <nd ref="1786505772"/>
+    <nd ref="1786505797"/>
+    <nd ref="1786505804"/>
+    <nd ref="1786505808"/>
+    <nd ref="1786505810"/>
+    <nd ref="1786505812"/>
+    <nd ref="1786505813"/>
+    <nd ref="1786505815"/>
+    <nd ref="1786505816"/>
+    <nd ref="1786505814"/>
+    <nd ref="1786505811"/>
+    <nd ref="1786505809"/>
+    <nd ref="1786505807"/>
+    <nd ref="1786505805"/>
+    <nd ref="1786505799"/>
+    <nd ref="1786505796"/>
+    <nd ref="1786505792"/>
+    <nd ref="1786505788"/>
+    <nd ref="1786505785"/>
+    <nd ref="1786505787"/>
+    <nd ref="1786505790"/>
+    <nd ref="1786505794"/>
+    <nd ref="1786505798"/>
+    <nd ref="172022410"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40941677"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="167245139">
+    <nd ref="172042352"/>
+    <nd ref="172040649"/>
+    <nd ref="172040651"/>
+    <nd ref="172040654"/>
+    <nd ref="172000177"/>
+    <nd ref="172040655"/>
+    <nd ref="172040657"/>
+    <nd ref="172040659"/>
+    <nd ref="172040661"/>
+    <nd ref="172040663"/>
+    <nd ref="172040665"/>
+    <nd ref="172040669"/>
+    <nd ref="172040672"/>
+    <nd ref="172040675"/>
+    <nd ref="172040678"/>
+    <nd ref="172040682"/>
+    <nd ref="172040685"/>
+    <nd ref="172040688"/>
+    <nd ref="172040690"/>
+    <nd ref="172040694"/>
+    <nd ref="172040696"/>
+    <nd ref="172040700"/>
+    <nd ref="172040703"/>
+    <nd ref="172040706"/>
+    <nd ref="172040709"/>
+    <nd ref="172040712"/>
+    <nd ref="172040715"/>
+    <nd ref="172040718"/>
+    <nd ref="172040720"/>
+    <nd ref="172040722"/>
+    <nd ref="172040724"/>
+    <nd ref="172040726"/>
+    <nd ref="172040728"/>
+    <nd ref="172040730"/>
+    <nd ref="172040732"/>
+    <nd ref="172040734"/>
+    <nd ref="172040736"/>
+    <nd ref="172040739"/>
+    <nd ref="172040742"/>
+    <nd ref="172040745"/>
+    <nd ref="172040748"/>
+    <nd ref="172040750"/>
+    <nd ref="172040752"/>
+    <nd ref="172040756"/>
+    <nd ref="172040759"/>
+    <nd ref="172040761"/>
+    <nd ref="172040763"/>
+    <nd ref="172040766"/>
+    <nd ref="172040769"/>
+    <nd ref="172040772"/>
+    <nd ref="172040775"/>
+    <nd ref="172040778"/>
+    <nd ref="172040781"/>
+    <nd ref="172040784"/>
+    <nd ref="172040786"/>
+    <nd ref="172040788"/>
+    <nd ref="172040790"/>
+    <nd ref="172040792"/>
+    <nd ref="172040794"/>
+    <nd ref="172040795"/>
+    <nd ref="172040798"/>
+    <nd ref="172040799"/>
+    <nd ref="172040802"/>
+    <nd ref="172040804"/>
+    <nd ref="172040807"/>
+    <nd ref="172040809"/>
+    <nd ref="172040814"/>
+    <nd ref="172040817"/>
+    <nd ref="172040820"/>
+    <nd ref="172040822"/>
+    <nd ref="172040824"/>
+    <nd ref="172040826"/>
+    <nd ref="172040828"/>
+    <nd ref="172040834"/>
+    <nd ref="172040837"/>
+    <nd ref="172040840"/>
+    <nd ref="172040843"/>
+    <nd ref="172040846"/>
+    <nd ref="172040848"/>
+    <nd ref="172040850"/>
+    <nd ref="172040852"/>
+    <nd ref="172038518"/>
+    <nd ref="172040853"/>
+    <nd ref="172040855"/>
+    <nd ref="172040857"/>
+    <nd ref="172040859"/>
+    <nd ref="172027476"/>
+    <nd ref="172040861"/>
+    <nd ref="172040863"/>
+    <nd ref="172040865"/>
+    <nd ref="172040867"/>
+    <nd ref="172040871"/>
+    <nd ref="172040873"/>
+    <nd ref="172040876"/>
+    <nd ref="172040879"/>
+    <nd ref="172040880"/>
+    <nd ref="172040882"/>
+    <nd ref="172040884"/>
+    <nd ref="172040886"/>
+    <nd ref="172040889"/>
+    <nd ref="172040892"/>
+    <nd ref="172040894"/>
+    <nd ref="172040897"/>
+    <nd ref="172040899"/>
+    <nd ref="172040902"/>
+    <nd ref="172040904"/>
+    <nd ref="172040907"/>
+    <nd ref="172040910"/>
+    <nd ref="172040912"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stackhouse Road"/>
+    <tag k="name_1" v="State Road 1139"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:name_base" v="Stackhouse"/>
+    <tag k="tiger:name_base_1" v="State Road 1139"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16444254">
+    <nd ref="169714233"/>
+    <nd ref="169714235"/>
+    <nd ref="169714236"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45864621"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16449157">
+    <nd ref="169758995"/>
+    <nd ref="169758998"/>
+    <nd ref="169758999"/>
+    <nd ref="169759000"/>
+    <nd ref="169720243"/>
+    <nd ref="169759001"/>
+    <nd ref="169759002"/>
+    <nd ref="169759004"/>
+    <nd ref="169759007"/>
+    <nd ref="169759010"/>
+    <nd ref="169759012"/>
+    <nd ref="169759014"/>
+    <nd ref="169714233"/>
+    <nd ref="169759016"/>
+    <nd ref="169759019"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Indian Hills Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Indian Hills"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16454833">
+    <nd ref="169792281"/>
+    <nd ref="169811819"/>
+    <nd ref="169811821"/>
+    <nd ref="169811822"/>
+    <nd ref="169811823"/>
+    <nd ref="169811825"/>
+    <nd ref="169811826"/>
+    <nd ref="169811828"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hidden Brook Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Hidden Brook"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28645"/>
+    <tag k="tiger:zip_right" v="28645"/>
+  </way>
+
+</osm>

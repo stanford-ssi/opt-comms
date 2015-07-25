@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16620802">
+    <nd ref="171670628"/>
+    <nd ref="171670630"/>
+    <nd ref="171670632"/>
+    <nd ref="171670634"/>
+    <nd ref="171670636"/>
+    <nd ref="171670638"/>
+    <nd ref="171670640"/>
+    <nd ref="171670643"/>
+    <nd ref="171670646"/>
+    <nd ref="171670649"/>
+    <nd ref="171670652"/>
+    <nd ref="171670655"/>
+    <nd ref="171670658"/>
+    <nd ref="171670661"/>
+    <nd ref="171670664"/>
+    <nd ref="171670667"/>
+    <nd ref="171670670"/>
+    <nd ref="171670675"/>
+    <nd ref="171670680"/>
+    <nd ref="171670684"/>
+    <nd ref="171670686"/>
+    <nd ref="171670688"/>
+    <nd ref="171670690"/>
+    <nd ref="171670692"/>
+    <nd ref="171670694"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35978458:35977855:35977856"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16627505">
+    <nd ref="171741770"/>
+    <nd ref="171658362"/>
+    <nd ref="171741772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gobbler Knob"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Gobbler Knob"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36003728:36003729"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16627779">
+    <nd ref="171745416"/>
+    <nd ref="171745419"/>
+    <nd ref="171745421"/>
+    <nd ref="171642609"/>
+    <nd ref="171745424"/>
+    <nd ref="171745427"/>
+    <nd ref="171745430"/>
+    <nd ref="171745433"/>
+    <nd ref="171745436"/>
+    <nd ref="171745438"/>
+    <nd ref="171745439"/>
+    <nd ref="171670628"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sundance Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Sundance"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28723"/>
+  </way>
+  <way id="16628715">
+    <nd ref="171756908"/>
+    <nd ref="171756909"/>
+    <nd ref="171756910"/>
+    <nd ref="171756911"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rusty Ridge"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Rusty Ridge"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000567:36000568"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16630924">
+    <nd ref="171756908"/>
+    <nd ref="171784479"/>
+    <nd ref="171784482"/>
+    <nd ref="171784485"/>
+    <nd ref="171784486"/>
+    <nd ref="171784487"/>
+    <nd ref="171741770"/>
+    <nd ref="171745416"/>
+    <nd ref="171784488"/>
+    <nd ref="171784489"/>
+    <nd ref="171784491"/>
+    <nd ref="171784493"/>
+    <nd ref="171784497"/>
+    <nd ref="171784501"/>
+    <nd ref="171784503"/>
+    <nd ref="171784506"/>
+    <nd ref="171701841"/>
+    <nd ref="171784508"/>
+    <nd ref="171705295"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Walnut Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Walnut Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16634147">
+    <nd ref="171756909"/>
+    <nd ref="171818739"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cats Paw"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Cats Paw"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000569"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+
+</osm>

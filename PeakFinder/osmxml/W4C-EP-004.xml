@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:53:02Z"/>
+
+  <way id="16767145">
+    <nd ref="173354789"/>
+    <nd ref="173354791"/>
+    <nd ref="173354793"/>
+    <nd ref="173354795"/>
+    <nd ref="173354797"/>
+    <nd ref="173354799"/>
+    <nd ref="173354801"/>
+    <nd ref="173354803"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Stokes, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="56339166"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-96a4f984-f9c0-462c-b8e5-65ffbab24d85"/>
+  </way>
+
+</osm>

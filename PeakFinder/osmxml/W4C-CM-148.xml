@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16602261">
+    <nd ref="171432592"/>
+    <nd ref="171432593"/>
+    <nd ref="171432596"/>
+    <nd ref="171432599"/>
+    <nd ref="171432600"/>
+    <nd ref="171432601"/>
+    <nd ref="171432602"/>
+    <nd ref="171432604"/>
+    <nd ref="171432606"/>
+    <nd ref="171432609"/>
+    <nd ref="171432614"/>
+    <nd ref="171432622"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Birchwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Birchwood"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16602263">
+    <nd ref="171432642"/>
+    <nd ref="171432645"/>
+    <nd ref="171432592"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Birchwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Birchwood"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16602531">
+    <nd ref="171436004"/>
+    <nd ref="171436006"/>
+    <nd ref="171436008"/>
+    <nd ref="171436010"/>
+    <nd ref="171436013"/>
+    <nd ref="171436015"/>
+    <nd ref="171436016"/>
+    <nd ref="171436017"/>
+    <nd ref="171436018"/>
+    <nd ref="171436020"/>
+    <nd ref="171436022"/>
+    <nd ref="171436024"/>
+    <nd ref="171436026"/>
+    <nd ref="171436029"/>
+    <nd ref="171436030"/>
+    <nd ref="171436031"/>
+    <nd ref="171436036"/>
+    <nd ref="171436039"/>
+    <nd ref="171436042"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fleetwood Plaza"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Fleetwood"/>
+    <tag k="tiger:name_type" v="Plz"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_left_1" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+    <tag k="tiger:zip_right_1" v="28739"/>
+  </way>
+  <way id="16606614">
+    <nd ref="171432592"/>
+    <nd ref="171488157"/>
+    <nd ref="171488159"/>
+    <nd ref="171488161"/>
+    <nd ref="171488163"/>
+    <nd ref="171488165"/>
+    <nd ref="171488168"/>
+    <nd ref="171488171"/>
+    <nd ref="171488174"/>
+    <nd ref="171488177"/>
+    <nd ref="171488180"/>
+    <nd ref="171488183"/>
+    <nd ref="171488186"/>
+    <nd ref="171488189"/>
+    <nd ref="171488192"/>
+    <nd ref="171488195"/>
+    <nd ref="171488198"/>
+    <nd ref="171488201"/>
+    <nd ref="171488203"/>
+    <nd ref="171488205"/>
+    <nd ref="171488206"/>
+    <nd ref="171488207"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pinewood Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Pinewood"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16606765">
+    <nd ref="171489864"/>
+    <nd ref="171489866"/>
+    <nd ref="171489868"/>
+    <nd ref="171489870"/>
+    <nd ref="171489872"/>
+    <nd ref="171489874"/>
+    <nd ref="171489877"/>
+    <nd ref="171489880"/>
+    <nd ref="171489883"/>
+    <nd ref="171489885"/>
+    <nd ref="171489887"/>
+    <nd ref="171489890"/>
+    <nd ref="171489892"/>
+    <nd ref="171489895"/>
+    <nd ref="171489898"/>
+    <nd ref="171489901"/>
+    <nd ref="171489903"/>
+    <nd ref="171489905"/>
+    <nd ref="171489907"/>
+    <nd ref="171489909"/>
+    <nd ref="171489911"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Deerwood Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Deerwood"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16612217">
+    <nd ref="171558154"/>
+    <nd ref="171558159"/>
+    <nd ref="171558163"/>
+    <nd ref="171558165"/>
+    <nd ref="171558168"/>
+    <nd ref="171558171"/>
+    <nd ref="171558174"/>
+    <nd ref="171558177"/>
+    <nd ref="171558180"/>
+    <nd ref="171558183"/>
+    <nd ref="171558186"/>
+    <nd ref="171558189"/>
+    <nd ref="171558192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Winterview Trial"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Winterview Trial"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152307325"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16612624">
+    <nd ref="171563780"/>
+    <nd ref="171563782"/>
+    <nd ref="171563784"/>
+    <nd ref="171563787"/>
+    <nd ref="171563790"/>
+    <nd ref="171563793"/>
+    <nd ref="171563796"/>
+    <nd ref="171563799"/>
+    <nd ref="171563801"/>
+    <nd ref="171563804"/>
+    <nd ref="171563807"/>
+    <nd ref="171563809"/>
+    <nd ref="171563812"/>
+    <nd ref="171563815"/>
+    <nd ref="171563817"/>
+    <nd ref="171563819"/>
+    <nd ref="171563821"/>
+    <nd ref="171563826"/>
+    <nd ref="171563829"/>
+    <nd ref="171563832"/>
+    <nd ref="171563835"/>
+    <nd ref="171563838"/>
+    <nd ref="171563842"/>
+    <nd ref="171563846"/>
+    <nd ref="171563849"/>
+    <nd ref="171563852"/>
+    <nd ref="171488207"/>
+    <nd ref="171563855"/>
+    <nd ref="171563857"/>
+    <nd ref="171563860"/>
+    <nd ref="171563863"/>
+    <nd ref="171563865"/>
+    <nd ref="171563867"/>
+    <nd ref="171563870"/>
+    <nd ref="171436004"/>
+    <nd ref="171432642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Park Highway"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Laurel Park"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16612671">
+    <nd ref="171432642"/>
+    <nd ref="171563886"/>
+    <nd ref="171563889"/>
+    <nd ref="171563891"/>
+    <nd ref="171563893"/>
+    <nd ref="171563896"/>
+    <nd ref="171563899"/>
+    <nd ref="171563902"/>
+    <nd ref="171563904"/>
+    <nd ref="171563906"/>
+    <nd ref="171563908"/>
+    <nd ref="171563910"/>
+    <nd ref="171563912"/>
+    <nd ref="171563914"/>
+    <nd ref="171563915"/>
+    <nd ref="171563917"/>
+    <nd ref="171563919"/>
+    <nd ref="171563921"/>
+    <nd ref="171563922"/>
+    <nd ref="171563923"/>
+    <nd ref="171563924"/>
+    <nd ref="171563926"/>
+    <nd ref="171563928"/>
+    <nd ref="171563929"/>
+    <nd ref="171563931"/>
+    <nd ref="171489864"/>
+    <nd ref="171563934"/>
+    <nd ref="171563937"/>
+    <nd ref="171563939"/>
+    <nd ref="171563940"/>
+    <nd ref="171563941"/>
+    <nd ref="171563943"/>
+    <nd ref="171563946"/>
+    <nd ref="171563949"/>
+    <nd ref="171563952"/>
+    <nd ref="171563955"/>
+    <nd ref="171563957"/>
+    <nd ref="171563959"/>
+    <nd ref="171563961"/>
+    <nd ref="171563965"/>
+    <nd ref="171490049"/>
+    <nd ref="171563968"/>
+    <nd ref="171563971"/>
+    <nd ref="171563973"/>
+    <nd ref="171563975"/>
+    <nd ref="171563979"/>
+    <nd ref="171563983"/>
+    <nd ref="171563986"/>
+    <nd ref="171563990"/>
+    <nd ref="171563993"/>
+    <nd ref="171563996"/>
+    <nd ref="171564001"/>
+    <nd ref="171424418"/>
+    <nd ref="171564003"/>
+    <nd ref="171564005"/>
+    <nd ref="171564008"/>
+    <nd ref="171564011"/>
+    <nd ref="171564014"/>
+    <nd ref="171564016"/>
+    <nd ref="171564018"/>
+    <nd ref="171564020"/>
+    <nd ref="171564022"/>
+    <nd ref="171564024"/>
+    <nd ref="171564027"/>
+    <nd ref="171564028"/>
+    <nd ref="171564031"/>
+    <nd ref="171564035"/>
+    <nd ref="171564038"/>
+    <nd ref="171564040"/>
+    <nd ref="171564042"/>
+    <nd ref="171564044"/>
+    <nd ref="171564047"/>
+    <nd ref="171564050"/>
+    <nd ref="171564053"/>
+    <nd ref="171564056"/>
+    <nd ref="171564058"/>
+    <nd ref="171564061"/>
+    <nd ref="171564065"/>
+    <nd ref="171564068"/>
+    <nd ref="171564070"/>
+    <nd ref="171564072"/>
+    <nd ref="171564073"/>
+    <nd ref="171564074"/>
+    <nd ref="171564076"/>
+    <nd ref="171564078"/>
+    <nd ref="171564081"/>
+    <nd ref="171564082"/>
+    <nd ref="171564084"/>
+    <nd ref="171564086"/>
+    <nd ref="171564088"/>
+    <nd ref="171564092"/>
+    <nd ref="171564095"/>
+    <nd ref="171564098"/>
+    <nd ref="171564100"/>
+    <nd ref="171564102"/>
+    <nd ref="171564104"/>
+    <nd ref="171564106"/>
+    <nd ref="171564108"/>
+    <nd ref="171564110"/>
+    <nd ref="171564112"/>
+    <nd ref="171564115"/>
+    <nd ref="171564118"/>
+    <nd ref="171564121"/>
+    <nd ref="171564123"/>
+    <nd ref="171564125"/>
+    <nd ref="171564127"/>
+    <nd ref="171564129"/>
+    <nd ref="171564131"/>
+    <nd ref="171564133"/>
+    <nd ref="171564135"/>
+    <nd ref="171564138"/>
+    <nd ref="171564141"/>
+    <nd ref="171564146"/>
+    <nd ref="171564151"/>
+    <nd ref="171564158"/>
+    <nd ref="171564165"/>
+    <nd ref="171564172"/>
+    <nd ref="171564175"/>
+    <nd ref="171564178"/>
+    <nd ref="171564180"/>
+    <nd ref="171564182"/>
+    <nd ref="171564184"/>
+    <nd ref="171564186"/>
+    <nd ref="171564189"/>
+    <nd ref="171564192"/>
+    <nd ref="171564195"/>
+    <nd ref="171564197"/>
+    <nd ref="171564199"/>
+    <nd ref="171564202"/>
+    <nd ref="171564204"/>
+    <nd ref="171564206"/>
+    <nd ref="171564208"/>
+    <nd ref="171564211"/>
+    <nd ref="171564213"/>
+    <nd ref="171564215"/>
+    <nd ref="171564217"/>
+    <nd ref="171564220"/>
+    <nd ref="171564222"/>
+    <nd ref="171564224"/>
+    <nd ref="171564226"/>
+    <nd ref="171564229"/>
+    <nd ref="171564232"/>
+    <nd ref="171564234"/>
+    <nd ref="171564236"/>
+    <nd ref="171564238"/>
+    <nd ref="171564239"/>
+    <nd ref="171564242"/>
+    <nd ref="171564247"/>
+    <nd ref="171564250"/>
+    <nd ref="171564253"/>
+    <nd ref="171564256"/>
+    <nd ref="171564259"/>
+    <nd ref="171564264"/>
+    <nd ref="171564267"/>
+    <nd ref="171564270"/>
+    <nd ref="171564273"/>
+    <nd ref="171564277"/>
+    <nd ref="171564279"/>
+    <nd ref="171564282"/>
+    <nd ref="171564285"/>
+    <nd ref="171564288"/>
+    <nd ref="171564291"/>
+    <nd ref="171564294"/>
+    <nd ref="171564297"/>
+    <nd ref="171564300"/>
+    <nd ref="171564303"/>
+    <nd ref="171564306"/>
+    <nd ref="171516086"/>
+    <nd ref="171564309"/>
+    <nd ref="171564311"/>
+    <nd ref="171564313"/>
+    <nd ref="171564315"/>
+    <nd ref="171564317"/>
+    <nd ref="171564318"/>
+    <nd ref="171564319"/>
+    <nd ref="171564321"/>
+    <nd ref="171564323"/>
+    <nd ref="171564324"/>
+    <nd ref="171564325"/>
+    <nd ref="171564327"/>
+    <nd ref="171564329"/>
+    <nd ref="171564330"/>
+    <nd ref="171564331"/>
+    <nd ref="171564333"/>
+    <nd ref="171564340"/>
+    <nd ref="171564342"/>
+    <nd ref="171564345"/>
+    <nd ref="171564348"/>
+    <nd ref="171564350"/>
+    <nd ref="171564353"/>
+    <nd ref="171564356"/>
+    <nd ref="171564359"/>
+    <nd ref="171494790"/>
+    <nd ref="171564362"/>
+    <nd ref="171564364"/>
+    <nd ref="171558315"/>
+    <nd ref="171564365"/>
+    <nd ref="171564366"/>
+    <nd ref="171564367"/>
+    <nd ref="171564369"/>
+    <nd ref="171564371"/>
+    <nd ref="171564376"/>
+    <nd ref="171564378"/>
+    <nd ref="171564380"/>
+    <nd ref="171564381"/>
+    <nd ref="171564382"/>
+    <nd ref="171564384"/>
+    <nd ref="171564386"/>
+    <nd ref="1685681658"/>
+    <nd ref="171564392"/>
+    <nd ref="171564395"/>
+    <nd ref="171564398"/>
+    <nd ref="171564401"/>
+    <nd ref="171564405"/>
+    <nd ref="171564406"/>
+    <nd ref="171564407"/>
+    <nd ref="171564408"/>
+    <nd ref="171564409"/>
+    <nd ref="171564411"/>
+    <nd ref="171400390"/>
+    <nd ref="171564413"/>
+    <nd ref="171564415"/>
+    <nd ref="171564418"/>
+    <nd ref="171564421"/>
+    <nd ref="171564423"/>
+    <nd ref="171564425"/>
+    <nd ref="171564426"/>
+    <nd ref="171564428"/>
+    <nd ref="171564430"/>
+    <nd ref="171564433"/>
+    <nd ref="171564436"/>
+    <nd ref="171564438"/>
+    <nd ref="171564440"/>
+    <nd ref="171564443"/>
+    <nd ref="171564445"/>
+    <nd ref="171564447"/>
+    <nd ref="171564449"/>
+    <nd ref="171564452"/>
+    <nd ref="171564455"/>
+    <nd ref="171564458"/>
+    <nd ref="171564461"/>
+    <nd ref="171564465"/>
+    <nd ref="171564466"/>
+    <nd ref="171564467"/>
+    <nd ref="171564468"/>
+    <nd ref="171564469"/>
+    <nd ref="171564472"/>
+    <nd ref="171564475"/>
+    <nd ref="171564478"/>
+    <nd ref="171564482"/>
+    <nd ref="171564489"/>
+    <nd ref="171564492"/>
+    <nd ref="171564494"/>
+    <nd ref="171564496"/>
+    <nd ref="171564499"/>
+    <nd ref="171564502"/>
+    <nd ref="171564505"/>
+    <nd ref="171564509"/>
+    <nd ref="171564512"/>
+    <nd ref="171564514"/>
+    <nd ref="171564515"/>
+    <nd ref="171564516"/>
+    <nd ref="171564517"/>
+    <nd ref="171564518"/>
+    <nd ref="171564521"/>
+    <nd ref="171564523"/>
+    <nd ref="171564526"/>
+    <nd ref="171564528"/>
+    <nd ref="171564530"/>
+    <nd ref="171564534"/>
+    <nd ref="171564536"/>
+    <nd ref="171564539"/>
+    <nd ref="171564542"/>
+    <nd ref="171564545"/>
+    <nd ref="171564548"/>
+    <nd ref="171564550"/>
+    <nd ref="171564552"/>
+    <nd ref="171564553"/>
+    <nd ref="171564554"/>
+    <nd ref="171564556"/>
+    <nd ref="171564557"/>
+    <nd ref="171564560"/>
+    <nd ref="171564563"/>
+    <nd ref="171564565"/>
+    <nd ref="171564567"/>
+    <nd ref="171564570"/>
+    <nd ref="171448917"/>
+    <nd ref="171564571"/>
+    <nd ref="171564574"/>
+    <nd ref="171564576"/>
+    <nd ref="171564577"/>
+    <nd ref="171564579"/>
+    <nd ref="171564581"/>
+    <nd ref="171564584"/>
+    <nd ref="171564587"/>
+    <nd ref="171564590"/>
+    <nd ref="171564593"/>
+    <nd ref="171564596"/>
+    <nd ref="171564599"/>
+    <nd ref="171564602"/>
+    <nd ref="171564606"/>
+    <nd ref="171564608"/>
+    <nd ref="171564611"/>
+    <nd ref="171564614"/>
+    <nd ref="171564618"/>
+    <nd ref="171564620"/>
+    <nd ref="171475197"/>
+    <nd ref="171564623"/>
+    <nd ref="171564625"/>
+    <nd ref="171564626"/>
+    <nd ref="171564629"/>
+    <nd ref="171564632"/>
+    <nd ref="171564635"/>
+    <nd ref="171564638"/>
+    <nd ref="171564641"/>
+    <nd ref="171564644"/>
+    <nd ref="171564647"/>
+    <nd ref="171479913"/>
+    <nd ref="171564650"/>
+    <nd ref="171564653"/>
+    <nd ref="171564656"/>
+    <nd ref="171564661"/>
+    <nd ref="171564663"/>
+    <nd ref="171564665"/>
+    <nd ref="171488513"/>
+    <nd ref="171564667"/>
+    <nd ref="171564669"/>
+    <nd ref="171564671"/>
+    <nd ref="171509921"/>
+    <nd ref="171564673"/>
+    <nd ref="171564675"/>
+    <nd ref="171564678"/>
+    <nd ref="171564681"/>
+    <nd ref="171488566"/>
+    <nd ref="171564684"/>
+    <nd ref="171564687"/>
+    <nd ref="171564690"/>
+    <nd ref="171564693"/>
+    <nd ref="171564696"/>
+    <nd ref="171525469"/>
+    <nd ref="171525314"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Park Highway"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Laurel Park"/>
+    <tag k="tiger:name_type" v="Hwy"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16612966">
+    <nd ref="171570781"/>
+    <nd ref="171570784"/>
+    <nd ref="171570787"/>
+    <nd ref="171570790"/>
+    <nd ref="171570793"/>
+    <nd ref="171570796"/>
+    <nd ref="171570799"/>
+    <nd ref="171570802"/>
+    <nd ref="171570805"/>
+    <nd ref="171570807"/>
+    <nd ref="171570810"/>
+    <nd ref="171570815"/>
+    <nd ref="171570818"/>
+    <nd ref="171570820"/>
+    <nd ref="171570822"/>
+    <nd ref="171570826"/>
+    <nd ref="171570827"/>
+    <nd ref="171570828"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ladys Fern Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Ladys Fern"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16613300">
+    <nd ref="171576563"/>
+    <nd ref="171576566"/>
+    <nd ref="171576568"/>
+    <nd ref="171576572"/>
+    <nd ref="171576573"/>
+    <nd ref="171576578"/>
+    <nd ref="171576582"/>
+    <nd ref="171576584"/>
+    <nd ref="171576587"/>
+    <nd ref="171576589"/>
+    <nd ref="171576592"/>
+    <nd ref="171576595"/>
+    <nd ref="171576599"/>
+    <nd ref="171576602"/>
+    <nd ref="171576604"/>
+    <nd ref="171576607"/>
+    <nd ref="171576609"/>
+    <nd ref="171576612"/>
+    <nd ref="171576616"/>
+    <nd ref="171576619"/>
+    <nd ref="171576623"/>
+    <nd ref="171576628"/>
+    <nd ref="171576632"/>
+    <nd ref="171576635"/>
+    <nd ref="171576638"/>
+    <nd ref="171576641"/>
+    <nd ref="171576644"/>
+    <nd ref="171576647"/>
+    <nd ref="171576651"/>
+    <nd ref="171576654"/>
+    <nd ref="171576658"/>
+    <nd ref="171576661"/>
+    <nd ref="171576665"/>
+    <nd ref="171576667"/>
+    <nd ref="171576669"/>
+    <nd ref="171576672"/>
+    <nd ref="171576674"/>
+    <nd ref="171576676"/>
+    <nd ref="171576679"/>
+    <nd ref="171576681"/>
+    <nd ref="171576684"/>
+    <nd ref="171576686"/>
+    <nd ref="171576689"/>
+    <nd ref="171576692"/>
+    <nd ref="171570781"/>
+    <nd ref="171576693"/>
+    <nd ref="171576696"/>
+    <nd ref="171576699"/>
+    <nd ref="171576703"/>
+    <nd ref="171576706"/>
+    <nd ref="171576712"/>
+    <nd ref="171576715"/>
+    <nd ref="171576719"/>
+    <nd ref="171576721"/>
+    <nd ref="171576722"/>
+    <nd ref="171576724"/>
+    <nd ref="171576725"/>
+    <nd ref="171576728"/>
+    <nd ref="171576729"/>
+    <nd ref="171576731"/>
+    <nd ref="171576732"/>
+    <nd ref="171576738"/>
+    <nd ref="171576742"/>
+    <nd ref="171576745"/>
+    <nd ref="171576748"/>
+    <nd ref="171576752"/>
+    <nd ref="171576755"/>
+    <nd ref="171576758"/>
+    <nd ref="171576761"/>
+    <nd ref="171576765"/>
+    <nd ref="171576768"/>
+    <nd ref="171576771"/>
+    <nd ref="171576774"/>
+    <nd ref="171576776"/>
+    <nd ref="171576778"/>
+    <nd ref="171576781"/>
+    <nd ref="171576783"/>
+    <nd ref="171576786"/>
+    <nd ref="171576790"/>
+    <nd ref="171576793"/>
+    <nd ref="171576795"/>
+    <nd ref="171576797"/>
+    <nd ref="171576804"/>
+    <nd ref="171576808"/>
+    <nd ref="171576810"/>
+    <nd ref="171576814"/>
+    <nd ref="171576816"/>
+    <nd ref="171576819"/>
+    <nd ref="171576822"/>
+    <nd ref="171576825"/>
+    <nd ref="171576828"/>
+    <nd ref="171576833"/>
+    <nd ref="171576836"/>
+    <nd ref="171576840"/>
+    <nd ref="444719259"/>
+    <nd ref="171576847"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Somersby Parkway"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Somersby"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16614095">
+    <nd ref="171586258"/>
+    <nd ref="171586259"/>
+    <nd ref="171586260"/>
+    <nd ref="171586262"/>
+    <nd ref="171586265"/>
+    <nd ref="171586268"/>
+    <nd ref="171586273"/>
+    <nd ref="171586275"/>
+    <nd ref="171586278"/>
+    <nd ref="171586279"/>
+    <nd ref="171586281"/>
+    <nd ref="171586283"/>
+    <nd ref="171586286"/>
+    <nd ref="171586289"/>
+    <nd ref="171586292"/>
+    <nd ref="171586294"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hemlock Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Hemlock"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+  </way>
+  <way id="16620284">
+    <nd ref="171663790"/>
+    <nd ref="171663792"/>
+    <nd ref="171663794"/>
+    <nd ref="171663797"/>
+    <nd ref="171663799"/>
+    <nd ref="171663803"/>
+    <nd ref="171663806"/>
+    <nd ref="171663808"/>
+    <nd ref="171663810"/>
+    <nd ref="171663813"/>
+    <nd ref="171663815"/>
+    <nd ref="171663818"/>
+    <nd ref="171663821"/>
+    <nd ref="171663824"/>
+    <nd ref="171663827"/>
+    <nd ref="444719341"/>
+    <nd ref="171663832"/>
+    <nd ref="171663833"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wild Iris Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Wild Iris"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16620586">
+    <nd ref="171667797"/>
+    <nd ref="171667799"/>
+    <nd ref="171667800"/>
+    <nd ref="171667804"/>
+    <nd ref="171667808"/>
+    <nd ref="171667810"/>
+    <nd ref="171667818"/>
+    <nd ref="171667821"/>
+    <nd ref="171667824"/>
+    <nd ref="171667828"/>
+    <nd ref="171667832"/>
+    <nd ref="171667838"/>
+    <nd ref="171667841"/>
+    <nd ref="171667842"/>
+    <nd ref="171667844"/>
+    <nd ref="171667847"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Winter Holly Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Winter Holly"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16622793">
+    <nd ref="171691528"/>
+    <nd ref="171691530"/>
+    <nd ref="171691532"/>
+    <nd ref="171691534"/>
+    <nd ref="171691536"/>
+    <nd ref="171691538"/>
+    <nd ref="171691541"/>
+    <nd ref="171691542"/>
+    <nd ref="171691546"/>
+    <nd ref="171691547"/>
+    <nd ref="171691548"/>
+    <nd ref="171490039"/>
+    <nd ref="171691550"/>
+    <nd ref="171490879"/>
+    <nd ref="171691552"/>
+    <nd ref="171691555"/>
+    <nd ref="171691558"/>
+    <nd ref="171691561"/>
+    <nd ref="171586258"/>
+    <nd ref="171691564"/>
+    <nd ref="171691566"/>
+    <nd ref="171691568"/>
+    <nd ref="171691571"/>
+    <nd ref="171691573"/>
+    <nd ref="171691575"/>
+    <nd ref="171691577"/>
+    <nd ref="171691579"/>
+    <nd ref="171691581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sweetgum Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sweetgum"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16622832">
+    <nd ref="171576748"/>
+    <nd ref="171691940"/>
+    <nd ref="171691942"/>
+    <nd ref="171691944"/>
+    <nd ref="171691946"/>
+    <nd ref="171691950"/>
+    <nd ref="171691953"/>
+    <nd ref="171691956"/>
+    <nd ref="171691959"/>
+    <nd ref="171691962"/>
+    <nd ref="171691964"/>
+    <nd ref="171691967"/>
+    <nd ref="171691970"/>
+    <nd ref="171691973"/>
+    <nd ref="171691976"/>
+    <nd ref="171691978"/>
+    <nd ref="171691980"/>
+    <nd ref="171691982"/>
+    <nd ref="171691985"/>
+    <nd ref="171691988"/>
+    <nd ref="171691991"/>
+    <nd ref="171691994"/>
+    <nd ref="171691996"/>
+    <nd ref="171691997"/>
+    <nd ref="171691999"/>
+    <nd ref="171692002"/>
+    <nd ref="171692003"/>
+    <nd ref="171692004"/>
+    <nd ref="171692005"/>
+    <nd ref="171692007"/>
+    <nd ref="171692009"/>
+    <nd ref="171692011"/>
+    <nd ref="171692014"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thistlewynd Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Thistlewynd"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16624348">
+    <nd ref="171683532"/>
+    <nd ref="171708091"/>
+    <nd ref="171708094"/>
+    <nd ref="171536985"/>
+    <nd ref="171708098"/>
+    <nd ref="171708100"/>
+    <nd ref="171708102"/>
+    <nd ref="171708104"/>
+    <nd ref="171708105"/>
+    <nd ref="171708107"/>
+    <nd ref="171708109"/>
+    <nd ref="171708111"/>
+    <nd ref="171708114"/>
+    <nd ref="171708117"/>
+    <nd ref="171708119"/>
+    <nd ref="171708068"/>
+    <nd ref="171708121"/>
+    <nd ref="171708124"/>
+    <nd ref="171708128"/>
+    <nd ref="171708131"/>
+    <nd ref="171708134"/>
+    <nd ref="171708136"/>
+    <nd ref="171708139"/>
+    <nd ref="171708141"/>
+    <nd ref="171708143"/>
+    <nd ref="171708144"/>
+    <nd ref="171708145"/>
+    <nd ref="171708148"/>
+    <nd ref="171708151"/>
+    <nd ref="171708154"/>
+    <nd ref="171708157"/>
+    <nd ref="171708161"/>
+    <nd ref="171708164"/>
+    <nd ref="171708166"/>
+    <nd ref="171708169"/>
+    <nd ref="171708172"/>
+    <nd ref="171708175"/>
+    <nd ref="171708178"/>
+    <nd ref="171708181"/>
+    <nd ref="171708184"/>
+    <nd ref="171708187"/>
+    <nd ref="171708189"/>
+    <nd ref="171708192"/>
+    <nd ref="171708194"/>
+    <nd ref="171708197"/>
+    <nd ref="171708200"/>
+    <nd ref="171708203"/>
+    <nd ref="171708205"/>
+    <nd ref="171708208"/>
+    <nd ref="171708210"/>
+    <nd ref="171708212"/>
+    <nd ref="171708214"/>
+    <nd ref="171708217"/>
+    <nd ref="171708219"/>
+    <nd ref="171708221"/>
+    <nd ref="171708224"/>
+    <nd ref="171708227"/>
+    <nd ref="171708229"/>
+    <nd ref="171708231"/>
+    <nd ref="171708233"/>
+    <nd ref="171708236"/>
+    <nd ref="171708238"/>
+    <nd ref="171708240"/>
+    <nd ref="171694383"/>
+    <nd ref="171708242"/>
+    <nd ref="171708244"/>
+    <nd ref="171409791"/>
+    <nd ref="171708246"/>
+    <nd ref="171708247"/>
+    <nd ref="171708248"/>
+    <nd ref="171708250"/>
+    <nd ref="171708252"/>
+    <nd ref="171708254"/>
+    <nd ref="171708256"/>
+    <nd ref="171708257"/>
+    <nd ref="171465065"/>
+    <nd ref="171384967"/>
+    <nd ref="171708259"/>
+    <nd ref="171708261"/>
+    <nd ref="171708264"/>
+    <nd ref="171708267"/>
+    <nd ref="171708271"/>
+    <nd ref="171708274"/>
+    <nd ref="171708276"/>
+    <nd ref="171708278"/>
+    <nd ref="171708280"/>
+    <nd ref="171708283"/>
+    <nd ref="171708289"/>
+    <nd ref="171476406"/>
+    <nd ref="171708291"/>
+    <nd ref="171708293"/>
+    <nd ref="171708295"/>
+    <nd ref="171708298"/>
+    <nd ref="171708301"/>
+    <nd ref="171708303"/>
+    <nd ref="171708306"/>
+    <nd ref="171708309"/>
+    <nd ref="171708312"/>
+    <nd ref="171708315"/>
+    <nd ref="171708318"/>
+    <nd ref="171685114"/>
+    <nd ref="171569291"/>
+    <nd ref="171708321"/>
+    <nd ref="171708324"/>
+    <nd ref="171409050"/>
+    <nd ref="171708326"/>
+    <nd ref="171708328"/>
+    <nd ref="171708332"/>
+    <nd ref="171708335"/>
+    <nd ref="171708339"/>
+    <nd ref="171708342"/>
+    <nd ref="171708344"/>
+    <nd ref="171708346"/>
+    <nd ref="171708349"/>
+    <nd ref="171708351"/>
+    <nd ref="171708353"/>
+    <nd ref="171708357"/>
+    <nd ref="171708360"/>
+    <nd ref="171708362"/>
+    <nd ref="171708365"/>
+    <nd ref="171708366"/>
+    <nd ref="171708367"/>
+    <nd ref="171708368"/>
+    <nd ref="171708370"/>
+    <nd ref="171708372"/>
+    <nd ref="171708374"/>
+    <nd ref="171708376"/>
+    <nd ref="171708378"/>
+    <nd ref="171708379"/>
+    <nd ref="171708382"/>
+    <nd ref="171708384"/>
+    <nd ref="171708386"/>
+    <nd ref="171708388"/>
+    <nd ref="171708391"/>
+    <nd ref="171558192"/>
+    <nd ref="171708394"/>
+    <nd ref="171708399"/>
+    <nd ref="171708401"/>
+    <nd ref="171708404"/>
+    <nd ref="171708407"/>
+    <nd ref="171708409"/>
+    <nd ref="171708411"/>
+    <nd ref="171708413"/>
+    <nd ref="171708415"/>
+    <nd ref="171708419"/>
+    <nd ref="171708421"/>
+    <nd ref="171708423"/>
+    <nd ref="171708430"/>
+    <nd ref="171708432"/>
+    <nd ref="171708434"/>
+    <nd ref="171708435"/>
+    <nd ref="171708436"/>
+    <nd ref="171708438"/>
+    <nd ref="171708440"/>
+    <nd ref="171708443"/>
+    <nd ref="171708445"/>
+    <nd ref="171708447"/>
+    <nd ref="171708450"/>
+    <nd ref="171708453"/>
+    <nd ref="171708456"/>
+    <nd ref="171708459"/>
+    <nd ref="171708462"/>
+    <nd ref="171708464"/>
+    <nd ref="171708466"/>
+    <nd ref="171708468"/>
+    <nd ref="171708470"/>
+    <nd ref="171708472"/>
+    <nd ref="171708474"/>
+    <nd ref="171708476"/>
+    <nd ref="171708479"/>
+    <nd ref="171708481"/>
+    <nd ref="171708483"/>
+    <nd ref="171708484"/>
+    <nd ref="171708485"/>
+    <nd ref="171708487"/>
+    <nd ref="171708489"/>
+    <nd ref="171708491"/>
+    <nd ref="171708494"/>
+    <nd ref="171708496"/>
+    <nd ref="171708498"/>
+    <nd ref="171708499"/>
+    <nd ref="171708500"/>
+    <nd ref="171708502"/>
+    <nd ref="171708504"/>
+    <nd ref="171708506"/>
+    <nd ref="171708510"/>
+    <nd ref="171708513"/>
+    <nd ref="171708516"/>
+    <nd ref="171708518"/>
+    <nd ref="171708520"/>
+    <nd ref="171708522"/>
+    <nd ref="171708525"/>
+    <nd ref="171708528"/>
+    <nd ref="171708531"/>
+    <nd ref="171708534"/>
+    <nd ref="171708537"/>
+    <nd ref="171708540"/>
+    <nd ref="171708544"/>
+    <nd ref="171708547"/>
+    <nd ref="171708549"/>
+    <nd ref="171708552"/>
+    <nd ref="171708555"/>
+    <nd ref="171708557"/>
+    <nd ref="171708559"/>
+    <nd ref="171708561"/>
+    <nd ref="171708564"/>
+    <nd ref="171708567"/>
+    <nd ref="171708569"/>
+    <nd ref="171708571"/>
+    <nd ref="444719693"/>
+    <nd ref="171708574"/>
+    <nd ref="444719691"/>
+    <nd ref="171708580"/>
+    <nd ref="171708582"/>
+    <nd ref="171708584"/>
+    <nd ref="171708586"/>
+    <nd ref="171708587"/>
+    <nd ref="171708588"/>
+    <nd ref="171708589"/>
+    <nd ref="171708590"/>
+    <nd ref="171708592"/>
+    <nd ref="171708594"/>
+    <nd ref="171708596"/>
+    <nd ref="171708599"/>
+    <nd ref="171708601"/>
+    <nd ref="171708602"/>
+    <nd ref="171708604"/>
+    <nd ref="171708607"/>
+    <nd ref="171708611"/>
+    <nd ref="171708614"/>
+    <nd ref="171708616"/>
+    <nd ref="171708618"/>
+    <nd ref="171708624"/>
+    <nd ref="171708626"/>
+    <nd ref="171708627"/>
+    <nd ref="171708629"/>
+    <nd ref="171708632"/>
+    <nd ref="171708635"/>
+    <nd ref="171708638"/>
+    <nd ref="171517074"/>
+    <nd ref="171708640"/>
+    <nd ref="171708642"/>
+    <nd ref="171708644"/>
+    <nd ref="171708645"/>
+    <nd ref="171708647"/>
+    <nd ref="171708648"/>
+    <nd ref="171708649"/>
+    <nd ref="171708652"/>
+    <nd ref="171708655"/>
+    <nd ref="171708658"/>
+    <nd ref="171452963"/>
+    <nd ref="171708660"/>
+    <nd ref="171708661"/>
+    <nd ref="444719234"/>
+    <nd ref="171708665"/>
+    <nd ref="171708667"/>
+    <nd ref="171708668"/>
+    <nd ref="171708670"/>
+    <nd ref="171708672"/>
+    <nd ref="171708674"/>
+    <nd ref="171708677"/>
+    <nd ref="171708680"/>
+    <nd ref="171708683"/>
+    <nd ref="171708686"/>
+    <nd ref="171708689"/>
+    <nd ref="171708692"/>
+    <nd ref="171708695"/>
+    <nd ref="171708697"/>
+    <nd ref="171708700"/>
+    <nd ref="171708703"/>
+    <nd ref="171708705"/>
+    <nd ref="171708707"/>
+    <nd ref="171708709"/>
+    <nd ref="171708711"/>
+    <nd ref="171708713"/>
+    <nd ref="171708714"/>
+    <nd ref="171708716"/>
+    <nd ref="171708719"/>
+    <nd ref="171708721"/>
+    <nd ref="171708722"/>
+    <nd ref="171708724"/>
+    <nd ref="171708726"/>
+    <nd ref="171708728"/>
+    <nd ref="171708731"/>
+    <nd ref="171708733"/>
+    <nd ref="171708735"/>
+    <nd ref="171708737"/>
+    <nd ref="171708742"/>
+    <nd ref="171708745"/>
+    <nd ref="171708748"/>
+    <nd ref="171708751"/>
+    <nd ref="171708753"/>
+    <nd ref="171708755"/>
+    <nd ref="171708759"/>
+    <nd ref="171708761"/>
+    <nd ref="171708763"/>
+    <nd ref="171708764"/>
+    <nd ref="171708766"/>
+    <nd ref="171708768"/>
+    <nd ref="171708772"/>
+    <nd ref="171708775"/>
+    <nd ref="171708777"/>
+    <nd ref="171708781"/>
+    <nd ref="171708784"/>
+    <nd ref="171708788"/>
+    <nd ref="171708791"/>
+    <nd ref="171708794"/>
+    <nd ref="171708797"/>
+    <nd ref="171708800"/>
+    <nd ref="171708803"/>
+    <nd ref="171708806"/>
+    <nd ref="171708807"/>
+    <nd ref="171708808"/>
+    <nd ref="171708809"/>
+    <nd ref="171708811"/>
+    <nd ref="171708813"/>
+    <nd ref="171708815"/>
+    <nd ref="171708818"/>
+    <nd ref="171708821"/>
+    <nd ref="171708823"/>
+    <nd ref="171708826"/>
+    <nd ref="171708829"/>
+    <nd ref="171425489"/>
+    <nd ref="171389044"/>
+    <nd ref="171708831"/>
+    <nd ref="171708833"/>
+    <nd ref="171708835"/>
+    <nd ref="171708838"/>
+    <nd ref="171427708"/>
+    <nd ref="171708842"/>
+    <nd ref="171708843"/>
+    <nd ref="171708845"/>
+    <nd ref="171708846"/>
+    <nd ref="171708848"/>
+    <nd ref="171708850"/>
+    <nd ref="171708851"/>
+    <nd ref="171708854"/>
+    <nd ref="171708857"/>
+    <nd ref="171708860"/>
+    <nd ref="171708862"/>
+    <nd ref="171708865"/>
+    <nd ref="171708867"/>
+    <nd ref="171708870"/>
+    <nd ref="171708873"/>
+    <nd ref="171708875"/>
+    <nd ref="171708877"/>
+    <nd ref="171708880"/>
+    <nd ref="171708885"/>
+    <nd ref="171708887"/>
+    <nd ref="171708889"/>
+    <nd ref="171708892"/>
+    <nd ref="171708894"/>
+    <nd ref="171708897"/>
+    <nd ref="171708899"/>
+    <nd ref="171708904"/>
+    <nd ref="171708906"/>
+    <nd ref="171708909"/>
+    <nd ref="171708912"/>
+    <nd ref="171708915"/>
+    <nd ref="171708918"/>
+    <nd ref="171708920"/>
+    <nd ref="447637114"/>
+    <nd ref="171708923"/>
+    <nd ref="171708926"/>
+    <nd ref="171374856"/>
+    <nd ref="171708928"/>
+    <nd ref="171708929"/>
+    <nd ref="171708931"/>
+    <nd ref="171708933"/>
+    <nd ref="171708935"/>
+    <nd ref="171708937"/>
+    <nd ref="171708939"/>
+    <nd ref="171708941"/>
+    <nd ref="171708944"/>
+    <nd ref="171708945"/>
+    <nd ref="171708948"/>
+    <nd ref="171708951"/>
+    <nd ref="171708953"/>
+    <nd ref="171708956"/>
+    <nd ref="171708959"/>
+    <nd ref="171708962"/>
+    <nd ref="171708965"/>
+    <nd ref="171708968"/>
+    <nd ref="171708971"/>
+    <nd ref="171708984"/>
+    <nd ref="171708987"/>
+    <nd ref="171708990"/>
+    <nd ref="171708992"/>
+    <nd ref="171708994"/>
+    <nd ref="171708997"/>
+    <nd ref="171708999"/>
+    <nd ref="171709002"/>
+    <nd ref="171709004"/>
+    <nd ref="171374746"/>
+    <nd ref="171580533"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Davis Mountain Road"/>
+    <tag k="name_1" v="County Road 1188"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Davis Mountain"/>
+    <tag k="tiger:name_base_1" v="County Road 1188"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16624461">
+    <nd ref="171563860"/>
+    <nd ref="171709862"/>
+    <nd ref="171709865"/>
+    <nd ref="171709868"/>
+    <nd ref="171709871"/>
+    <nd ref="171709874"/>
+    <nd ref="171709877"/>
+    <nd ref="171709880"/>
+    <nd ref="171709882"/>
+    <nd ref="171709884"/>
+    <nd ref="171709886"/>
+    <nd ref="171709888"/>
+    <nd ref="171709890"/>
+    <nd ref="171709893"/>
+    <nd ref="171709895"/>
+    <nd ref="171709896"/>
+    <nd ref="171709898"/>
+    <nd ref="171709901"/>
+    <nd ref="171709905"/>
+    <nd ref="171709911"/>
+    <nd ref="171709915"/>
+    <nd ref="171709918"/>
+    <nd ref="171709921"/>
+    <nd ref="171709923"/>
+    <nd ref="171709926"/>
+    <nd ref="171709929"/>
+    <nd ref="171709931"/>
+    <nd ref="171709933"/>
+    <nd ref="171709936"/>
+    <nd ref="171709939"/>
+    <nd ref="171709942"/>
+    <nd ref="171709944"/>
+    <nd ref="171709947"/>
+    <nd ref="171709950"/>
+    <nd ref="171709953"/>
+    <nd ref="171709955"/>
+    <nd ref="171709958"/>
+    <nd ref="171709960"/>
+    <nd ref="171709962"/>
+    <nd ref="171709965"/>
+    <nd ref="171709968"/>
+    <nd ref="171709971"/>
+    <nd ref="171709973"/>
+    <nd ref="171709976"/>
+    <nd ref="171709977"/>
+    <nd ref="171709979"/>
+    <nd ref="171709980"/>
+    <nd ref="171709982"/>
+    <nd ref="171709984"/>
+    <nd ref="171709988"/>
+    <nd ref="171709992"/>
+    <nd ref="171709994"/>
+    <nd ref="171709996"/>
+    <nd ref="171709997"/>
+    <nd ref="171710000"/>
+    <nd ref="171710003"/>
+    <nd ref="171710005"/>
+    <nd ref="171710008"/>
+    <nd ref="171710011"/>
+    <nd ref="171710014"/>
+    <nd ref="171710016"/>
+    <nd ref="171710018"/>
+    <nd ref="171710020"/>
+    <nd ref="171710023"/>
+    <nd ref="171710025"/>
+    <nd ref="171710027"/>
+    <nd ref="171710029"/>
+    <nd ref="171710030"/>
+    <nd ref="171710034"/>
+    <nd ref="171710037"/>
+    <nd ref="171710039"/>
+    <nd ref="171710041"/>
+    <nd ref="171710044"/>
+    <nd ref="171710046"/>
+    <nd ref="171710049"/>
+    <nd ref="171710052"/>
+    <nd ref="171710055"/>
+    <nd ref="171710058"/>
+    <nd ref="171710061"/>
+    <nd ref="171710064"/>
+    <nd ref="171710067"/>
+    <nd ref="171710069"/>
+    <nd ref="171710072"/>
+    <nd ref="171638765"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Crossvine Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Crossvine"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16625017">
+    <nd ref="171576684"/>
+    <nd ref="171715667"/>
+    <nd ref="171715670"/>
+    <nd ref="171715673"/>
+    <nd ref="171715676"/>
+    <nd ref="171715679"/>
+    <nd ref="171715681"/>
+    <nd ref="171715683"/>
+    <nd ref="171715685"/>
+    <nd ref="171715687"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ivywood Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Ivywood"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16626390">
+    <nd ref="171729381"/>
+    <nd ref="171729383"/>
+    <nd ref="171729384"/>
+    <nd ref="171729386"/>
+    <nd ref="171729388"/>
+    <nd ref="171729390"/>
+    <nd ref="171729393"/>
+    <nd ref="171729395"/>
+    <nd ref="171729399"/>
+    <nd ref="171729402"/>
+    <nd ref="171729408"/>
+    <nd ref="171729410"/>
+    <nd ref="171729411"/>
+    <nd ref="171729412"/>
+    <nd ref="171729414"/>
+    <nd ref="171729418"/>
+    <nd ref="171729423"/>
+    <nd ref="171729427"/>
+    <nd ref="171729430"/>
+    <nd ref="171729432"/>
+    <nd ref="171729436"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Inkberry Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Inkberry"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+  <way id="16628501">
+    <nd ref="171586278"/>
+    <nd ref="171753791"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blackberry Place"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Blackberry"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+  </way>
+  <way id="16630915">
+    <nd ref="171563937"/>
+    <nd ref="171784258"/>
+    <nd ref="171784260"/>
+    <nd ref="171784262"/>
+    <nd ref="171784265"/>
+    <nd ref="171784268"/>
+    <nd ref="171784272"/>
+    <nd ref="171784273"/>
+    <nd ref="171784275"/>
+    <nd ref="171784278"/>
+    <nd ref="171784281"/>
+    <nd ref="171784284"/>
+    <nd ref="171784287"/>
+    <nd ref="171784289"/>
+    <nd ref="171784291"/>
+    <nd ref="171784294"/>
+    <nd ref="171784297"/>
+    <nd ref="171784299"/>
+    <nd ref="171784302"/>
+    <nd ref="171784304"/>
+    <nd ref="171784307"/>
+    <nd ref="171784312"/>
+    <nd ref="171784316"/>
+    <nd ref="171784318"/>
+    <nd ref="171729436"/>
+    <nd ref="171784320"/>
+    <nd ref="171784322"/>
+    <nd ref="171784325"/>
+    <nd ref="171784329"/>
+    <nd ref="171784332"/>
+    <nd ref="171784335"/>
+    <nd ref="171784338"/>
+    <nd ref="171784341"/>
+    <nd ref="171784343"/>
+    <nd ref="171784345"/>
+    <nd ref="171784347"/>
+    <nd ref="171784349"/>
+    <nd ref="171784351"/>
+    <nd ref="171784353"/>
+    <nd ref="171784356"/>
+    <nd ref="171784359"/>
+    <nd ref="171784362"/>
+    <nd ref="171784365"/>
+    <nd ref="171784368"/>
+    <nd ref="171784370"/>
+    <nd ref="171784372"/>
+    <nd ref="171784375"/>
+    <nd ref="171784377"/>
+    <nd ref="171784379"/>
+    <nd ref="171784381"/>
+    <nd ref="171784383"/>
+    <nd ref="171784385"/>
+    <nd ref="171784388"/>
+    <nd ref="171784390"/>
+    <nd ref="171784392"/>
+    <nd ref="171784394"/>
+    <nd ref="171784396"/>
+    <nd ref="171784398"/>
+    <nd ref="171784399"/>
+    <nd ref="171784400"/>
+    <nd ref="171784401"/>
+    <nd ref="171784402"/>
+    <nd ref="171667797"/>
+    <nd ref="171784403"/>
+    <nd ref="171784404"/>
+    <nd ref="171784406"/>
+    <nd ref="171784408"/>
+    <nd ref="171784410"/>
+    <nd ref="171784411"/>
+    <nd ref="171784413"/>
+    <nd ref="171784416"/>
+    <nd ref="171784419"/>
+    <nd ref="171563821"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beechwood Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Beechwood"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+
+</osm>

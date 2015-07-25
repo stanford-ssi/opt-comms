@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16618750">
+    <nd ref="171645789"/>
+    <nd ref="171645793"/>
+    <nd ref="171645796"/>
+    <nd ref="171645798"/>
+    <nd ref="171645801"/>
+    <nd ref="171645804"/>
+    <nd ref="171645807"/>
+    <nd ref="171645810"/>
+    <nd ref="171645813"/>
+    <nd ref="171645816"/>
+    <nd ref="171645819"/>
+    <nd ref="171645822"/>
+    <nd ref="171645825"/>
+    <nd ref="171645828"/>
+    <nd ref="171645093"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35970054"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626407">
+    <nd ref="171729583"/>
+    <nd ref="171729585"/>
+    <nd ref="171729587"/>
+    <nd ref="171729591"/>
+    <nd ref="171729593"/>
+    <nd ref="171729595"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35983102"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626415">
+    <nd ref="171729713"/>
+    <nd ref="171729716"/>
+    <nd ref="171729719"/>
+    <nd ref="171729722"/>
+    <nd ref="171729725"/>
+    <nd ref="171729728"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35983105"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16635334">
+    <nd ref="171751125"/>
+    <nd ref="171832703"/>
+    <nd ref="171832706"/>
+    <nd ref="171832708"/>
+    <nd ref="171832710"/>
+    <nd ref="171729583"/>
+    <nd ref="171832713"/>
+    <nd ref="171832714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Boot Hill Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Boot Hill"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

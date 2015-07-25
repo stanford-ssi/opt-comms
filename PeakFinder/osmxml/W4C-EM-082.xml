@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="18924448">
+    <nd ref="195832626"/>
+    <nd ref="195832628"/>
+    <nd ref="195832630"/>
+    <nd ref="195832631"/>
+    <nd ref="195832632"/>
+    <nd ref="195832633"/>
+    <nd ref="195832635"/>
+    <nd ref="195832637"/>
+    <nd ref="195832639"/>
+    <nd ref="195832641"/>
+    <nd ref="195832643"/>
+    <nd ref="195832644"/>
+    <nd ref="195832645"/>
+    <nd ref="195832646"/>
+    <nd ref="195832647"/>
+    <nd ref="195832649"/>
+    <nd ref="195832651"/>
+    <nd ref="195832653"/>
+    <nd ref="195832654"/>
+    <nd ref="195832655"/>
+    <nd ref="195832656"/>
+    <nd ref="195832657"/>
+    <nd ref="195832659"/>
+    <nd ref="195832661"/>
+    <nd ref="195832662"/>
+    <nd ref="195832663"/>
+    <nd ref="195832665"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46156382:46130284:46149778:46130286"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+
+</osm>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="16613192">
+    <nd ref="173304729"/>
+    <nd ref="171574886"/>
+    <nd ref="171574888"/>
+    <nd ref="171574890"/>
+    <nd ref="171574892"/>
+    <nd ref="171574894"/>
+    <nd ref="171574896"/>
+    <nd ref="171574899"/>
+    <nd ref="171574902"/>
+    <nd ref="173304734"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugarloaf Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sugarloaf Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16613194">
+    <nd ref="171574910"/>
+    <nd ref="171574912"/>
+    <nd ref="171574914"/>
+    <nd ref="171574916"/>
+    <nd ref="171574920"/>
+    <nd ref="171574923"/>
+    <nd ref="171574926"/>
+    <nd ref="171574929"/>
+    <nd ref="171574931"/>
+    <nd ref="171574933"/>
+    <nd ref="171574935"/>
+    <nd ref="171574937"/>
+    <nd ref="171574939"/>
+    <nd ref="171574941"/>
+    <nd ref="171574945"/>
+    <nd ref="171574948"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugarloaf Mountain Road"/>
+    <tag k="name_1" v="County Road 1868"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sugarloaf Mountain"/>
+    <tag k="tiger:name_base_1" v="County Road 1868"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28792"/>
+    <tag k="tiger:zip_right" v="28792"/>
+  </way>
+  <way id="16613198">
+    <nd ref="171574948"/>
+    <nd ref="171574958"/>
+    <nd ref="171574960"/>
+    <nd ref="171574965"/>
+    <nd ref="173304722"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugarloaf Mountain Road"/>
+    <tag k="name_1" v="County Road 1868"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sugarloaf Mountain"/>
+    <tag k="tiger:name_base_1" v="County Road 1868"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28792"/>
+    <tag k="tiger:zip_right" v="28792"/>
+  </way>
+  <way id="16751827">
+    <nd ref="173176368"/>
+    <nd ref="173176370"/>
+    <nd ref="173176371"/>
+    <nd ref="173176372"/>
+    <nd ref="173176373"/>
+    <nd ref="173176374"/>
+    <nd ref="173176380"/>
+    <nd ref="173176384"/>
+    <nd ref="173176386"/>
+    <nd ref="173176388"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19404542"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+  <way id="16760416">
+    <nd ref="171574853"/>
+    <nd ref="173264501"/>
+    <nd ref="173264503"/>
+    <nd ref="173264506"/>
+    <nd ref="173264509"/>
+    <nd ref="173264510"/>
+    <nd ref="173264513"/>
+    <nd ref="173264516"/>
+    <nd ref="173264519"/>
+    <nd ref="173264520"/>
+    <nd ref="173264521"/>
+    <nd ref="173264523"/>
+    <nd ref="173264526"/>
+    <nd ref="173264529"/>
+    <nd ref="173264531"/>
+    <nd ref="173264533"/>
+    <nd ref="173264535"/>
+    <nd ref="173264537"/>
+    <nd ref="173264541"/>
+    <nd ref="173264542"/>
+    <nd ref="173264544"/>
+    <nd ref="173264546"/>
+    <nd ref="173264549"/>
+    <nd ref="173264550"/>
+    <nd ref="173264553"/>
+    <nd ref="173264556"/>
+    <nd ref="173264559"/>
+    <nd ref="173264563"/>
+    <nd ref="173176368"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugar Loaf Mtn Road"/>
+    <tag k="name_1" v="State Road 1189"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Sugar Loaf Mtn"/>
+    <tag k="tiger:name_base_1" v="State Road 1189"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16760420">
+    <nd ref="173176368"/>
+    <nd ref="173264576"/>
+    <nd ref="173264578"/>
+    <nd ref="173264579"/>
+    <nd ref="173264581"/>
+    <nd ref="173264582"/>
+    <nd ref="173264583"/>
+    <nd ref="173264584"/>
+    <nd ref="173264585"/>
+    <nd ref="173264586"/>
+    <nd ref="171574910"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugar Loaf Mtn Road"/>
+    <tag k="name_1" v="State Road 1189"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Sugar Loaf Mtn"/>
+    <tag k="tiger:name_base_1" v="State Road 1189"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28746"/>
+    <tag k="tiger:zip_left_1" v="28746"/>
+    <tag k="tiger:zip_right" v="28746"/>
+    <tag k="tiger:zip_right_1" v="28746"/>
+  </way>
+  <way id="16763620">
+    <nd ref="173304722"/>
+    <nd ref="173304724"/>
+    <nd ref="173304725"/>
+    <nd ref="173304727"/>
+    <nd ref="173304729"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1189"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="State Road 1189"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19393583"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+  <way id="16763621">
+    <nd ref="173304734"/>
+    <nd ref="173304735"/>
+    <nd ref="173304737"/>
+    <nd ref="173304740"/>
+    <nd ref="173304742"/>
+    <nd ref="173304744"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="State Road 1189"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="State Road 1189"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19393599"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+
+</osm>

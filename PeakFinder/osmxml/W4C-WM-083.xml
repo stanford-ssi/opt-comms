@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16618691">
+    <nd ref="171645052"/>
+    <nd ref="171645055"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36001440"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620127">
+    <nd ref="171662141"/>
+    <nd ref="171662144"/>
+    <nd ref="171662147"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996963:35996964"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620318">
+    <nd ref="171664305"/>
+    <nd ref="171664308"/>
+    <nd ref="171664310"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996853:35996854"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620320">
+    <nd ref="171664308"/>
+    <nd ref="171664315"/>
+    <nd ref="171664317"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996855"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620330">
+    <nd ref="171664403"/>
+    <nd ref="171664405"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996858"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16623062">
+    <nd ref="171694425"/>
+    <nd ref="171678126"/>
+    <nd ref="171694427"/>
+    <nd ref="171694430"/>
+    <nd ref="171694433"/>
+    <nd ref="171694436"/>
+    <nd ref="171694439"/>
+    <nd ref="171694443"/>
+    <nd ref="171694445"/>
+    <nd ref="171694447"/>
+    <nd ref="171694450"/>
+    <nd ref="171694453"/>
+    <nd ref="171694456"/>
+    <nd ref="171694459"/>
+    <nd ref="171694463"/>
+    <nd ref="171694466"/>
+    <nd ref="171694468"/>
+    <nd ref="171694470"/>
+    <nd ref="171694473"/>
+    <nd ref="171694477"/>
+    <nd ref="171694480"/>
+    <nd ref="171694482"/>
+    <nd ref="171694425"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35984392"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624553">
+    <nd ref="171711127"/>
+    <nd ref="171711129"/>
+    <nd ref="171711131"/>
+    <nd ref="171711134"/>
+    <nd ref="171711137"/>
+    <nd ref="171711139"/>
+    <nd ref="171711141"/>
+    <nd ref="171711143"/>
+    <nd ref="171711145"/>
+    <nd ref="171711148"/>
+    <nd ref="171711151"/>
+    <nd ref="171711154"/>
+    <nd ref="171711156"/>
+    <nd ref="171711158"/>
+    <nd ref="171711160"/>
+    <nd ref="171711162"/>
+    <nd ref="171711164"/>
+    <nd ref="171711165"/>
+    <nd ref="171711167"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996841:35996842"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624556">
+    <nd ref="171711145"/>
+    <nd ref="171711194"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996843"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624566">
+    <nd ref="171711359"/>
+    <nd ref="171711361"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996846"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624618">
+    <nd ref="171711794"/>
+    <nd ref="171711797"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996861"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624634">
+    <nd ref="171711873"/>
+    <nd ref="171711875"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996864"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624638">
+    <nd ref="171711885"/>
+    <nd ref="171711888"/>
+    <nd ref="171711890"/>
+    <nd ref="171711893"/>
+    <nd ref="171711895"/>
+    <nd ref="171711900"/>
+    <nd ref="171711902"/>
+    <nd ref="171711905"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996867"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626253">
+    <nd ref="171728096"/>
+    <nd ref="171728099"/>
+    <nd ref="171728103"/>
+    <nd ref="171728106"/>
+    <nd ref="171728108"/>
+    <nd ref="171728110"/>
+    <nd ref="171728114"/>
+    <nd ref="171728117"/>
+    <nd ref="171728120"/>
+    <nd ref="171728123"/>
+    <nd ref="171728126"/>
+    <nd ref="171728128"/>
+    <nd ref="171728130"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35989681"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16627248">
+    <nd ref="171738909"/>
+    <nd ref="171677206"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="White Rock Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="White Rock"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16628526">
+    <nd ref="171754357"/>
+    <nd ref="171754361"/>
+    <nd ref="171754364"/>
+    <nd ref="171754367"/>
+    <nd ref="171754370"/>
+    <nd ref="171754373"/>
+    <nd ref="171754376"/>
+    <nd ref="171662141"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Arcadia Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Arcadia"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35978150"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+    <tag k="tiger:zip_left" v="28736"/>
+    <tag k="tiger:zip_left_1" v="28736"/>
+  </way>
+  <way id="16629882">
+    <nd ref="171728096"/>
+    <nd ref="171771488"/>
+    <nd ref="171771490"/>
+    <nd ref="171771492"/>
+    <nd ref="171678108"/>
+    <nd ref="171771495"/>
+    <nd ref="171771497"/>
+    <nd ref="171771500"/>
+    <nd ref="171771503"/>
+    <nd ref="171771505"/>
+    <nd ref="171771508"/>
+    <nd ref="171720502"/>
+    <nd ref="171771512"/>
+    <nd ref="171771515"/>
+    <nd ref="171771518"/>
+    <nd ref="171771521"/>
+    <nd ref="171771524"/>
+    <nd ref="171710872"/>
+    <nd ref="171720430"/>
+    <nd ref="171771528"/>
+    <nd ref="171771530"/>
+    <nd ref="171771533"/>
+    <nd ref="171771536"/>
+    <nd ref="171771539"/>
+    <nd ref="171771542"/>
+    <nd ref="171771547"/>
+    <nd ref="171771549"/>
+    <nd ref="171771551"/>
+    <nd ref="171771553"/>
+    <nd ref="171771554"/>
+    <nd ref="171771555"/>
+    <nd ref="171771556"/>
+    <nd ref="171771557"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pine Creek Road"/>
+    <tag k="name_1" v="State Road 1157"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Pine Creek"/>
+    <tag k="tiger:name_base_1" v="State Road 1157"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629886">
+    <nd ref="171771564"/>
+    <nd ref="171771566"/>
+    <nd ref="171771568"/>
+    <nd ref="171771570"/>
+    <nd ref="171771572"/>
+    <nd ref="171771575"/>
+    <nd ref="171771582"/>
+    <nd ref="171664305"/>
+    <nd ref="171771587"/>
+    <nd ref="171771590"/>
+    <nd ref="171711359"/>
+    <nd ref="171771593"/>
+    <nd ref="171771596"/>
+    <nd ref="171744273"/>
+    <nd ref="171771598"/>
+    <nd ref="171711127"/>
+    <nd ref="171645052"/>
+    <nd ref="171664403"/>
+    <nd ref="171711794"/>
+    <nd ref="171771601"/>
+    <nd ref="171771604"/>
+    <nd ref="171771607"/>
+    <nd ref="171711873"/>
+    <nd ref="171771610"/>
+    <nd ref="171728096"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pine Creek Road"/>
+    <tag k="name_1" v="State Road 1157"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Pine Creek"/>
+    <tag k="tiger:name_base_1" v="State Road 1157"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629964">
+    <nd ref="171771495"/>
+    <nd ref="171772652"/>
+    <nd ref="171772660"/>
+    <nd ref="171772662"/>
+    <nd ref="171772666"/>
+    <nd ref="171772670"/>
+    <nd ref="171772676"/>
+    <nd ref="171772679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wildlife Bt Pk"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Wildlife Bt Pk"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35978123"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16633548">
+    <nd ref="171755737"/>
+    <nd ref="2766108120"/>
+    <nd ref="2766108113"/>
+    <nd ref="171811312"/>
+    <nd ref="171811315"/>
+    <nd ref="171782569"/>
+    <nd ref="171811317"/>
+    <nd ref="171811319"/>
+    <nd ref="171708232"/>
+    <nd ref="171777613"/>
+    <nd ref="171660010"/>
+    <nd ref="171705821"/>
+    <nd ref="171811321"/>
+    <nd ref="171708322"/>
+    <nd ref="171811323"/>
+    <nd ref="171811325"/>
+    <nd ref="171771564"/>
+    <nd ref="171661008"/>
+    <nd ref="171811327"/>
+    <nd ref="171811329"/>
+    <nd ref="171811330"/>
+    <nd ref="171811332"/>
+    <nd ref="171738909"/>
+    <nd ref="171811335"/>
+    <nd ref="171811339"/>
+    <nd ref="171811342"/>
+    <nd ref="171754357"/>
+    <nd ref="171711885"/>
+    <nd ref="171811345"/>
+    <nd ref="171811348"/>
+    <nd ref="171643086"/>
+    <nd ref="171811352"/>
+    <nd ref="171811354"/>
+    <nd ref="171811356"/>
+    <nd ref="171811358"/>
+    <nd ref="171811361"/>
+    <nd ref="171811363"/>
+    <nd ref="171753216"/>
+    <nd ref="171811365"/>
+    <nd ref="171659803"/>
+    <nd ref="171711926"/>
+    <nd ref="171811367"/>
+    <nd ref="171811369"/>
+    <nd ref="171811371"/>
+    <nd ref="171811380"/>
+    <nd ref="2783503515"/>
+    <nd ref="2783503513"/>
+    <nd ref="2783503514"/>
+    <nd ref="2783503510"/>
+    <nd ref="2783503511"/>
+    <nd ref="2783503512"/>
+    <nd ref="171811382"/>
+    <nd ref="2783503509"/>
+    <nd ref="2757816921"/>
+    <nd ref="171811386"/>
+    <nd ref="171811388"/>
+    <nd ref="2783503492"/>
+    <nd ref="2757816922"/>
+    <nd ref="2783503490"/>
+    <nd ref="2783503488"/>
+    <nd ref="2783503489"/>
+    <nd ref="2783503493"/>
+    <nd ref="171721405"/>
+    <nd ref="2783503487"/>
+    <nd ref="2783503485"/>
+    <nd ref="2783503486"/>
+    <nd ref="171811390"/>
+    <nd ref="2783503483"/>
+    <nd ref="2783503482"/>
+    <nd ref="2783503484"/>
+    <nd ref="171811392"/>
+    <nd ref="2783503501"/>
+    <nd ref="2783503495"/>
+    <nd ref="2783503494"/>
+    <nd ref="2783503496"/>
+    <nd ref="2783503500"/>
+    <nd ref="171811394"/>
+    <nd ref="2783503499"/>
+    <nd ref="2783503497"/>
+    <nd ref="2783503498"/>
+    <nd ref="171811397"/>
+    <nd ref="2783503502"/>
+    <nd ref="2783503503"/>
+    <nd ref="2783503504"/>
+    <nd ref="171799442"/>
+    <nd ref="2910323067"/>
+    <nd ref="171811400"/>
+    <nd ref="2783503508"/>
+    <nd ref="2910323069"/>
+    <nd ref="2783503507"/>
+    <nd ref="2910323070"/>
+    <nd ref="2910323072"/>
+    <nd ref="2783503506"/>
+    <nd ref="2910323073"/>
+    <nd ref="171811403"/>
+    <nd ref="2910323074"/>
+    <nd ref="2783503505"/>
+    <nd ref="2910323075"/>
+    <nd ref="171811406"/>
+    <nd ref="2910323076"/>
+    <nd ref="2910323077"/>
+    <nd ref="171811410"/>
+    <nd ref="2910323078"/>
+    <nd ref="2910323079"/>
+    <nd ref="2910323080"/>
+    <nd ref="2910323081"/>
+    <nd ref="2910323082"/>
+    <nd ref="171811414"/>
+    <nd ref="2910323083"/>
+    <nd ref="2910323085"/>
+    <nd ref="2910323088"/>
+    <nd ref="2910323086"/>
+    <nd ref="2783503516"/>
+    <nd ref="2910323084"/>
+    <nd ref="2910323087"/>
+    <nd ref="2783503517"/>
+    <nd ref="171811417"/>
+    <nd ref="171767767"/>
+    <nd ref="171811419"/>
+    <nd ref="2910323089"/>
+    <nd ref="171811422"/>
+    <nd ref="2910323090"/>
+    <nd ref="2862559094"/>
+    <nd ref="2862559095"/>
+    <nd ref="2910323091"/>
+    <nd ref="2862559096"/>
+    <nd ref="2862559097"/>
+    <nd ref="2862559098"/>
+    <nd ref="2910323092"/>
+    <nd ref="2910323093"/>
+    <nd ref="171811424"/>
+    <nd ref="2910323094"/>
+    <nd ref="2783830861"/>
+    <nd ref="2783830860"/>
+    <nd ref="2783830859"/>
+    <nd ref="171808556"/>
+    <nd ref="171811426"/>
+    <nd ref="2783830856"/>
+    <nd ref="2783830858"/>
+    <nd ref="2783830904"/>
+    <nd ref="2783830857"/>
+    <nd ref="171662043"/>
+    <nd ref="171811428"/>
+    <nd ref="2783830855"/>
+    <nd ref="2783830854"/>
+    <nd ref="2783830853"/>
+    <nd ref="2783830852"/>
+    <nd ref="2783830851"/>
+    <nd ref="2783830862"/>
+    <nd ref="2783830863"/>
+    <nd ref="171811429"/>
+    <nd ref="171661637"/>
+    <nd ref="2783830864"/>
+    <nd ref="2783830866"/>
+    <nd ref="2783830865"/>
+    <nd ref="2783830867"/>
+    <nd ref="171811431"/>
+    <nd ref="2783830869"/>
+    <nd ref="2783830868"/>
+    <nd ref="2783830870"/>
+    <nd ref="2783830892"/>
+    <nd ref="171811434"/>
+    <nd ref="2783830877"/>
+    <nd ref="2783830876"/>
+    <nd ref="2783830875"/>
+    <nd ref="2783830872"/>
+    <nd ref="2783830874"/>
+    <nd ref="2783830873"/>
+    <nd ref="2783830871"/>
+    <nd ref="2783830878"/>
+    <nd ref="2783830880"/>
+    <nd ref="2783830881"/>
+    <nd ref="2783830879"/>
+    <nd ref="171811436"/>
+    <nd ref="2783830882"/>
+    <nd ref="171811438"/>
+    <nd ref="2783830883"/>
+    <nd ref="2783830887"/>
+    <nd ref="2783830884"/>
+    <nd ref="2783830886"/>
+    <nd ref="2783830885"/>
+    <nd ref="171811443"/>
+    <nd ref="171811446"/>
+    <nd ref="171811448"/>
+    <nd ref="171787495"/>
+    <nd ref="171811452"/>
+    <nd ref="2783658846"/>
+    <nd ref="2783658845"/>
+    <nd ref="2783658847"/>
+    <nd ref="171811453"/>
+    <nd ref="171811456"/>
+    <nd ref="2783658849"/>
+    <nd ref="2780918928"/>
+    <nd ref="2783658850"/>
+    <nd ref="171811458"/>
+    <nd ref="2783658855"/>
+    <nd ref="171811461"/>
+    <nd ref="2783658854"/>
+    <nd ref="171811464"/>
+    <nd ref="2783658851"/>
+    <nd ref="171811467"/>
+    <nd ref="2783658852"/>
+    <nd ref="171811469"/>
+    <nd ref="2783658853"/>
+    <nd ref="171713585"/>
+    <nd ref="2757286904"/>
+    <nd ref="171811470"/>
+    <nd ref="2757286900"/>
+    <nd ref="3046345906"/>
+    <nd ref="2757286902"/>
+    <nd ref="3046345907"/>
+    <nd ref="3046345908"/>
+    <nd ref="2757286899"/>
+    <nd ref="3046345909"/>
+    <nd ref="3046345910"/>
+    <nd ref="171811473"/>
+    <nd ref="3046345911"/>
+    <nd ref="2757286897"/>
+    <nd ref="3046345912"/>
+    <nd ref="2757286895"/>
+    <nd ref="3046345913"/>
+    <nd ref="171811475"/>
+    <nd ref="2757286893"/>
+    <nd ref="171811477"/>
+    <nd ref="171811484"/>
+    <nd ref="2757286891"/>
+    <nd ref="2757286889"/>
+    <nd ref="171811489"/>
+    <nd ref="171811492"/>
+    <nd ref="171811493"/>
+    <nd ref="2757286887"/>
+    <nd ref="171811495"/>
+    <nd ref="2757286885"/>
+    <nd ref="171811497"/>
+    <nd ref="2757286884"/>
+    <nd ref="171811499"/>
+    <nd ref="171811501"/>
+    <nd ref="171811504"/>
+    <nd ref="171811507"/>
+    <nd ref="2757286880"/>
+    <nd ref="2757286882"/>
+    <nd ref="171811509"/>
+    <nd ref="171811511"/>
+    <nd ref="171811513"/>
+    <nd ref="171811515"/>
+    <nd ref="171811517"/>
+    <nd ref="171810924"/>
+    <nd ref="2757286878"/>
+    <nd ref="2757286876"/>
+    <nd ref="171795242"/>
+    <nd ref="171811523"/>
+    <nd ref="2906081614"/>
+    <nd ref="2757286874"/>
+    <nd ref="2906081617"/>
+    <nd ref="2757286872"/>
+    <nd ref="2906081621"/>
+    <nd ref="2757286869"/>
+    <nd ref="2757286871"/>
+    <nd ref="171811526"/>
+    <nd ref="2757286865"/>
+    <nd ref="2757286867"/>
+    <nd ref="2757286864"/>
+    <nd ref="2757286862"/>
+    <nd ref="171811529"/>
+    <nd ref="2757286860"/>
+    <nd ref="171811532"/>
+    <nd ref="171811535"/>
+    <nd ref="171811538"/>
+    <nd ref="2757286858"/>
+    <nd ref="171811541"/>
+    <nd ref="171811544"/>
+    <nd ref="171811547"/>
+    <nd ref="171811550"/>
+    <nd ref="171811554"/>
+    <nd ref="171811557"/>
+    <nd ref="171811559"/>
+    <nd ref="2757286856"/>
+    <nd ref="2757286855"/>
+    <nd ref="171811561"/>
+    <nd ref="2757286853"/>
+    <nd ref="2757286851"/>
+    <nd ref="2757286849"/>
+    <nd ref="171811563"/>
+    <nd ref="2757286847"/>
+    <nd ref="171811565"/>
+    <nd ref="171811566"/>
+    <nd ref="2757286805"/>
+    <nd ref="2757286809"/>
+    <nd ref="171811568"/>
+    <nd ref="2757286811"/>
+    <nd ref="2757286813"/>
+    <nd ref="171811570"/>
+    <nd ref="2757286815"/>
+    <nd ref="2757286816"/>
+    <nd ref="171811573"/>
+    <nd ref="171811575"/>
+    <nd ref="171811577"/>
+    <nd ref="2757286818"/>
+    <nd ref="2757286820"/>
+    <nd ref="2757286822"/>
+    <nd ref="2757286829"/>
+    <nd ref="171676368"/>
+    <nd ref="2757286831"/>
+    <nd ref="2757286824"/>
+    <nd ref="171811579"/>
+    <nd ref="171786614"/>
+    <nd ref="2757286832"/>
+    <nd ref="171811580"/>
+    <nd ref="2757286834"/>
+    <nd ref="2757286836"/>
+    <nd ref="2757286835"/>
+    <nd ref="2757286837"/>
+    <nd ref="171811582"/>
+    <nd ref="2757286838"/>
+    <nd ref="171811584"/>
+    <nd ref="171786628"/>
+    <nd ref="2906132126"/>
+    <nd ref="171797508"/>
+    <nd ref="171762000"/>
+    <nd ref="171811586"/>
+    <nd ref="2757286846"/>
+    <nd ref="171811588"/>
+    <nd ref="171811590"/>
+    <nd ref="171663023"/>
+    <nd ref="2906132128"/>
+    <nd ref="2906132129"/>
+    <nd ref="171811592"/>
+    <nd ref="2906132130"/>
+    <nd ref="2906132131"/>
+    <nd ref="171811594"/>
+    <nd ref="2906132134"/>
+    <nd ref="2906132135"/>
+    <nd ref="2906132136"/>
+    <nd ref="171811596"/>
+    <nd ref="171678020"/>
+    <nd ref="171799023"/>
+    <nd ref="171811600"/>
+    <nd ref="2906132140"/>
+    <nd ref="171811602"/>
+    <nd ref="2906132158"/>
+    <nd ref="171811605"/>
+    <nd ref="2906132164"/>
+    <nd ref="2906132166"/>
+    <nd ref="171750344"/>
+    <nd ref="171811607"/>
+    <nd ref="171769556"/>
+    <nd ref="171811608"/>
+    <nd ref="171811609"/>
+    <nd ref="171742613"/>
+    <nd ref="171811610"/>
+    <nd ref="171696015"/>
+    <nd ref="171691336"/>
+    <nd ref="171695885"/>
+    <nd ref="171811611"/>
+    <nd ref="171696047"/>
+    <nd ref="171812002"/>
+    <nd ref="171812003"/>
+    <nd ref="171812005"/>
+    <nd ref="171792311"/>
+    <nd ref="2570879058"/>
+    <nd ref="171812007"/>
+    <nd ref="2570879057"/>
+    <nd ref="171812008"/>
+    <nd ref="171674630"/>
+    <nd ref="171812010"/>
+    <nd ref="171707184"/>
+    <nd ref="2570879056"/>
+    <nd ref="171812012"/>
+    <nd ref="171812013"/>
+    <nd ref="171812014"/>
+    <nd ref="2570879055"/>
+    <nd ref="2570879054"/>
+    <nd ref="171812015"/>
+    <nd ref="171812016"/>
+    <nd ref="2570879053"/>
+    <nd ref="171812017"/>
+    <nd ref="171812019"/>
+    <nd ref="171766849"/>
+    <nd ref="2570879051"/>
+    <nd ref="2570879050"/>
+    <nd ref="171812021"/>
+    <nd ref="171812023"/>
+    <nd ref="2570879049"/>
+    <nd ref="2570879048"/>
+    <nd ref="171812025"/>
+    <nd ref="171812027"/>
+    <nd ref="171812030"/>
+    <nd ref="171812033"/>
+    <nd ref="171812036"/>
+    <nd ref="2570879047"/>
+    <nd ref="2570879046"/>
+    <nd ref="2570879045"/>
+    <nd ref="171812039"/>
+    <nd ref="2570879044"/>
+    <nd ref="171812042"/>
+    <nd ref="171812045"/>
+    <nd ref="2570879043"/>
+    <nd ref="171812048"/>
+    <nd ref="2570879042"/>
+    <nd ref="171812051"/>
+    <nd ref="2570879040"/>
+    <nd ref="2756988753"/>
+    <nd ref="2570879041"/>
+    <nd ref="171812054"/>
+    <nd ref="171812057"/>
+    <nd ref="2570878076"/>
+    <nd ref="2570878075"/>
+    <nd ref="171812060"/>
+    <nd ref="2570878074"/>
+    <nd ref="2756988755"/>
+    <nd ref="171812063"/>
+    <nd ref="2756988756"/>
+    <nd ref="2570878073"/>
+    <nd ref="2756988759"/>
+    <nd ref="2756988760"/>
+    <nd ref="171812065"/>
+    <nd ref="2756988767"/>
+    <nd ref="2570878069"/>
+    <nd ref="2756988766"/>
+    <nd ref="171658439"/>
+    <nd ref="2756988762"/>
+    <nd ref="2570878070"/>
+    <nd ref="2756988763"/>
+    <nd ref="171812067"/>
+    <nd ref="171812069"/>
+    <nd ref="2756988769"/>
+    <nd ref="171812071"/>
+    <nd ref="2570878068"/>
+    <nd ref="171812073"/>
+    <nd ref="171658382"/>
+    <nd ref="171812076"/>
+    <nd ref="2570878067"/>
+    <nd ref="2570878066"/>
+    <nd ref="171812079"/>
+    <nd ref="171812082"/>
+    <nd ref="2570878065"/>
+    <nd ref="2570878064"/>
+    <nd ref="171812083"/>
+    <nd ref="2570878063"/>
+    <nd ref="2570878062"/>
+    <nd ref="171721147"/>
+    <nd ref="2570878061"/>
+    <nd ref="2570878060"/>
+    <nd ref="2570878052"/>
+    <nd ref="171788451"/>
+    <nd ref="171812093"/>
+    <nd ref="171812096"/>
+    <nd ref="171776634"/>
+    <nd ref="171725826"/>
+    <nd ref="171811705"/>
+    <nd ref="171811707"/>
+    <nd ref="171811709"/>
+    <nd ref="171811711"/>
+    <nd ref="171744042"/>
+    <nd ref="171811713"/>
+    <nd ref="171811715"/>
+    <nd ref="171811718"/>
+    <nd ref="171811721"/>
+    <nd ref="171696820"/>
+    <nd ref="2570878051"/>
+    <nd ref="171811724"/>
+    <nd ref="171811726"/>
+    <nd ref="171683894"/>
+    <nd ref="171811729"/>
+    <nd ref="2570878049"/>
+    <nd ref="171811731"/>
+    <nd ref="171683959"/>
+    <nd ref="171811733"/>
+    <nd ref="171732043"/>
+    <nd ref="171811734"/>
+    <nd ref="171811736"/>
+    <nd ref="171811738"/>
+    <nd ref="171811741"/>
+    <nd ref="171811744"/>
+    <nd ref="171749347"/>
+    <nd ref="171811745"/>
+    <nd ref="171811748"/>
+    <nd ref="171811749"/>
+    <nd ref="171811751"/>
+    <nd ref="171811754"/>
+    <nd ref="171811755"/>
+    <nd ref="171811757"/>
+    <nd ref="171811759"/>
+    <nd ref="171811762"/>
+    <nd ref="171811765"/>
+    <nd ref="171811767"/>
+    <nd ref="171660747"/>
+    <nd ref="2570878048"/>
+    <nd ref="171811770"/>
+    <nd ref="2570878047"/>
+    <nd ref="171811773"/>
+    <nd ref="171811776"/>
+    <nd ref="171811779"/>
+    <nd ref="171811782"/>
+    <nd ref="171811785"/>
+    <nd ref="171805816"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="hgv:minlength" v="48 ft"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="ref" v="NC 107"/>
+    <tag k="source:hgv" v="NCDOT http://www.ncdot.gov/doh/preconstruct/traffic/safety/truck/data/Truck_Restrictions.pdf"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="State Highway 107"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16633837">
+    <nd ref="171728096"/>
+    <nd ref="171815859"/>
+    <nd ref="171815863"/>
+    <nd ref="171815866"/>
+    <nd ref="171815869"/>
+    <nd ref="171815873"/>
+    <nd ref="171815875"/>
+    <nd ref="171815879"/>
+    <nd ref="171815883"/>
+    <nd ref="171815885"/>
+    <nd ref="171815888"/>
+    <nd ref="171815891"/>
+    <nd ref="171815893"/>
+    <nd ref="171815899"/>
+    <nd ref="171815903"/>
+    <nd ref="171815907"/>
+    <nd ref="171815911"/>
+    <nd ref="171815915"/>
+    <nd ref="171815920"/>
+    <nd ref="171815923"/>
+    <nd ref="171815925"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ralph Andrews Park Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Ralph Andrews Park"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

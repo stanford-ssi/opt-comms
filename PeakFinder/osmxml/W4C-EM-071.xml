@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="16433274">
+    <nd ref="173214039"/>
+    <nd ref="169608200"/>
+    <nd ref="169608202"/>
+    <nd ref="169608204"/>
+    <nd ref="169608206"/>
+    <nd ref="169608207"/>
+    <nd ref="169608208"/>
+    <nd ref="169608209"/>
+    <nd ref="169608210"/>
+    <nd ref="169608211"/>
+    <nd ref="169608213"/>
+    <nd ref="169608215"/>
+    <nd ref="169608216"/>
+    <nd ref="173176681"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Silver Creek Mtn Road"/>
+    <tag k="name_1" v="Roper Hollow Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Silver Creek Mtn"/>
+    <tag k="tiger:name_base_1" v="Roper Hollow"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16433555">
+    <nd ref="169610599"/>
+    <nd ref="169610601"/>
+    <nd ref="169610603"/>
+    <nd ref="169610607"/>
+    <nd ref="169610610"/>
+    <nd ref="169610613"/>
+    <nd ref="169610616"/>
+    <nd ref="169610619"/>
+    <nd ref="169610622"/>
+    <nd ref="169610625"/>
+    <nd ref="169610628"/>
+    <nd ref="169610631"/>
+    <nd ref="169610633"/>
+    <nd ref="169610635"/>
+    <nd ref="169610637"/>
+    <nd ref="169610638"/>
+    <nd ref="169610640"/>
+    <nd ref="169610642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sims Hill Ridge"/>
+    <tag k="name_1" v="Popular Ridge Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Sims Hill Ridge"/>
+    <tag k="tiger:name_base_1" v="Popular Ridge"/>
+    <tag k="tiger:name_type_1" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16434962">
+    <nd ref="169623679"/>
+    <nd ref="169623681"/>
+    <nd ref="169623683"/>
+    <nd ref="169623685"/>
+    <nd ref="169623687"/>
+    <nd ref="169623688"/>
+    <nd ref="169623689"/>
+    <nd ref="169623690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Country Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="High Country"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16437569">
+    <nd ref="169608211"/>
+    <nd ref="169649231"/>
+    <nd ref="169649233"/>
+    <nd ref="169649238"/>
+    <nd ref="169649240"/>
+    <nd ref="169649242"/>
+    <nd ref="169649244"/>
+    <nd ref="169649246"/>
+    <nd ref="169649249"/>
+    <nd ref="169649250"/>
+    <nd ref="169649251"/>
+    <nd ref="169649253"/>
+    <nd ref="169649254"/>
+    <nd ref="169649256"/>
+    <nd ref="169649259"/>
+    <nd ref="169649262"/>
+    <nd ref="169649266"/>
+    <nd ref="169649271"/>
+    <nd ref="169649274"/>
+    <nd ref="169649278"/>
+    <nd ref="169649281"/>
+    <nd ref="169649285"/>
+    <nd ref="169649288"/>
+    <nd ref="169649291"/>
+    <nd ref="169649294"/>
+    <nd ref="169649297"/>
+    <nd ref="169649300"/>
+    <nd ref="169649302"/>
+    <nd ref="169649306"/>
+    <nd ref="169649308"/>
+    <nd ref="169649311"/>
+    <nd ref="169649314"/>
+    <nd ref="169649317"/>
+    <nd ref="169649320"/>
+    <nd ref="169649322"/>
+    <nd ref="169620153"/>
+    <nd ref="169649324"/>
+    <nd ref="169649327"/>
+    <nd ref="169649329"/>
+    <nd ref="169649334"/>
+    <nd ref="169649337"/>
+    <nd ref="169649340"/>
+    <nd ref="169649342"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Silver Creek Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Silver Creek"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28655"/>
+    <tag k="tiger:zip_right" v="28655"/>
+  </way>
+  <way id="16438899">
+    <nd ref="169649278"/>
+    <nd ref="169666618"/>
+    <nd ref="169666621"/>
+    <nd ref="169666623"/>
+    <nd ref="169666626"/>
+    <nd ref="169666633"/>
+    <nd ref="169666635"/>
+    <nd ref="169666637"/>
+    <nd ref="169666640"/>
+    <nd ref="169666643"/>
+    <nd ref="169623679"/>
+    <nd ref="169666646"/>
+    <nd ref="169666650"/>
+    <nd ref="169666653"/>
+    <nd ref="169666656"/>
+    <nd ref="169666659"/>
+    <nd ref="169666666"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Popular Ridge Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Popular Ridge"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16438901">
+    <nd ref="169666640"/>
+    <nd ref="169666683"/>
+    <nd ref="169666687"/>
+    <nd ref="169666690"/>
+    <nd ref="169666693"/>
+    <nd ref="169666696"/>
+    <nd ref="169666698"/>
+    <nd ref="169666701"/>
+    <nd ref="169666702"/>
+    <nd ref="169666704"/>
+    <nd ref="169610642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Popular Ridge Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:name_base" v="Popular Ridge"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16751851">
+    <nd ref="173176681"/>
+    <nd ref="173176686"/>
+    <nd ref="173176693"/>
+    <nd ref="173176696"/>
+    <nd ref="173176699"/>
+    <nd ref="173176703"/>
+    <nd ref="173176707"/>
+    <nd ref="173176710"/>
+    <nd ref="173176713"/>
+    <nd ref="173176716"/>
+    <nd ref="173176718"/>
+    <nd ref="173176721"/>
+    <nd ref="173176724"/>
+    <nd ref="173176726"/>
+    <nd ref="173176729"/>
+    <nd ref="173176732"/>
+    <nd ref="173176735"/>
+    <nd ref="173176738"/>
+    <nd ref="173176741"/>
+    <nd ref="173176743"/>
+    <nd ref="173176746"/>
+    <nd ref="173176749"/>
+    <nd ref="173176752"/>
+    <nd ref="173176755"/>
+    <nd ref="173176758"/>
+    <nd ref="173176761"/>
+    <nd ref="173176763"/>
+    <nd ref="173176766"/>
+    <nd ref="173176769"/>
+    <nd ref="173176772"/>
+    <nd ref="173176775"/>
+    <nd ref="173176779"/>
+    <nd ref="173176782"/>
+    <nd ref="173176785"/>
+    <nd ref="173176789"/>
+    <nd ref="173176792"/>
+    <nd ref="173176795"/>
+    <nd ref="173176798"/>
+    <nd ref="173176801"/>
+    <nd ref="173176804"/>
+    <nd ref="173176807"/>
+    <nd ref="173176810"/>
+    <nd ref="173176812"/>
+    <nd ref="173176815"/>
+    <nd ref="173176817"/>
+    <nd ref="173176819"/>
+    <nd ref="173176820"/>
+    <nd ref="173176822"/>
+    <nd ref="173176824"/>
+    <nd ref="173176826"/>
+    <nd ref="173176828"/>
+    <nd ref="173176830"/>
+    <nd ref="173176832"/>
+    <nd ref="173176834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19396747:19396746:19396748:19396750:19400043"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+
+</osm>

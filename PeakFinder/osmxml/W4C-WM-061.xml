@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16628986">
+    <nd ref="171759980"/>
+    <nd ref="171759983"/>
+    <nd ref="171759986"/>
+    <nd ref="171746934"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Boulderdash Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Boulderdash"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28717"/>
+  </way>
+  <way id="16633786">
+    <nd ref="171815081"/>
+    <nd ref="171815085"/>
+    <nd ref="171815088"/>
+    <nd ref="171815094"/>
+    <nd ref="171815099"/>
+    <nd ref="171815104"/>
+    <nd ref="171815108"/>
+    <nd ref="171815112"/>
+    <nd ref="171815114"/>
+    <nd ref="171815117"/>
+    <nd ref="171815118"/>
+    <nd ref="171815121"/>
+    <nd ref="171815123"/>
+    <nd ref="171815124"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sassafras Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Sassafras"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28717"/>
+    <tag k="tiger:zip_right" v="28717"/>
+  </way>
+  <way id="16634807">
+    <nd ref="171713239"/>
+    <nd ref="171825683"/>
+    <nd ref="171825689"/>
+    <nd ref="171825696"/>
+    <nd ref="171825699"/>
+    <nd ref="171825702"/>
+    <nd ref="171825704"/>
+    <nd ref="171825706"/>
+    <nd ref="171761988"/>
+    <nd ref="171825709"/>
+    <nd ref="171825712"/>
+    <nd ref="171825716"/>
+    <nd ref="171825719"/>
+    <nd ref="171825722"/>
+    <nd ref="171825725"/>
+    <nd ref="171825728"/>
+    <nd ref="171825731"/>
+    <nd ref="171825735"/>
+    <nd ref="171754982"/>
+    <nd ref="171825737"/>
+    <nd ref="171825738"/>
+    <nd ref="171825740"/>
+    <nd ref="171825742"/>
+    <nd ref="171825744"/>
+    <nd ref="171668104"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chimney Top Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Chimney Top"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

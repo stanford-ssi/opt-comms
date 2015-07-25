@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16448941">
+    <nd ref="169747102"/>
+    <nd ref="169756838"/>
+    <nd ref="169756840"/>
+    <nd ref="169756841"/>
+    <nd ref="169756842"/>
+    <nd ref="169756845"/>
+    <nd ref="169756848"/>
+    <nd ref="169756851"/>
+    <nd ref="169756853"/>
+    <nd ref="169756856"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Picturesque Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Picturesque"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28645"/>
+    <tag k="tiger:zip_right" v="28645"/>
+  </way>
+
+</osm>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12414883">
+    <nd ref="171455225"/>
+    <nd ref="113006786"/>
+    <nd ref="113006790"/>
+    <nd ref="113006792"/>
+    <nd ref="113006794"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Panther Mountain Road"/>
+    <tag k="name_1" v="R-Pd-215"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Panther Mountain"/>
+    <tag k="tiger:name_base_1" v="R-Pd-215"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28790"/>
+    <tag k="tiger:zip_right" v="28790"/>
+  </way>
+  <way id="12414899">
+    <nd ref="112768999"/>
+    <nd ref="113006804"/>
+    <nd ref="113006807"/>
+    <nd ref="113006810"/>
+    <nd ref="113006812"/>
+    <nd ref="113006815"/>
+    <nd ref="113006818"/>
+    <nd ref="113006821"/>
+    <nd ref="113006824"/>
+    <nd ref="113006826"/>
+    <nd ref="113006829"/>
+    <nd ref="113006831"/>
+    <nd ref="113006834"/>
+    <nd ref="113006837"/>
+    <nd ref="113006840"/>
+    <nd ref="113006844"/>
+    <nd ref="113006847"/>
+    <nd ref="113006850"/>
+    <nd ref="112702442"/>
+    <nd ref="113006852"/>
+    <nd ref="113006856"/>
+    <nd ref="113006860"/>
+    <nd ref="113006862"/>
+    <nd ref="113006864"/>
+    <nd ref="113006867"/>
+    <nd ref="113006871"/>
+    <nd ref="113006873"/>
+    <nd ref="113006877"/>
+    <nd ref="113006881"/>
+    <nd ref="113006884"/>
+    <nd ref="113006887"/>
+    <nd ref="113006889"/>
+    <nd ref="113006892"/>
+    <nd ref="171455337"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Panther Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Panther Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16604052">
+    <nd ref="171455225"/>
+    <nd ref="171455227"/>
+    <nd ref="171455229"/>
+    <nd ref="171455231"/>
+    <nd ref="171455233"/>
+    <nd ref="171455236"/>
+    <nd ref="171455239"/>
+    <nd ref="171455242"/>
+    <nd ref="171455245"/>
+    <nd ref="171455248"/>
+    <nd ref="171455251"/>
+    <nd ref="171455254"/>
+    <nd ref="171455257"/>
+    <nd ref="171455259"/>
+    <nd ref="171455261"/>
+    <nd ref="171455263"/>
+    <nd ref="171455264"/>
+    <nd ref="171455266"/>
+    <nd ref="171455268"/>
+    <nd ref="171455270"/>
+    <nd ref="171455273"/>
+    <nd ref="171455275"/>
+    <nd ref="171455277"/>
+    <nd ref="171455279"/>
+    <nd ref="171455282"/>
+    <nd ref="171455288"/>
+    <nd ref="171455291"/>
+    <nd ref="171455294"/>
+    <nd ref="171455298"/>
+    <nd ref="171455300"/>
+    <nd ref="171455302"/>
+    <nd ref="171455304"/>
+    <nd ref="171455306"/>
+    <nd ref="171455308"/>
+    <nd ref="171455310"/>
+    <nd ref="171455312"/>
+    <nd ref="171455314"/>
+    <nd ref="171455316"/>
+    <nd ref="171455319"/>
+    <nd ref="171455321"/>
+    <nd ref="171455323"/>
+    <nd ref="171455325"/>
+    <nd ref="171455328"/>
+    <nd ref="171455331"/>
+    <nd ref="171455334"/>
+    <nd ref="171455337"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Panther Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Panther Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28790"/>
+    <tag k="tiger:zip_right" v="28790"/>
+  </way>
+  <way id="16607080">
+    <nd ref="171493081"/>
+    <nd ref="171493084"/>
+    <nd ref="171493088"/>
+    <nd ref="171493091"/>
+    <nd ref="171493093"/>
+    <nd ref="171493095"/>
+    <nd ref="171493097"/>
+    <nd ref="171493098"/>
+    <nd ref="171493100"/>
+    <nd ref="171493103"/>
+    <nd ref="171493106"/>
+    <nd ref="171493109"/>
+    <nd ref="171493111"/>
+    <nd ref="171493113"/>
+    <nd ref="171493115"/>
+    <nd ref="171493117"/>
+    <nd ref="171493119"/>
+    <nd ref="171493121"/>
+    <nd ref="171493123"/>
+    <nd ref="171493126"/>
+    <nd ref="171493129"/>
+    <nd ref="171493132"/>
+    <nd ref="171493135"/>
+    <nd ref="171493140"/>
+    <nd ref="171493144"/>
+    <nd ref="171493146"/>
+    <nd ref="171493149"/>
+    <nd ref="171493152"/>
+    <nd ref="171493155"/>
+    <nd ref="171493157"/>
+    <nd ref="171493160"/>
+    <nd ref="171493163"/>
+    <nd ref="171493166"/>
+    <nd ref="171493169"/>
+    <nd ref="171493171"/>
+    <nd ref="171493173"/>
+    <nd ref="171493175"/>
+    <nd ref="171493177"/>
+    <nd ref="171493179"/>
+    <nd ref="171493183"/>
+    <nd ref="171493191"/>
+    <nd ref="171493193"/>
+    <nd ref="171493195"/>
+    <nd ref="171493198"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Spruce Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Spruce"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28790"/>
+    <tag k="tiger:zip_right" v="28790"/>
+  </way>
+  <way id="16617383">
+    <nd ref="112768936"/>
+    <nd ref="1855170337"/>
+    <nd ref="171626483"/>
+    <nd ref="171626485"/>
+    <nd ref="171626488"/>
+    <nd ref="171626490"/>
+    <nd ref="171626493"/>
+    <nd ref="171455239"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wild Magnolia Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Wild Magnolia"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="152325695"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-0c75143d-1331-45bb-92f6-056b4a72085a"/>
+    <tag k="tiger:zip_left" v="28790"/>
+    <tag k="tiger:zip_right" v="28790"/>
+  </way>
+  <way id="302946681">
+    <nd ref="3072274920"/>
+    <nd ref="3072274923"/>
+    <nd ref="3072274926"/>
+    <nd ref="3072274928"/>
+    <nd ref="3072274930"/>
+    <nd ref="3072274932"/>
+    <nd ref="3072274933"/>
+    <nd ref="3072274934"/>
+    <nd ref="3072274935"/>
+    <nd ref="3072274937"/>
+    <nd ref="3072274936"/>
+    <nd ref="3072274938"/>
+    <nd ref="3072274939"/>
+    <nd ref="3072274940"/>
+    <nd ref="3072274945"/>
+    <nd ref="3072274946"/>
+    <nd ref="3072274949"/>
+    <nd ref="3072274951"/>
+    <nd ref="3072274947"/>
+    <nd ref="3072274948"/>
+    <nd ref="3072274950"/>
+    <nd ref="3072274952"/>
+    <nd ref="3072274953"/>
+    <nd ref="3072274954"/>
+    <nd ref="3072274955"/>
+    <nd ref="3072274956"/>
+    <nd ref="3072274958"/>
+    <nd ref="3072274963"/>
+    <nd ref="3072274964"/>
+    <nd ref="3072274966"/>
+    <nd ref="3072274968"/>
+    <nd ref="3072274969"/>
+    <nd ref="3072274970"/>
+    <nd ref="3072274971"/>
+    <nd ref="3072274974"/>
+    <nd ref="3072274977"/>
+    <nd ref="3072274979"/>
+    <nd ref="3072274980"/>
+    <nd ref="3072274983"/>
+    <nd ref="3072274984"/>
+    <nd ref="3072274986"/>
+    <nd ref="3072274987"/>
+    <nd ref="3072274989"/>
+    <nd ref="3072274997"/>
+    <nd ref="3072275003"/>
+    <nd ref="3072275006"/>
+    <nd ref="3072275011"/>
+    <nd ref="3072275012"/>
+    <nd ref="3072275017"/>
+    <nd ref="3072275022"/>
+    <nd ref="3072275027"/>
+    <nd ref="3072275028"/>
+    <nd ref="3072275030"/>
+    <nd ref="3072275032"/>
+    <nd ref="3072275035"/>
+    <nd ref="3072275037"/>
+    <nd ref="3072275039"/>
+    <nd ref="3072275041"/>
+    <nd ref="3072275042"/>
+    <nd ref="3072275045"/>
+    <nd ref="3072275047"/>
+    <nd ref="3072275051"/>
+    <nd ref="3072275053"/>
+    <nd ref="3072275055"/>
+    <nd ref="3072275060"/>
+    <nd ref="3072275068"/>
+    <nd ref="3072275071"/>
+    <nd ref="3072275074"/>
+    <nd ref="3072275079"/>
+    <nd ref="3072275093"/>
+    <nd ref="3072275098"/>
+    <nd ref="3072275103"/>
+    <nd ref="3072275109"/>
+    <nd ref="3072275110"/>
+    <nd ref="3072275114"/>
+    <nd ref="3072275115"/>
+    <nd ref="3072275116"/>
+    <nd ref="3072275112"/>
+    <nd ref="3072275107"/>
+    <nd ref="3072275105"/>
+    <nd ref="3072275104"/>
+    <nd ref="3072275101"/>
+    <nd ref="3072275096"/>
+    <nd ref="3072275089"/>
+    <nd ref="3072275085"/>
+    <nd ref="3072275080"/>
+    <nd ref="3072275078"/>
+    <nd ref="3072275077"/>
+    <nd ref="3072275082"/>
+    <nd ref="3072275088"/>
+    <nd ref="3072275095"/>
+    <nd ref="3072275099"/>
+    <nd ref="3072275102"/>
+    <nd ref="3072275100"/>
+    <nd ref="3072275097"/>
+    <nd ref="3072275091"/>
+    <nd ref="3072275083"/>
+    <nd ref="3072275084"/>
+    <nd ref="3072275090"/>
+    <nd ref="3072275092"/>
+    <nd ref="3072275087"/>
+    <nd ref="3072275081"/>
+    <nd ref="3072275076"/>
+    <nd ref="3072275072"/>
+    <nd ref="3072275069"/>
+    <nd ref="3072275067"/>
+    <nd ref="3072275066"/>
+    <nd ref="3072275065"/>
+    <nd ref="3072275064"/>
+    <nd ref="3072275062"/>
+    <nd ref="3072275061"/>
+    <nd ref="3072275059"/>
+    <nd ref="3072275057"/>
+    <nd ref="3072275056"/>
+    <nd ref="3072275052"/>
+    <nd ref="3072275050"/>
+    <nd ref="3072275048"/>
+    <nd ref="3072275043"/>
+    <nd ref="3072275034"/>
+    <nd ref="3072275014"/>
+    <nd ref="3072275005"/>
+    <nd ref="3072275000"/>
+    <nd ref="3072274995"/>
+    <nd ref="3072274993"/>
+    <nd ref="3072274994"/>
+    <nd ref="3072274999"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Panther Park Trail"/>
+  </way>
+  <way id="302946691">
+    <nd ref="3072275238"/>
+    <nd ref="3072275240"/>
+    <nd ref="3072275241"/>
+    <nd ref="3072275242"/>
+    <nd ref="3072275243"/>
+    <nd ref="3072275244"/>
+    <nd ref="3072275245"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peaceful Night Trail"/>
+  </way>
+  <way id="302946716">
+    <nd ref="113006794"/>
+    <nd ref="3072275239"/>
+    <nd ref="3072275238"/>
+    <nd ref="3072275237"/>
+    <nd ref="3072275236"/>
+    <nd ref="3072275235"/>
+    <nd ref="3072275234"/>
+    <nd ref="3072275130"/>
+    <nd ref="3072275122"/>
+    <nd ref="3072275119"/>
+    <nd ref="3072275106"/>
+    <nd ref="3072275094"/>
+    <nd ref="3072275073"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="302946735">
+    <nd ref="3072275106"/>
+    <nd ref="3072275108"/>
+    <nd ref="3072275113"/>
+    <nd ref="3072275118"/>
+    <nd ref="3072275121"/>
+    <nd ref="3072275125"/>
+    <nd ref="3072275127"/>
+    <nd ref="3072275131"/>
+    <nd ref="3072275132"/>
+    <nd ref="3072275233"/>
+    <nd ref="3072275128"/>
+    <nd ref="3072275126"/>
+    <nd ref="3072275124"/>
+    <nd ref="3072275123"/>
+    <nd ref="3072275120"/>
+    <nd ref="3072275117"/>
+    <nd ref="3072275111"/>
+    <nd ref="3072275086"/>
+    <nd ref="3072275075"/>
+    <nd ref="3072275070"/>
+    <nd ref="3072275063"/>
+    <nd ref="3072275058"/>
+    <nd ref="3072275054"/>
+    <nd ref="3072275049"/>
+    <nd ref="3072275046"/>
+    <nd ref="3072275044"/>
+    <nd ref="3072275040"/>
+    <nd ref="3072275038"/>
+    <nd ref="3072275036"/>
+    <nd ref="3072275033"/>
+    <nd ref="3072275031"/>
+    <nd ref="3072275029"/>
+    <nd ref="3072275024"/>
+    <nd ref="3072275021"/>
+    <nd ref="3072275019"/>
+    <nd ref="3072275016"/>
+    <nd ref="3072275015"/>
+    <nd ref="3072275018"/>
+    <nd ref="3072275023"/>
+    <nd ref="3072275026"/>
+    <nd ref="3072275025"/>
+    <nd ref="3072275020"/>
+    <nd ref="3072275013"/>
+    <nd ref="3072275010"/>
+    <nd ref="3072275004"/>
+    <nd ref="3072274999"/>
+    <tag k="highway" v="residential"/>
+  </way>
+
+</osm>

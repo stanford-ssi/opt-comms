@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16602002">
+    <nd ref="171332926"/>
+    <nd ref="171429224"/>
+    <nd ref="171429227"/>
+    <nd ref="171429230"/>
+    <nd ref="171429233"/>
+    <nd ref="171429236"/>
+    <nd ref="171423249"/>
+    <nd ref="171429239"/>
+    <nd ref="171429241"/>
+    <nd ref="171429243"/>
+    <nd ref="171429245"/>
+    <nd ref="171429247"/>
+    <nd ref="171429250"/>
+    <nd ref="171429252"/>
+    <nd ref="171429254"/>
+    <nd ref="171429256"/>
+    <nd ref="171429258"/>
+    <nd ref="171429261"/>
+    <nd ref="171429264"/>
+    <nd ref="171429267"/>
+    <nd ref="171429270"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pioneer Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Pioneer Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

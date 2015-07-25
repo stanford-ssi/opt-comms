@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16475290">
+    <nd ref="170061719"/>
+    <nd ref="170061721"/>
+    <nd ref="170061723"/>
+    <nd ref="170061726"/>
+    <nd ref="170061729"/>
+    <nd ref="170061732"/>
+    <nd ref="170061734"/>
+    <nd ref="170061739"/>
+    <nd ref="170061741"/>
+    <nd ref="170061743"/>
+    <nd ref="170061748"/>
+    <nd ref="170061753"/>
+    <nd ref="170061757"/>
+    <nd ref="170061760"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35945963:35946465"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+  </way>
+
+</osm>

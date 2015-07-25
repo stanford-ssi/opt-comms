@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16654936">
+    <nd ref="172045383"/>
+    <nd ref="172045385"/>
+    <nd ref="172045388"/>
+    <nd ref="172045391"/>
+    <nd ref="172045394"/>
+    <nd ref="172045398"/>
+    <nd ref="172045400"/>
+    <nd ref="172045402"/>
+    <nd ref="172045404"/>
+    <nd ref="172045410"/>
+    <nd ref="172045413"/>
+    <nd ref="172045415"/>
+    <nd ref="172045417"/>
+    <nd ref="172045419"/>
+    <nd ref="172045421"/>
+    <nd ref="172045423"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mountain Air Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Mountain Air"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+    <tag k="tiger:zip_right" v="28734"/>
+  </way>
+
+</osm>

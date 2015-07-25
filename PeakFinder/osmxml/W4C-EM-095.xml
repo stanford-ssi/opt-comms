@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16444411">
+    <nd ref="169715375"/>
+    <nd ref="169715377"/>
+    <nd ref="169715379"/>
+    <nd ref="169715381"/>
+    <nd ref="169715384"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45855456:45855457"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+  <way id="16449007">
+    <nd ref="169757351"/>
+    <nd ref="169757354"/>
+    <nd ref="169757356"/>
+    <nd ref="169757358"/>
+    <nd ref="169757360"/>
+    <nd ref="169757362"/>
+    <nd ref="169757364"/>
+    <nd ref="169757367"/>
+    <nd ref="169757369"/>
+    <nd ref="169715462"/>
+    <nd ref="169729425"/>
+    <nd ref="169757372"/>
+    <nd ref="169730583"/>
+    <nd ref="169757373"/>
+    <nd ref="169757375"/>
+    <nd ref="169757377"/>
+    <nd ref="169757380"/>
+    <nd ref="169757383"/>
+    <nd ref="169757387"/>
+    <nd ref="169757390"/>
+    <nd ref="169757393"/>
+    <nd ref="169757395"/>
+    <nd ref="169757397"/>
+    <nd ref="169757398"/>
+    <nd ref="169757399"/>
+    <nd ref="169757400"/>
+    <nd ref="169757404"/>
+    <nd ref="169757406"/>
+    <nd ref="169757407"/>
+    <nd ref="169757410"/>
+    <nd ref="169757412"/>
+    <nd ref="169757413"/>
+    <nd ref="169757416"/>
+    <nd ref="169757419"/>
+    <nd ref="169757422"/>
+    <nd ref="169757425"/>
+    <nd ref="169757428"/>
+    <nd ref="169757430"/>
+    <nd ref="169757433"/>
+    <nd ref="169757437"/>
+    <nd ref="169757439"/>
+    <nd ref="169757441"/>
+    <nd ref="169757443"/>
+    <nd ref="169757445"/>
+    <nd ref="169757447"/>
+    <nd ref="169757450"/>
+    <nd ref="169757453"/>
+    <nd ref="169757456"/>
+    <nd ref="169757459"/>
+    <nd ref="169757462"/>
+    <nd ref="169757465"/>
+    <nd ref="169757467"/>
+    <nd ref="169715375"/>
+    <nd ref="169757470"/>
+    <nd ref="169757474"/>
+    <nd ref="169729362"/>
+    <nd ref="169757477"/>
+    <nd ref="169757480"/>
+    <nd ref="169757483"/>
+    <nd ref="169715031"/>
+    <nd ref="169757488"/>
+    <nd ref="169757490"/>
+    <nd ref="169757492"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Globe Mtn Road"/>
+    <tag k="name_1" v="State Road 1368"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:name_base" v="Globe Mtn"/>
+    <tag k="tiger:name_base_1" v="State Road 1368"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

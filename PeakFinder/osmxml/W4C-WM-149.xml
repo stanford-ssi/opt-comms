@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16774111">
+    <nd ref="173480125"/>
+    <nd ref="173480128"/>
+    <nd ref="173480131"/>
+    <nd ref="173480134"/>
+    <nd ref="173480137"/>
+    <nd ref="173480143"/>
+    <nd ref="173480147"/>
+    <nd ref="173480149"/>
+    <nd ref="173480152"/>
+    <nd ref="173480155"/>
+    <nd ref="173480158"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36124747"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16774621">
+    <nd ref="173487943"/>
+    <nd ref="173487944"/>
+    <nd ref="173487947"/>
+    <nd ref="173487949"/>
+    <nd ref="173487952"/>
+    <nd ref="173487953"/>
+    <nd ref="173487956"/>
+    <nd ref="173487959"/>
+    <nd ref="173487960"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36124709"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16775955">
+    <nd ref="173507200"/>
+    <nd ref="173507203"/>
+    <nd ref="173507206"/>
+    <nd ref="173507209"/>
+    <nd ref="173507212"/>
+    <nd ref="173507215"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36124771"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16776080">
+    <nd ref="2893987336"/>
+    <nd ref="2893987335"/>
+    <nd ref="2893987333"/>
+    <nd ref="2893987331"/>
+    <nd ref="2893987330"/>
+    <nd ref="2893987328"/>
+    <nd ref="2893987326"/>
+    <nd ref="2893987324"/>
+    <nd ref="2893987322"/>
+    <nd ref="2893987319"/>
+    <nd ref="2893987316"/>
+    <nd ref="2893987312"/>
+    <nd ref="2893987309"/>
+    <nd ref="2893987306"/>
+    <nd ref="2893987304"/>
+    <nd ref="2893987302"/>
+    <nd ref="2893987200"/>
+    <nd ref="2893987196"/>
+    <nd ref="2893987195"/>
+    <nd ref="2893987192"/>
+    <nd ref="2893987189"/>
+    <nd ref="2893987186"/>
+    <nd ref="2893987185"/>
+    <nd ref="173508909"/>
+    <nd ref="173508906"/>
+    <nd ref="173508912"/>
+    <nd ref="2775839450"/>
+    <nd ref="2775839448"/>
+    <nd ref="173508900"/>
+    <nd ref="2775839449"/>
+    <nd ref="2775839446"/>
+    <nd ref="2893987149"/>
+    <nd ref="2893987145"/>
+    <nd ref="2893987133"/>
+    <nd ref="2893987130"/>
+    <nd ref="2893987126"/>
+    <nd ref="2893987124"/>
+    <nd ref="2893987121"/>
+    <nd ref="2893987119"/>
+    <nd ref="2893987116"/>
+    <nd ref="2893987112"/>
+    <nd ref="2893978798"/>
+    <nd ref="2893978792"/>
+    <nd ref="2893978782"/>
+    <nd ref="173508898"/>
+    <nd ref="2893978781"/>
+    <nd ref="2893978780"/>
+    <nd ref="2893978779"/>
+    <nd ref="2893978778"/>
+    <nd ref="2893978775"/>
+    <nd ref="2893978772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Galbraith Creek Road"/>
+    <tag k="name_1" v="State Road 1351"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Galbraith Creek"/>
+    <tag k="tiger:name_base_1" v="State Road 1351"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+  </way>
+  <way id="16776819">
+    <nd ref="173524448"/>
+    <nd ref="173524450"/>
+    <nd ref="173487943"/>
+    <nd ref="173524452"/>
+    <nd ref="173480125"/>
+    <nd ref="173524454"/>
+    <nd ref="173524456"/>
+    <nd ref="173507200"/>
+    <nd ref="173524458"/>
+    <nd ref="173524460"/>
+    <nd ref="173524465"/>
+    <nd ref="173524468"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="John Henderson Drive"/>
+    <tag k="name_1" v="State Road 1352"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="John Henderson"/>
+    <tag k="tiger:name_base_1" v="State Road 1352"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777388">
+    <nd ref="2454567995"/>
+    <nd ref="2454567970"/>
+    <nd ref="2454567959"/>
+    <nd ref="173537379"/>
+    <nd ref="173537383"/>
+    <nd ref="2454567931"/>
+    <nd ref="2454567923"/>
+    <nd ref="173537376"/>
+    <nd ref="2454567914"/>
+    <nd ref="2454567904"/>
+    <nd ref="173537373"/>
+    <nd ref="2454567890"/>
+    <nd ref="2454567883"/>
+    <nd ref="2454567875"/>
+    <nd ref="2454567863"/>
+    <nd ref="2454567858"/>
+    <nd ref="173537370"/>
+    <nd ref="2454567849"/>
+    <nd ref="2454567840"/>
+    <nd ref="173537366"/>
+    <nd ref="2454567775"/>
+    <nd ref="2454567770"/>
+    <nd ref="173508914"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Galbraith Creek Road"/>
+    <tag k="source" v="NPS"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tracktype" v="grade1"/>
+  </way>
+
+</osm>

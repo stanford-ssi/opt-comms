@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16429743">
+    <nd ref="169581124"/>
+    <nd ref="169581126"/>
+    <nd ref="169581128"/>
+    <nd ref="169581130"/>
+    <nd ref="169581132"/>
+    <nd ref="169581135"/>
+    <nd ref="169581137"/>
+    <nd ref="169581139"/>
+    <nd ref="169581141"/>
+    <nd ref="169581143"/>
+    <nd ref="169581144"/>
+    <nd ref="169581145"/>
+    <nd ref="169581146"/>
+    <nd ref="169581147"/>
+    <nd ref="169581148"/>
+    <nd ref="169581151"/>
+    <nd ref="169581153"/>
+    <nd ref="169581155"/>
+    <nd ref="169581158"/>
+    <nd ref="169581161"/>
+    <nd ref="169581163"/>
+    <nd ref="169581164"/>
+    <nd ref="169581166"/>
+    <nd ref="169581169"/>
+    <nd ref="169581171"/>
+    <nd ref="169581172"/>
+    <nd ref="169581181"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elkins Mt Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Elkins Mt"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28715"/>
+    <tag k="tiger:zip_right" v="28715"/>
+  </way>
+  <way id="16438696">
+    <nd ref="169663984"/>
+    <nd ref="169663986"/>
+    <nd ref="169663988"/>
+    <nd ref="169663990"/>
+    <nd ref="169663991"/>
+    <nd ref="169663992"/>
+    <nd ref="169663993"/>
+    <nd ref="169663996"/>
+    <nd ref="169664000"/>
+    <nd ref="169664002"/>
+    <nd ref="169664003"/>
+    <nd ref="169664004"/>
+    <nd ref="169664007"/>
+    <nd ref="169664010"/>
+    <nd ref="169664013"/>
+    <nd ref="169664015"/>
+    <nd ref="169664017"/>
+    <nd ref="169664019"/>
+    <nd ref="169664025"/>
+    <nd ref="169664027"/>
+    <nd ref="169664029"/>
+    <nd ref="169664032"/>
+    <nd ref="169664034"/>
+    <nd ref="169664036"/>
+    <nd ref="169664038"/>
+    <nd ref="169664040"/>
+    <nd ref="169664042"/>
+    <nd ref="169664044"/>
+    <nd ref="169664047"/>
+    <nd ref="169664052"/>
+    <nd ref="169664055"/>
+    <nd ref="169664057"/>
+    <nd ref="169664059"/>
+    <nd ref="169664061"/>
+    <nd ref="169664063"/>
+    <nd ref="169664066"/>
+    <nd ref="169664069"/>
+    <nd ref="169664071"/>
+    <nd ref="169547116"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Holcombe Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Holcombe Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

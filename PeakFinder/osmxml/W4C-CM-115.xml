@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="16436298">
+    <nd ref="169635945"/>
+    <nd ref="169635947"/>
+    <nd ref="169635949"/>
+    <nd ref="169635951"/>
+    <nd ref="169635953"/>
+    <nd ref="169635956"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Fawn's Rest"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Fawn's Rest"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36914962:36914964:36914965"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16439208">
+    <nd ref="169634017"/>
+    <nd ref="169608112"/>
+    <nd ref="169669217"/>
+    <nd ref="169669220"/>
+    <nd ref="169669223"/>
+    <nd ref="169538305"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Old Bald Mountain Road"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Old Bald Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16440509">
+    <nd ref="169538305"/>
+    <nd ref="169683542"/>
+    <nd ref="169683544"/>
+    <nd ref="2888356142"/>
+    <nd ref="169683546"/>
+    <nd ref="169683548"/>
+    <nd ref="2888356140"/>
+    <nd ref="2888356132"/>
+    <nd ref="2888356131"/>
+    <nd ref="2888356133"/>
+    <nd ref="2888356134"/>
+    <nd ref="2888356135"/>
+    <nd ref="2888356136"/>
+    <nd ref="2888356139"/>
+    <nd ref="2888356138"/>
+    <nd ref="169683550"/>
+    <nd ref="2888356125"/>
+    <nd ref="2888356116"/>
+    <nd ref="2888356107"/>
+    <nd ref="2888356109"/>
+    <nd ref="169683553"/>
+    <nd ref="2888356119"/>
+    <nd ref="2888356120"/>
+    <nd ref="2888356115"/>
+    <nd ref="2888356111"/>
+    <nd ref="169683552"/>
+    <nd ref="169683557"/>
+    <nd ref="2888356118"/>
+    <nd ref="2888356117"/>
+    <nd ref="2888356122"/>
+    <nd ref="169683560"/>
+    <nd ref="2888356121"/>
+    <nd ref="2888356112"/>
+    <nd ref="169683555"/>
+    <nd ref="2888356114"/>
+    <nd ref="2888356113"/>
+    <nd ref="2888356108"/>
+    <nd ref="169683563"/>
+    <nd ref="2888356106"/>
+    <nd ref="169683565"/>
+    <nd ref="2888356110"/>
+    <nd ref="169683568"/>
+    <nd ref="2888356103"/>
+    <nd ref="169683491"/>
+    <nd ref="2888356101"/>
+    <nd ref="2888356102"/>
+    <nd ref="2888356104"/>
+    <nd ref="2888356105"/>
+    <nd ref="2888356123"/>
+    <nd ref="2888356124"/>
+    <nd ref="2888356126"/>
+    <nd ref="2888356127"/>
+    <nd ref="2888356128"/>
+    <nd ref="2888356129"/>
+    <nd ref="2888356130"/>
+    <nd ref="2888356137"/>
+    <nd ref="2888356141"/>
+    <nd ref="2888356143"/>
+    <nd ref="2888356144"/>
+    <nd ref="2888356145"/>
+    <nd ref="2888356146"/>
+    <nd ref="2888356147"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Mountain Road"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Little Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16447406">
+    <nd ref="169538305"/>
+    <nd ref="169741151"/>
+    <nd ref="169741153"/>
+    <nd ref="169741154"/>
+    <nd ref="169741156"/>
+    <nd ref="169741158"/>
+    <nd ref="169741162"/>
+    <nd ref="169741165"/>
+    <nd ref="169789692"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Bucks Walk"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Bucks"/>
+    <tag k="tiger:name_type" v="Walk"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="197455973">
+    <nd ref="169683568"/>
+    <nd ref="169534712"/>
+    <nd ref="169789668"/>
+    <nd ref="169534732"/>
+    <nd ref="169789670"/>
+    <nd ref="169789671"/>
+    <nd ref="169789673"/>
+    <nd ref="169789676"/>
+    <nd ref="169789678"/>
+    <nd ref="169789680"/>
+    <nd ref="169789683"/>
+    <nd ref="169789686"/>
+    <nd ref="169789688"/>
+    <nd ref="169564685"/>
+    <nd ref="169789692"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Frog Pond Way"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Frog Pond"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

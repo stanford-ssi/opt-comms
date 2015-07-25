@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16648994">
+    <nd ref="171984539"/>
+    <nd ref="171984541"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35506875"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16658098">
+    <nd ref="172022588"/>
+    <nd ref="172097258"/>
+    <nd ref="172097260"/>
+    <nd ref="172049520"/>
+    <nd ref="172097262"/>
+    <nd ref="172097264"/>
+    <nd ref="172097266"/>
+    <nd ref="172097268"/>
+    <nd ref="172097271"/>
+    <nd ref="172051678"/>
+    <nd ref="172097274"/>
+    <nd ref="172023647"/>
+    <nd ref="172097277"/>
+    <nd ref="172097280"/>
+    <nd ref="172097283"/>
+    <nd ref="172097286"/>
+    <nd ref="172097291"/>
+    <nd ref="172097294"/>
+    <nd ref="172097297"/>
+    <nd ref="172030329"/>
+    <nd ref="172097300"/>
+    <nd ref="172097303"/>
+    <nd ref="172097306"/>
+    <nd ref="172097309"/>
+    <nd ref="172097312"/>
+    <nd ref="172097315"/>
+    <nd ref="172097318"/>
+    <nd ref="172097321"/>
+    <nd ref="172097324"/>
+    <nd ref="172097326"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="King Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="King Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658100">
+    <nd ref="172097344"/>
+    <nd ref="172097346"/>
+    <nd ref="172097348"/>
+    <nd ref="172097350"/>
+    <nd ref="172097352"/>
+    <nd ref="172097354"/>
+    <nd ref="172097357"/>
+    <nd ref="172097324"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="King Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="King Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658103">
+    <nd ref="172097366"/>
+    <nd ref="172097369"/>
+    <nd ref="172097344"/>
+    <nd ref="172097372"/>
+    <nd ref="172097375"/>
+    <nd ref="172097378"/>
+    <nd ref="172097381"/>
+    <nd ref="172097384"/>
+    <nd ref="172097387"/>
+    <nd ref="172097390"/>
+    <nd ref="172097393"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="King Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="King Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658340">
+    <nd ref="172097303"/>
+    <nd ref="172097393"/>
+    <nd ref="172097366"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Philips Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Philips"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658341">
+    <nd ref="172097366"/>
+    <nd ref="172099757"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Philips Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Philips"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:40:02Z"/>
+
+  <way id="16594960">
+    <nd ref="171353589"/>
+    <nd ref="171353592"/>
+    <nd ref="171353595"/>
+    <nd ref="171353598"/>
+    <nd ref="171353601"/>
+    <nd ref="171353604"/>
+    <nd ref="171353606"/>
+    <nd ref="171353611"/>
+    <nd ref="171353615"/>
+    <nd ref="171353618"/>
+    <nd ref="171353620"/>
+    <nd ref="171353622"/>
+    <nd ref="171353624"/>
+    <nd ref="171353626"/>
+    <nd ref="171353628"/>
+    <nd ref="171353631"/>
+    <nd ref="171353633"/>
+    <nd ref="171353636"/>
+    <nd ref="171353639"/>
+    <nd ref="171353642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Promiseland Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Promiseland"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16594961">
+    <nd ref="171353642"/>
+    <nd ref="171353661"/>
+    <nd ref="171353664"/>
+    <nd ref="171353667"/>
+    <nd ref="171353670"/>
+    <nd ref="171353673"/>
+    <nd ref="171353676"/>
+    <nd ref="171353679"/>
+    <nd ref="171353682"/>
+    <nd ref="171353685"/>
+    <nd ref="171353688"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Promiseland Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Promiseland"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16595901">
+    <nd ref="171353622"/>
+    <nd ref="171366604"/>
+    <nd ref="171366607"/>
+    <nd ref="171366610"/>
+    <nd ref="171366612"/>
+    <nd ref="171366615"/>
+    <nd ref="171366617"/>
+    <nd ref="171366620"/>
+    <nd ref="171366623"/>
+    <nd ref="171366627"/>
+    <nd ref="171366631"/>
+    <nd ref="171366633"/>
+    <nd ref="171366635"/>
+    <nd ref="171366637"/>
+    <nd ref="171366638"/>
+    <nd ref="171366640"/>
+    <nd ref="171366642"/>
+    <nd ref="171366644"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Meadows Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Meadows"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

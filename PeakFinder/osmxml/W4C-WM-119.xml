@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16468011">
+    <nd ref="169955164"/>
+    <nd ref="169955167"/>
+    <nd ref="169955169"/>
+    <nd ref="169955170"/>
+    <nd ref="169955172"/>
+    <nd ref="169955174"/>
+    <nd ref="169955178"/>
+    <nd ref="169955179"/>
+    <nd ref="169955180"/>
+    <nd ref="169955181"/>
+    <nd ref="169955182"/>
+    <nd ref="169955184"/>
+    <nd ref="169955186"/>
+    <nd ref="169955188"/>
+    <nd ref="169955190"/>
+    <nd ref="169955193"/>
+    <nd ref="169955195"/>
+    <nd ref="169955198"/>
+    <nd ref="169955200"/>
+    <nd ref="169955202"/>
+    <nd ref="169955204"/>
+    <nd ref="169955206"/>
+    <nd ref="169955208"/>
+    <nd ref="169955210"/>
+    <nd ref="169955212"/>
+    <nd ref="169955214"/>
+    <nd ref="169955217"/>
+    <nd ref="169955225"/>
+    <nd ref="169955227"/>
+    <nd ref="169955229"/>
+    <nd ref="169955232"/>
+    <nd ref="169955234"/>
+    <nd ref="169955237"/>
+    <nd ref="169955240"/>
+    <nd ref="169955244"/>
+    <nd ref="169955246"/>
+    <nd ref="169955248"/>
+    <nd ref="169955250"/>
+    <nd ref="169955252"/>
+    <nd ref="169955254"/>
+    <nd ref="169955257"/>
+    <nd ref="169955259"/>
+    <nd ref="169955262"/>
+    <nd ref="169955265"/>
+    <nd ref="169955268"/>
+    <nd ref="169955272"/>
+    <nd ref="169955273"/>
+    <nd ref="169955275"/>
+    <nd ref="169955277"/>
+    <nd ref="169955279"/>
+    <nd ref="169955282"/>
+    <nd ref="169955286"/>
+    <nd ref="169955292"/>
+    <nd ref="169955296"/>
+    <nd ref="169955297"/>
+    <nd ref="169955298"/>
+    <nd ref="169955299"/>
+    <nd ref="169955300"/>
+    <nd ref="169955303"/>
+    <nd ref="169955306"/>
+    <nd ref="169955309"/>
+    <nd ref="169955313"/>
+    <nd ref="169955315"/>
+    <nd ref="169955318"/>
+    <nd ref="169955319"/>
+    <nd ref="169955321"/>
+    <nd ref="169955323"/>
+    <nd ref="169955325"/>
+    <nd ref="169955327"/>
+    <nd ref="169955330"/>
+    <nd ref="169955333"/>
+    <nd ref="169955335"/>
+    <nd ref="169955338"/>
+    <nd ref="169955341"/>
+    <nd ref="169955345"/>
+    <nd ref="169955349"/>
+    <nd ref="169955353"/>
+    <nd ref="169955355"/>
+    <nd ref="169955357"/>
+    <nd ref="169955359"/>
+    <nd ref="169955361"/>
+    <nd ref="169955363"/>
+    <nd ref="169955366"/>
+    <nd ref="169955368"/>
+    <nd ref="169955370"/>
+    <nd ref="169955373"/>
+    <nd ref="169955375"/>
+    <nd ref="169955376"/>
+    <nd ref="169955377"/>
+    <nd ref="169955378"/>
+    <nd ref="169955380"/>
+    <nd ref="169955382"/>
+    <nd ref="169955384"/>
+    <nd ref="169955386"/>
+    <nd ref="169955388"/>
+    <nd ref="169955391"/>
+    <nd ref="169955394"/>
+    <nd ref="169955396"/>
+    <nd ref="169955398"/>
+    <nd ref="169955400"/>
+    <nd ref="169955403"/>
+    <nd ref="169955406"/>
+    <nd ref="169955408"/>
+    <nd ref="169955411"/>
+    <nd ref="169955414"/>
+    <nd ref="169955419"/>
+    <nd ref="169955422"/>
+    <nd ref="169955424"/>
+    <nd ref="169955426"/>
+    <nd ref="169955428"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35834094:35834096:35834098:35834537:35834539:35834367:35843042"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-4d27beb6-d2d0-4773-ad75-d4dd663187df"/>
+  </way>
+
+</osm>

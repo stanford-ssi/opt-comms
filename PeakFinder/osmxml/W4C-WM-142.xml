@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:01:02Z"/>
+
+  <way id="16475676">
+    <nd ref="170066745"/>
+    <nd ref="170066746"/>
+    <nd ref="170066749"/>
+    <nd ref="170066751"/>
+    <nd ref="170066753"/>
+    <nd ref="170066758"/>
+    <nd ref="170066761"/>
+    <nd ref="170066764"/>
+    <nd ref="170066766"/>
+    <nd ref="170066769"/>
+    <nd ref="170066775"/>
+    <nd ref="170066776"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35946244:35946245:35943944"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+  </way>
+  <way id="16475724">
+    <nd ref="170067232"/>
+    <nd ref="170067234"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35946228"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+  </way>
+  <way id="16476315">
+    <nd ref="170075038"/>
+    <nd ref="170075039"/>
+    <nd ref="170075040"/>
+    <nd ref="170075041"/>
+    <nd ref="170075042"/>
+    <nd ref="170075044"/>
+    <nd ref="170075046"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16476749">
+    <nd ref="170082418"/>
+    <nd ref="170082423"/>
+    <nd ref="170082427"/>
+    <nd ref="170082432"/>
+    <nd ref="170082434"/>
+    <nd ref="170082437"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Place"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16476898">
+    <nd ref="170085077"/>
+    <nd ref="170085080"/>
+    <nd ref="170085082"/>
+    <nd ref="170085085"/>
+    <nd ref="170085088"/>
+    <nd ref="170085091"/>
+    <nd ref="170085093"/>
+    <nd ref="170085095"/>
+    <nd ref="170085097"/>
+    <nd ref="170085099"/>
+    <nd ref="170085101"/>
+    <nd ref="170085103"/>
+    <nd ref="170085105"/>
+    <nd ref="170085107"/>
+    <nd ref="170085110"/>
+    <nd ref="170085113"/>
+    <nd ref="170085116"/>
+    <nd ref="170085117"/>
+    <nd ref="170085119"/>
+    <nd ref="170085121"/>
+    <nd ref="170085122"/>
+    <nd ref="170085123"/>
+    <nd ref="170085125"/>
+    <nd ref="170085127"/>
+    <nd ref="170085129"/>
+    <nd ref="170085132"/>
+    <nd ref="170085135"/>
+    <nd ref="170085137"/>
+    <nd ref="170085140"/>
+    <nd ref="170085143"/>
+    <nd ref="170085145"/>
+    <nd ref="170085147"/>
+    <nd ref="170085149"/>
+    <nd ref="170085151"/>
+    <nd ref="170085153"/>
+    <nd ref="170085155"/>
+    <nd ref="170085158"/>
+    <nd ref="170085159"/>
+    <nd ref="170085162"/>
+    <nd ref="170085165"/>
+    <nd ref="170085168"/>
+    <nd ref="170085173"/>
+    <nd ref="170085175"/>
+    <nd ref="170085179"/>
+    <nd ref="170085182"/>
+    <nd ref="170085184"/>
+    <nd ref="170085188"/>
+    <nd ref="170085191"/>
+    <nd ref="170085193"/>
+    <nd ref="170085196"/>
+    <nd ref="170085198"/>
+    <nd ref="170085201"/>
+    <nd ref="170085204"/>
+    <nd ref="170075046"/>
+    <nd ref="170085207"/>
+    <nd ref="170085210"/>
+    <nd ref="170085212"/>
+    <nd ref="170085215"/>
+    <nd ref="170085217"/>
+    <nd ref="170085220"/>
+    <nd ref="170085223"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Road"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16477185">
+    <nd ref="170090572"/>
+    <nd ref="170090573"/>
+    <nd ref="170090574"/>
+    <nd ref="170090575"/>
+    <nd ref="170090576"/>
+    <nd ref="170090577"/>
+    <nd ref="170090578"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagles View Heights"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View Heights"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35944016"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16477219">
+    <nd ref="170091199"/>
+    <nd ref="170091202"/>
+    <nd ref="170091205"/>
+    <nd ref="170091207"/>
+    <nd ref="170091208"/>
+    <nd ref="170091212"/>
+    <nd ref="170091215"/>
+    <nd ref="170091219"/>
+    <nd ref="170091222"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Summit"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View Summit"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35943971:35944018"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16477445">
+    <nd ref="170094177"/>
+    <nd ref="170094179"/>
+    <nd ref="170094181"/>
+    <nd ref="170094184"/>
+    <nd ref="170094187"/>
+    <nd ref="170094190"/>
+    <nd ref="170094192"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Vista"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View Vista"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35944028"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478430">
+    <nd ref="170075041"/>
+    <nd ref="170105027"/>
+    <nd ref="170105028"/>
+    <nd ref="170105031"/>
+    <nd ref="170105033"/>
+    <nd ref="170105036"/>
+    <nd ref="170105039"/>
+    <nd ref="170105041"/>
+    <nd ref="170105043"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Drive"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479207">
+    <nd ref="170082418"/>
+    <nd ref="170115063"/>
+    <nd ref="170115066"/>
+    <nd ref="170115070"/>
+    <nd ref="170115073"/>
+    <nd ref="170115077"/>
+    <nd ref="170094177"/>
+    <nd ref="170115080"/>
+    <nd ref="170115083"/>
+    <nd ref="170115085"/>
+    <nd ref="170115088"/>
+    <nd ref="170115091"/>
+    <nd ref="170067232"/>
+    <nd ref="170115093"/>
+    <nd ref="170115095"/>
+    <nd ref="170115097"/>
+    <nd ref="170115099"/>
+    <nd ref="170115102"/>
+    <nd ref="170115105"/>
+    <nd ref="170115108"/>
+    <nd ref="170115111"/>
+    <nd ref="170115113"/>
+    <nd ref="170115115"/>
+    <nd ref="170115117"/>
+    <nd ref="170115120"/>
+    <nd ref="170115124"/>
+    <nd ref="170115127"/>
+    <nd ref="170085223"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagles View Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479212">
+    <nd ref="170085223"/>
+    <nd ref="170115141"/>
+    <nd ref="170115144"/>
+    <nd ref="170115146"/>
+    <nd ref="170115148"/>
+    <nd ref="170115151"/>
+    <nd ref="170115154"/>
+    <nd ref="170115158"/>
+    <nd ref="170115161"/>
+    <nd ref="170115164"/>
+    <nd ref="170115167"/>
+    <nd ref="170115172"/>
+    <nd ref="170115177"/>
+    <nd ref="170115180"/>
+    <nd ref="170115184"/>
+    <nd ref="170115187"/>
+    <nd ref="170115189"/>
+    <nd ref="170115193"/>
+    <nd ref="170115196"/>
+    <nd ref="170115198"/>
+    <nd ref="170115201"/>
+    <nd ref="170115204"/>
+    <nd ref="170115206"/>
+    <nd ref="170115209"/>
+    <nd ref="170115212"/>
+    <nd ref="170103427"/>
+    <nd ref="170115215"/>
+    <nd ref="170115217"/>
+    <nd ref="170115219"/>
+    <nd ref="170115221"/>
+    <nd ref="170115223"/>
+    <nd ref="170115225"/>
+    <nd ref="170115227"/>
+    <nd ref="170115229"/>
+    <nd ref="170115231"/>
+    <nd ref="170115233"/>
+    <nd ref="170115235"/>
+    <nd ref="170115236"/>
+    <nd ref="170115237"/>
+    <nd ref="170115240"/>
+    <nd ref="170115243"/>
+    <nd ref="170090572"/>
+    <nd ref="170115248"/>
+    <nd ref="170115251"/>
+    <nd ref="170115254"/>
+    <nd ref="170115257"/>
+    <nd ref="170091199"/>
+    <nd ref="170115258"/>
+    <nd ref="170115261"/>
+    <nd ref="170115264"/>
+    <nd ref="170115268"/>
+    <nd ref="170115271"/>
+    <nd ref="170115273"/>
+    <nd ref="170115275"/>
+    <nd ref="170115277"/>
+    <nd ref="170115279"/>
+    <nd ref="170115281"/>
+    <nd ref="170115283"/>
+    <nd ref="170115286"/>
+    <nd ref="170082418"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagles View Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479230">
+    <nd ref="170085158"/>
+    <nd ref="170115623"/>
+    <nd ref="170115625"/>
+    <nd ref="170115628"/>
+    <nd ref="170115632"/>
+    <nd ref="170115635"/>
+    <nd ref="170115639"/>
+    <nd ref="170115642"/>
+    <nd ref="170115644"/>
+    <nd ref="170115646"/>
+    <nd ref="170115649"/>
+    <nd ref="170115652"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Valley"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View Valley"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35944045"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479402">
+    <nd ref="170085159"/>
+    <nd ref="170118256"/>
+    <nd ref="170118259"/>
+    <nd ref="170118261"/>
+    <nd ref="170118263"/>
+    <nd ref="170118266"/>
+    <nd ref="170118268"/>
+    <nd ref="170118270"/>
+    <nd ref="170118272"/>
+    <nd ref="170118274"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Eagles View Trail"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Eagles View"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+
+</osm>

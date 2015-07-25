@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16476601">
+    <nd ref="170079800"/>
+    <nd ref="170079803"/>
+    <nd ref="170079806"/>
+    <nd ref="170079808"/>
+    <nd ref="170079811"/>
+    <nd ref="170079814"/>
+    <nd ref="170079817"/>
+    <nd ref="170079819"/>
+    <nd ref="170079824"/>
+    <nd ref="170079826"/>
+    <nd ref="170079829"/>
+    <nd ref="170079832"/>
+    <nd ref="170079834"/>
+    <nd ref="170079837"/>
+    <nd ref="170079840"/>
+    <nd ref="170079843"/>
+    <nd ref="170079846"/>
+    <nd ref="170070790"/>
+    <nd ref="170079848"/>
+    <nd ref="170079851"/>
+    <nd ref="170079854"/>
+    <nd ref="170079857"/>
+    <nd ref="170079860"/>
+    <nd ref="170079863"/>
+    <nd ref="170079866"/>
+    <nd ref="170079869"/>
+    <nd ref="170079872"/>
+    <nd ref="170079875"/>
+    <nd ref="170070725"/>
+    <nd ref="170079877"/>
+    <nd ref="170079879"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stewart Cove Road"/>
+    <tag k="name_1" v="State Road 1130"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Stewart Cove"/>
+    <tag k="tiger:name_base_1" v="State Road 1130"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28902"/>
+    <tag k="tiger:zip_right" v="28902"/>
+  </way>
+
+</osm>

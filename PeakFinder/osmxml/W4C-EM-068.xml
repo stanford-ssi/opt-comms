@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="16396775">
+    <nd ref="169173858"/>
+    <nd ref="169224628"/>
+    <nd ref="169224629"/>
+    <nd ref="169224630"/>
+    <nd ref="169224632"/>
+    <nd ref="169224634"/>
+    <nd ref="169224636"/>
+    <nd ref="169224638"/>
+    <nd ref="169224640"/>
+    <nd ref="169224642"/>
+    <nd ref="169224644"/>
+    <nd ref="169224647"/>
+    <nd ref="169224649"/>
+    <nd ref="169224650"/>
+    <nd ref="169224653"/>
+    <nd ref="169224655"/>
+    <nd ref="169224657"/>
+    <nd ref="169224659"/>
+    <nd ref="169224661"/>
+    <nd ref="169224663"/>
+    <nd ref="169224665"/>
+    <nd ref="169224667"/>
+    <nd ref="169224670"/>
+    <nd ref="169224673"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Club House Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alleghany, NC"/>
+    <tag k="tiger:name_base" v="Club House"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28623"/>
+    <tag k="tiger:zip_right" v="28623"/>
+  </way>
+  <way id="16398398">
+    <nd ref="169224673"/>
+    <nd ref="169245628"/>
+    <nd ref="169245630"/>
+    <nd ref="169245632"/>
+    <nd ref="169245634"/>
+    <nd ref="169245637"/>
+    <nd ref="169245639"/>
+    <nd ref="169245642"/>
+    <nd ref="169245644"/>
+    <nd ref="169245647"/>
+    <nd ref="169245649"/>
+    <nd ref="169245651"/>
+    <nd ref="169245653"/>
+    <nd ref="169245655"/>
+    <nd ref="169171038"/>
+    <nd ref="169245658"/>
+    <nd ref="169245660"/>
+    <nd ref="169245662"/>
+    <nd ref="169245664"/>
+    <nd ref="169245667"/>
+    <nd ref="169245669"/>
+    <nd ref="169245671"/>
+    <nd ref="169245674"/>
+    <nd ref="169173849"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mt Laurel Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alleghany, NC"/>
+    <tag k="tiger:name_base" v="Mt Laurel"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28623"/>
+    <tag k="tiger:zip_right" v="28623"/>
+  </way>
+
+</osm>

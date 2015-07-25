@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16623489">
+    <nd ref="171699474"/>
+    <nd ref="171699476"/>
+    <nd ref="171699478"/>
+    <nd ref="171699484"/>
+    <nd ref="171699488"/>
+    <nd ref="171699492"/>
+    <nd ref="171699495"/>
+    <nd ref="171699498"/>
+    <nd ref="171699500"/>
+    <nd ref="171699503"/>
+    <nd ref="171699506"/>
+    <nd ref="171699508"/>
+    <nd ref="171699511"/>
+    <nd ref="171699513"/>
+    <nd ref="171699516"/>
+    <nd ref="171699519"/>
+    <nd ref="171699522"/>
+    <nd ref="171699525"/>
+    <nd ref="171699530"/>
+    <nd ref="171699534"/>
+    <nd ref="171699537"/>
+    <nd ref="171699540"/>
+    <nd ref="171699543"/>
+    <nd ref="171699546"/>
+    <nd ref="171699549"/>
+    <nd ref="171699552"/>
+    <nd ref="171699555"/>
+    <nd ref="171699556"/>
+    <nd ref="171699474"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35976443"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16623496">
+    <nd ref="171699624"/>
+    <nd ref="171699627"/>
+    <nd ref="171699630"/>
+    <nd ref="171699633"/>
+    <nd ref="171699636"/>
+    <nd ref="171699638"/>
+    <nd ref="171699642"/>
+    <nd ref="171699645"/>
+    <nd ref="171699648"/>
+    <nd ref="171699650"/>
+    <nd ref="171699653"/>
+    <nd ref="171699656"/>
+    <nd ref="171699659"/>
+    <nd ref="171699662"/>
+    <nd ref="171699664"/>
+    <nd ref="171699666"/>
+    <nd ref="171699668"/>
+    <nd ref="171699670"/>
+    <nd ref="171699672"/>
+    <nd ref="171699675"/>
+    <nd ref="171699678"/>
+    <nd ref="171699681"/>
+    <nd ref="171699684"/>
+    <nd ref="171699686"/>
+    <nd ref="171699476"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35976447:35976461"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+
+</osm>

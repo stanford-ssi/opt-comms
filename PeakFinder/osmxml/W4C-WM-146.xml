@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16475845">
+    <nd ref="170069188"/>
+    <nd ref="170069193"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35941319"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-3f98d720-04b9-4847-b3a4-0309fbb47bf8"/>
+  </way>
+  <way id="16476531">
+    <nd ref="170078635"/>
+    <nd ref="170078638"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Foxfire Court"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Foxfire"/>
+    <tag k="tiger:name_type" v="Ct"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16476612">
+    <nd ref="170079944"/>
+    <nd ref="170079946"/>
+    <nd ref="170079948"/>
+    <nd ref="170079950"/>
+    <nd ref="170079952"/>
+    <nd ref="170078635"/>
+    <nd ref="170079954"/>
+    <nd ref="170079957"/>
+    <nd ref="170079959"/>
+    <nd ref="170079963"/>
+    <nd ref="170079965"/>
+    <nd ref="170079967"/>
+    <nd ref="170079970"/>
+    <nd ref="170079973"/>
+    <nd ref="170079975"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Foxfire Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Foxfire"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16476876">
+    <nd ref="170084553"/>
+    <nd ref="170084555"/>
+    <nd ref="170084558"/>
+    <nd ref="170084559"/>
+    <nd ref="170084562"/>
+    <nd ref="170084564"/>
+    <nd ref="170084567"/>
+    <nd ref="170084571"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Trull Road"/>
+    <tag k="name_1" v="State Road 1335"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Trull"/>
+    <tag k="tiger:name_base_1" v="State Road 1335"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16477647">
+    <nd ref="170096596"/>
+    <nd ref="170096599"/>
+    <nd ref="170096603"/>
+    <nd ref="170096609"/>
+    <nd ref="170096612"/>
+    <nd ref="170096614"/>
+    <nd ref="170096616"/>
+    <nd ref="170096618"/>
+    <nd ref="170096620"/>
+    <nd ref="170096622"/>
+    <nd ref="170096625"/>
+    <nd ref="170096627"/>
+    <nd ref="170096629"/>
+    <nd ref="170096632"/>
+    <nd ref="170096635"/>
+    <nd ref="170069188"/>
+    <nd ref="170096637"/>
+    <nd ref="170096639"/>
+    <nd ref="170096641"/>
+    <nd ref="170096644"/>
+    <nd ref="170096647"/>
+    <nd ref="170096649"/>
+    <nd ref="170096651"/>
+    <nd ref="170096653"/>
+    <nd ref="170096655"/>
+    <nd ref="170096658"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grandview Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Grandview"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478536">
+    <nd ref="170105886"/>
+    <nd ref="170105888"/>
+    <nd ref="170105889"/>
+    <nd ref="170105891"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Indian Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Indian"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478544">
+    <nd ref="170105889"/>
+    <nd ref="170105934"/>
+    <nd ref="170105936"/>
+    <nd ref="170105938"/>
+    <nd ref="170105940"/>
+    <nd ref="170105942"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ash Branch Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Ash Branch"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478569">
+    <nd ref="170105942"/>
+    <nd ref="170106146"/>
+    <nd ref="170106149"/>
+    <nd ref="170106152"/>
+    <nd ref="170106154"/>
+    <nd ref="170106156"/>
+    <nd ref="170106159"/>
+    <nd ref="170106160"/>
+    <nd ref="170106163"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ashe Branch Circle"/>
+    <tag k="name_1" v="Ash Branch Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Ashe Branch"/>
+    <tag k="tiger:name_base_1" v="Ash Branch"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:name_type_1" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16478875">
+    <nd ref="170088416"/>
+    <nd ref="170109291"/>
+    <nd ref="170109293"/>
+    <nd ref="170109295"/>
+    <nd ref="170096596"/>
+    <nd ref="170109298"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cherokee Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Cherokee"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+  <way id="16479104">
+    <nd ref="170077495"/>
+    <nd ref="170113369"/>
+    <nd ref="170113372"/>
+    <nd ref="170113374"/>
+    <nd ref="170113377"/>
+    <nd ref="170113380"/>
+    <nd ref="170076377"/>
+    <nd ref="170113382"/>
+    <nd ref="170113385"/>
+    <nd ref="170113390"/>
+    <nd ref="170106815"/>
+    <nd ref="170113393"/>
+    <nd ref="170113396"/>
+    <nd ref="170113398"/>
+    <nd ref="170113402"/>
+    <nd ref="170113405"/>
+    <nd ref="170113408"/>
+    <nd ref="170113411"/>
+    <nd ref="170113413"/>
+    <nd ref="170113415"/>
+    <nd ref="170101761"/>
+    <nd ref="170113417"/>
+    <nd ref="170113421"/>
+    <nd ref="170113424"/>
+    <nd ref="170113428"/>
+    <nd ref="170113431"/>
+    <nd ref="170113436"/>
+    <nd ref="170113439"/>
+    <nd ref="170113442"/>
+    <nd ref="170113447"/>
+    <nd ref="170113449"/>
+    <nd ref="170095208"/>
+    <nd ref="170113451"/>
+    <nd ref="170113454"/>
+    <nd ref="170113456"/>
+    <nd ref="170113458"/>
+    <nd ref="170113460"/>
+    <nd ref="170079944"/>
+    <nd ref="170113464"/>
+    <nd ref="170105886"/>
+    <nd ref="170113467"/>
+    <nd ref="170113469"/>
+    <nd ref="170113471"/>
+    <nd ref="170113474"/>
+    <nd ref="170113476"/>
+    <nd ref="170088416"/>
+    <nd ref="170113479"/>
+    <nd ref="170113483"/>
+    <nd ref="170113487"/>
+    <nd ref="170113489"/>
+    <nd ref="170104401"/>
+    <nd ref="170113492"/>
+    <nd ref="170113497"/>
+    <nd ref="170113500"/>
+    <nd ref="170113502"/>
+    <nd ref="170113503"/>
+    <nd ref="170113505"/>
+    <nd ref="170113506"/>
+    <nd ref="170113508"/>
+    <nd ref="170113510"/>
+    <nd ref="170113512"/>
+    <nd ref="170113516"/>
+    <nd ref="170113519"/>
+    <nd ref="170113524"/>
+    <nd ref="170077399"/>
+    <nd ref="170113526"/>
+    <nd ref="170113528"/>
+    <nd ref="170113532"/>
+    <nd ref="170113534"/>
+    <nd ref="170113537"/>
+    <nd ref="170113541"/>
+    <nd ref="170113544"/>
+    <nd ref="170113547"/>
+    <nd ref="170113551"/>
+    <nd ref="170113553"/>
+    <nd ref="170113555"/>
+    <nd ref="170077362"/>
+    <nd ref="170113557"/>
+    <nd ref="170113559"/>
+    <nd ref="170113561"/>
+    <nd ref="170113564"/>
+    <nd ref="170113567"/>
+    <nd ref="170113570"/>
+    <nd ref="170113571"/>
+    <nd ref="170113572"/>
+    <nd ref="170113574"/>
+    <nd ref="170113576"/>
+    <nd ref="170113577"/>
+    <nd ref="170113579"/>
+    <nd ref="170094613"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mountain Harbour Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Clay, NC"/>
+    <tag k="tiger:name_base" v="Mountain Harbour"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28904"/>
+    <tag k="tiger:zip_right" v="28904"/>
+  </way>
+
+</osm>

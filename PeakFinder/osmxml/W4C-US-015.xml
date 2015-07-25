@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12498308">
+    <nd ref="3078572511"/>
+    <nd ref="3078572521"/>
+    <nd ref="113804857"/>
+    <nd ref="113804859"/>
+    <nd ref="113804861"/>
+    <nd ref="113804864"/>
+    <nd ref="113804867"/>
+    <nd ref="113804871"/>
+    <nd ref="113804874"/>
+    <nd ref="113804876"/>
+    <nd ref="113804878"/>
+    <nd ref="113804880"/>
+    <nd ref="113804881"/>
+    <nd ref="113804882"/>
+    <nd ref="113804883"/>
+    <nd ref="113804884"/>
+    <nd ref="113804887"/>
+    <nd ref="113804891"/>
+    <nd ref="113804900"/>
+    <nd ref="113804909"/>
+    <nd ref="113804915"/>
+    <nd ref="113804920"/>
+    <nd ref="113804924"/>
+    <nd ref="113804927"/>
+    <nd ref="113804930"/>
+    <nd ref="113804933"/>
+    <nd ref="113804936"/>
+    <nd ref="113804937"/>
+    <nd ref="113804939"/>
+    <nd ref="113804941"/>
+    <nd ref="113804943"/>
+    <nd ref="113804946"/>
+    <nd ref="113804948"/>
+    <nd ref="113804950"/>
+    <nd ref="113804952"/>
+    <nd ref="113804955"/>
+    <nd ref="113804957"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tracktype" v="grade4"/>
+    <tag k="vehicle" v="no"/>
+  </way>
+
+</osm>

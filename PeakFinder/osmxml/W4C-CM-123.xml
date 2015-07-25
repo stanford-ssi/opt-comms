@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16592325">
+    <nd ref="171318631"/>
+    <nd ref="171318634"/>
+    <nd ref="171318637"/>
+    <nd ref="171318640"/>
+    <nd ref="171318643"/>
+    <nd ref="171318646"/>
+    <nd ref="171318651"/>
+    <nd ref="171318655"/>
+    <nd ref="171318657"/>
+    <nd ref="171318660"/>
+    <nd ref="171318663"/>
+    <nd ref="171318666"/>
+    <nd ref="171318671"/>
+    <nd ref="171318674"/>
+    <nd ref="171318677"/>
+    <nd ref="171318679"/>
+    <nd ref="171318681"/>
+    <nd ref="171318684"/>
+    <nd ref="171318686"/>
+    <nd ref="171318691"/>
+    <nd ref="171318694"/>
+    <nd ref="171318697"/>
+    <nd ref="171318701"/>
+    <nd ref="171318704"/>
+    <nd ref="171318706"/>
+    <nd ref="171318708"/>
+    <nd ref="171318710"/>
+    <nd ref="171318712"/>
+    <nd ref="171318714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Aubrey Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Aubrey"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16593330">
+    <nd ref="171330872"/>
+    <nd ref="171288945"/>
+    <nd ref="171330874"/>
+    <nd ref="171330875"/>
+    <nd ref="171330876"/>
+    <nd ref="171330878"/>
+    <nd ref="171330880"/>
+    <nd ref="171330882"/>
+    <nd ref="171330885"/>
+    <nd ref="171330888"/>
+    <nd ref="171330891"/>
+    <nd ref="171330893"/>
+    <nd ref="171330896"/>
+    <nd ref="171330900"/>
+    <nd ref="171330904"/>
+    <nd ref="171330907"/>
+    <nd ref="171330912"/>
+    <nd ref="171330915"/>
+    <nd ref="171330918"/>
+    <nd ref="171330920"/>
+    <nd ref="171330922"/>
+    <nd ref="171330928"/>
+    <nd ref="171330930"/>
+    <nd ref="171330933"/>
+    <nd ref="171330936"/>
+    <nd ref="171330939"/>
+    <nd ref="171330942"/>
+    <nd ref="171330945"/>
+    <nd ref="171330954"/>
+    <nd ref="171330962"/>
+    <nd ref="171330966"/>
+    <nd ref="171330969"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Derby Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Derby"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16593876">
+    <nd ref="171338396"/>
+    <nd ref="171338400"/>
+    <nd ref="171338403"/>
+    <nd ref="171338406"/>
+    <nd ref="171338411"/>
+    <nd ref="171338419"/>
+    <nd ref="171338423"/>
+    <nd ref="171338424"/>
+    <nd ref="171338428"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Courtney Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Courtney"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16594420">
+    <nd ref="171345578"/>
+    <nd ref="171345579"/>
+    <nd ref="171345581"/>
+    <nd ref="171345585"/>
+    <nd ref="171345588"/>
+    <nd ref="171345591"/>
+    <nd ref="171345594"/>
+    <nd ref="171345596"/>
+    <nd ref="171345598"/>
+    <nd ref="171345599"/>
+    <nd ref="171345600"/>
+    <nd ref="171345601"/>
+    <nd ref="171345602"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bell Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Bell"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16594562">
+    <nd ref="171347430"/>
+    <nd ref="171347432"/>
+    <nd ref="171347434"/>
+    <nd ref="171347436"/>
+    <nd ref="171347438"/>
+    <nd ref="171347440"/>
+    <nd ref="171347443"/>
+    <nd ref="171347445"/>
+    <nd ref="171347447"/>
+    <nd ref="171347448"/>
+    <nd ref="171347451"/>
+    <nd ref="171347454"/>
+    <nd ref="171347457"/>
+    <nd ref="171347459"/>
+    <nd ref="171347461"/>
+    <nd ref="171347463"/>
+    <nd ref="171347467"/>
+    <nd ref="171347469"/>
+    <nd ref="171347472"/>
+    <nd ref="171347474"/>
+    <nd ref="171347477"/>
+    <nd ref="171347480"/>
+    <nd ref="171347485"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Falling Glen Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Falling Glen"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16594719">
+    <nd ref="171349573"/>
+    <nd ref="171349574"/>
+    <nd ref="171349576"/>
+    <nd ref="171349578"/>
+    <nd ref="171349580"/>
+    <nd ref="171349582"/>
+    <nd ref="171245163"/>
+    <nd ref="171349584"/>
+    <nd ref="171349585"/>
+    <nd ref="171349588"/>
+    <nd ref="171349590"/>
+    <nd ref="171349592"/>
+    <nd ref="171349595"/>
+    <nd ref="171342225"/>
+    <nd ref="171349598"/>
+    <nd ref="171349601"/>
+    <nd ref="171349603"/>
+    <nd ref="171349606"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stevenson Cove Road"/>
+    <tag k="name_1" v="State Road 1381"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Stevenson Cove"/>
+    <tag k="tiger:name_base_1" v="State Road 1381"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16595727">
+    <nd ref="171347467"/>
+    <nd ref="171364164"/>
+    <nd ref="171364167"/>
+    <nd ref="171364170"/>
+    <nd ref="171364172"/>
+    <nd ref="171364174"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Loop Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Loop"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16599618">
+    <nd ref="171345602"/>
+    <nd ref="171405766"/>
+    <nd ref="171405768"/>
+    <nd ref="171405770"/>
+    <nd ref="171405773"/>
+    <nd ref="171405775"/>
+    <nd ref="171405777"/>
+    <nd ref="171405780"/>
+    <nd ref="171405782"/>
+    <nd ref="171405784"/>
+    <nd ref="171405785"/>
+    <nd ref="171405788"/>
+    <nd ref="171405791"/>
+    <nd ref="171405794"/>
+    <nd ref="171318631"/>
+    <nd ref="171405796"/>
+    <nd ref="171405798"/>
+    <nd ref="171405801"/>
+    <nd ref="171405804"/>
+    <nd ref="171405807"/>
+    <nd ref="171405809"/>
+    <nd ref="171405811"/>
+    <nd ref="171405813"/>
+    <nd ref="171405814"/>
+    <nd ref="171405816"/>
+    <nd ref="171405818"/>
+    <nd ref="171405823"/>
+    <nd ref="171405826"/>
+    <nd ref="171405829"/>
+    <nd ref="171405832"/>
+    <nd ref="171405834"/>
+    <nd ref="171405836"/>
+    <nd ref="171405838"/>
+    <nd ref="171405839"/>
+    <nd ref="171405841"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Maple Springs Drive"/>
+    <tag k="name_1" v="State Road 1398"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Maple Springs"/>
+    <tag k="tiger:name_base_1" v="State Road 1398"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16599637">
+    <nd ref="171405859"/>
+    <nd ref="171405862"/>
+    <nd ref="171405865"/>
+    <nd ref="171405868"/>
+    <nd ref="171405870"/>
+    <nd ref="171405872"/>
+    <nd ref="171405874"/>
+    <nd ref="171405877"/>
+    <nd ref="171405879"/>
+    <nd ref="171405881"/>
+    <nd ref="171405886"/>
+    <nd ref="171405891"/>
+    <nd ref="171405894"/>
+    <nd ref="171405895"/>
+    <nd ref="171405897"/>
+    <nd ref="171405899"/>
+    <nd ref="171405901"/>
+    <nd ref="171405903"/>
+    <nd ref="171405906"/>
+    <nd ref="171338396"/>
+    <nd ref="171405907"/>
+    <nd ref="171405908"/>
+    <nd ref="171405911"/>
+    <nd ref="171405916"/>
+    <nd ref="171405919"/>
+    <nd ref="171405924"/>
+    <nd ref="171405930"/>
+    <nd ref="171405934"/>
+    <nd ref="171405939"/>
+    <nd ref="171405943"/>
+    <nd ref="171405950"/>
+    <nd ref="171405952"/>
+    <nd ref="171405954"/>
+    <nd ref="171405957"/>
+    <nd ref="171405960"/>
+    <nd ref="171405963"/>
+    <nd ref="171405965"/>
+    <nd ref="171405967"/>
+    <nd ref="171405969"/>
+    <nd ref="171405971"/>
+    <nd ref="171405973"/>
+    <nd ref="171405975"/>
+    <nd ref="171345602"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Maple Springs Drive"/>
+    <tag k="name_1" v="State Road 1398"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Maple Springs"/>
+    <tag k="tiger:name_base_1" v="State Road 1398"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16600726">
+    <nd ref="171415956"/>
+    <nd ref="171415958"/>
+    <nd ref="171415960"/>
+    <nd ref="171415963"/>
+    <nd ref="171415966"/>
+    <nd ref="171415968"/>
+    <nd ref="171415971"/>
+    <nd ref="171415973"/>
+    <nd ref="171415976"/>
+    <nd ref="171415979"/>
+    <nd ref="171415983"/>
+    <nd ref="171415987"/>
+    <nd ref="171415990"/>
+    <nd ref="171415993"/>
+    <nd ref="171415996"/>
+    <nd ref="171415999"/>
+    <nd ref="171416003"/>
+    <nd ref="171416005"/>
+    <nd ref="171416007"/>
+    <nd ref="171416009"/>
+    <nd ref="171416012"/>
+    <nd ref="171416016"/>
+    <nd ref="171416018"/>
+    <nd ref="171416021"/>
+    <nd ref="171416022"/>
+    <nd ref="171416024"/>
+    <nd ref="171416026"/>
+    <nd ref="171416029"/>
+    <nd ref="171416032"/>
+    <nd ref="171416034"/>
+    <nd ref="171416036"/>
+    <nd ref="171416038"/>
+    <nd ref="171416040"/>
+    <nd ref="171416042"/>
+    <nd ref="171416044"/>
+    <nd ref="171416046"/>
+    <nd ref="171416049"/>
+    <nd ref="171416052"/>
+    <nd ref="171416054"/>
+    <nd ref="171416057"/>
+    <nd ref="171416060"/>
+    <nd ref="171416063"/>
+    <nd ref="171416065"/>
+    <nd ref="171416066"/>
+    <nd ref="171364174"/>
+    <nd ref="171416068"/>
+    <nd ref="171416071"/>
+    <nd ref="171416073"/>
+    <nd ref="171416076"/>
+    <nd ref="171416079"/>
+    <nd ref="171416081"/>
+    <nd ref="171416083"/>
+    <nd ref="171416085"/>
+    <nd ref="171416089"/>
+    <nd ref="171416092"/>
+    <nd ref="171416095"/>
+    <nd ref="171416098"/>
+    <nd ref="171416101"/>
+    <nd ref="171416104"/>
+    <nd ref="171416107"/>
+    <nd ref="171416113"/>
+    <nd ref="171416115"/>
+    <nd ref="171416117"/>
+    <nd ref="171416120"/>
+    <nd ref="171416123"/>
+    <nd ref="171416124"/>
+    <nd ref="171416125"/>
+    <nd ref="171416126"/>
+    <nd ref="171347430"/>
+    <nd ref="171416133"/>
+    <nd ref="171416136"/>
+    <nd ref="171416139"/>
+    <nd ref="171416141"/>
+    <nd ref="171416143"/>
+    <nd ref="171416145"/>
+    <nd ref="171416148"/>
+    <nd ref="171416151"/>
+    <nd ref="171416153"/>
+    <nd ref="171416155"/>
+    <nd ref="171416157"/>
+    <nd ref="171416159"/>
+    <nd ref="171416161"/>
+    <nd ref="171416162"/>
+    <nd ref="171416165"/>
+    <nd ref="171273628"/>
+    <nd ref="171416169"/>
+    <nd ref="171416172"/>
+    <nd ref="171416175"/>
+    <nd ref="171416178"/>
+    <nd ref="171416181"/>
+    <nd ref="171416184"/>
+    <nd ref="171416185"/>
+    <nd ref="171416186"/>
+    <nd ref="171416188"/>
+    <nd ref="171416190"/>
+    <nd ref="171416193"/>
+    <nd ref="171416196"/>
+    <nd ref="171416198"/>
+    <nd ref="171416201"/>
+    <nd ref="171416204"/>
+    <nd ref="171376298"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Frank Davis Road"/>
+    <tag k="name_1" v="State Road 1360"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Frank Davis"/>
+    <tag k="tiger:name_base_1" v="State Road 1360"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16603298">
+    <nd ref="171445863"/>
+    <nd ref="171445866"/>
+    <nd ref="171445869"/>
+    <nd ref="171445871"/>
+    <nd ref="171445873"/>
+    <nd ref="171445875"/>
+    <nd ref="171445878"/>
+    <nd ref="171445880"/>
+    <nd ref="171445882"/>
+    <nd ref="171445884"/>
+    <nd ref="171445887"/>
+    <nd ref="171445889"/>
+    <nd ref="171445893"/>
+    <nd ref="171445896"/>
+    <nd ref="171445898"/>
+    <nd ref="171445901"/>
+    <nd ref="171318640"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hancock Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Hancock"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16603751">
+    <nd ref="171405809"/>
+    <nd ref="171451608"/>
+    <nd ref="171451611"/>
+    <nd ref="171451613"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Back Ridge Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Back Ridge"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16605132">
+    <nd ref="171405924"/>
+    <nd ref="171468995"/>
+    <nd ref="171469003"/>
+    <nd ref="171469008"/>
+    <nd ref="171469011"/>
+    <nd ref="171469015"/>
+    <nd ref="171469017"/>
+    <nd ref="171469019"/>
+    <nd ref="171469022"/>
+    <nd ref="171469025"/>
+    <nd ref="171469028"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beltz Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Beltz"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151828161"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16606289">
+    <nd ref="171349590"/>
+    <nd ref="171483332"/>
+    <nd ref="171483334"/>
+    <nd ref="171483336"/>
+    <nd ref="171483338"/>
+    <nd ref="171483341"/>
+    <nd ref="171483343"/>
+    <nd ref="171483346"/>
+    <nd ref="171483349"/>
+    <nd ref="171483352"/>
+    <nd ref="171483355"/>
+    <nd ref="171483358"/>
+    <nd ref="171483362"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eddies Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Eddies"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+
+</osm>

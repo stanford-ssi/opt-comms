@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16621854">
+    <nd ref="171682380"/>
+    <nd ref="171682384"/>
+    <nd ref="171682387"/>
+    <nd ref="171682390"/>
+    <nd ref="171682392"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004174"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16621865">
+    <nd ref="171682527"/>
+    <nd ref="171682530"/>
+    <nd ref="171682533"/>
+    <nd ref="171682536"/>
+    <nd ref="171682539"/>
+    <nd ref="171682542"/>
+    <nd ref="171682547"/>
+    <nd ref="171682550"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004177"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624622">
+    <nd ref="171711801"/>
+    <nd ref="171711802"/>
+    <nd ref="171711803"/>
+    <nd ref="171711804"/>
+    <nd ref="171711805"/>
+    <nd ref="171711806"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004728"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16632985">
+    <nd ref="171682380"/>
+    <nd ref="171804998"/>
+    <nd ref="171805000"/>
+    <nd ref="171805001"/>
+    <nd ref="171682527"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Cloud Catcher Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Cloud Catcher"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16632988">
+    <nd ref="171682527"/>
+    <nd ref="171805004"/>
+    <nd ref="171805005"/>
+    <nd ref="171805006"/>
+    <nd ref="171805008"/>
+    <nd ref="171805010"/>
+    <nd ref="171805013"/>
+    <nd ref="171805016"/>
+    <nd ref="171805019"/>
+    <nd ref="171805022"/>
+    <nd ref="171805025"/>
+    <nd ref="171805028"/>
+    <nd ref="171805031"/>
+    <nd ref="171752652"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Cloud Catcher Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Cloud Catcher"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

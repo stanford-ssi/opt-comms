@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12500488">
+    <nd ref="2023148923"/>
+    <nd ref="2023148924"/>
+    <nd ref="2023148921"/>
+    <nd ref="2023148919"/>
+    <nd ref="2023148918"/>
+    <nd ref="2023148915"/>
+    <nd ref="2023148914"/>
+    <nd ref="2023148917"/>
+    <nd ref="2023148913"/>
+    <nd ref="2023148912"/>
+    <nd ref="2023148911"/>
+    <nd ref="2023148909"/>
+    <nd ref="2023148907"/>
+    <nd ref="2023148905"/>
+    <nd ref="2023148929"/>
+    <nd ref="2023148903"/>
+    <nd ref="2023148930"/>
+    <nd ref="2023148898"/>
+    <nd ref="2023148900"/>
+    <nd ref="2023148891"/>
+    <nd ref="2023148888"/>
+    <nd ref="2023148893"/>
+    <nd ref="2023148892"/>
+    <nd ref="2023148872"/>
+    <nd ref="2023148867"/>
+    <nd ref="2023148870"/>
+    <nd ref="2023148868"/>
+    <nd ref="2023148884"/>
+    <nd ref="2023148886"/>
+    <nd ref="2023148871"/>
+    <nd ref="2023148897"/>
+    <nd ref="2023148874"/>
+    <nd ref="2023148890"/>
+    <nd ref="2023148895"/>
+    <nd ref="2023148866"/>
+    <nd ref="2023148926"/>
+    <nd ref="2023148925"/>
+    <nd ref="2023148877"/>
+    <nd ref="2023148865"/>
+    <nd ref="2023148928"/>
+    <nd ref="2023148863"/>
+    <nd ref="2023148861"/>
+    <nd ref="2023148869"/>
+    <nd ref="2023148859"/>
+    <nd ref="2023148855"/>
+    <nd ref="2023148857"/>
+    <nd ref="2023148853"/>
+    <nd ref="2023148849"/>
+    <nd ref="2023148851"/>
+    <nd ref="2023148846"/>
+    <nd ref="2023148844"/>
+    <nd ref="2023148840"/>
+    <nd ref="2023148837"/>
+    <nd ref="2023148841"/>
+    <nd ref="2023148835"/>
+    <nd ref="2023148838"/>
+    <nd ref="2023148842"/>
+    <nd ref="2023148839"/>
+    <nd ref="2023148829"/>
+    <nd ref="2023148830"/>
+    <nd ref="2023148825"/>
+    <nd ref="2023148818"/>
+    <nd ref="2023148833"/>
+    <nd ref="2023148821"/>
+    <nd ref="2023148816"/>
+    <nd ref="2023148815"/>
+    <nd ref="2023148814"/>
+    <nd ref="2023148813"/>
+    <nd ref="2023148812"/>
+    <nd ref="2023148808"/>
+    <nd ref="2023148807"/>
+    <nd ref="2023148827"/>
+    <nd ref="2023148806"/>
+    <nd ref="2023148805"/>
+    <nd ref="2411609917"/>
+    <nd ref="2023148803"/>
+    <nd ref="2023148801"/>
+    <nd ref="2023148799"/>
+    <nd ref="2023148796"/>
+    <nd ref="2023148794"/>
+    <nd ref="2023148819"/>
+    <nd ref="2023148791"/>
+    <nd ref="2023148790"/>
+    <nd ref="2023148792"/>
+    <nd ref="2023148823"/>
+    <nd ref="2023148789"/>
+    <nd ref="2023148788"/>
+    <nd ref="2023148786"/>
+    <nd ref="2023148784"/>
+    <nd ref="113818881"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Table Rock Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

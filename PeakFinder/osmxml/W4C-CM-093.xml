@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="16600030">
+    <nd ref="171409604"/>
+    <nd ref="171409607"/>
+    <nd ref="171409611"/>
+    <nd ref="171409615"/>
+    <nd ref="171409619"/>
+    <nd ref="171409623"/>
+    <nd ref="171409626"/>
+    <nd ref="171409630"/>
+    <nd ref="171409633"/>
+    <nd ref="171409635"/>
+    <nd ref="171409638"/>
+    <nd ref="171409641"/>
+    <nd ref="171409644"/>
+    <nd ref="171409648"/>
+    <nd ref="171409651"/>
+    <nd ref="171409655"/>
+    <nd ref="171409659"/>
+    <nd ref="171409663"/>
+    <nd ref="171409667"/>
+    <nd ref="171409670"/>
+    <nd ref="171409674"/>
+    <nd ref="171409678"/>
+    <nd ref="171409681"/>
+    <nd ref="171409684"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Woody Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Woody Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+
+</osm>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:55:01Z"/>
+
+  <way id="12497809">
+    <nd ref="113801005"/>
+    <nd ref="113801007"/>
+    <nd ref="113801009"/>
+    <nd ref="113801010"/>
+    <nd ref="113801012"/>
+    <nd ref="113801014"/>
+    <nd ref="113801017"/>
+    <nd ref="113801020"/>
+    <nd ref="113801023"/>
+    <nd ref="113801025"/>
+    <nd ref="113801027"/>
+    <nd ref="113801029"/>
+    <nd ref="113801033"/>
+    <nd ref="113801035"/>
+    <nd ref="113801037"/>
+    <nd ref="113801039"/>
+    <nd ref="113801041"/>
+    <nd ref="113801044"/>
+    <nd ref="113801046"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="26156871:26156872:26156006"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ad367733-952a-4321-ad54-a39164d42da4"/>
+  </way>
+  <way id="12498896">
+    <nd ref="113810595"/>
+    <nd ref="113810598"/>
+    <nd ref="113810600"/>
+    <nd ref="113810603"/>
+    <nd ref="113810606"/>
+    <nd ref="113810609"/>
+    <nd ref="113810611"/>
+    <nd ref="113810612"/>
+    <nd ref="113810614"/>
+    <nd ref="113810616"/>
+    <nd ref="113810619"/>
+    <nd ref="113810621"/>
+    <nd ref="113810623"/>
+    <nd ref="113810626"/>
+    <nd ref="113810629"/>
+    <nd ref="113810632"/>
+    <nd ref="113810634"/>
+    <nd ref="113810637"/>
+    <nd ref="113810639"/>
+    <nd ref="113810643"/>
+    <nd ref="113810646"/>
+    <nd ref="113810649"/>
+    <nd ref="113810650"/>
+    <nd ref="113810652"/>
+    <nd ref="113810654"/>
+    <nd ref="113810656"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="26156025:26156472"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ad367733-952a-4321-ad54-a39164d42da4"/>
+  </way>
+  <way id="12499278">
+    <nd ref="113816163"/>
+    <nd ref="113816166"/>
+    <nd ref="113816170"/>
+    <nd ref="113816174"/>
+    <nd ref="113816177"/>
+    <nd ref="113816179"/>
+    <nd ref="113816181"/>
+    <nd ref="113816142"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="26156887"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ad367733-952a-4321-ad54-a39164d42da4"/>
+  </way>
+
+</osm>

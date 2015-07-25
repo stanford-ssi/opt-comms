@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="16590788">
+    <nd ref="171301093"/>
+    <nd ref="171301116"/>
+    <nd ref="171301119"/>
+    <nd ref="171301121"/>
+    <nd ref="171301124"/>
+    <nd ref="171301127"/>
+    <nd ref="171301133"/>
+    <nd ref="171301137"/>
+    <nd ref="171301140"/>
+    <nd ref="171301143"/>
+    <nd ref="171301145"/>
+    <nd ref="171301148"/>
+    <nd ref="171301150"/>
+    <nd ref="171301154"/>
+    <nd ref="171301157"/>
+    <nd ref="171301160"/>
+    <nd ref="171301163"/>
+    <nd ref="171301168"/>
+    <nd ref="171301170"/>
+    <nd ref="171301171"/>
+    <nd ref="171301174"/>
+    <nd ref="171301176"/>
+    <nd ref="171301179"/>
+    <nd ref="171301185"/>
+    <nd ref="171301187"/>
+    <nd ref="171301190"/>
+    <nd ref="171301193"/>
+    <nd ref="171301197"/>
+    <nd ref="171288361"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sleepy Hollow Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Sleepy Hollow"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16594738">
+    <nd ref="171349727"/>
+    <nd ref="171349729"/>
+    <nd ref="171349730"/>
+    <nd ref="171349732"/>
+    <nd ref="171349734"/>
+    <nd ref="171349736"/>
+    <nd ref="171349739"/>
+    <nd ref="171349740"/>
+    <nd ref="171349741"/>
+    <nd ref="171349743"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Utah Mountain Road"/>
+    <tag k="name_1" v="State Road 1311"/>
+    <tag k="name_2" v="Utah Mountain Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Utah Mountain"/>
+    <tag k="tiger:name_base_1" v="State Road 1311"/>
+    <tag k="tiger:name_base_2" v="Utah Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_2" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16594774">
+    <nd ref="171350078"/>
+    <nd ref="171350089"/>
+    <nd ref="171350092"/>
+    <nd ref="171350095"/>
+    <nd ref="171350098"/>
+    <nd ref="171350101"/>
+    <nd ref="171350104"/>
+    <nd ref="171350107"/>
+    <nd ref="171350109"/>
+    <nd ref="171350113"/>
+    <nd ref="171350116"/>
+    <nd ref="171350119"/>
+    <nd ref="171350122"/>
+    <nd ref="171350125"/>
+    <nd ref="171350128"/>
+    <nd ref="171350130"/>
+    <nd ref="171350131"/>
+    <nd ref="171350134"/>
+    <nd ref="171350137"/>
+    <nd ref="171350141"/>
+    <nd ref="171350144"/>
+    <nd ref="171350146"/>
+    <nd ref="171350148"/>
+    <nd ref="171350150"/>
+    <nd ref="171350152"/>
+    <nd ref="171350154"/>
+    <nd ref="171350156"/>
+    <nd ref="171350158"/>
+    <nd ref="171350161"/>
+    <nd ref="171350164"/>
+    <nd ref="171350166"/>
+    <nd ref="171349727"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Utah Mountain Road"/>
+    <tag k="name_1" v="Utah Mountain Drive"/>
+    <tag k="name_2" v="State Road 1311"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Utah Mountain"/>
+    <tag k="tiger:name_base_1" v="Utah Mountain"/>
+    <tag k="tiger:name_base_2" v="State Road 1311"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16599428">
+    <nd ref="171349727"/>
+    <nd ref="171403900"/>
+    <nd ref="171403903"/>
+    <nd ref="171403906"/>
+    <nd ref="171403909"/>
+    <nd ref="171403912"/>
+    <nd ref="171403915"/>
+    <nd ref="171403918"/>
+    <nd ref="171403921"/>
+    <nd ref="171403924"/>
+    <nd ref="171403927"/>
+    <nd ref="171403928"/>
+    <nd ref="171403929"/>
+    <nd ref="171403930"/>
+    <nd ref="171403931"/>
+    <nd ref="171403932"/>
+    <nd ref="171403934"/>
+    <nd ref="171403936"/>
+    <nd ref="171403938"/>
+    <nd ref="171403940"/>
+    <nd ref="171403943"/>
+    <nd ref="171403946"/>
+    <nd ref="171403948"/>
+    <nd ref="171403950"/>
+    <nd ref="171403952"/>
+    <nd ref="171403955"/>
+    <nd ref="171403958"/>
+    <nd ref="171403960"/>
+    <nd ref="171403962"/>
+    <nd ref="171403965"/>
+    <nd ref="171403968"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Timber Barn Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Timber Barn"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16601553">
+    <nd ref="171423383"/>
+    <nd ref="171423384"/>
+    <nd ref="171423387"/>
+    <nd ref="171423390"/>
+    <nd ref="171423393"/>
+    <nd ref="171423396"/>
+    <nd ref="171423398"/>
+    <nd ref="171423400"/>
+    <nd ref="171423402"/>
+    <nd ref="171423404"/>
+    <nd ref="171423406"/>
+    <nd ref="171423410"/>
+    <nd ref="171423414"/>
+    <nd ref="171423417"/>
+    <nd ref="171423418"/>
+    <nd ref="171423420"/>
+    <nd ref="171350150"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ironwood Ridge"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Ironwood Ridge"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151829041"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16603222">
+    <nd ref="171445051"/>
+    <nd ref="171445057"/>
+    <nd ref="171445062"/>
+    <nd ref="171445065"/>
+    <nd ref="171445067"/>
+    <nd ref="171445069"/>
+    <nd ref="171445070"/>
+    <nd ref="171445073"/>
+    <nd ref="171445078"/>
+    <nd ref="171445080"/>
+    <nd ref="171445082"/>
+    <nd ref="171445085"/>
+    <nd ref="171445089"/>
+    <nd ref="171445092"/>
+    <nd ref="171445094"/>
+    <nd ref="171445096"/>
+    <nd ref="171445098"/>
+    <nd ref="171445100"/>
+    <nd ref="171445103"/>
+    <nd ref="171445105"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brigham Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Brigham"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16605282">
+    <nd ref="171470983"/>
+    <nd ref="171470987"/>
+    <nd ref="171470991"/>
+    <nd ref="171471011"/>
+    <nd ref="171350101"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pecan Place"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Pecan"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16606768">
+    <nd ref="171349743"/>
+    <nd ref="171489913"/>
+    <nd ref="171489915"/>
+    <nd ref="171489917"/>
+    <nd ref="171489919"/>
+    <nd ref="171489921"/>
+    <nd ref="171489923"/>
+    <nd ref="171489925"/>
+    <nd ref="171489927"/>
+    <nd ref="171489930"/>
+    <nd ref="171489935"/>
+    <nd ref="171489938"/>
+    <nd ref="171489941"/>
+    <nd ref="171489943"/>
+    <nd ref="171489945"/>
+    <nd ref="171489947"/>
+    <nd ref="171489950"/>
+    <nd ref="171489953"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Strickland Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Strickland"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+  <way id="16606772">
+    <nd ref="171489953"/>
+    <nd ref="171445051"/>
+    <nd ref="171489965"/>
+    <nd ref="171489967"/>
+    <nd ref="171489969"/>
+    <nd ref="171489971"/>
+    <nd ref="171489975"/>
+    <nd ref="171489977"/>
+    <nd ref="171489979"/>
+    <nd ref="171489980"/>
+    <nd ref="171489981"/>
+    <nd ref="171489982"/>
+    <nd ref="171489983"/>
+    <nd ref="171489986"/>
+    <nd ref="171349754"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Strickland Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Strickland"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28785"/>
+    <tag k="tiger:zip_right" v="28785"/>
+  </way>
+
+</osm>

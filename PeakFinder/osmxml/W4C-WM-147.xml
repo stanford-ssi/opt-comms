@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16618622">
+    <nd ref="171644120"/>
+    <nd ref="171644123"/>
+    <nd ref="171644126"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35971660"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16618717">
+    <nd ref="171645390"/>
+    <nd ref="171645392"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000072"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16618725">
+    <nd ref="171645537"/>
+    <nd ref="171645540"/>
+    <nd ref="171645543"/>
+    <nd ref="171645546"/>
+    <nd ref="171645549"/>
+    <nd ref="171645552"/>
+    <nd ref="171645555"/>
+    <nd ref="171645557"/>
+    <nd ref="171645559"/>
+    <nd ref="171645562"/>
+    <nd ref="171645566"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000077"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16618782">
+    <nd ref="171646769"/>
+    <nd ref="171646772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000096"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16619596">
+    <nd ref="171656266"/>
+    <nd ref="171656268"/>
+    <nd ref="171656271"/>
+    <nd ref="171656275"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35981534:35982396"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620299">
+    <nd ref="171664006"/>
+    <nd ref="171664008"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36003535"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622067">
+    <nd ref="171684472"/>
+    <nd ref="171684474"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988431"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622072">
+    <nd ref="171684492"/>
+    <nd ref="171684495"/>
+    <nd ref="171684496"/>
+    <nd ref="171684498"/>
+    <nd ref="171684501"/>
+    <nd ref="171684503"/>
+    <nd ref="171684506"/>
+    <nd ref="171684510"/>
+    <nd ref="171684514"/>
+    <nd ref="171684517"/>
+    <nd ref="171684520"/>
+    <nd ref="171684523"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988434"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622083">
+    <nd ref="171684587"/>
+    <nd ref="171684589"/>
+    <nd ref="171684591"/>
+    <nd ref="171684594"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988437"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622501">
+    <nd ref="171688525"/>
+    <nd ref="171688527"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988362"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622510">
+    <nd ref="171688586"/>
+    <nd ref="171688588"/>
+    <nd ref="171688590"/>
+    <nd ref="171688593"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988365"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622528">
+    <nd ref="171664006"/>
+    <nd ref="171688910"/>
+    <nd ref="171688911"/>
+    <nd ref="171688912"/>
+    <nd ref="171688913"/>
+    <nd ref="171688914"/>
+    <nd ref="171688915"/>
+    <nd ref="171688586"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988367:35988370"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622530">
+    <nd ref="171688937"/>
+    <nd ref="171688914"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988368"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622628">
+    <nd ref="171689890"/>
+    <nd ref="171689896"/>
+    <nd ref="171689912"/>
+    <nd ref="171689918"/>
+    <nd ref="171689924"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988384:35988385"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622631">
+    <nd ref="171689896"/>
+    <nd ref="171689978"/>
+    <nd ref="171689987"/>
+    <nd ref="171689994"/>
+    <nd ref="171689999"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988386"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622636">
+    <nd ref="171690014"/>
+    <nd ref="171690018"/>
+    <nd ref="171690020"/>
+    <nd ref="171690025"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988389"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624876">
+    <nd ref="171714288"/>
+    <nd ref="171714290"/>
+    <nd ref="171714292"/>
+    <nd ref="171714294"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35995147"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626214">
+    <nd ref="171727839"/>
+    <nd ref="171727841"/>
+    <nd ref="171727843"/>
+    <nd ref="171727845"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35983361"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626400">
+    <nd ref="171729535"/>
+    <nd ref="171729537"/>
+    <nd ref="171729540"/>
+    <nd ref="171729542"/>
+    <nd ref="171729544"/>
+    <nd ref="171729550"/>
+    <nd ref="171729554"/>
+    <nd ref="171729557"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988393:35988394"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626403">
+    <nd ref="171729544"/>
+    <nd ref="171729567"/>
+    <nd ref="171729569"/>
+    <nd ref="171729571"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988395"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626515">
+    <nd ref="171730477"/>
+    <nd ref="171730480"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36000100"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626777">
+    <nd ref="171732805"/>
+    <nd ref="171732808"/>
+    <nd ref="171732811"/>
+    <nd ref="171732814"/>
+    <nd ref="171732817"/>
+    <nd ref="171732820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1786"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="State Road 1786"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35983362"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16626930">
+    <nd ref="171732820"/>
+    <nd ref="171734896"/>
+    <nd ref="171734899"/>
+    <nd ref="171734902"/>
+    <nd ref="171734906"/>
+    <nd ref="171734910"/>
+    <nd ref="171734914"/>
+    <nd ref="171734918"/>
+    <nd ref="171734920"/>
+    <nd ref="171734923"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Slim Dillard Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Slim Dillard"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16626932">
+    <nd ref="2023902658"/>
+    <nd ref="2023902740"/>
+    <nd ref="2023903113"/>
+    <nd ref="2023902742"/>
+    <nd ref="2023902833"/>
+    <nd ref="2023902655"/>
+    <nd ref="2023903108"/>
+    <nd ref="2023902954"/>
+    <nd ref="171734934"/>
+    <nd ref="171688489"/>
+    <nd ref="171734936"/>
+    <nd ref="171732820"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Slim Dillard Road"/>
+    <tag k="name_1" v="St Rd 1786"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Slim Dillard"/>
+    <tag k="tiger:name_base_1" v="St Rd 1786"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16626933">
+    <nd ref="171688586"/>
+    <nd ref="171734944"/>
+    <nd ref="171734948"/>
+    <nd ref="171688525"/>
+    <nd ref="171734951"/>
+    <nd ref="171732805"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Slim Dillard Road"/>
+    <tag k="name_1" v="State Road 1786"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Slim Dillard"/>
+    <tag k="tiger:name_base_1" v="State Road 1786"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16627264">
+    <nd ref="171732805"/>
+    <nd ref="171739044"/>
+    <nd ref="171739047"/>
+    <nd ref="171739050"/>
+    <nd ref="171739053"/>
+    <nd ref="171739055"/>
+    <nd ref="171739057"/>
+    <nd ref="171739061"/>
+    <nd ref="171739064"/>
+    <nd ref="171739066"/>
+    <nd ref="171664006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Shadow Ridge"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Shadow Ridge"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35988369"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+    <tag k="tiger:zip_left" v="28779"/>
+    <tag k="tiger:zip_right" v="28779"/>
+  </way>
+  <way id="16627265">
+    <nd ref="171645566"/>
+    <nd ref="171689890"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Loyla Court"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Loyla"/>
+    <tag k="tiger:name_type" v="Ct"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16627266">
+    <nd ref="171689890"/>
+    <nd ref="171690014"/>
+    <nd ref="171739075"/>
+    <nd ref="171739079"/>
+    <nd ref="171739083"/>
+    <nd ref="171739086"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Loyla Court"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Loyla"/>
+    <tag k="tiger:name_type" v="Ct"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16628471">
+    <nd ref="171753395"/>
+    <nd ref="2967059257"/>
+    <nd ref="2967059260"/>
+    <nd ref="171753398"/>
+    <nd ref="2967059276"/>
+    <nd ref="171753402"/>
+    <nd ref="2967059285"/>
+    <nd ref="171683818"/>
+    <nd ref="171753405"/>
+    <nd ref="171753408"/>
+    <nd ref="2967059303"/>
+    <nd ref="2967059307"/>
+    <nd ref="2967059308"/>
+    <nd ref="171753411"/>
+    <nd ref="2967059320"/>
+    <nd ref="2967059343"/>
+    <nd ref="171753415"/>
+    <nd ref="171753417"/>
+    <nd ref="171753421"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Candy Lane"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Candy"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16628815">
+    <nd ref="171757962"/>
+    <nd ref="171730477"/>
+    <nd ref="171757966"/>
+    <nd ref="171757973"/>
+    <nd ref="171757978"/>
+    <nd ref="171646769"/>
+    <nd ref="171757982"/>
+    <nd ref="171757986"/>
+    <nd ref="171757993"/>
+    <nd ref="171757995"/>
+    <nd ref="171758000"/>
+    <nd ref="171758003"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fair Haven Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Fair Haven"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16628982">
+    <nd ref="171688525"/>
+    <nd ref="171759884"/>
+    <nd ref="171644120"/>
+    <nd ref="171759886"/>
+    <nd ref="171759888"/>
+    <nd ref="171656266"/>
+    <nd ref="171734920"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Henderson Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Henderson"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629732">
+    <nd ref="171769273"/>
+    <nd ref="171769277"/>
+    <nd ref="171645390"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Westridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629733">
+    <nd ref="171645390"/>
+    <nd ref="171684587"/>
+    <nd ref="171727839"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Westridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629735">
+    <nd ref="171727839"/>
+    <nd ref="171769291"/>
+    <nd ref="171769294"/>
+    <nd ref="171769296"/>
+    <nd ref="171769273"/>
+    <nd ref="171769298"/>
+    <nd ref="171684492"/>
+    <nd ref="171684472"/>
+    <nd ref="171769300"/>
+    <nd ref="171769302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Westridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Westridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16629772">
+    <nd ref="171748194"/>
+    <nd ref="171769779"/>
+    <nd ref="2967059070"/>
+    <nd ref="171769782"/>
+    <nd ref="171769785"/>
+    <nd ref="2967059078"/>
+    <nd ref="2967059080"/>
+    <nd ref="2967059082"/>
+    <nd ref="2967059083"/>
+    <nd ref="2967059084"/>
+    <nd ref="171769788"/>
+    <nd ref="2967059091"/>
+    <nd ref="171715052"/>
+    <nd ref="2967059100"/>
+    <nd ref="2967059108"/>
+    <nd ref="2967059119"/>
+    <nd ref="2967059122"/>
+    <nd ref="2967059123"/>
+    <nd ref="2967059124"/>
+    <nd ref="2967059127"/>
+    <nd ref="171674725"/>
+    <nd ref="171769791"/>
+    <nd ref="2967059153"/>
+    <nd ref="2967059158"/>
+    <nd ref="2967059168"/>
+    <nd ref="2967059178"/>
+    <nd ref="2967059183"/>
+    <nd ref="171769793"/>
+    <nd ref="2967059197"/>
+    <nd ref="2967059201"/>
+    <nd ref="2967059205"/>
+    <nd ref="2967059207"/>
+    <nd ref="171647012"/>
+    <nd ref="171769795"/>
+    <nd ref="171725832"/>
+    <nd ref="171769798"/>
+    <nd ref="171769800"/>
+    <nd ref="2967059213"/>
+    <nd ref="2967059214"/>
+    <nd ref="171641970"/>
+    <nd ref="171744015"/>
+    <nd ref="171769802"/>
+    <nd ref="171766832"/>
+    <nd ref="2967059219"/>
+    <nd ref="2967059223"/>
+    <nd ref="2967059233"/>
+    <nd ref="171769804"/>
+    <nd ref="2967059239"/>
+    <nd ref="2967059243"/>
+    <nd ref="171753395"/>
+    <nd ref="171769806"/>
+    <nd ref="171695891"/>
+    <nd ref="2967059258"/>
+    <nd ref="2967059256"/>
+    <nd ref="171715154"/>
+    <nd ref="171681231"/>
+    <nd ref="2967059259"/>
+    <nd ref="171769808"/>
+    <nd ref="2967059261"/>
+    <nd ref="2967059262"/>
+    <nd ref="2967059264"/>
+    <nd ref="171769809"/>
+    <nd ref="171769811"/>
+    <nd ref="171769813"/>
+    <nd ref="171656240"/>
+    <nd ref="171769815"/>
+    <nd ref="2967059317"/>
+    <nd ref="2967059323"/>
+    <nd ref="2967059325"/>
+    <nd ref="2967059328"/>
+    <nd ref="171722563"/>
+    <nd ref="171769818"/>
+    <nd ref="2967059333"/>
+    <nd ref="171769821"/>
+    <nd ref="171757962"/>
+    <nd ref="171729535"/>
+    <nd ref="171769824"/>
+    <nd ref="171719547"/>
+    <nd ref="171769827"/>
+    <nd ref="171769829"/>
+    <nd ref="171769831"/>
+    <nd ref="2967059391"/>
+    <nd ref="2967059393"/>
+    <nd ref="171769833"/>
+    <nd ref="2967059394"/>
+    <nd ref="171645537"/>
+    <nd ref="171769835"/>
+    <nd ref="2967059395"/>
+    <nd ref="2967059396"/>
+    <nd ref="2967059397"/>
+    <nd ref="2967059398"/>
+    <nd ref="2967059399"/>
+    <nd ref="2967059400"/>
+    <nd ref="2967059401"/>
+    <nd ref="171769837"/>
+    <nd ref="171769839"/>
+    <nd ref="2967059402"/>
+    <nd ref="171732203"/>
+    <nd ref="171769841"/>
+    <nd ref="171769843"/>
+    <nd ref="2967059403"/>
+    <nd ref="171645479"/>
+    <nd ref="2967059404"/>
+    <nd ref="171645302"/>
+    <nd ref="171769845"/>
+    <nd ref="2967059405"/>
+    <nd ref="171645352"/>
+    <nd ref="2967059406"/>
+    <nd ref="171769848"/>
+    <nd ref="171769851"/>
+    <nd ref="171769854"/>
+    <nd ref="171769856"/>
+    <nd ref="2967059407"/>
+    <nd ref="2023902964"/>
+    <nd ref="171769859"/>
+    <nd ref="2023902656"/>
+    <nd ref="2023902807"/>
+    <nd ref="171733681"/>
+    <nd ref="2023902738"/>
+    <nd ref="171769861"/>
+    <nd ref="2023903053"/>
+    <nd ref="2023902778"/>
+    <nd ref="2023903084"/>
+    <nd ref="2023902694"/>
+    <nd ref="2023902928"/>
+    <nd ref="2023902809"/>
+    <nd ref="171769865"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Cope Creek Road"/>
+    <tag k="name_1" v="State Road 1449"/>
+    <tag k="rcn_ref" v="2"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Cope Creek"/>
+    <tag k="tiger:name_base_1" v="State Road 1449"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+  </way>
+  <way id="16630111">
+    <nd ref="171769845"/>
+    <nd ref="171774163"/>
+    <nd ref="171774165"/>
+    <nd ref="171774167"/>
+    <nd ref="171774169"/>
+    <nd ref="171774174"/>
+    <nd ref="171774180"/>
+    <nd ref="171774182"/>
+    <nd ref="171774185"/>
+    <nd ref="171774187"/>
+    <nd ref="171774188"/>
+    <nd ref="171774190"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pump Mtn Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Pump Mtn"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+    <tag k="tiger:zip_right" v="28779"/>
+  </way>
+  <way id="16630831">
+    <nd ref="171769854"/>
+    <nd ref="171782804"/>
+    <nd ref="171782805"/>
+    <nd ref="171782806"/>
+    <nd ref="171782807"/>
+    <nd ref="171782808"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pinnacle View Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Pinnacle View"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+    <tag k="tiger:zip_right" v="28779"/>
+  </way>
+  <way id="16631192">
+    <nd ref="171645479"/>
+    <nd ref="171728981"/>
+    <nd ref="171787524"/>
+    <nd ref="171787526"/>
+    <nd ref="171787528"/>
+    <nd ref="171787531"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Montana Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Montana"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+  </way>
+  <way id="16633394">
+    <nd ref="171769821"/>
+    <nd ref="171809775"/>
+    <nd ref="171714288"/>
+    <nd ref="171809777"/>
+    <nd ref="171809779"/>
+    <nd ref="171809780"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Invisible Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Invisible"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+  </way>
+  <way id="16634056">
+    <nd ref="2967059276"/>
+    <nd ref="2967059277"/>
+    <nd ref="2967059278"/>
+    <nd ref="171817944"/>
+    <nd ref="171817942"/>
+    <nd ref="2967059288"/>
+    <nd ref="2967059289"/>
+    <nd ref="2967059292"/>
+    <nd ref="2967059295"/>
+    <nd ref="2967059297"/>
+    <nd ref="2967059296"/>
+    <nd ref="2967059294"/>
+    <nd ref="2967059291"/>
+    <nd ref="2967059290"/>
+    <nd ref="2967059293"/>
+    <nd ref="2967059298"/>
+    <nd ref="2967059299"/>
+    <nd ref="2967059300"/>
+    <nd ref="2967059301"/>
+    <nd ref="171646747"/>
+    <nd ref="2967059305"/>
+    <nd ref="171817949"/>
+    <nd ref="171817951"/>
+    <nd ref="171817953"/>
+    <nd ref="171817955"/>
+    <nd ref="2967059329"/>
+    <nd ref="171817957"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Bristol Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Bristol"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16635342">
+    <nd ref="171769865"/>
+    <nd ref="171832784"/>
+    <nd ref="171832786"/>
+    <nd ref="171832787"/>
+    <nd ref="171832790"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beta Circle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Beta Circle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+    <tag k="tiger:zip_right" v="28779"/>
+  </way>
+  <way id="16635351">
+    <nd ref="171769824"/>
+    <nd ref="171832883"/>
+    <nd ref="171832890"/>
+    <nd ref="171832893"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Caring Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Caring"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28779"/>
+    <tag k="tiger:zip_right" v="28779"/>
+  </way>
+  <way id="293135289">
+    <nd ref="171769818"/>
+    <nd ref="2967059336"/>
+    <nd ref="2967059342"/>
+    <nd ref="2967059344"/>
+    <nd ref="2967059346"/>
+    <nd ref="2967059350"/>
+    <nd ref="2967059352"/>
+    <nd ref="2967059354"/>
+    <nd ref="2967059359"/>
+    <nd ref="2967059362"/>
+    <nd ref="2967059364"/>
+    <nd ref="2967059366"/>
+    <nd ref="2967059367"/>
+    <nd ref="2967059365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dolphin Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Dolphin"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="293135290">
+    <nd ref="2967059328"/>
+    <nd ref="2967059332"/>
+    <nd ref="2967059339"/>
+    <nd ref="2967059344"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dolphin Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Dolphin"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

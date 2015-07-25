@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16417147">
+    <nd ref="169457195"/>
+    <nd ref="169457197"/>
+    <nd ref="169457203"/>
+    <nd ref="169457206"/>
+    <nd ref="169457195"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36911627"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16423143">
+    <nd ref="169523465"/>
+    <nd ref="169457197"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36906276"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16450728">
+    <nd ref="169452374"/>
+    <nd ref="169773837"/>
+    <nd ref="169773840"/>
+    <nd ref="169773841"/>
+    <nd ref="169773844"/>
+    <nd ref="169773846"/>
+    <nd ref="169773849"/>
+    <nd ref="169773852"/>
+    <nd ref="169773855"/>
+    <nd ref="169773858"/>
+    <nd ref="169773859"/>
+    <nd ref="169773861"/>
+    <nd ref="169773862"/>
+    <nd ref="169773869"/>
+    <nd ref="169773875"/>
+    <nd ref="169773882"/>
+    <nd ref="169523465"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanlon Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Hanlon Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28748"/>
+    <tag k="tiger:zip_left_1" v="28748"/>
+    <tag k="tiger:zip_right" v="28748"/>
+  </way>
+
+</osm>

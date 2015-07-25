@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16778821">
+    <nd ref="173569415"/>
+    <nd ref="173569418"/>
+    <nd ref="173569420"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133741593"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16778826">
+    <nd ref="173569456"/>
+    <nd ref="173569459"/>
+    <nd ref="173569462"/>
+    <nd ref="173569464"/>
+    <nd ref="173569468"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133741595"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16782055">
+    <nd ref="173620201"/>
+    <nd ref="173620273"/>
+    <nd ref="173620276"/>
+    <nd ref="173620278"/>
+    <nd ref="173620282"/>
+    <nd ref="173620285"/>
+    <nd ref="173620288"/>
+    <nd ref="173620291"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133754074"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16784448">
+    <nd ref="173639855"/>
+    <nd ref="173639858"/>
+    <nd ref="173562640"/>
+    <nd ref="173639860"/>
+    <nd ref="173639862"/>
+    <nd ref="173639864"/>
+    <nd ref="173639866"/>
+    <nd ref="173639868"/>
+    <nd ref="173639870"/>
+    <nd ref="173639872"/>
+    <nd ref="173639874"/>
+    <nd ref="173639876"/>
+    <nd ref="173639878"/>
+    <nd ref="173639880"/>
+    <nd ref="173639882"/>
+    <nd ref="173639885"/>
+    <nd ref="173639887"/>
+    <nd ref="173639889"/>
+    <nd ref="173639891"/>
+    <nd ref="173639894"/>
+    <nd ref="173639897"/>
+    <nd ref="173639900"/>
+    <nd ref="173639902"/>
+    <nd ref="173639903"/>
+    <nd ref="173639904"/>
+    <nd ref="173639905"/>
+    <nd ref="173639908"/>
+    <nd ref="173639909"/>
+    <nd ref="173639912"/>
+    <nd ref="173639915"/>
+    <nd ref="173639919"/>
+    <nd ref="173639921"/>
+    <nd ref="173639923"/>
+    <nd ref="173639925"/>
+    <nd ref="173639926"/>
+    <nd ref="173639929"/>
+    <nd ref="173639931"/>
+    <nd ref="173639934"/>
+    <nd ref="173639937"/>
+    <nd ref="173639940"/>
+    <nd ref="173639943"/>
+    <nd ref="173639946"/>
+    <nd ref="173639947"/>
+    <nd ref="173639949"/>
+    <nd ref="173639951"/>
+    <nd ref="173569420"/>
+    <nd ref="173639953"/>
+    <nd ref="173639955"/>
+    <nd ref="173569456"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gardner Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Gardner"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16785154">
+    <nd ref="173569456"/>
+    <nd ref="173651531"/>
+    <nd ref="173651533"/>
+    <nd ref="173651535"/>
+    <nd ref="173651537"/>
+    <nd ref="173651539"/>
+    <nd ref="173651541"/>
+    <nd ref="173651543"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Top Oaks Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Top Oaks"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

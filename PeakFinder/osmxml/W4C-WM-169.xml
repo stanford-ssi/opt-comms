@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16464671">
+    <nd ref="169913447"/>
+    <nd ref="169913450"/>
+    <nd ref="169913456"/>
+    <nd ref="169913459"/>
+    <nd ref="169913463"/>
+    <nd ref="169913465"/>
+    <nd ref="169913467"/>
+    <nd ref="169913469"/>
+    <nd ref="169913471"/>
+    <nd ref="169913473"/>
+    <nd ref="169913475"/>
+    <nd ref="169913477"/>
+    <nd ref="169913479"/>
+    <nd ref="169913481"/>
+    <nd ref="169913485"/>
+    <nd ref="169913488"/>
+    <nd ref="169913492"/>
+    <nd ref="169913494"/>
+    <nd ref="169913497"/>
+    <nd ref="169913499"/>
+    <nd ref="169913501"/>
+    <nd ref="169913502"/>
+    <nd ref="169913507"/>
+    <nd ref="169913510"/>
+    <nd ref="169913514"/>
+    <nd ref="169913516"/>
+    <nd ref="169913518"/>
+    <nd ref="169913520"/>
+    <nd ref="169913523"/>
+    <nd ref="169913526"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35837166:35837168:35836833"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-4d27beb6-d2d0-4773-ad75-d4dd663187df"/>
+  </way>
+  <way id="16466123">
+    <nd ref="169913526"/>
+    <nd ref="169931879"/>
+    <nd ref="169931881"/>
+    <nd ref="169931887"/>
+    <nd ref="169931890"/>
+    <nd ref="169931892"/>
+    <nd ref="169931894"/>
+    <nd ref="169931896"/>
+    <nd ref="169931898"/>
+    <nd ref="169931901"/>
+    <nd ref="169931904"/>
+    <nd ref="169931906"/>
+    <nd ref="169931913"/>
+    <nd ref="169931919"/>
+    <nd ref="169931922"/>
+    <nd ref="169931925"/>
+    <nd ref="169931928"/>
+    <nd ref="169931932"/>
+    <nd ref="169931936"/>
+    <nd ref="169931940"/>
+    <nd ref="169931945"/>
+    <nd ref="169931948"/>
+    <nd ref="169931952"/>
+    <nd ref="169931955"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35845535"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-4d27beb6-d2d0-4773-ad75-d4dd663187df"/>
+  </way>
+
+</osm>

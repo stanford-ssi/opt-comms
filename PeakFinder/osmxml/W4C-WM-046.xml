@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16623611">
+    <nd ref="2812571022"/>
+    <nd ref="2812571021"/>
+    <nd ref="2812571020"/>
+    <nd ref="2812571023"/>
+    <nd ref="173617512"/>
+    <nd ref="171701398"/>
+    <nd ref="171701401"/>
+    <nd ref="2812571029"/>
+    <nd ref="2812571028"/>
+    <nd ref="2812571030"/>
+    <nd ref="2812571024"/>
+    <nd ref="2812571025"/>
+    <nd ref="2812571027"/>
+    <nd ref="2812571026"/>
+    <nd ref="171701404"/>
+    <nd ref="2812571014"/>
+    <nd ref="171701407"/>
+    <nd ref="171701410"/>
+    <nd ref="171701414"/>
+    <nd ref="171701418"/>
+    <nd ref="171701420"/>
+    <nd ref="2812571015"/>
+    <nd ref="171701423"/>
+    <nd ref="2812571017"/>
+    <nd ref="171701427"/>
+    <nd ref="171701433"/>
+    <nd ref="171701438"/>
+    <nd ref="171701442"/>
+    <nd ref="2812571016"/>
+    <nd ref="2812571019"/>
+    <nd ref="2812571018"/>
+    <nd ref="171701445"/>
+    <nd ref="171701448"/>
+    <nd ref="171701451"/>
+    <nd ref="171701454"/>
+    <nd ref="2812571009"/>
+    <nd ref="171701456"/>
+    <nd ref="2812571010"/>
+    <nd ref="171701459"/>
+    <nd ref="2812571011"/>
+    <nd ref="171701462"/>
+    <nd ref="171701465"/>
+    <nd ref="2812571012"/>
+    <nd ref="2812571013"/>
+    <nd ref="171701468"/>
+    <nd ref="171701471"/>
+    <nd ref="2812571008"/>
+    <nd ref="171701474"/>
+    <nd ref="2812571007"/>
+    <nd ref="2812571006"/>
+    <nd ref="171701478"/>
+    <nd ref="171701481"/>
+    <nd ref="171701484"/>
+    <nd ref="2812571005"/>
+    <nd ref="2812571004"/>
+    <nd ref="2812571003"/>
+    <nd ref="171701488"/>
+    <nd ref="171701491"/>
+    <nd ref="2812571002"/>
+    <nd ref="171701494"/>
+    <nd ref="171701496"/>
+    <nd ref="2812571001"/>
+    <nd ref="171701498"/>
+    <nd ref="171701500"/>
+    <nd ref="171701502"/>
+    <nd ref="2812570300"/>
+    <nd ref="171701504"/>
+    <nd ref="2812570299"/>
+    <nd ref="171701506"/>
+    <nd ref="2812570298"/>
+    <nd ref="2812570297"/>
+    <nd ref="2812570296"/>
+    <nd ref="171701507"/>
+    <nd ref="2812570295"/>
+    <nd ref="2812570294"/>
+    <nd ref="171701509"/>
+    <nd ref="171701511"/>
+    <nd ref="2812570292"/>
+    <nd ref="2812570293"/>
+    <nd ref="171701512"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="track"/>
+    <tag k="horse" v="no"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="ref" v="FS 4658"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tracktype" v="grade4"/>
+  </way>
+
+</osm>

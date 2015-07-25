@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16661164">
+    <nd ref="172133194"/>
+    <nd ref="172133197"/>
+    <nd ref="172133199"/>
+    <nd ref="172133201"/>
+    <nd ref="172133203"/>
+    <nd ref="172133204"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37295371:37295373:37295374"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16661168">
+    <nd ref="172133201"/>
+    <nd ref="172133263"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37295375"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16661564">
+    <nd ref="172139013"/>
+    <nd ref="172139016"/>
+    <nd ref="172139022"/>
+    <nd ref="172139028"/>
+    <nd ref="172139031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37295380:37295381"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2f0f72b1-19ef-41c3-97eb-b3a3b7f49d12"/>
+  </way>
+  <way id="16663110">
+    <nd ref="172145067"/>
+    <nd ref="172165371"/>
+    <nd ref="172165374"/>
+    <nd ref="172165377"/>
+    <nd ref="172165380"/>
+    <nd ref="172165383"/>
+    <nd ref="172139076"/>
+    <nd ref="172165386"/>
+    <nd ref="172165390"/>
+    <nd ref="172165393"/>
+    <nd ref="172165396"/>
+    <nd ref="172165398"/>
+    <nd ref="172165400"/>
+    <nd ref="172165402"/>
+    <nd ref="172165404"/>
+    <nd ref="172165406"/>
+    <nd ref="172165408"/>
+    <nd ref="172165410"/>
+    <nd ref="172165412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Robert Phillips Road"/>
+    <tag k="name_1" v="State Road 1169"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Robert Phillips"/>
+    <tag k="tiger:name_base_1" v="State Road 1169"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28705"/>
+    <tag k="tiger:zip_right" v="28705"/>
+  </way>
+  <way id="16664156">
+    <nd ref="172174932"/>
+    <nd ref="172184922"/>
+    <nd ref="172184923"/>
+    <nd ref="172184925"/>
+    <nd ref="172139013"/>
+    <nd ref="172184927"/>
+    <nd ref="172184929"/>
+    <nd ref="172133194"/>
+    <nd ref="172184931"/>
+    <nd ref="172184933"/>
+    <nd ref="172184935"/>
+    <nd ref="172146750"/>
+    <nd ref="172184936"/>
+    <nd ref="172184937"/>
+    <nd ref="172184938"/>
+    <nd ref="172184939"/>
+    <nd ref="2779861976"/>
+    <nd ref="2779861980"/>
+    <nd ref="2779861982"/>
+    <nd ref="2779861984"/>
+    <nd ref="2779861986"/>
+    <nd ref="2779861988"/>
+    <nd ref="172184941"/>
+    <nd ref="2779861990"/>
+    <nd ref="172140511"/>
+    <nd ref="2779861993"/>
+    <nd ref="2779861995"/>
+    <nd ref="172184942"/>
+    <nd ref="2779861999"/>
+    <nd ref="2779862002"/>
+    <nd ref="172184944"/>
+    <nd ref="172184946"/>
+    <nd ref="2779862005"/>
+    <nd ref="2779862009"/>
+    <nd ref="2779862012"/>
+    <nd ref="2779862015"/>
+    <nd ref="172184948"/>
+    <nd ref="2779862018"/>
+    <nd ref="172142637"/>
+    <nd ref="2779862028"/>
+    <nd ref="2779862031"/>
+    <nd ref="2779862034"/>
+    <nd ref="2779862023"/>
+    <nd ref="2779862020"/>
+    <nd ref="172184949"/>
+    <nd ref="2779862025"/>
+    <nd ref="172184950"/>
+    <nd ref="172184951"/>
+    <nd ref="172184952"/>
+    <nd ref="172184953"/>
+    <nd ref="172184955"/>
+    <nd ref="172184957"/>
+    <nd ref="172184958"/>
+    <nd ref="172184959"/>
+    <nd ref="172184960"/>
+    <nd ref="172184961"/>
+    <nd ref="2780138578"/>
+    <nd ref="172184962"/>
+    <nd ref="2780138579"/>
+    <nd ref="2779862040"/>
+    <nd ref="2780138580"/>
+    <nd ref="172184964"/>
+    <nd ref="2780138581"/>
+    <nd ref="172175596"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Mine Creek Road"/>
+    <tag k="ref" v="NC 226A"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Mitchell, NC"/>
+    <tag k="tiger:name_base" v="Mine Creek"/>
+    <tag k="tiger:name_base_1" v="State Road 1191"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28705"/>
+    <tag k="tiger:zip_right" v="28705"/>
+  </way>
+
+</osm>

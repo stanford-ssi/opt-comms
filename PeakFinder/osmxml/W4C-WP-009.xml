@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16388598">
+    <nd ref="169065992"/>
+    <nd ref="169065995"/>
+    <nd ref="169065998"/>
+    <nd ref="169066001"/>
+    <nd ref="169066004"/>
+    <nd ref="169065910"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Alexander, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45799097:45799100"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b529d0d7-773e-4673-82b7-701f5db2f97a"/>
+  </way>
+  <way id="16391215">
+    <nd ref="169109823"/>
+    <nd ref="169109826"/>
+    <nd ref="169109829"/>
+    <nd ref="169109832"/>
+    <nd ref="169109835"/>
+    <nd ref="169109838"/>
+    <nd ref="169109840"/>
+    <nd ref="169109842"/>
+    <nd ref="169109844"/>
+    <nd ref="169109847"/>
+    <nd ref="169109850"/>
+    <nd ref="169109853"/>
+    <nd ref="169109856"/>
+    <nd ref="169109859"/>
+    <nd ref="169109861"/>
+    <nd ref="169109863"/>
+    <nd ref="169109865"/>
+    <nd ref="169109868"/>
+    <nd ref="169109871"/>
+    <nd ref="169109874"/>
+    <nd ref="169109877"/>
+    <nd ref="169109880"/>
+    <nd ref="169109883"/>
+    <nd ref="169109886"/>
+    <nd ref="169109889"/>
+    <nd ref="169109891"/>
+    <nd ref="169109893"/>
+    <nd ref="169109895"/>
+    <nd ref="169109899"/>
+    <nd ref="169109902"/>
+    <nd ref="169109904"/>
+    <nd ref="169109906"/>
+    <nd ref="169109909"/>
+    <nd ref="169109912"/>
+    <nd ref="169109915"/>
+    <nd ref="169109918"/>
+    <nd ref="169109921"/>
+    <nd ref="169109924"/>
+    <nd ref="169109927"/>
+    <nd ref="169109931"/>
+    <nd ref="169109933"/>
+    <nd ref="169109936"/>
+    <nd ref="169109939"/>
+    <nd ref="169109942"/>
+    <nd ref="169109944"/>
+    <nd ref="169109946"/>
+    <nd ref="169109948"/>
+    <nd ref="169109949"/>
+    <nd ref="169109951"/>
+    <nd ref="169109953"/>
+    <nd ref="169109955"/>
+    <nd ref="169109957"/>
+    <nd ref="169109959"/>
+    <nd ref="169109961"/>
+    <nd ref="169109963"/>
+    <nd ref="169109965"/>
+    <nd ref="169109967"/>
+    <nd ref="169109969"/>
+    <nd ref="169109971"/>
+    <nd ref="169109973"/>
+    <nd ref="169109975"/>
+    <nd ref="169109976"/>
+    <nd ref="169109978"/>
+    <nd ref="169109980"/>
+    <nd ref="169109982"/>
+    <nd ref="169109984"/>
+    <nd ref="169109986"/>
+    <nd ref="169109988"/>
+    <nd ref="169109990"/>
+    <nd ref="169109992"/>
+    <nd ref="169109994"/>
+    <nd ref="169109996"/>
+    <nd ref="169109998"/>
+    <nd ref="169110000"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dee Loudermilk Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alexander, NC"/>
+    <tag k="tiger:name_base" v="Dee Loudermilk"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28681"/>
+    <tag k="tiger:zip_right" v="28681"/>
+  </way>
+
+</osm>

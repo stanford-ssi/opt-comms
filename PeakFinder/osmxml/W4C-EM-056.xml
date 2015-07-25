@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:50:02Z"/>
+
+  <way id="16392227">
+    <nd ref="169131501"/>
+    <nd ref="169131504"/>
+    <nd ref="169131507"/>
+    <nd ref="169131508"/>
+    <nd ref="169131510"/>
+    <nd ref="169131512"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alleghany, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="154016807"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-6566b553-f943-443e-8fe0-995a6b5b52fc"/>
+  </way>
+  <way id="16398317">
+    <nd ref="169187220"/>
+    <nd ref="169244374"/>
+    <nd ref="169244376"/>
+    <nd ref="169244378"/>
+    <nd ref="169244380"/>
+    <nd ref="169244382"/>
+    <nd ref="169244386"/>
+    <nd ref="169244388"/>
+    <nd ref="169244390"/>
+    <nd ref="169244392"/>
+    <nd ref="169244394"/>
+    <nd ref="169244397"/>
+    <nd ref="169244399"/>
+    <nd ref="169244401"/>
+    <nd ref="169244403"/>
+    <nd ref="169244405"/>
+    <nd ref="169244408"/>
+    <nd ref="169244410"/>
+    <nd ref="169244414"/>
+    <nd ref="169244416"/>
+    <nd ref="169244419"/>
+    <nd ref="169244421"/>
+    <nd ref="169244423"/>
+    <nd ref="169244425"/>
+    <nd ref="169244427"/>
+    <nd ref="169244430"/>
+    <nd ref="169244432"/>
+    <nd ref="169244436"/>
+    <nd ref="169244440"/>
+    <nd ref="169244444"/>
+    <nd ref="169244448"/>
+    <nd ref="169244452"/>
+    <nd ref="169244456"/>
+    <nd ref="169244460"/>
+    <nd ref="169244463"/>
+    <nd ref="169244467"/>
+    <nd ref="169244471"/>
+    <nd ref="169244476"/>
+    <nd ref="169244478"/>
+    <nd ref="169244481"/>
+    <nd ref="169244483"/>
+    <nd ref="169138902"/>
+    <nd ref="169244486"/>
+    <nd ref="169244488"/>
+    <nd ref="169244492"/>
+    <nd ref="169244495"/>
+    <nd ref="169244499"/>
+    <nd ref="169244502"/>
+    <nd ref="169244505"/>
+    <nd ref="169244509"/>
+    <nd ref="169244513"/>
+    <nd ref="169244516"/>
+    <nd ref="169244519"/>
+    <nd ref="169244523"/>
+    <nd ref="169244526"/>
+    <nd ref="169244529"/>
+    <nd ref="169244531"/>
+    <nd ref="169244534"/>
+    <nd ref="169244537"/>
+    <nd ref="169244540"/>
+    <nd ref="169244543"/>
+    <nd ref="169244546"/>
+    <nd ref="169244549"/>
+    <nd ref="169244552"/>
+    <nd ref="169244556"/>
+    <nd ref="169244559"/>
+    <nd ref="169244562"/>
+    <nd ref="169244565"/>
+    <nd ref="169244568"/>
+    <nd ref="169244572"/>
+    <nd ref="169244575"/>
+    <nd ref="169244579"/>
+    <nd ref="169244582"/>
+    <nd ref="169244587"/>
+    <nd ref="169244592"/>
+    <nd ref="169244595"/>
+    <nd ref="169244598"/>
+    <nd ref="169244601"/>
+    <nd ref="169244604"/>
+    <nd ref="169244607"/>
+    <nd ref="169244610"/>
+    <nd ref="169244613"/>
+    <nd ref="169244616"/>
+    <nd ref="169244619"/>
+    <nd ref="169244621"/>
+    <nd ref="169244624"/>
+    <nd ref="169244629"/>
+    <nd ref="169244631"/>
+    <nd ref="169131501"/>
+    <nd ref="169244634"/>
+    <nd ref="169244637"/>
+    <nd ref="169244641"/>
+    <nd ref="169244643"/>
+    <nd ref="169244646"/>
+    <nd ref="169244649"/>
+    <nd ref="169244652"/>
+    <nd ref="169244656"/>
+    <nd ref="169244659"/>
+    <nd ref="169244663"/>
+    <nd ref="169244665"/>
+    <nd ref="169244669"/>
+    <nd ref="169244673"/>
+    <nd ref="169244676"/>
+    <nd ref="169244679"/>
+    <nd ref="169244682"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mulberry Gap Road"/>
+    <tag k="name_1" v="State Road 1183"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alleghany, NC"/>
+    <tag k="tiger:name_base" v="Mulberry Gap"/>
+    <tag k="tiger:name_base_1" v="State Road 1183"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

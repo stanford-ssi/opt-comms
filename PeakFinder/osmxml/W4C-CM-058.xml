@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16593828">
+    <nd ref="171337711"/>
+    <nd ref="171337715"/>
+    <nd ref="171337720"/>
+    <nd ref="171337723"/>
+    <nd ref="171337725"/>
+    <nd ref="171337727"/>
+    <nd ref="171337730"/>
+    <nd ref="171337734"/>
+    <nd ref="171337737"/>
+    <nd ref="171337740"/>
+    <nd ref="171337743"/>
+    <nd ref="171337746"/>
+    <nd ref="171337750"/>
+    <nd ref="171337753"/>
+    <nd ref="171337756"/>
+    <nd ref="171337758"/>
+    <nd ref="171337760"/>
+    <nd ref="171337762"/>
+    <nd ref="171337765"/>
+    <nd ref="171337768"/>
+    <nd ref="171337773"/>
+    <nd ref="171337776"/>
+    <nd ref="171337780"/>
+    <nd ref="171337783"/>
+    <nd ref="171266761"/>
+    <nd ref="171337787"/>
+    <nd ref="171337790"/>
+    <nd ref="171337793"/>
+    <nd ref="171337799"/>
+    <nd ref="171337802"/>
+    <nd ref="171337806"/>
+    <nd ref="171337808"/>
+    <nd ref="171337811"/>
+    <nd ref="171337815"/>
+    <nd ref="171337820"/>
+    <nd ref="171337823"/>
+    <nd ref="171337826"/>
+    <nd ref="171337829"/>
+    <nd ref="171337831"/>
+    <nd ref="171337833"/>
+    <nd ref="171337835"/>
+    <nd ref="171332036"/>
+    <nd ref="171337838"/>
+    <nd ref="171337840"/>
+    <nd ref="171337844"/>
+    <nd ref="171337846"/>
+    <nd ref="171337849"/>
+    <nd ref="171337853"/>
+    <nd ref="171288170"/>
+    <nd ref="171337854"/>
+    <nd ref="171337858"/>
+    <nd ref="171337861"/>
+    <nd ref="171337865"/>
+    <nd ref="171337868"/>
+    <nd ref="171337871"/>
+    <nd ref="171337875"/>
+    <nd ref="171337878"/>
+    <nd ref="171337880"/>
+    <nd ref="171337881"/>
+    <nd ref="171337884"/>
+    <nd ref="171337886"/>
+    <nd ref="171337889"/>
+    <nd ref="171337891"/>
+    <nd ref="171337893"/>
+    <nd ref="171337897"/>
+    <nd ref="171337899"/>
+    <nd ref="171337902"/>
+    <nd ref="171337906"/>
+    <nd ref="171337909"/>
+    <nd ref="171337911"/>
+    <nd ref="171337913"/>
+    <nd ref="171337915"/>
+    <nd ref="171337918"/>
+    <nd ref="171337923"/>
+    <nd ref="171337927"/>
+    <nd ref="171337929"/>
+    <nd ref="171337932"/>
+    <nd ref="171337934"/>
+    <nd ref="171290013"/>
+    <nd ref="171337936"/>
+    <nd ref="171337940"/>
+    <nd ref="171337943"/>
+    <nd ref="171337946"/>
+    <nd ref="171337951"/>
+    <nd ref="171337953"/>
+    <nd ref="171337956"/>
+    <nd ref="171337957"/>
+    <nd ref="171337959"/>
+    <nd ref="171337962"/>
+    <nd ref="171337963"/>
+    <nd ref="171337966"/>
+    <nd ref="171337970"/>
+    <nd ref="171337973"/>
+    <nd ref="171337977"/>
+    <nd ref="171337980"/>
+    <nd ref="171337983"/>
+    <nd ref="171337985"/>
+    <nd ref="171337989"/>
+    <nd ref="171337992"/>
+    <nd ref="171337995"/>
+    <nd ref="171337999"/>
+    <nd ref="171338004"/>
+    <nd ref="171338007"/>
+    <nd ref="171338009"/>
+    <nd ref="171338011"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Water Wheel Cove"/>
+    <tag k="name_1" v="State Road 1352"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Water Wheel"/>
+    <tag k="tiger:name_base_1" v="State Road 1352"/>
+    <tag k="tiger:name_type" v="Cv"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+  <way id="16594435">
+    <nd ref="171345764"/>
+    <nd ref="171345767"/>
+    <nd ref="171345769"/>
+    <nd ref="171345771"/>
+    <nd ref="171345773"/>
+    <nd ref="171345775"/>
+    <nd ref="171345776"/>
+    <nd ref="171345779"/>
+    <nd ref="171345781"/>
+    <nd ref="171345783"/>
+    <nd ref="171345785"/>
+    <nd ref="171345787"/>
+    <nd ref="171345789"/>
+    <nd ref="171345791"/>
+    <nd ref="171345793"/>
+    <nd ref="171345797"/>
+    <nd ref="171345800"/>
+    <nd ref="171345803"/>
+    <nd ref="171345806"/>
+    <nd ref="171345808"/>
+    <nd ref="171345810"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hyacinth Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Hyacinth"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+  <way id="16596790">
+    <nd ref="171376791"/>
+    <nd ref="171376793"/>
+    <nd ref="171376795"/>
+    <nd ref="171345803"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jasmine Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Jasmine"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+
+</osm>

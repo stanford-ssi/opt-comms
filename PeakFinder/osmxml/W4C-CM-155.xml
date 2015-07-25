@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16656422">
+    <nd ref="172069135"/>
+    <nd ref="172069137"/>
+    <nd ref="172069139"/>
+    <nd ref="172069140"/>
+    <nd ref="172069143"/>
+    <nd ref="172069146"/>
+    <nd ref="172069149"/>
+    <nd ref="172069152"/>
+    <nd ref="172069154"/>
+    <nd ref="172069156"/>
+    <nd ref="172069159"/>
+    <nd ref="172069163"/>
+    <nd ref="172069166"/>
+    <nd ref="172069169"/>
+    <nd ref="172069172"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nicey Gap"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Nicey Gap"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35925051"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-fa0c85de-6bac-495b-aa65-9310b32cd37f"/>
+    <tag k="tiger:zip_left" v="28762"/>
+    <tag k="tiger:zip_right" v="28762"/>
+  </way>
+  <way id="16658496">
+    <nd ref="172082491"/>
+    <nd ref="172101136"/>
+    <nd ref="172101137"/>
+    <nd ref="172101138"/>
+    <nd ref="172101139"/>
+    <nd ref="172101140"/>
+    <nd ref="172101142"/>
+    <nd ref="172101145"/>
+    <nd ref="172101147"/>
+    <nd ref="172101149"/>
+    <nd ref="172101152"/>
+    <nd ref="172101155"/>
+    <nd ref="172101156"/>
+    <nd ref="172101157"/>
+    <nd ref="172101160"/>
+    <nd ref="172101163"/>
+    <nd ref="172101166"/>
+    <nd ref="172101168"/>
+    <nd ref="172101170"/>
+    <nd ref="172101172"/>
+    <nd ref="172101173"/>
+    <nd ref="172101174"/>
+    <nd ref="172101176"/>
+    <nd ref="172101179"/>
+    <nd ref="172101180"/>
+    <nd ref="172101183"/>
+    <nd ref="172101186"/>
+    <nd ref="172101188"/>
+    <nd ref="172101190"/>
+    <nd ref="172101193"/>
+    <nd ref="172101196"/>
+    <nd ref="172101199"/>
+    <nd ref="172101202"/>
+    <nd ref="172101207"/>
+    <nd ref="172101209"/>
+    <nd ref="172101211"/>
+    <nd ref="172101212"/>
+    <nd ref="172101215"/>
+    <nd ref="172101218"/>
+    <nd ref="172101221"/>
+    <nd ref="172101224"/>
+    <nd ref="172101225"/>
+    <nd ref="172101226"/>
+    <nd ref="172101228"/>
+    <nd ref="172101231"/>
+    <nd ref="172101234"/>
+    <nd ref="172101236"/>
+    <nd ref="172101239"/>
+    <nd ref="172101241"/>
+    <nd ref="172101242"/>
+    <nd ref="172101243"/>
+    <nd ref="172101244"/>
+    <nd ref="172101247"/>
+    <nd ref="172101250"/>
+    <nd ref="172101252"/>
+    <nd ref="172101254"/>
+    <nd ref="172101257"/>
+    <nd ref="172101260"/>
+    <nd ref="172101262"/>
+    <nd ref="172101264"/>
+    <nd ref="172101267"/>
+    <nd ref="172101268"/>
+    <nd ref="172101270"/>
+    <nd ref="172101271"/>
+    <nd ref="172101276"/>
+    <nd ref="172101279"/>
+    <nd ref="172101282"/>
+    <nd ref="172101283"/>
+    <nd ref="172101285"/>
+    <nd ref="172101288"/>
+    <nd ref="172101290"/>
+    <nd ref="172101293"/>
+    <nd ref="172101295"/>
+    <nd ref="172101298"/>
+    <nd ref="172101302"/>
+    <nd ref="172101305"/>
+    <nd ref="172101308"/>
+    <nd ref="172101311"/>
+    <nd ref="172101314"/>
+    <nd ref="172101317"/>
+    <nd ref="172101319"/>
+    <nd ref="172101321"/>
+    <nd ref="172101323"/>
+    <nd ref="172101325"/>
+    <nd ref="172101331"/>
+    <nd ref="172101336"/>
+    <nd ref="172101339"/>
+    <nd ref="172101342"/>
+    <nd ref="172101344"/>
+    <nd ref="172101347"/>
+    <nd ref="172101352"/>
+    <nd ref="172101355"/>
+    <nd ref="172101357"/>
+    <nd ref="172101359"/>
+    <nd ref="172101362"/>
+    <nd ref="172101365"/>
+    <nd ref="172101368"/>
+    <nd ref="172101370"/>
+    <nd ref="172101372"/>
+    <nd ref="172101374"/>
+    <nd ref="172101378"/>
+    <nd ref="172101381"/>
+    <nd ref="172101384"/>
+    <nd ref="172101387"/>
+    <nd ref="172101389"/>
+    <nd ref="172101391"/>
+    <nd ref="172101393"/>
+    <nd ref="172101396"/>
+    <nd ref="172101399"/>
+    <nd ref="172101401"/>
+    <nd ref="172101403"/>
+    <nd ref="172069135"/>
+    <nd ref="172101405"/>
+    <nd ref="172101406"/>
+    <nd ref="172101408"/>
+    <nd ref="172101410"/>
+    <nd ref="172101413"/>
+    <nd ref="172101418"/>
+    <nd ref="172101421"/>
+    <nd ref="172101424"/>
+    <nd ref="172101428"/>
+    <nd ref="172101430"/>
+    <nd ref="172101433"/>
+    <nd ref="172101436"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wolf Pen Road"/>
+    <tag k="name_1" v="Wolfpen Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Wolf Pen"/>
+    <tag k="tiger:name_base_1" v="Wolfpen"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28762"/>
+    <tag k="tiger:zip_right" v="28762"/>
+  </way>
+  <way id="16658905">
+    <nd ref="172101428"/>
+    <nd ref="172105983"/>
+    <nd ref="172105986"/>
+    <nd ref="172105989"/>
+    <nd ref="172105991"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South View Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="South View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28762"/>
+    <tag k="tiger:zip_right" v="28762"/>
+  </way>
+  <way id="16663000">
+    <nd ref="172101403"/>
+    <nd ref="172163251"/>
+    <nd ref="172163254"/>
+    <nd ref="172163256"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mulberry Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="McDowell, NC"/>
+    <tag k="tiger:name_base" v="Mulberry"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28762"/>
+    <tag k="tiger:zip_right" v="28762"/>
+  </way>
+
+</osm>

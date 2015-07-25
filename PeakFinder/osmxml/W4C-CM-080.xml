@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="16649016">
+    <nd ref="171984621"/>
+    <nd ref="171984625"/>
+    <nd ref="171984627"/>
+    <nd ref="171984630"/>
+    <nd ref="171984632"/>
+    <nd ref="171984634"/>
+    <nd ref="171984636"/>
+    <nd ref="171984639"/>
+    <nd ref="171984642"/>
+    <nd ref="171984645"/>
+    <nd ref="171984648"/>
+    <nd ref="171984649"/>
+    <nd ref="171984650"/>
+    <nd ref="171984651"/>
+    <nd ref="171984652"/>
+    <nd ref="171984654"/>
+    <nd ref="171984656"/>
+    <nd ref="171984658"/>
+    <nd ref="171984660"/>
+    <nd ref="171984662"/>
+    <nd ref="171984664"/>
+    <nd ref="171984666"/>
+    <nd ref="171984668"/>
+    <nd ref="171984671"/>
+    <nd ref="171984673"/>
+    <nd ref="171984676"/>
+    <nd ref="171984679"/>
+    <nd ref="171984682"/>
+    <nd ref="171984683"/>
+    <nd ref="171984685"/>
+    <nd ref="171984687"/>
+    <nd ref="171984688"/>
+    <nd ref="171984689"/>
+    <nd ref="171984691"/>
+    <nd ref="171984693"/>
+    <nd ref="171984695"/>
+    <nd ref="171984696"/>
+    <nd ref="171984698"/>
+    <nd ref="171984700"/>
+    <nd ref="171984702"/>
+    <nd ref="171984705"/>
+    <nd ref="171984707"/>
+    <nd ref="171984710"/>
+    <nd ref="171984713"/>
+    <nd ref="171984716"/>
+    <nd ref="171984718"/>
+    <nd ref="171984720"/>
+    <nd ref="171984721"/>
+    <nd ref="171984723"/>
+    <nd ref="171984725"/>
+    <nd ref="171984728"/>
+    <nd ref="171984733"/>
+    <nd ref="171984736"/>
+    <nd ref="171984738"/>
+    <nd ref="171984740"/>
+    <nd ref="171984742"/>
+    <nd ref="171984745"/>
+    <nd ref="171984747"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40938026:40944868:40944869:40928685:40928687:40928606:40928608:40947306:40928577:40928744:40928693"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="16651947">
+    <nd ref="172008352"/>
+    <nd ref="172008354"/>
+    <nd ref="172008356"/>
+    <nd ref="172008358"/>
+    <nd ref="172008361"/>
+    <nd ref="172008363"/>
+    <nd ref="172008365"/>
+    <nd ref="172008367"/>
+    <nd ref="172008369"/>
+    <nd ref="172008370"/>
+    <nd ref="172008373"/>
+    <nd ref="172008378"/>
+    <nd ref="172008380"/>
+    <nd ref="172008382"/>
+    <nd ref="172008384"/>
+    <nd ref="172008386"/>
+    <nd ref="172008388"/>
+    <nd ref="172008389"/>
+    <nd ref="172008390"/>
+    <nd ref="172008391"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40937276"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="16652680">
+    <nd ref="171984705"/>
+    <nd ref="172014586"/>
+    <nd ref="172014589"/>
+    <nd ref="172014592"/>
+    <nd ref="172014594"/>
+    <nd ref="172014597"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40944870"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+
+</osm>

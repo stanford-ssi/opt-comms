@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16620867">
+    <nd ref="171671543"/>
+    <nd ref="171671545"/>
+    <nd ref="171671549"/>
+    <nd ref="171671552"/>
+    <nd ref="171671555"/>
+    <nd ref="171671558"/>
+    <nd ref="171671560"/>
+    <nd ref="171671563"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004555"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620871">
+    <nd ref="171671576"/>
+    <nd ref="171671578"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004558"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16625033">
+    <nd ref="171715886"/>
+    <nd ref="171715889"/>
+    <nd ref="171715890"/>
+    <nd ref="171715892"/>
+    <nd ref="171715895"/>
+    <nd ref="171715897"/>
+    <nd ref="171715898"/>
+    <nd ref="171715900"/>
+    <nd ref="171715902"/>
+    <nd ref="171715905"/>
+    <nd ref="171715907"/>
+    <nd ref="171715910"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004562:36004563"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16627788">
+    <nd ref="171745603"/>
+    <nd ref="171745606"/>
+    <nd ref="171745609"/>
+    <nd ref="171745612"/>
+    <nd ref="171745616"/>
+    <nd ref="171745620"/>
+    <nd ref="171745623"/>
+    <nd ref="171745626"/>
+    <nd ref="171745629"/>
+    <nd ref="171745632"/>
+    <nd ref="171745635"/>
+    <nd ref="171745638"/>
+    <nd ref="171745641"/>
+    <nd ref="171745644"/>
+    <nd ref="171745647"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grey Cottage Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Grey Cottage"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16628237">
+    <nd ref="171750457"/>
+    <nd ref="171750461"/>
+    <nd ref="171750463"/>
+    <nd ref="171750464"/>
+    <nd ref="171750467"/>
+    <nd ref="171750469"/>
+    <nd ref="171704001"/>
+    <nd ref="171750471"/>
+    <nd ref="171750472"/>
+    <nd ref="171750474"/>
+    <nd ref="171750478"/>
+    <nd ref="171715932"/>
+    <nd ref="171750480"/>
+    <nd ref="171654074"/>
+    <nd ref="171750483"/>
+    <nd ref="171715886"/>
+    <nd ref="171750485"/>
+    <nd ref="171671576"/>
+    <nd ref="171750487"/>
+    <nd ref="171750490"/>
+    <nd ref="171750493"/>
+    <nd ref="171750496"/>
+    <nd ref="171750500"/>
+    <nd ref="171750502"/>
+    <nd ref="171750503"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Terrapin Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Little Terrapin"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16634402">
+    <nd ref="171794004"/>
+    <nd ref="171821488"/>
+    <nd ref="171802730"/>
+    <nd ref="171821490"/>
+    <nd ref="171821493"/>
+    <nd ref="171821496"/>
+    <nd ref="171821499"/>
+    <nd ref="171821502"/>
+    <nd ref="171821506"/>
+    <nd ref="171671543"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mac's View Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Mac's View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

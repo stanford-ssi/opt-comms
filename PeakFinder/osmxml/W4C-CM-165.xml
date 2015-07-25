@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16604928">
+    <nd ref="171465760"/>
+    <nd ref="171465763"/>
+    <nd ref="171465764"/>
+    <nd ref="171465766"/>
+    <nd ref="171465768"/>
+    <nd ref="171465770"/>
+    <nd ref="171465772"/>
+    <nd ref="171465776"/>
+    <nd ref="171465778"/>
+    <nd ref="171465780"/>
+    <nd ref="171465784"/>
+    <nd ref="171399213"/>
+    <nd ref="171465790"/>
+    <nd ref="171465793"/>
+    <nd ref="171465796"/>
+    <nd ref="171465798"/>
+    <nd ref="171465801"/>
+    <nd ref="171465803"/>
+    <nd ref="171465809"/>
+    <nd ref="171465812"/>
+    <nd ref="171465815"/>
+    <nd ref="171465818"/>
+    <nd ref="171465821"/>
+    <nd ref="171465824"/>
+    <nd ref="171465827"/>
+    <nd ref="171465829"/>
+    <nd ref="171465832"/>
+    <nd ref="171465835"/>
+    <nd ref="171465838"/>
+    <nd ref="171465841"/>
+    <nd ref="171465846"/>
+    <nd ref="171465848"/>
+    <nd ref="171465850"/>
+    <nd ref="171465852"/>
+    <nd ref="171465854"/>
+    <nd ref="171465856"/>
+    <nd ref="171465858"/>
+    <nd ref="171465861"/>
+    <nd ref="171465864"/>
+    <nd ref="171465868"/>
+    <nd ref="171465871"/>
+    <nd ref="171465873"/>
+    <nd ref="171465874"/>
+    <nd ref="171465876"/>
+    <nd ref="171465878"/>
+    <nd ref="171465881"/>
+    <nd ref="171465884"/>
+    <nd ref="171465886"/>
+    <nd ref="171465889"/>
+    <nd ref="171465891"/>
+    <nd ref="171465894"/>
+    <nd ref="171465897"/>
+    <nd ref="171465900"/>
+    <nd ref="171465903"/>
+    <nd ref="171465906"/>
+    <nd ref="171465909"/>
+    <nd ref="171465912"/>
+    <nd ref="171465915"/>
+    <nd ref="171465917"/>
+    <nd ref="171465918"/>
+    <nd ref="171465921"/>
+    <nd ref="171465924"/>
+    <nd ref="171465928"/>
+    <nd ref="171465931"/>
+    <nd ref="171465934"/>
+    <nd ref="171465938"/>
+    <nd ref="171465941"/>
+    <nd ref="171465944"/>
+    <nd ref="171465947"/>
+    <nd ref="171465949"/>
+    <nd ref="171465952"/>
+    <nd ref="171465954"/>
+    <nd ref="171465958"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="View Rock Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="View Rock"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28791"/>
+    <tag k="tiger:zip_right" v="28791"/>
+  </way>
+  <way id="16607870">
+    <nd ref="171449395"/>
+    <nd ref="171503216"/>
+    <nd ref="171503219"/>
+    <nd ref="171503220"/>
+    <nd ref="171503221"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ciccone Drive"/>
+    <tag k="name_1" v="County Road 1453"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Ciccone"/>
+    <tag k="tiger:name_base_1" v="County Road 1453"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28791"/>
+    <tag k="tiger:zip_right" v="28791"/>
+  </way>
+  <way id="16611312">
+    <nd ref="171465760"/>
+    <nd ref="171546868"/>
+    <nd ref="171546870"/>
+    <nd ref="171546872"/>
+    <nd ref="171546874"/>
+    <nd ref="171546875"/>
+    <nd ref="171546878"/>
+    <nd ref="171546880"/>
+    <nd ref="171546882"/>
+    <nd ref="171546885"/>
+    <nd ref="171546888"/>
+    <nd ref="171546891"/>
+    <nd ref="171546894"/>
+    <nd ref="171546897"/>
+    <nd ref="171546899"/>
+    <nd ref="171546901"/>
+    <nd ref="171546903"/>
+    <nd ref="171546906"/>
+    <nd ref="171546909"/>
+    <nd ref="171546912"/>
+    <nd ref="171546915"/>
+    <nd ref="171546918"/>
+    <nd ref="171546920"/>
+    <nd ref="171546924"/>
+    <nd ref="171546929"/>
+    <nd ref="171546932"/>
+    <nd ref="171546935"/>
+    <nd ref="171546938"/>
+    <nd ref="171546939"/>
+    <nd ref="171546941"/>
+    <nd ref="171546943"/>
+    <nd ref="171546945"/>
+    <nd ref="171546948"/>
+    <nd ref="171546951"/>
+    <nd ref="171546954"/>
+    <nd ref="171546957"/>
+    <nd ref="171546960"/>
+    <nd ref="171546963"/>
+    <nd ref="171546966"/>
+    <nd ref="444716214"/>
+    <nd ref="444716217"/>
+    <nd ref="171546974"/>
+    <nd ref="444716219"/>
+    <nd ref="171546982"/>
+    <nd ref="171546984"/>
+    <nd ref="444716300"/>
+    <nd ref="171546988"/>
+    <nd ref="444716302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Randy Drive"/>
+    <tag k="name_1" v="County Road 2033"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Randy"/>
+    <tag k="tiger:name_base_1" v="County Road 2033"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16611345">
+    <nd ref="171546997"/>
+    <nd ref="171547000"/>
+    <nd ref="171547003"/>
+    <nd ref="171547006"/>
+    <nd ref="171547009"/>
+    <nd ref="171547012"/>
+    <nd ref="171547014"/>
+    <nd ref="171547016"/>
+    <nd ref="171547018"/>
+    <nd ref="171547020"/>
+    <nd ref="171547022"/>
+    <nd ref="171547025"/>
+    <nd ref="171547027"/>
+    <nd ref="171547030"/>
+    <nd ref="171547033"/>
+    <nd ref="171547036"/>
+    <nd ref="171547038"/>
+    <nd ref="171547041"/>
+    <nd ref="171547044"/>
+    <nd ref="171547046"/>
+    <nd ref="171547047"/>
+    <nd ref="171547048"/>
+    <nd ref="171547051"/>
+    <nd ref="171547053"/>
+    <nd ref="171547056"/>
+    <nd ref="171547059"/>
+    <nd ref="171547062"/>
+    <nd ref="171547065"/>
+    <nd ref="171547067"/>
+    <nd ref="171547069"/>
+    <nd ref="171547071"/>
+    <nd ref="171547077"/>
+    <nd ref="171547080"/>
+    <nd ref="171547083"/>
+    <nd ref="171547086"/>
+    <nd ref="171547089"/>
+    <nd ref="171547091"/>
+    <nd ref="171547092"/>
+    <nd ref="171547093"/>
+    <nd ref="171547097"/>
+    <nd ref="171547099"/>
+    <nd ref="171547101"/>
+    <nd ref="171547102"/>
+    <nd ref="171547105"/>
+    <nd ref="171547108"/>
+    <nd ref="171547112"/>
+    <nd ref="171547117"/>
+    <nd ref="171547121"/>
+    <nd ref="171547125"/>
+    <nd ref="171547129"/>
+    <nd ref="171547133"/>
+    <nd ref="171547136"/>
+    <nd ref="171547142"/>
+    <nd ref="171547145"/>
+    <nd ref="171547149"/>
+    <nd ref="171547153"/>
+    <nd ref="171547157"/>
+    <nd ref="171547162"/>
+    <nd ref="171547165"/>
+    <nd ref="171547169"/>
+    <nd ref="171547173"/>
+    <nd ref="171547178"/>
+    <nd ref="171547181"/>
+    <nd ref="171547184"/>
+    <nd ref="171547188"/>
+    <nd ref="171547191"/>
+    <nd ref="171547195"/>
+    <nd ref="171547206"/>
+    <nd ref="171547210"/>
+    <nd ref="171547214"/>
+    <nd ref="171547218"/>
+    <nd ref="171547222"/>
+    <nd ref="171547224"/>
+    <nd ref="171547227"/>
+    <nd ref="171547230"/>
+    <nd ref="171547234"/>
+    <nd ref="171547238"/>
+    <nd ref="171547241"/>
+    <nd ref="171547242"/>
+    <nd ref="171547244"/>
+    <nd ref="171547246"/>
+    <nd ref="171547248"/>
+    <nd ref="171547251"/>
+    <nd ref="171547254"/>
+    <nd ref="171547257"/>
+    <nd ref="171547259"/>
+    <nd ref="171547283"/>
+    <nd ref="171547295"/>
+    <nd ref="171547298"/>
+    <nd ref="171547301"/>
+    <nd ref="171547304"/>
+    <nd ref="171547307"/>
+    <nd ref="171547311"/>
+    <nd ref="171547314"/>
+    <nd ref="171547316"/>
+    <nd ref="171547317"/>
+    <nd ref="171547320"/>
+    <nd ref="171465760"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Randy Drive"/>
+    <tag k="name_1" v="County Road 2033"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Randy"/>
+    <tag k="tiger:name_base_1" v="County Road 2033"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28791"/>
+    <tag k="tiger:zip_right" v="28791"/>
+  </way>
+  <way id="16612221">
+    <nd ref="171546932"/>
+    <nd ref="171558199"/>
+    <nd ref="171558202"/>
+    <nd ref="171558205"/>
+    <nd ref="171558206"/>
+    <nd ref="171558209"/>
+    <nd ref="171558211"/>
+    <nd ref="171558213"/>
+    <nd ref="171558215"/>
+    <nd ref="171558218"/>
+    <nd ref="171558221"/>
+    <nd ref="171558224"/>
+    <nd ref="171558230"/>
+    <nd ref="171558234"/>
+    <nd ref="171558236"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Longview Mountain Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Longview Mountain"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28791"/>
+    <tag k="tiger:zip_right" v="28791"/>
+  </way>
+  <way id="16613532">
+    <nd ref="171579919"/>
+    <nd ref="171579922"/>
+    <nd ref="171579926"/>
+    <nd ref="171579929"/>
+    <nd ref="171579932"/>
+    <nd ref="171579935"/>
+    <nd ref="171579937"/>
+    <nd ref="171579940"/>
+    <nd ref="171579943"/>
+    <nd ref="171579946"/>
+    <nd ref="171579949"/>
+    <nd ref="171579952"/>
+    <nd ref="171579955"/>
+    <nd ref="171579958"/>
+    <nd ref="171579961"/>
+    <nd ref="171579963"/>
+    <nd ref="171579968"/>
+    <nd ref="171579969"/>
+    <nd ref="171579972"/>
+    <nd ref="171579975"/>
+    <nd ref="171579978"/>
+    <nd ref="171579981"/>
+    <nd ref="171579983"/>
+    <nd ref="171579984"/>
+    <nd ref="171579986"/>
+    <nd ref="171579988"/>
+    <nd ref="171579990"/>
+    <nd ref="171579992"/>
+    <nd ref="171579993"/>
+    <nd ref="171579994"/>
+    <nd ref="171575866"/>
+    <nd ref="171579995"/>
+    <nd ref="171579996"/>
+    <nd ref="171579997"/>
+    <nd ref="171579999"/>
+    <nd ref="171580001"/>
+    <nd ref="171580004"/>
+    <nd ref="171580007"/>
+    <nd ref="171580010"/>
+    <nd ref="171580012"/>
+    <nd ref="171580014"/>
+    <nd ref="171580016"/>
+    <nd ref="171580018"/>
+    <nd ref="171580021"/>
+    <nd ref="171580024"/>
+    <nd ref="171580026"/>
+    <nd ref="171580029"/>
+    <nd ref="171580032"/>
+    <nd ref="171580035"/>
+    <nd ref="171580038"/>
+    <nd ref="171580041"/>
+    <nd ref="171580044"/>
+    <nd ref="171580046"/>
+    <nd ref="171580048"/>
+    <nd ref="171580050"/>
+    <nd ref="171580052"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lyndhurst Drive"/>
+    <tag k="name_1" v="County Road 1386"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Lyndhurst"/>
+    <tag k="tiger:name_base_1" v="County Road 1386"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16614957">
+    <nd ref="171546997"/>
+    <nd ref="171595087"/>
+    <nd ref="171595089"/>
+    <nd ref="171595091"/>
+    <nd ref="171595093"/>
+    <nd ref="171595096"/>
+    <nd ref="171595099"/>
+    <nd ref="171595102"/>
+    <nd ref="171595104"/>
+    <nd ref="171595107"/>
+    <nd ref="171595109"/>
+    <nd ref="171595113"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bayless Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Bayless"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16621946">
+    <nd ref="171683306"/>
+    <nd ref="171683307"/>
+    <nd ref="171683310"/>
+    <nd ref="171683313"/>
+    <nd ref="171683316"/>
+    <nd ref="171683318"/>
+    <nd ref="171683320"/>
+    <nd ref="171683323"/>
+    <nd ref="171683326"/>
+    <nd ref="171683328"/>
+    <nd ref="171683330"/>
+    <nd ref="171683333"/>
+    <nd ref="171683336"/>
+    <nd ref="171683337"/>
+    <nd ref="171683342"/>
+    <nd ref="171683344"/>
+    <nd ref="171683347"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Melinda Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Melinda"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28791"/>
+    <tag k="tiger:zip_right" v="28791"/>
+  </way>
+  <way id="16629478">
+    <nd ref="171547254"/>
+    <nd ref="171766348"/>
+    <nd ref="171766350"/>
+    <nd ref="171766352"/>
+    <nd ref="171766354"/>
+    <nd ref="171766357"/>
+    <nd ref="171766359"/>
+    <nd ref="171766362"/>
+    <nd ref="171766365"/>
+    <nd ref="171766368"/>
+    <nd ref="171766369"/>
+    <nd ref="171766372"/>
+    <nd ref="171766375"/>
+    <nd ref="171766378"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sutton Place"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sutton"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28791"/>
+    <tag k="tiger:zip_right" v="28791"/>
+  </way>
+
+</osm>

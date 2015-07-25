@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="16656156">
+    <nd ref="172064988"/>
+    <nd ref="172064990"/>
+    <nd ref="172064992"/>
+    <nd ref="172064993"/>
+    <nd ref="172064995"/>
+    <nd ref="172064997"/>
+    <nd ref="172064999"/>
+    <nd ref="172065002"/>
+    <nd ref="172065003"/>
+    <nd ref="172065006"/>
+    <nd ref="172065007"/>
+    <nd ref="172065009"/>
+    <nd ref="172065010"/>
+    <nd ref="172065011"/>
+    <nd ref="172065012"/>
+    <nd ref="172065014"/>
+    <nd ref="172065017"/>
+    <nd ref="172065019"/>
+    <nd ref="172065022"/>
+    <nd ref="172065025"/>
+    <nd ref="172065027"/>
+    <nd ref="172065029"/>
+    <nd ref="172065030"/>
+    <nd ref="172065033"/>
+    <nd ref="172065034"/>
+    <nd ref="172065037"/>
+    <nd ref="172065041"/>
+    <nd ref="172065044"/>
+    <nd ref="172014736"/>
+    <nd ref="172065046"/>
+    <nd ref="172065047"/>
+    <nd ref="172065048"/>
+    <nd ref="172065050"/>
+    <nd ref="172065052"/>
+    <nd ref="172065054"/>
+    <nd ref="172065057"/>
+    <nd ref="172065059"/>
+    <nd ref="172065062"/>
+    <nd ref="172011131"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Trail"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:name_base" v="Trail"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40947339:40930500:40946983"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+
+</osm>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16648103">
+    <nd ref="171977740"/>
+    <nd ref="171977742"/>
+    <nd ref="171977747"/>
+    <nd ref="171977750"/>
+    <nd ref="171977752"/>
+    <nd ref="171977753"/>
+    <nd ref="171977755"/>
+    <nd ref="171977758"/>
+    <nd ref="171977759"/>
+    <nd ref="171977762"/>
+    <nd ref="171977765"/>
+    <nd ref="171977766"/>
+    <nd ref="171977768"/>
+    <nd ref="171977770"/>
+    <nd ref="171977772"/>
+    <nd ref="171977774"/>
+    <nd ref="171977776"/>
+    <nd ref="171977778"/>
+    <nd ref="171977780"/>
+    <nd ref="171977782"/>
+    <nd ref="171977784"/>
+    <nd ref="171977786"/>
+    <nd ref="171977788"/>
+    <nd ref="171977789"/>
+    <nd ref="171977791"/>
+    <nd ref="171977793"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35487783:35487974:35487976"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+
+</osm>

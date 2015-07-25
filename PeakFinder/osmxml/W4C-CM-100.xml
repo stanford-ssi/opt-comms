@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="16787836">
+    <nd ref="173697130"/>
+    <nd ref="173697133"/>
+    <nd ref="173697135"/>
+    <nd ref="173697138"/>
+    <nd ref="173697141"/>
+    <nd ref="173697143"/>
+    <nd ref="173697146"/>
+    <nd ref="173697149"/>
+    <nd ref="173697152"/>
+    <nd ref="173697155"/>
+    <nd ref="173697158"/>
+    <nd ref="173697161"/>
+    <nd ref="173697163"/>
+    <nd ref="173697166"/>
+    <nd ref="173697170"/>
+    <nd ref="173697173"/>
+    <nd ref="173697176"/>
+    <nd ref="173697179"/>
+    <nd ref="173697181"/>
+    <nd ref="173697184"/>
+    <nd ref="173697187"/>
+    <nd ref="173697188"/>
+    <nd ref="2841037931"/>
+    <nd ref="173697192"/>
+    <nd ref="173697194"/>
+    <nd ref="2841037932"/>
+    <nd ref="173697197"/>
+    <nd ref="173697203"/>
+    <nd ref="2841037930"/>
+    <nd ref="173697206"/>
+    <nd ref="173697208"/>
+    <nd ref="173697215"/>
+    <nd ref="173697218"/>
+    <nd ref="173697222"/>
+    <nd ref="2841037933"/>
+    <nd ref="2841037934"/>
+    <nd ref="2841037935"/>
+    <nd ref="2841037936"/>
+    <nd ref="173697225"/>
+    <nd ref="2841037937"/>
+    <nd ref="173697228"/>
+    <nd ref="173697230"/>
+    <nd ref="173697233"/>
+    <nd ref="173697235"/>
+    <nd ref="2841037939"/>
+    <nd ref="2841037941"/>
+    <nd ref="173638451"/>
+    <nd ref="2841037940"/>
+    <nd ref="2841037942"/>
+    <nd ref="173697237"/>
+    <nd ref="173697239"/>
+    <nd ref="2841037945"/>
+    <nd ref="173697241"/>
+    <nd ref="173697243"/>
+    <nd ref="173697246"/>
+    <nd ref="173697249"/>
+    <nd ref="173697251"/>
+    <nd ref="173697253"/>
+    <nd ref="173697256"/>
+    <nd ref="173697259"/>
+    <nd ref="173697262"/>
+    <nd ref="2844439842"/>
+    <nd ref="2844439841"/>
+    <nd ref="173697264"/>
+    <nd ref="2844439840"/>
+    <nd ref="2844439839"/>
+    <nd ref="173697267"/>
+    <nd ref="2844439838"/>
+    <nd ref="173697270"/>
+    <nd ref="173697273"/>
+    <nd ref="173697276"/>
+    <nd ref="173697278"/>
+    <nd ref="173697280"/>
+    <nd ref="2844439837"/>
+    <nd ref="173697283"/>
+    <nd ref="173697285"/>
+    <nd ref="173697288"/>
+    <nd ref="173697294"/>
+    <nd ref="173697296"/>
+    <nd ref="173697299"/>
+    <nd ref="173697302"/>
+    <nd ref="173697306"/>
+    <nd ref="173697310"/>
+    <nd ref="173697314"/>
+    <nd ref="173697317"/>
+    <nd ref="1747744193"/>
+    <nd ref="173697320"/>
+    <nd ref="173697324"/>
+    <nd ref="173697326"/>
+    <nd ref="173697328"/>
+    <nd ref="173697331"/>
+    <nd ref="173697334"/>
+    <nd ref="173697337"/>
+    <nd ref="173697339"/>
+    <nd ref="173697343"/>
+    <nd ref="173697346"/>
+    <nd ref="173697348"/>
+    <nd ref="173697349"/>
+    <nd ref="173697352"/>
+    <nd ref="173697354"/>
+    <nd ref="1747744166"/>
+    <nd ref="173697358"/>
+    <nd ref="173697361"/>
+    <nd ref="173697365"/>
+    <nd ref="173697371"/>
+    <nd ref="173697374"/>
+    <nd ref="173697378"/>
+    <nd ref="173697381"/>
+    <nd ref="173666173"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Tower Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Tower"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

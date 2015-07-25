@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16590868">
+    <nd ref="171295076"/>
+    <nd ref="171301991"/>
+    <nd ref="171301999"/>
+    <nd ref="171302006"/>
+    <nd ref="171302013"/>
+    <nd ref="171302022"/>
+    <nd ref="171302029"/>
+    <nd ref="171302037"/>
+    <nd ref="171302047"/>
+    <nd ref="171302055"/>
+    <nd ref="171302068"/>
+    <nd ref="171302083"/>
+    <nd ref="171302090"/>
+    <nd ref="171302109"/>
+    <nd ref="171302116"/>
+    <nd ref="171302125"/>
+    <nd ref="171289049"/>
+    <nd ref="171302133"/>
+    <nd ref="171302143"/>
+    <nd ref="171302148"/>
+    <nd ref="171302151"/>
+    <nd ref="171302153"/>
+    <nd ref="171278096"/>
+    <nd ref="171302156"/>
+    <nd ref="171302159"/>
+    <nd ref="171302162"/>
+    <nd ref="171302165"/>
+    <nd ref="171302168"/>
+    <nd ref="171302171"/>
+    <nd ref="171302173"/>
+    <nd ref="171302175"/>
+    <nd ref="171302178"/>
+    <nd ref="171248910"/>
+    <nd ref="171302181"/>
+    <nd ref="171302183"/>
+    <nd ref="171302185"/>
+    <nd ref="171302187"/>
+    <nd ref="171302190"/>
+    <nd ref="171302192"/>
+    <nd ref="171302197"/>
+    <nd ref="171302201"/>
+    <nd ref="171302204"/>
+    <nd ref="171302207"/>
+    <nd ref="171302210"/>
+    <nd ref="171302213"/>
+    <nd ref="171302216"/>
+    <nd ref="171302219"/>
+    <nd ref="171302222"/>
+    <nd ref="171302225"/>
+    <nd ref="171302228"/>
+    <nd ref="171302232"/>
+    <nd ref="171302235"/>
+    <nd ref="171302238"/>
+    <nd ref="171302243"/>
+    <nd ref="171302247"/>
+    <nd ref="171302249"/>
+    <nd ref="171302252"/>
+    <nd ref="171302254"/>
+    <nd ref="171302257"/>
+    <nd ref="171302259"/>
+    <nd ref="171302262"/>
+    <nd ref="171302265"/>
+    <nd ref="171302267"/>
+    <nd ref="171302271"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lookout Point"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Lookout Point"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151810373:151812815:151782686:151782690:151819786:151810627"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+  <way id="16590872">
+    <nd ref="171302271"/>
+    <nd ref="171302302"/>
+    <nd ref="171302307"/>
+    <nd ref="171302309"/>
+    <nd ref="171302312"/>
+    <nd ref="171302317"/>
+    <nd ref="171302321"/>
+    <nd ref="171302324"/>
+    <nd ref="171302329"/>
+    <nd ref="171302333"/>
+    <nd ref="171302336"/>
+    <nd ref="171302339"/>
+    <nd ref="171302344"/>
+    <nd ref="171302349"/>
+    <nd ref="171302352"/>
+    <nd ref="171302356"/>
+    <nd ref="171302359"/>
+    <nd ref="171302361"/>
+    <nd ref="171302365"/>
+    <nd ref="171302368"/>
+    <nd ref="171302371"/>
+    <nd ref="171302376"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lookout Point"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Lookout Point"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151813430"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+
+</osm>

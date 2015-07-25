@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="16792389">
+    <nd ref="209538819"/>
+    <nd ref="173778674"/>
+    <nd ref="173778676"/>
+    <nd ref="173778678"/>
+    <nd ref="173778680"/>
+    <nd ref="173778682"/>
+    <nd ref="173778684"/>
+    <nd ref="173778686"/>
+    <nd ref="173778688"/>
+    <nd ref="173778690"/>
+    <nd ref="173778694"/>
+    <nd ref="173778696"/>
+    <nd ref="173778698"/>
+    <nd ref="173778699"/>
+    <nd ref="173778701"/>
+    <nd ref="173778704"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Fishers Peak Road"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Surry, NC"/>
+    <tag k="tiger:name_base" v="Fishers Peak"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16792407">
+    <nd ref="173778711"/>
+    <nd ref="173778714"/>
+    <nd ref="173778716"/>
+    <nd ref="173778717"/>
+    <nd ref="173778719"/>
+    <nd ref="173778722"/>
+    <nd ref="173778725"/>
+    <nd ref="173778726"/>
+    <nd ref="173778728"/>
+    <nd ref="173778730"/>
+    <nd ref="173778733"/>
+    <nd ref="173778736"/>
+    <nd ref="173778739"/>
+    <nd ref="173778742"/>
+    <nd ref="173778745"/>
+    <nd ref="173778748"/>
+    <nd ref="173778750"/>
+    <nd ref="173778752"/>
+    <nd ref="173778755"/>
+    <nd ref="173778757"/>
+    <nd ref="173778759"/>
+    <nd ref="173778762"/>
+    <nd ref="173778764"/>
+    <nd ref="173778768"/>
+    <nd ref="173778770"/>
+    <nd ref="173778773"/>
+    <nd ref="173414571"/>
+    <nd ref="173778776"/>
+    <nd ref="173778778"/>
+    <nd ref="173778780"/>
+    <nd ref="173778783"/>
+    <nd ref="173778785"/>
+    <nd ref="173778787"/>
+    <nd ref="173778790"/>
+    <nd ref="173778793"/>
+    <nd ref="173778795"/>
+    <nd ref="173778797"/>
+    <nd ref="173778800"/>
+    <nd ref="173778802"/>
+    <nd ref="173778804"/>
+    <nd ref="173778806"/>
+    <nd ref="173778808"/>
+    <nd ref="173778811"/>
+    <nd ref="173778814"/>
+    <nd ref="173778817"/>
+    <nd ref="173778819"/>
+    <nd ref="173778821"/>
+    <nd ref="173778824"/>
+    <nd ref="173778827"/>
+    <nd ref="173778830"/>
+    <nd ref="173778832"/>
+    <nd ref="173778834"/>
+    <nd ref="173778837"/>
+    <nd ref="173778840"/>
+    <nd ref="173778842"/>
+    <nd ref="173778844"/>
+    <nd ref="173778846"/>
+    <nd ref="173778849"/>
+    <nd ref="173778852"/>
+    <nd ref="173778854"/>
+    <nd ref="173778856"/>
+    <nd ref="173778858"/>
+    <nd ref="173778859"/>
+    <nd ref="173778862"/>
+    <nd ref="173778865"/>
+    <nd ref="173778866"/>
+    <nd ref="173778868"/>
+    <nd ref="173778871"/>
+    <nd ref="173778873"/>
+    <nd ref="173778876"/>
+    <nd ref="173778880"/>
+    <nd ref="173778884"/>
+    <nd ref="173778888"/>
+    <nd ref="173778891"/>
+    <nd ref="173778894"/>
+    <nd ref="173778896"/>
+    <nd ref="173778899"/>
+    <nd ref="173778901"/>
+    <nd ref="173778903"/>
+    <nd ref="173778905"/>
+    <nd ref="173778908"/>
+    <nd ref="173778911"/>
+    <nd ref="173778914"/>
+    <nd ref="173778917"/>
+    <nd ref="173778919"/>
+    <nd ref="173778922"/>
+    <nd ref="173778926"/>
+    <nd ref="173778929"/>
+    <nd ref="173778931"/>
+    <nd ref="173778933"/>
+    <nd ref="173778936"/>
+    <nd ref="173778939"/>
+    <nd ref="173778942"/>
+    <nd ref="173778947"/>
+    <nd ref="173778949"/>
+    <nd ref="173778952"/>
+    <nd ref="173778956"/>
+    <nd ref="209538587"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fishers Peak Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Surry, NC"/>
+    <tag k="tiger:name_base" v="Fishers Peak"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="19942072">
+    <nd ref="209538587"/>
+    <nd ref="209538591"/>
+    <nd ref="209538594"/>
+    <nd ref="209538597"/>
+    <nd ref="209538599"/>
+    <nd ref="209538603"/>
+    <nd ref="209538607"/>
+    <nd ref="209538609"/>
+    <nd ref="209538614"/>
+    <nd ref="209538618"/>
+    <nd ref="209538621"/>
+    <nd ref="209538625"/>
+    <nd ref="209538629"/>
+    <nd ref="209538632"/>
+    <nd ref="209538636"/>
+    <nd ref="209538639"/>
+    <nd ref="209538641"/>
+    <nd ref="209538643"/>
+    <nd ref="209538645"/>
+    <nd ref="209538647"/>
+    <nd ref="209538650"/>
+    <nd ref="209538652"/>
+    <nd ref="209538655"/>
+    <nd ref="209538660"/>
+    <nd ref="209538663"/>
+    <nd ref="209538665"/>
+    <nd ref="209538668"/>
+    <nd ref="209538669"/>
+    <nd ref="209538671"/>
+    <nd ref="209538673"/>
+    <nd ref="209538676"/>
+    <nd ref="209538678"/>
+    <nd ref="209538681"/>
+    <nd ref="209538684"/>
+    <nd ref="209538687"/>
+    <nd ref="209538691"/>
+    <nd ref="209538693"/>
+    <nd ref="209538696"/>
+    <nd ref="209538698"/>
+    <nd ref="209538700"/>
+    <nd ref="209538703"/>
+    <nd ref="209538705"/>
+    <nd ref="209538707"/>
+    <nd ref="209538711"/>
+    <nd ref="209538715"/>
+    <nd ref="209538718"/>
+    <nd ref="209538719"/>
+    <nd ref="209538723"/>
+    <nd ref="209538725"/>
+    <nd ref="209538728"/>
+    <nd ref="209538731"/>
+    <nd ref="209538734"/>
+    <nd ref="209538737"/>
+    <nd ref="209538741"/>
+    <nd ref="209538744"/>
+    <nd ref="209538747"/>
+    <nd ref="209538750"/>
+    <nd ref="209538753"/>
+    <nd ref="209538756"/>
+    <nd ref="209538760"/>
+    <nd ref="209538762"/>
+    <nd ref="209538766"/>
+    <nd ref="209538768"/>
+    <nd ref="209538771"/>
+    <nd ref="209538774"/>
+    <nd ref="209538777"/>
+    <nd ref="209538780"/>
+    <nd ref="209538784"/>
+    <nd ref="209538787"/>
+    <nd ref="209538790"/>
+    <nd ref="209538793"/>
+    <nd ref="209538796"/>
+    <nd ref="209538800"/>
+    <nd ref="209538804"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fishers Peak Road"/>
+    <tag k="name_1" v="End of the Line Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Carroll, VA"/>
+    <tag k="tiger:name_base" v="Fishers Peak"/>
+    <tag k="tiger:name_base_1" v="End of the Line"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="19942078">
+    <nd ref="209538819"/>
+    <nd ref="209538822"/>
+    <nd ref="209538824"/>
+    <nd ref="209538828"/>
+    <nd ref="209538830"/>
+    <nd ref="209538832"/>
+    <nd ref="209538834"/>
+    <nd ref="209538836"/>
+    <nd ref="209538838"/>
+    <nd ref="209538841"/>
+    <nd ref="209538846"/>
+    <nd ref="209538850"/>
+    <nd ref="209538852"/>
+    <nd ref="209538859"/>
+    <nd ref="209538861"/>
+    <nd ref="209538865"/>
+    <nd ref="209538868"/>
+    <nd ref="209538870"/>
+    <nd ref="209538873"/>
+    <nd ref="209538876"/>
+    <nd ref="209538878"/>
+    <nd ref="209538880"/>
+    <nd ref="209538881"/>
+    <nd ref="209538884"/>
+    <nd ref="209538888"/>
+    <nd ref="209538891"/>
+    <nd ref="209538894"/>
+    <nd ref="209538897"/>
+    <nd ref="209538900"/>
+    <nd ref="209538903"/>
+    <nd ref="209538906"/>
+    <nd ref="209538911"/>
+    <nd ref="209538915"/>
+    <nd ref="209538919"/>
+    <nd ref="209538922"/>
+    <nd ref="209538925"/>
+    <nd ref="209538926"/>
+    <nd ref="209538927"/>
+    <nd ref="209538930"/>
+    <nd ref="209538762"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fishers Peak Road"/>
+    <tag k="name_1" v="End of the Line Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Carroll, VA"/>
+    <tag k="tiger:name_base" v="Fishers Peak"/>
+    <tag k="tiger:name_base_1" v="End of the Line"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

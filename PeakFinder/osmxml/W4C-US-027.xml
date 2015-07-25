@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12406381">
+    <nd ref="112887271"/>
+    <nd ref="112887279"/>
+    <nd ref="112887283"/>
+    <nd ref="112887286"/>
+    <nd ref="112887290"/>
+    <nd ref="112887294"/>
+    <nd ref="112887297"/>
+    <nd ref="112887300"/>
+    <nd ref="112887302"/>
+    <nd ref="112887306"/>
+    <nd ref="112887312"/>
+    <nd ref="112887316"/>
+    <nd ref="112887320"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Turkey Creek Lane"/>
+    <tag k="name_1" v="R-Pd-190"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Turkey Creek"/>
+    <tag k="tiger:name_base_1" v="R-Pd-190"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29690"/>
+    <tag k="tiger:zip_right" v="29690"/>
+  </way>
+  <way id="12421008">
+    <nd ref="113035771"/>
+    <nd ref="112978681"/>
+    <nd ref="113035773"/>
+    <nd ref="113035775"/>
+    <nd ref="113035779"/>
+    <nd ref="113035782"/>
+    <nd ref="113035785"/>
+    <nd ref="113035787"/>
+    <nd ref="113035789"/>
+    <nd ref="113035791"/>
+    <nd ref="113035793"/>
+    <nd ref="113035796"/>
+    <nd ref="113035798"/>
+    <nd ref="113035800"/>
+    <nd ref="113035803"/>
+    <nd ref="113035806"/>
+    <nd ref="113035808"/>
+    <nd ref="113035810"/>
+    <nd ref="113035813"/>
+    <nd ref="113035816"/>
+    <nd ref="113035818"/>
+    <nd ref="113035820"/>
+    <nd ref="113035823"/>
+    <nd ref="113035826"/>
+    <nd ref="113035828"/>
+    <nd ref="113035831"/>
+    <nd ref="113035834"/>
+    <nd ref="113035837"/>
+    <nd ref="113035840"/>
+    <nd ref="113035843"/>
+    <nd ref="113035846"/>
+    <nd ref="113035850"/>
+    <nd ref="113035852"/>
+    <nd ref="113035855"/>
+    <nd ref="113035858"/>
+    <nd ref="113035860"/>
+    <nd ref="113035862"/>
+    <nd ref="113035863"/>
+    <nd ref="113035864"/>
+    <nd ref="113035865"/>
+    <nd ref="113035866"/>
+    <nd ref="113035867"/>
+    <nd ref="113035868"/>
+    <nd ref="113035869"/>
+    <nd ref="113035872"/>
+    <nd ref="113035875"/>
+    <nd ref="113035877"/>
+    <nd ref="113035880"/>
+    <nd ref="113035881"/>
+    <nd ref="113035882"/>
+    <nd ref="113035883"/>
+    <nd ref="113035886"/>
+    <nd ref="113035889"/>
+    <nd ref="113035892"/>
+    <nd ref="113035895"/>
+    <nd ref="113035898"/>
+    <nd ref="113035901"/>
+    <nd ref="113035902"/>
+    <nd ref="113035903"/>
+    <nd ref="113035905"/>
+    <nd ref="113035907"/>
+    <nd ref="113035910"/>
+    <nd ref="113035911"/>
+    <nd ref="113035913"/>
+    <nd ref="113035914"/>
+    <nd ref="113035915"/>
+    <nd ref="113035918"/>
+    <nd ref="112673164"/>
+    <nd ref="113035924"/>
+    <nd ref="113035925"/>
+    <nd ref="113035926"/>
+    <nd ref="113035928"/>
+    <nd ref="113035931"/>
+    <nd ref="113035934"/>
+    <nd ref="113035936"/>
+    <nd ref="113035937"/>
+    <nd ref="113035940"/>
+    <nd ref="113035942"/>
+    <nd ref="113035947"/>
+    <nd ref="113035949"/>
+    <nd ref="113035950"/>
+    <nd ref="113035952"/>
+    <nd ref="113035955"/>
+    <nd ref="113035956"/>
+    <nd ref="113035960"/>
+    <nd ref="113035963"/>
+    <nd ref="113035965"/>
+    <nd ref="113035968"/>
+    <nd ref="113035971"/>
+    <nd ref="113035972"/>
+    <nd ref="113035974"/>
+    <nd ref="113035977"/>
+    <nd ref="113035980"/>
+    <nd ref="113035983"/>
+    <nd ref="113035985"/>
+    <nd ref="113035986"/>
+    <nd ref="113035987"/>
+    <nd ref="113035989"/>
+    <nd ref="113035992"/>
+    <nd ref="113035994"/>
+    <nd ref="113035996"/>
+    <nd ref="113035997"/>
+    <nd ref="113036000"/>
+    <nd ref="113036002"/>
+    <nd ref="113036004"/>
+    <nd ref="113036007"/>
+    <nd ref="113036010"/>
+    <nd ref="113036012"/>
+    <nd ref="113036014"/>
+    <nd ref="113036017"/>
+    <nd ref="113036020"/>
+    <nd ref="113036023"/>
+    <nd ref="113036025"/>
+    <nd ref="113036027"/>
+    <nd ref="113036029"/>
+    <nd ref="113036032"/>
+    <nd ref="113036036"/>
+    <nd ref="113036039"/>
+    <nd ref="113036041"/>
+    <nd ref="113036046"/>
+    <nd ref="113036049"/>
+    <nd ref="113036051"/>
+    <nd ref="113036053"/>
+    <nd ref="113036054"/>
+    <nd ref="113036055"/>
+    <nd ref="113036057"/>
+    <nd ref="113036058"/>
+    <nd ref="113036060"/>
+    <nd ref="113036061"/>
+    <nd ref="113036064"/>
+    <nd ref="113036067"/>
+    <nd ref="113036071"/>
+    <nd ref="113036074"/>
+    <nd ref="113036076"/>
+    <nd ref="113036080"/>
+    <nd ref="113036083"/>
+    <nd ref="113036084"/>
+    <nd ref="113036085"/>
+    <nd ref="113036086"/>
+    <nd ref="112887271"/>
+    <nd ref="113036087"/>
+    <nd ref="113036089"/>
+    <nd ref="113036092"/>
+    <nd ref="113036095"/>
+    <nd ref="113036098"/>
+    <nd ref="113036101"/>
+    <nd ref="113036104"/>
+    <nd ref="113036107"/>
+    <nd ref="113036110"/>
+    <nd ref="113036112"/>
+    <nd ref="113036115"/>
+    <nd ref="113036118"/>
+    <nd ref="113036120"/>
+    <nd ref="113036121"/>
+    <nd ref="113036123"/>
+    <nd ref="113036127"/>
+    <nd ref="113036129"/>
+    <nd ref="113036131"/>
+    <nd ref="113036134"/>
+    <nd ref="113036136"/>
+    <nd ref="113036141"/>
+    <nd ref="113036145"/>
+    <nd ref="113036147"/>
+    <nd ref="113036149"/>
+    <nd ref="113036152"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chestnut Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Chestnut Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

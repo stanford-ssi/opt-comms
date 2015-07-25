@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="16422784">
+    <nd ref="169519094"/>
+    <nd ref="169519096"/>
+    <nd ref="169519098"/>
+    <nd ref="169519103"/>
+    <nd ref="169519106"/>
+    <nd ref="169519109"/>
+    <nd ref="169519111"/>
+    <nd ref="169519113"/>
+    <nd ref="169519115"/>
+    <nd ref="169519118"/>
+    <nd ref="169519120"/>
+    <nd ref="169519121"/>
+    <nd ref="169519122"/>
+    <nd ref="169519124"/>
+    <nd ref="169519126"/>
+    <nd ref="169519127"/>
+    <nd ref="169519129"/>
+    <nd ref="169519133"/>
+    <nd ref="169519136"/>
+    <nd ref="169519137"/>
+    <nd ref="169519138"/>
+    <nd ref="169519140"/>
+    <nd ref="169519144"/>
+    <nd ref="169519147"/>
+    <nd ref="169519150"/>
+    <nd ref="169519151"/>
+    <nd ref="169519155"/>
+    <nd ref="169519157"/>
+    <nd ref="169519160"/>
+    <nd ref="169519162"/>
+    <nd ref="169519164"/>
+    <nd ref="169519167"/>
+    <nd ref="169519171"/>
+    <nd ref="169519174"/>
+    <nd ref="169519176"/>
+    <nd ref="169519178"/>
+    <nd ref="169519180"/>
+    <nd ref="169519183"/>
+    <nd ref="169519186"/>
+    <nd ref="169519187"/>
+    <nd ref="169519189"/>
+    <nd ref="169519193"/>
+    <nd ref="169519196"/>
+    <nd ref="169519201"/>
+    <nd ref="169519207"/>
+    <nd ref="169519210"/>
+    <nd ref="169519212"/>
+    <nd ref="169519215"/>
+    <nd ref="169519218"/>
+    <nd ref="169519222"/>
+    <nd ref="169519226"/>
+    <nd ref="169519230"/>
+    <nd ref="169519233"/>
+    <nd ref="169519234"/>
+    <nd ref="169519237"/>
+    <nd ref="169519238"/>
+    <nd ref="169519242"/>
+    <nd ref="169519244"/>
+    <nd ref="169519246"/>
+    <nd ref="169519252"/>
+    <nd ref="169519255"/>
+    <nd ref="169519258"/>
+    <nd ref="169519261"/>
+    <nd ref="169519265"/>
+    <nd ref="169519268"/>
+    <nd ref="169519272"/>
+    <nd ref="169519273"/>
+    <nd ref="169519276"/>
+    <nd ref="169519279"/>
+    <nd ref="169519283"/>
+    <nd ref="169519287"/>
+    <nd ref="169519290"/>
+    <nd ref="169519292"/>
+    <nd ref="169519295"/>
+    <nd ref="169519298"/>
+    <nd ref="169519302"/>
+    <nd ref="169519306"/>
+    <nd ref="169519309"/>
+    <nd ref="169519313"/>
+    <nd ref="169519317"/>
+    <nd ref="169519321"/>
+    <nd ref="169519323"/>
+    <nd ref="169519326"/>
+    <nd ref="169519328"/>
+    <nd ref="169519333"/>
+    <nd ref="169519335"/>
+    <nd ref="169519337"/>
+    <nd ref="169519339"/>
+    <nd ref="169519343"/>
+    <nd ref="169519346"/>
+    <nd ref="169519349"/>
+    <nd ref="169519352"/>
+    <nd ref="169519355"/>
+    <nd ref="169519357"/>
+    <nd ref="169519359"/>
+    <nd ref="169519361"/>
+    <nd ref="169519363"/>
+    <nd ref="169519365"/>
+    <nd ref="169519366"/>
+    <nd ref="169519367"/>
+    <nd ref="169519368"/>
+    <nd ref="169519369"/>
+    <nd ref="169519371"/>
+    <nd ref="169519373"/>
+    <nd ref="169519375"/>
+    <nd ref="169519378"/>
+    <nd ref="169519381"/>
+    <nd ref="169519383"/>
+    <nd ref="169519385"/>
+    <nd ref="169519386"/>
+    <nd ref="169519388"/>
+    <nd ref="169519391"/>
+    <nd ref="169519392"/>
+    <nd ref="169369475"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Southerland Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Southerland"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28644"/>
+    <tag k="tiger:zip_right" v="28644"/>
+  </way>
+
+</osm>

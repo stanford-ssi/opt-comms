@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16754525">
+    <nd ref="173199500"/>
+    <nd ref="173199503"/>
+    <nd ref="173199506"/>
+    <nd ref="173199508"/>
+    <nd ref="173199511"/>
+    <nd ref="173199513"/>
+    <nd ref="173199515"/>
+    <nd ref="173199517"/>
+    <nd ref="173199519"/>
+    <nd ref="173199521"/>
+    <nd ref="173199523"/>
+    <nd ref="173199525"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19411383:19411384"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+  <way id="16754527">
+    <nd ref="173199519"/>
+    <nd ref="173199530"/>
+    <nd ref="173199531"/>
+    <nd ref="173199534"/>
+    <nd ref="173199536"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19411385"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+  <way id="16760405">
+    <nd ref="173264433"/>
+    <nd ref="173264436"/>
+    <nd ref="173199500"/>
+    <nd ref="173264439"/>
+    <nd ref="173264442"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tatum Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Tatum"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19411378:19402658:19411381"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+  <way id="16763952">
+    <nd ref="173264439"/>
+    <nd ref="173309310"/>
+    <nd ref="173309318"/>
+    <nd ref="173309326"/>
+    <nd ref="173309333"/>
+    <nd ref="173309339"/>
+    <nd ref="173309349"/>
+    <nd ref="173309357"/>
+    <nd ref="173309366"/>
+    <nd ref="173309384"/>
+    <nd ref="173309390"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chapman Acres"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Chapman Acres"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19411379"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+    <tag k="tiger:zip_left" v="28018"/>
+    <tag k="tiger:zip_right" v="28018"/>
+  </way>
+
+</osm>

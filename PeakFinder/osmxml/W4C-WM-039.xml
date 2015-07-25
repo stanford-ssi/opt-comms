@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:57:01Z"/>
+
+  <way id="16625300">
+    <nd ref="171718776"/>
+    <nd ref="171718779"/>
+    <nd ref="171718782"/>
+    <nd ref="171718785"/>
+    <nd ref="171718788"/>
+    <nd ref="171718789"/>
+    <nd ref="171718790"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36004490"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16627619">
+    <nd ref="171743556"/>
+    <nd ref="171743559"/>
+    <nd ref="171743562"/>
+    <nd ref="171743565"/>
+    <nd ref="171743568"/>
+    <nd ref="171743570"/>
+    <nd ref="171743572"/>
+    <nd ref="171743574"/>
+    <nd ref="171743576"/>
+    <nd ref="171743580"/>
+    <nd ref="171743583"/>
+    <nd ref="171743587"/>
+    <nd ref="171743590"/>
+    <nd ref="171743592"/>
+    <nd ref="171743595"/>
+    <nd ref="171743598"/>
+    <nd ref="171743601"/>
+    <nd ref="171743604"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grand Vista Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Grand Vista"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16776938">
+    <nd ref="2737839365"/>
+    <nd ref="2801723377"/>
+    <nd ref="2801723376"/>
+    <nd ref="2801723366"/>
+    <nd ref="2801723365"/>
+    <nd ref="2801723367"/>
+    <nd ref="2801723368"/>
+    <nd ref="173526601"/>
+    <nd ref="2801723371"/>
+    <nd ref="2801723370"/>
+    <nd ref="2801723369"/>
+    <nd ref="173526603"/>
+    <nd ref="173526606"/>
+    <nd ref="2801723372"/>
+    <nd ref="173526609"/>
+    <nd ref="2801723373"/>
+    <nd ref="2801723363"/>
+    <nd ref="2801723362"/>
+    <nd ref="2801723364"/>
+    <nd ref="2801723374"/>
+    <nd ref="173526613"/>
+    <nd ref="2801723375"/>
+    <nd ref="2801723360"/>
+    <nd ref="2801723361"/>
+    <nd ref="173526616"/>
+    <nd ref="2801723355"/>
+    <nd ref="2801723356"/>
+    <nd ref="2801723357"/>
+    <nd ref="173526620"/>
+    <nd ref="2801723359"/>
+    <nd ref="2801723358"/>
+    <nd ref="2801723349"/>
+    <nd ref="2801723350"/>
+    <nd ref="2801723351"/>
+    <nd ref="173526623"/>
+    <nd ref="2801723352"/>
+    <nd ref="2801723353"/>
+    <nd ref="173526694"/>
+    <nd ref="173526626"/>
+    <nd ref="2801723346"/>
+    <nd ref="2801723345"/>
+    <nd ref="2801723347"/>
+    <nd ref="2801723348"/>
+    <nd ref="173526629"/>
+    <nd ref="2801723344"/>
+    <nd ref="2801723343"/>
+    <nd ref="2801723339"/>
+    <nd ref="2801723340"/>
+    <nd ref="2801723341"/>
+    <nd ref="2801723342"/>
+    <nd ref="173526632"/>
+    <nd ref="2801723338"/>
+    <nd ref="173526635"/>
+    <nd ref="2801723337"/>
+    <nd ref="173526638"/>
+    <nd ref="2801723335"/>
+    <nd ref="173526641"/>
+    <nd ref="2801723336"/>
+    <nd ref="2801723334"/>
+    <nd ref="173526644"/>
+    <nd ref="2801723333"/>
+    <nd ref="2801723330"/>
+    <nd ref="2801723331"/>
+    <nd ref="2801723332"/>
+    <nd ref="173526647"/>
+    <nd ref="2801723329"/>
+    <nd ref="173526649"/>
+    <nd ref="2801723328"/>
+    <nd ref="173526652"/>
+    <nd ref="2801723322"/>
+    <nd ref="2801723325"/>
+    <nd ref="2801723324"/>
+    <nd ref="2801723323"/>
+    <nd ref="2801723327"/>
+    <nd ref="2801723326"/>
+    <nd ref="2801723321"/>
+    <nd ref="2801723320"/>
+    <nd ref="2801723319"/>
+    <nd ref="2801723318"/>
+    <nd ref="173526655"/>
+    <nd ref="2801723317"/>
+    <nd ref="173526659"/>
+    <nd ref="2801723316"/>
+    <nd ref="173526662"/>
+    <nd ref="2801723315"/>
+    <nd ref="2801723313"/>
+    <nd ref="2801723314"/>
+    <nd ref="173526664"/>
+    <nd ref="2801723310"/>
+    <nd ref="2801723312"/>
+    <nd ref="2801723311"/>
+    <nd ref="2801723307"/>
+    <nd ref="2801723309"/>
+    <nd ref="2801723308"/>
+    <nd ref="2801723306"/>
+    <nd ref="2801723305"/>
+    <nd ref="173526668"/>
+    <nd ref="173526670"/>
+    <nd ref="2801723304"/>
+    <nd ref="2801723303"/>
+    <nd ref="173526673"/>
+    <nd ref="2801723302"/>
+    <nd ref="173526676"/>
+    <nd ref="171665618"/>
+    <nd ref="2801716695"/>
+    <nd ref="2801716696"/>
+    <nd ref="2801716697"/>
+    <nd ref="2801716698"/>
+    <nd ref="171665615"/>
+    <nd ref="2801716700"/>
+    <nd ref="2801716699"/>
+    <nd ref="2801723301"/>
+    <nd ref="171665612"/>
+    <nd ref="2801716694"/>
+    <nd ref="171665609"/>
+    <nd ref="2801716689"/>
+    <nd ref="2801716688"/>
+    <nd ref="2801716690"/>
+    <nd ref="2801716687"/>
+    <nd ref="2801716691"/>
+    <nd ref="2801716692"/>
+    <nd ref="2801716693"/>
+    <nd ref="171665606"/>
+    <nd ref="2801716683"/>
+    <nd ref="2801716685"/>
+    <nd ref="2801716684"/>
+    <nd ref="2801716686"/>
+    <nd ref="171665604"/>
+    <nd ref="171665601"/>
+    <nd ref="2801716682"/>
+    <nd ref="2801716680"/>
+    <nd ref="2801716681"/>
+    <nd ref="2801716678"/>
+    <nd ref="2801716679"/>
+    <nd ref="171665595"/>
+    <nd ref="2801716677"/>
+    <nd ref="2801716676"/>
+    <nd ref="2801716675"/>
+    <nd ref="171665592"/>
+    <nd ref="2801716667"/>
+    <nd ref="2801716668"/>
+    <nd ref="2801716669"/>
+    <nd ref="2801716670"/>
+    <nd ref="2801716671"/>
+    <nd ref="2801716672"/>
+    <nd ref="2801716674"/>
+    <nd ref="2801716673"/>
+    <nd ref="171665588"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Cowee Bald Road"/>
+    <tag k="ref" v="FS 70"/>
+    <tag k="surface" v="gravel"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+
+</osm>

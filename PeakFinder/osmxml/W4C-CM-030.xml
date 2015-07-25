@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:40:02Z"/>
+
+  <way id="18940847">
+    <nd ref="195998021"/>
+    <nd ref="2919677652"/>
+    <nd ref="195998023"/>
+    <nd ref="2919677653"/>
+    <nd ref="2919677654"/>
+    <nd ref="195998025"/>
+    <nd ref="195998027"/>
+    <nd ref="195998029"/>
+    <nd ref="195998031"/>
+    <nd ref="195965170"/>
+    <nd ref="195998033"/>
+    <nd ref="195998035"/>
+    <nd ref="195998037"/>
+    <nd ref="195998039"/>
+    <nd ref="195998041"/>
+    <nd ref="195983358"/>
+    <nd ref="195998043"/>
+    <nd ref="195998045"/>
+    <nd ref="195998047"/>
+    <nd ref="195998049"/>
+    <nd ref="195998050"/>
+    <nd ref="195998051"/>
+    <nd ref="195998052"/>
+    <nd ref="195983663"/>
+    <nd ref="195998053"/>
+    <nd ref="195998054"/>
+    <nd ref="195998055"/>
+    <nd ref="195998056"/>
+    <nd ref="195998057"/>
+    <nd ref="195983615"/>
+    <nd ref="195998058"/>
+    <nd ref="195998059"/>
+    <nd ref="195998060"/>
+    <nd ref="195998061"/>
+    <nd ref="195998062"/>
+    <nd ref="195998063"/>
+    <nd ref="195998064"/>
+    <nd ref="195998065"/>
+    <nd ref="195998067"/>
+    <nd ref="195998069"/>
+    <nd ref="195998071"/>
+    <nd ref="195983574"/>
+    <nd ref="195998073"/>
+    <nd ref="195998075"/>
+    <nd ref="195998077"/>
+    <nd ref="195960818"/>
+    <nd ref="195998079"/>
+    <nd ref="195965008"/>
+    <nd ref="195998081"/>
+    <nd ref="195998083"/>
+    <nd ref="195998085"/>
+    <nd ref="195972559"/>
+    <nd ref="195998087"/>
+    <nd ref="195963190"/>
+    <nd ref="195998089"/>
+    <nd ref="195998092"/>
+    <nd ref="195998093"/>
+    <nd ref="195998095"/>
+    <nd ref="195998097"/>
+    <nd ref="195998098"/>
+    <nd ref="195998100"/>
+    <nd ref="195998101"/>
+    <nd ref="195998102"/>
+    <nd ref="195998103"/>
+    <nd ref="195998105"/>
+    <nd ref="195998107"/>
+    <nd ref="195998109"/>
+    <nd ref="195998111"/>
+    <nd ref="195998113"/>
+    <nd ref="195998114"/>
+    <nd ref="195998115"/>
+    <nd ref="195998117"/>
+    <nd ref="195998119"/>
+    <nd ref="195998121"/>
+    <nd ref="195998123"/>
+    <nd ref="195998125"/>
+    <nd ref="195978616"/>
+    <nd ref="195998126"/>
+    <nd ref="195998127"/>
+    <nd ref="195998129"/>
+    <nd ref="195998130"/>
+    <nd ref="195998131"/>
+    <nd ref="195998133"/>
+    <nd ref="195998135"/>
+    <nd ref="195998137"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lickskillet Road"/>
+    <tag k="ref" v="State Road 1393"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:name_base" v="State Road 1393"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

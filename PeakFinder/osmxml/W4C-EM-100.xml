@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16443154">
+    <nd ref="169705010"/>
+    <nd ref="169705012"/>
+    <nd ref="169705015"/>
+    <nd ref="169705018"/>
+    <nd ref="169705020"/>
+    <nd ref="169705021"/>
+    <nd ref="169705024"/>
+    <nd ref="169705026"/>
+    <nd ref="169705029"/>
+    <nd ref="169705032"/>
+    <nd ref="169705035"/>
+    <nd ref="169705038"/>
+    <nd ref="169705040"/>
+    <nd ref="169705042"/>
+    <nd ref="169705045"/>
+    <nd ref="169705048"/>
+    <nd ref="169705051"/>
+    <nd ref="169705053"/>
+    <nd ref="169705055"/>
+    <nd ref="169705057"/>
+    <nd ref="169705059"/>
+    <nd ref="169705061"/>
+    <nd ref="169705063"/>
+    <nd ref="169705066"/>
+    <nd ref="169705068"/>
+    <nd ref="169705070"/>
+    <nd ref="169705072"/>
+    <nd ref="169705075"/>
+    <nd ref="169705077"/>
+    <nd ref="169705078"/>
+    <nd ref="169705080"/>
+    <nd ref="169705082"/>
+    <nd ref="169705084"/>
+    <nd ref="169705086"/>
+    <nd ref="169705088"/>
+    <nd ref="169705090"/>
+    <nd ref="169705092"/>
+    <nd ref="169705095"/>
+    <nd ref="169705098"/>
+    <nd ref="169705101"/>
+    <nd ref="169705104"/>
+    <nd ref="169705107"/>
+    <nd ref="169705110"/>
+    <nd ref="169705113"/>
+    <nd ref="169705115"/>
+    <nd ref="169705117"/>
+    <nd ref="169705119"/>
+    <nd ref="169705120"/>
+    <nd ref="169705123"/>
+    <nd ref="169705124"/>
+    <nd ref="169705126"/>
+    <nd ref="169705128"/>
+    <nd ref="169705131"/>
+    <nd ref="169705134"/>
+    <nd ref="169705136"/>
+    <nd ref="169705138"/>
+    <nd ref="169705140"/>
+    <nd ref="169705143"/>
+    <nd ref="169705146"/>
+    <nd ref="169705149"/>
+    <nd ref="169705152"/>
+    <nd ref="169705155"/>
+    <nd ref="169705158"/>
+    <nd ref="169705161"/>
+    <nd ref="169705165"/>
+    <nd ref="169705167"/>
+    <nd ref="169705169"/>
+    <nd ref="169705171"/>
+    <nd ref="169705173"/>
+    <nd ref="169705175"/>
+    <nd ref="169705176"/>
+    <nd ref="169705178"/>
+    <nd ref="169705182"/>
+    <nd ref="169705185"/>
+    <nd ref="169705187"/>
+    <nd ref="169705189"/>
+    <nd ref="169705191"/>
+    <nd ref="169705193"/>
+    <nd ref="169705195"/>
+    <nd ref="169705196"/>
+    <nd ref="169705197"/>
+    <nd ref="169705198"/>
+    <nd ref="169705201"/>
+    <nd ref="169705204"/>
+    <nd ref="169705208"/>
+    <nd ref="169705209"/>
+    <nd ref="169705211"/>
+    <nd ref="169705212"/>
+    <nd ref="169705214"/>
+    <nd ref="169705217"/>
+    <nd ref="169705220"/>
+    <nd ref="169705223"/>
+    <nd ref="169705225"/>
+    <nd ref="169705226"/>
+    <nd ref="169705228"/>
+    <nd ref="169705229"/>
+    <nd ref="169705231"/>
+    <nd ref="169705234"/>
+    <nd ref="169705237"/>
+    <nd ref="169705240"/>
+    <nd ref="169705244"/>
+    <nd ref="169705247"/>
+    <nd ref="169705250"/>
+    <nd ref="169705253"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45857353:45843133:45843152:45873308:45872455:45872456:45842943:45872486:45872487:45842945:45842611"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+
+</osm>

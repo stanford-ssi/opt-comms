@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16656285">
+    <nd ref="172067283"/>
+    <nd ref="172067285"/>
+    <nd ref="172067288"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Loth Lorien Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:name_base" v="Loth Lorien"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

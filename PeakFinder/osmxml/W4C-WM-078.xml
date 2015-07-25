@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16470726">
+    <nd ref="169918868"/>
+    <nd ref="169997814"/>
+    <nd ref="169997818"/>
+    <nd ref="169997821"/>
+    <nd ref="169997825"/>
+    <nd ref="169997828"/>
+    <nd ref="169997831"/>
+    <nd ref="169997834"/>
+    <nd ref="169997837"/>
+    <nd ref="169997840"/>
+    <nd ref="169997846"/>
+    <nd ref="169997848"/>
+    <nd ref="169997851"/>
+    <nd ref="169997858"/>
+    <nd ref="169997861"/>
+    <nd ref="169997864"/>
+    <nd ref="169997868"/>
+    <nd ref="169997870"/>
+    <nd ref="169997873"/>
+    <nd ref="169997876"/>
+    <nd ref="169997879"/>
+    <nd ref="169997882"/>
+    <nd ref="169997886"/>
+    <nd ref="169997889"/>
+    <nd ref="169997892"/>
+    <nd ref="169997897"/>
+    <nd ref="169997900"/>
+    <nd ref="169997902"/>
+    <nd ref="169997904"/>
+    <nd ref="169997906"/>
+    <nd ref="169997909"/>
+    <nd ref="169997912"/>
+    <nd ref="169997914"/>
+    <nd ref="169997915"/>
+    <nd ref="169997917"/>
+    <nd ref="169997919"/>
+    <nd ref="169997921"/>
+    <nd ref="169997923"/>
+    <nd ref="169997925"/>
+    <nd ref="169997927"/>
+    <nd ref="169997928"/>
+    <nd ref="169997931"/>
+    <nd ref="169997934"/>
+    <nd ref="169997937"/>
+    <nd ref="169997940"/>
+    <nd ref="169997944"/>
+    <nd ref="169997947"/>
+    <nd ref="169997951"/>
+    <nd ref="169997954"/>
+    <nd ref="169911000"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Davis Creek Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Davis Creek"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

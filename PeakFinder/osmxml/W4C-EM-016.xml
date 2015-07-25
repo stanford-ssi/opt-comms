@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="18901038">
+    <nd ref="195529837"/>
+    <nd ref="195529841"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52056640"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18921753">
+    <nd ref="195539256"/>
+    <nd ref="195809712"/>
+    <nd ref="195809713"/>
+    <nd ref="195809715"/>
+    <nd ref="195809716"/>
+    <nd ref="195809717"/>
+    <nd ref="195809719"/>
+    <nd ref="195809720"/>
+    <nd ref="195809722"/>
+    <nd ref="195809725"/>
+    <nd ref="195809730"/>
+    <nd ref="195809732"/>
+    <nd ref="195809734"/>
+    <nd ref="195809736"/>
+    <nd ref="195809738"/>
+    <nd ref="195809740"/>
+    <nd ref="195809742"/>
+    <nd ref="195809744"/>
+    <nd ref="195809746"/>
+    <nd ref="195809748"/>
+    <nd ref="195809750"/>
+    <nd ref="195809752"/>
+    <nd ref="195809754"/>
+    <nd ref="195809756"/>
+    <nd ref="195809760"/>
+    <nd ref="195809762"/>
+    <nd ref="195809764"/>
+    <nd ref="195809766"/>
+    <nd ref="195809768"/>
+    <nd ref="195809770"/>
+    <nd ref="195809772"/>
+    <nd ref="195809774"/>
+    <nd ref="195809776"/>
+    <nd ref="195809778"/>
+    <nd ref="195809780"/>
+    <nd ref="195809782"/>
+    <nd ref="195809784"/>
+    <nd ref="195809785"/>
+    <nd ref="195809786"/>
+    <nd ref="195809787"/>
+    <nd ref="195809788"/>
+    <nd ref="195809789"/>
+    <nd ref="195809790"/>
+    <nd ref="195809791"/>
+    <nd ref="195809792"/>
+    <nd ref="195809794"/>
+    <nd ref="195809796"/>
+    <nd ref="195809798"/>
+    <nd ref="195809799"/>
+    <nd ref="195809802"/>
+    <nd ref="195809804"/>
+    <nd ref="195809806"/>
+    <nd ref="195809808"/>
+    <nd ref="195809810"/>
+    <nd ref="195809812"/>
+    <nd ref="195809814"/>
+    <nd ref="195809816"/>
+    <nd ref="195809818"/>
+    <nd ref="195809819"/>
+    <nd ref="195809821"/>
+    <nd ref="195809822"/>
+    <nd ref="195809823"/>
+    <nd ref="195809824"/>
+    <nd ref="195809826"/>
+    <nd ref="195809828"/>
+    <nd ref="195809831"/>
+    <nd ref="195809833"/>
+    <nd ref="195809835"/>
+    <nd ref="195529837"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Petty Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Petty"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

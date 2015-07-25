@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:50:02Z"/>
+
+  <way id="16401464">
+    <nd ref="169283670"/>
+    <nd ref="169283673"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="154067893"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f5d30e1e-b9c9-4043-8bc2-575d31645af6"/>
+  </way>
+  <way id="16404178">
+    <nd ref="169308004"/>
+    <nd ref="169308007"/>
+    <nd ref="169308011"/>
+    <nd ref="169308012"/>
+    <nd ref="169308014"/>
+    <nd ref="169308017"/>
+    <nd ref="169308020"/>
+    <nd ref="169308023"/>
+    <nd ref="169308024"/>
+    <nd ref="169308025"/>
+    <nd ref="169308029"/>
+    <nd ref="169308031"/>
+    <nd ref="169308034"/>
+    <nd ref="169308037"/>
+    <nd ref="169308040"/>
+    <nd ref="169308043"/>
+    <nd ref="169308046"/>
+    <nd ref="169308049"/>
+    <nd ref="169308051"/>
+    <nd ref="169308058"/>
+    <nd ref="169308064"/>
+    <nd ref="169308073"/>
+    <nd ref="169308075"/>
+    <nd ref="169308077"/>
+    <nd ref="169308079"/>
+    <nd ref="169308082"/>
+    <nd ref="169308087"/>
+    <nd ref="169308089"/>
+    <nd ref="169308091"/>
+    <nd ref="169308093"/>
+    <nd ref="169308095"/>
+    <nd ref="169308098"/>
+    <nd ref="169308099"/>
+    <nd ref="169308100"/>
+    <nd ref="169308101"/>
+    <nd ref="169308103"/>
+    <nd ref="169308105"/>
+    <nd ref="169308107"/>
+    <nd ref="169308110"/>
+    <nd ref="169308113"/>
+    <nd ref="169308117"/>
+    <nd ref="169308120"/>
+    <nd ref="169308122"/>
+    <nd ref="169308124"/>
+    <nd ref="169308126"/>
+    <nd ref="169308129"/>
+    <nd ref="169308131"/>
+    <nd ref="169308134"/>
+    <nd ref="169308136"/>
+    <nd ref="169308138"/>
+    <nd ref="169308139"/>
+    <nd ref="169308141"/>
+    <nd ref="169308144"/>
+    <nd ref="169308146"/>
+    <nd ref="169308149"/>
+    <nd ref="169308152"/>
+    <nd ref="169308155"/>
+    <nd ref="169308158"/>
+    <nd ref="169308161"/>
+    <nd ref="169308164"/>
+    <nd ref="169308167"/>
+    <nd ref="169308169"/>
+    <nd ref="169308171"/>
+    <nd ref="169308172"/>
+    <nd ref="169308173"/>
+    <nd ref="169308175"/>
+    <nd ref="169308176"/>
+    <nd ref="169308177"/>
+    <nd ref="169308181"/>
+    <nd ref="169308183"/>
+    <nd ref="169308185"/>
+    <nd ref="169308186"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Doe Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Doe Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28694"/>
+    <tag k="tiger:zip_right" v="28694"/>
+  </way>
+  <way id="16412170">
+    <nd ref="169397546"/>
+    <nd ref="169397552"/>
+    <nd ref="169397555"/>
+    <nd ref="169397557"/>
+    <nd ref="169397558"/>
+    <nd ref="169397560"/>
+    <nd ref="169397564"/>
+    <nd ref="169397568"/>
+    <nd ref="169397571"/>
+    <nd ref="169397574"/>
+    <nd ref="169397576"/>
+    <nd ref="169397580"/>
+    <nd ref="169397583"/>
+    <nd ref="169397586"/>
+    <nd ref="169397588"/>
+    <nd ref="169397590"/>
+    <nd ref="169397591"/>
+    <nd ref="169397596"/>
+    <nd ref="169397597"/>
+    <nd ref="169397600"/>
+    <nd ref="169397602"/>
+    <nd ref="169397605"/>
+    <nd ref="169397607"/>
+    <nd ref="169397609"/>
+    <nd ref="169397612"/>
+    <nd ref="169397615"/>
+    <nd ref="169397617"/>
+    <nd ref="169397619"/>
+    <nd ref="169295597"/>
+    <nd ref="169397622"/>
+    <nd ref="169397624"/>
+    <nd ref="169397627"/>
+    <nd ref="169397632"/>
+    <nd ref="169397635"/>
+    <nd ref="169337411"/>
+    <nd ref="169397639"/>
+    <nd ref="169397645"/>
+    <nd ref="169397648"/>
+    <nd ref="169397651"/>
+    <nd ref="169397654"/>
+    <nd ref="169397657"/>
+    <nd ref="169283670"/>
+    <nd ref="169397660"/>
+    <nd ref="169397662"/>
+    <nd ref="169397664"/>
+    <nd ref="169397665"/>
+    <nd ref="169397667"/>
+    <nd ref="169397670"/>
+    <nd ref="169397672"/>
+    <nd ref="169397674"/>
+    <nd ref="169397676"/>
+    <nd ref="169397678"/>
+    <nd ref="169397680"/>
+    <nd ref="169397682"/>
+    <nd ref="169397684"/>
+    <nd ref="169397685"/>
+    <nd ref="169397687"/>
+    <nd ref="169397690"/>
+    <nd ref="169397693"/>
+    <nd ref="169397695"/>
+    <nd ref="169397699"/>
+    <nd ref="169397702"/>
+    <nd ref="169397705"/>
+    <nd ref="169397707"/>
+    <nd ref="169397709"/>
+    <nd ref="169397711"/>
+    <nd ref="169397713"/>
+    <nd ref="169397715"/>
+    <nd ref="169397717"/>
+    <nd ref="169397720"/>
+    <nd ref="169397722"/>
+    <nd ref="169397724"/>
+    <nd ref="169397727"/>
+    <nd ref="169397730"/>
+    <nd ref="169397733"/>
+    <nd ref="169397736"/>
+    <nd ref="169397739"/>
+    <nd ref="169397742"/>
+    <nd ref="169397743"/>
+    <nd ref="169397744"/>
+    <nd ref="169397745"/>
+    <nd ref="169304430"/>
+    <nd ref="169397747"/>
+    <nd ref="169397749"/>
+    <nd ref="169397751"/>
+    <nd ref="169397754"/>
+    <nd ref="169397756"/>
+    <nd ref="169397758"/>
+    <nd ref="169397762"/>
+    <nd ref="169397765"/>
+    <nd ref="169397768"/>
+    <nd ref="169397771"/>
+    <nd ref="169397774"/>
+    <nd ref="169397776"/>
+    <nd ref="169397780"/>
+    <nd ref="169397782"/>
+    <nd ref="169397784"/>
+    <nd ref="169397786"/>
+    <nd ref="169397789"/>
+    <nd ref="169397791"/>
+    <nd ref="169397794"/>
+    <nd ref="169397796"/>
+    <nd ref="169397798"/>
+    <nd ref="169345792"/>
+    <nd ref="169397800"/>
+    <nd ref="169397802"/>
+    <nd ref="169397803"/>
+    <nd ref="169397805"/>
+    <nd ref="169397806"/>
+    <nd ref="169397808"/>
+    <nd ref="169397810"/>
+    <nd ref="169397812"/>
+    <nd ref="169397814"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fairway Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Fairway Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28694"/>
+    <tag k="tiger:zip_right" v="28694"/>
+  </way>
+  <way id="16412215">
+    <nd ref="169397602"/>
+    <nd ref="169398258"/>
+    <nd ref="169398260"/>
+    <nd ref="169398262"/>
+    <nd ref="169272903"/>
+    <nd ref="169398263"/>
+    <nd ref="169398264"/>
+    <nd ref="169398266"/>
+    <nd ref="169398268"/>
+    <nd ref="169398270"/>
+    <nd ref="169398272"/>
+    <nd ref="169398274"/>
+    <nd ref="169398276"/>
+    <nd ref="169398277"/>
+    <nd ref="169398282"/>
+    <nd ref="169398285"/>
+    <nd ref="169398287"/>
+    <nd ref="169398289"/>
+    <nd ref="169398292"/>
+    <nd ref="169398293"/>
+    <nd ref="169398294"/>
+    <nd ref="169398295"/>
+    <nd ref="169398296"/>
+    <nd ref="169398298"/>
+    <nd ref="169398300"/>
+    <nd ref="169398301"/>
+    <nd ref="169398302"/>
+    <nd ref="169272912"/>
+    <nd ref="169398305"/>
+    <nd ref="169398307"/>
+    <nd ref="169398308"/>
+    <nd ref="169398309"/>
+    <nd ref="169398311"/>
+    <nd ref="169398313"/>
+    <nd ref="169398314"/>
+    <nd ref="169273910"/>
+    <nd ref="169398315"/>
+    <nd ref="169398317"/>
+    <nd ref="169398319"/>
+    <nd ref="169398321"/>
+    <nd ref="169398323"/>
+    <nd ref="169398326"/>
+    <nd ref="169398328"/>
+    <nd ref="169398329"/>
+    <nd ref="169398331"/>
+    <nd ref="169398333"/>
+    <nd ref="169398335"/>
+    <nd ref="169398337"/>
+    <nd ref="169273906"/>
+    <nd ref="169398339"/>
+    <nd ref="169398341"/>
+    <nd ref="169398343"/>
+    <nd ref="169398345"/>
+    <nd ref="169398347"/>
+    <nd ref="169398349"/>
+    <nd ref="169398351"/>
+    <nd ref="169398353"/>
+    <nd ref="169398355"/>
+    <nd ref="169398356"/>
+    <nd ref="169398357"/>
+    <nd ref="169398358"/>
+    <nd ref="169398359"/>
+    <nd ref="169398360"/>
+    <nd ref="169398362"/>
+    <nd ref="169398364"/>
+    <nd ref="169398366"/>
+    <nd ref="169398368"/>
+    <nd ref="169398370"/>
+    <nd ref="169398372"/>
+    <nd ref="169398373"/>
+    <nd ref="169398374"/>
+    <nd ref="169398375"/>
+    <nd ref="169398377"/>
+    <nd ref="169398378"/>
+    <nd ref="169398380"/>
+    <nd ref="169398381"/>
+    <nd ref="169398382"/>
+    <nd ref="169398384"/>
+    <nd ref="169283673"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Winding Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Winding Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28694"/>
+    <tag k="tiger:zip_right" v="28694"/>
+  </way>
+  <way id="16413316">
+    <nd ref="169397695"/>
+    <nd ref="169413982"/>
+    <nd ref="169413984"/>
+    <nd ref="169413986"/>
+    <nd ref="169413987"/>
+    <nd ref="169413989"/>
+    <nd ref="169413993"/>
+    <nd ref="169413996"/>
+    <nd ref="169414000"/>
+    <nd ref="169414002"/>
+    <nd ref="169414007"/>
+    <nd ref="169414010"/>
+    <nd ref="169414012"/>
+    <nd ref="169414019"/>
+    <nd ref="169414027"/>
+    <nd ref="169414034"/>
+    <nd ref="169414036"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eagle Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Eagle Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28694"/>
+    <tag k="tiger:zip_right" v="28694"/>
+  </way>
+
+</osm>

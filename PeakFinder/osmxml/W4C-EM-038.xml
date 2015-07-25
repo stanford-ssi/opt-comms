@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:49:02Z"/>
+
+  <way id="16401275">
+    <nd ref="169282107"/>
+    <nd ref="169282110"/>
+    <nd ref="169282112"/>
+    <nd ref="169282114"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36783008"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16402051">
+    <nd ref="169287789"/>
+    <nd ref="169287792"/>
+    <nd ref="169287795"/>
+    <nd ref="169287797"/>
+    <nd ref="169287799"/>
+    <nd ref="169287802"/>
+    <nd ref="169287805"/>
+    <nd ref="169287807"/>
+    <nd ref="169287809"/>
+    <nd ref="169287810"/>
+    <nd ref="169287812"/>
+    <nd ref="169287814"/>
+    <nd ref="169287817"/>
+    <nd ref="169287820"/>
+    <nd ref="169287822"/>
+    <nd ref="169287825"/>
+    <nd ref="169287828"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36781487:36781488"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16402367">
+    <nd ref="169290587"/>
+    <nd ref="169290590"/>
+    <nd ref="169290593"/>
+    <nd ref="169290595"/>
+    <nd ref="169290596"/>
+    <nd ref="169290598"/>
+    <nd ref="169290600"/>
+    <nd ref="169290603"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+  </way>
+  <way id="16407307">
+    <nd ref="169287797"/>
+    <nd ref="169342673"/>
+    <nd ref="169342675"/>
+    <nd ref="169342677"/>
+    <nd ref="169342679"/>
+    <nd ref="169342681"/>
+    <nd ref="169342684"/>
+    <nd ref="169342687"/>
+    <nd ref="169342690"/>
+    <nd ref="169342692"/>
+    <nd ref="169342695"/>
+    <nd ref="169342699"/>
+    <nd ref="169309996"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hopeful Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Hopeful"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16407792">
+    <nd ref="169347119"/>
+    <nd ref="169347122"/>
+    <nd ref="169347123"/>
+    <nd ref="2039018136"/>
+    <nd ref="2039018106"/>
+    <nd ref="2039018103"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Andrew Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Andrew"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:zip_left" v="28657"/>
+  </way>
+  <way id="16408087">
+    <nd ref="169282107"/>
+    <nd ref="2039018129"/>
+    <nd ref="169350373"/>
+    <nd ref="169350375"/>
+    <nd ref="169347119"/>
+    <nd ref="169350377"/>
+    <nd ref="169350379"/>
+    <nd ref="169350381"/>
+    <nd ref="169290587"/>
+    <nd ref="169350384"/>
+    <nd ref="169350387"/>
+    <nd ref="169350389"/>
+    <nd ref="169350391"/>
+    <nd ref="169309986"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buck Hill Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Buck Hill"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:zip_left" v="28657"/>
+    <tag k="tiger:zip_right" v="28657"/>
+  </way>
+
+</osm>

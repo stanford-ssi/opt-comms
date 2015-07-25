@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:39:02Z"/>
+
+  <way id="81137433">
+    <nd ref="357805616"/>
+    <nd ref="945505374"/>
+    <nd ref="945505375"/>
+    <nd ref="945505377"/>
+    <nd ref="945505378"/>
+    <nd ref="945505379"/>
+    <nd ref="945505380"/>
+    <nd ref="945505381"/>
+    <nd ref="945505382"/>
+    <nd ref="945505383"/>
+    <nd ref="945505384"/>
+    <nd ref="945505385"/>
+    <nd ref="945505386"/>
+    <nd ref="945505387"/>
+    <nd ref="945505388"/>
+    <nd ref="945505389"/>
+    <nd ref="945505390"/>
+    <nd ref="945505391"/>
+    <nd ref="945505392"/>
+    <nd ref="945505393"/>
+    <nd ref="945505394"/>
+    <nd ref="945505398"/>
+    <nd ref="945505399"/>
+    <nd ref="945505400"/>
+    <nd ref="945505402"/>
+    <nd ref="945505404"/>
+    <nd ref="945505405"/>
+    <nd ref="945505406"/>
+    <nd ref="945505407"/>
+    <nd ref="945505408"/>
+    <nd ref="945505413"/>
+    <nd ref="945505415"/>
+    <nd ref="945505416"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="horse" v="no"/>
+    <tag k="name" v="Mount Pisgah Trail"/>
+    <tag k="source" v="hikewnc.info; NCOnemap"/>
+    <tag k="surface" v="ground"/>
+  </way>
+
+</osm>

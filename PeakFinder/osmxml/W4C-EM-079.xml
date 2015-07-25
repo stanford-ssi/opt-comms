@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:52:02Z"/>
+
+  <way id="16443856">
+    <nd ref="169710988"/>
+    <nd ref="169710989"/>
+    <nd ref="169710991"/>
+    <nd ref="169710992"/>
+    <nd ref="169710993"/>
+    <nd ref="169710995"/>
+    <nd ref="169710998"/>
+    <nd ref="169711000"/>
+    <nd ref="169711005"/>
+    <nd ref="169711007"/>
+    <nd ref="169711010"/>
+    <nd ref="169711013"/>
+    <nd ref="169711015"/>
+    <nd ref="169711017"/>
+    <nd ref="169711019"/>
+    <nd ref="169711023"/>
+    <nd ref="169711025"/>
+    <nd ref="169711027"/>
+    <nd ref="169711030"/>
+    <nd ref="169711036"/>
+    <nd ref="169711038"/>
+    <nd ref="169711042"/>
+    <nd ref="169711044"/>
+    <nd ref="169711046"/>
+    <nd ref="169711048"/>
+    <nd ref="195841778"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Caldwell, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45850999"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-d40d8a04-b1e5-496c-ab5f-706f0c2dee8e"/>
+  </way>
+
+</osm>

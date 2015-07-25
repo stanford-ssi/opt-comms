@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16400955">
+    <nd ref="169279722"/>
+    <nd ref="169279725"/>
+    <nd ref="169279727"/>
+    <nd ref="169279729"/>
+    <nd ref="169279730"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36766187:36772018"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16403591">
+    <nd ref="169302347"/>
+    <nd ref="169302349"/>
+    <nd ref="169302351"/>
+    <nd ref="169302353"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Galax Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Galax"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+  </way>
+  <way id="16403742">
+    <nd ref="169303690"/>
+    <nd ref="169303693"/>
+    <nd ref="169303696"/>
+    <nd ref="169303702"/>
+    <nd ref="169303705"/>
+    <nd ref="169303708"/>
+    <nd ref="169303711"/>
+    <nd ref="169303715"/>
+    <nd ref="169303718"/>
+    <nd ref="169303721"/>
+    <nd ref="169303724"/>
+    <nd ref="169303727"/>
+    <nd ref="169303730"/>
+    <nd ref="169303733"/>
+    <nd ref="169303736"/>
+    <nd ref="169303739"/>
+    <nd ref="169303742"/>
+    <nd ref="169303745"/>
+    <nd ref="169303748"/>
+    <nd ref="169303750"/>
+    <nd ref="169303752"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oz Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Oz"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16403743">
+    <nd ref="169303772"/>
+    <nd ref="169303775"/>
+    <nd ref="2803520719"/>
+    <nd ref="2803520720"/>
+    <nd ref="2803520721"/>
+    <nd ref="2803520722"/>
+    <nd ref="2803520723"/>
+    <nd ref="2803520724"/>
+    <nd ref="2803520725"/>
+    <nd ref="2803520726"/>
+    <nd ref="2803520727"/>
+    <nd ref="169303778"/>
+    <nd ref="2803520728"/>
+    <nd ref="2803520729"/>
+    <nd ref="2803520730"/>
+    <nd ref="2803520731"/>
+    <nd ref="2803520732"/>
+    <nd ref="2803520733"/>
+    <nd ref="2803520734"/>
+    <nd ref="2803520735"/>
+    <nd ref="169303779"/>
+    <nd ref="2803520736"/>
+    <nd ref="2803520737"/>
+    <nd ref="2803520738"/>
+    <nd ref="169303783"/>
+    <nd ref="2803520739"/>
+    <nd ref="2803520740"/>
+    <nd ref="2803520768"/>
+    <nd ref="2803520741"/>
+    <nd ref="2803520742"/>
+    <nd ref="169303798"/>
+    <nd ref="2803520743"/>
+    <nd ref="2803520744"/>
+    <nd ref="2803520745"/>
+    <nd ref="2803520746"/>
+    <nd ref="2803520747"/>
+    <nd ref="2803520748"/>
+    <nd ref="2803520749"/>
+    <nd ref="169303801"/>
+    <nd ref="2803520750"/>
+    <nd ref="2803520751"/>
+    <nd ref="169303805"/>
+    <nd ref="2803520752"/>
+    <nd ref="169303808"/>
+    <nd ref="169303811"/>
+    <nd ref="2803520753"/>
+    <nd ref="2803520754"/>
+    <nd ref="2803520755"/>
+    <nd ref="169303813"/>
+    <nd ref="2803520756"/>
+    <nd ref="2803520757"/>
+    <nd ref="169303816"/>
+    <nd ref="2803520758"/>
+    <nd ref="2803520759"/>
+    <nd ref="2803520760"/>
+    <nd ref="2803520761"/>
+    <nd ref="2803520762"/>
+    <nd ref="2803520763"/>
+    <nd ref="2803520764"/>
+    <nd ref="2803520765"/>
+    <nd ref="2803520766"/>
+    <nd ref="2803520767"/>
+    <nd ref="169303819"/>
+    <nd ref="169303822"/>
+    <nd ref="2803520769"/>
+    <nd ref="2803520770"/>
+    <nd ref="2803520771"/>
+    <nd ref="2803520772"/>
+    <nd ref="2803520773"/>
+    <nd ref="2803520774"/>
+    <nd ref="2803520775"/>
+    <nd ref="2803520776"/>
+    <nd ref="2803520777"/>
+    <nd ref="2803520778"/>
+    <nd ref="2803520779"/>
+    <nd ref="2803520780"/>
+    <nd ref="2803520781"/>
+    <nd ref="2803520782"/>
+    <nd ref="169303825"/>
+    <nd ref="2803520783"/>
+    <nd ref="2803520784"/>
+    <nd ref="2803520785"/>
+    <nd ref="2803520786"/>
+    <nd ref="2803520787"/>
+    <nd ref="2803520788"/>
+    <nd ref="2803520789"/>
+    <nd ref="2803520790"/>
+    <nd ref="2803520791"/>
+    <nd ref="169303828"/>
+    <nd ref="2803520792"/>
+    <nd ref="2803520793"/>
+    <nd ref="169303831"/>
+    <nd ref="2803520794"/>
+    <nd ref="2803520795"/>
+    <nd ref="2803520796"/>
+    <nd ref="2803520797"/>
+    <nd ref="2803520798"/>
+    <nd ref="2803520799"/>
+    <nd ref="2803520800"/>
+    <nd ref="2803520901"/>
+    <nd ref="2803520902"/>
+    <nd ref="2803520919"/>
+    <nd ref="2803520920"/>
+    <nd ref="2803520921"/>
+    <nd ref="2803520922"/>
+    <nd ref="2803520923"/>
+    <nd ref="2803520924"/>
+    <nd ref="2803520925"/>
+    <nd ref="2803520903"/>
+    <nd ref="2803520926"/>
+    <nd ref="2803520927"/>
+    <nd ref="2803520928"/>
+    <nd ref="2803520929"/>
+    <nd ref="2803520930"/>
+    <nd ref="2803520931"/>
+    <nd ref="2803520932"/>
+    <nd ref="2803520933"/>
+    <nd ref="169303844"/>
+    <nd ref="2803520934"/>
+    <nd ref="2803520935"/>
+    <nd ref="2803520936"/>
+    <nd ref="2803520937"/>
+    <nd ref="2803520904"/>
+    <nd ref="2803520938"/>
+    <nd ref="2803520939"/>
+    <nd ref="2803520940"/>
+    <nd ref="2803520941"/>
+    <nd ref="2803520942"/>
+    <nd ref="2803520905"/>
+    <nd ref="2803520906"/>
+    <nd ref="2803520907"/>
+    <nd ref="2803520908"/>
+    <nd ref="2803520909"/>
+    <nd ref="2803520910"/>
+    <nd ref="2803520911"/>
+    <nd ref="2803520912"/>
+    <nd ref="2803520913"/>
+    <nd ref="2803520914"/>
+    <nd ref="2803520915"/>
+    <nd ref="169303858"/>
+    <nd ref="2803520916"/>
+    <nd ref="2803520917"/>
+    <nd ref="2803520918"/>
+    <nd ref="169303871"/>
+    <nd ref="169303874"/>
+    <nd ref="169284156"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oz Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Oz"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16403746">
+    <nd ref="169303881"/>
+    <nd ref="169303882"/>
+    <nd ref="169303690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oz Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Oz"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16403747">
+    <nd ref="169303742"/>
+    <nd ref="169303883"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oz Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Oz"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16403748">
+    <nd ref="169279730"/>
+    <nd ref="169303884"/>
+    <nd ref="169303885"/>
+    <nd ref="169303888"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oz Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Oz"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16404762">
+    <nd ref="169279730"/>
+    <nd ref="169313888"/>
+    <nd ref="169313890"/>
+    <nd ref="169313892"/>
+    <nd ref="169313893"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Meadowview Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Meadowview"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+  </way>
+  <way id="16405305">
+    <nd ref="169319226"/>
+    <nd ref="169319228"/>
+    <nd ref="169319230"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Emerald Forest Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Emerald Forest"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16405496">
+    <nd ref="169303752"/>
+    <nd ref="169321096"/>
+    <nd ref="169321097"/>
+    <nd ref="169321100"/>
+    <nd ref="169321103"/>
+    <nd ref="169321107"/>
+    <nd ref="169321109"/>
+    <nd ref="169321110"/>
+    <nd ref="169321112"/>
+    <nd ref="169321114"/>
+    <nd ref="169321117"/>
+    <nd ref="169321120"/>
+    <nd ref="169321122"/>
+    <nd ref="169303748"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oz Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Oz"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16406364">
+    <nd ref="169321096"/>
+    <nd ref="169331565"/>
+    <nd ref="169319226"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Emerald Forest Rd"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Emerald Forest Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36775738"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16406496">
+    <nd ref="169303690"/>
+    <nd ref="169332906"/>
+    <nd ref="169332907"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Misty Hollow Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Misty Hollow"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36781760"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16407173">
+    <nd ref="169341351"/>
+    <nd ref="169341353"/>
+    <nd ref="169341355"/>
+    <nd ref="169341357"/>
+    <nd ref="169341361"/>
+    <nd ref="169341365"/>
+    <nd ref="169341367"/>
+    <nd ref="169341370"/>
+    <nd ref="169341372"/>
+    <nd ref="169341374"/>
+    <nd ref="169341377"/>
+    <nd ref="169341378"/>
+    <nd ref="169341381"/>
+    <nd ref="169341382"/>
+    <nd ref="169341385"/>
+    <nd ref="169341388"/>
+    <nd ref="169341389"/>
+    <nd ref="169302347"/>
+    <nd ref="169341391"/>
+    <nd ref="169341393"/>
+    <nd ref="169341395"/>
+    <nd ref="169341397"/>
+    <nd ref="169341400"/>
+    <nd ref="169341403"/>
+    <nd ref="169341405"/>
+    <nd ref="169341409"/>
+    <nd ref="169341411"/>
+    <nd ref="169341413"/>
+    <nd ref="169341417"/>
+    <nd ref="169279727"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ski Loft Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Ski Loft"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_right" v="28604"/>
+  </way>
+  <way id="16407242">
+    <nd ref="169341940"/>
+    <nd ref="169341943"/>
+    <nd ref="169341945"/>
+    <nd ref="169341947"/>
+    <nd ref="169341949"/>
+    <nd ref="169341361"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beech Top Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Beech Top"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_right" v="28604"/>
+  </way>
+  <way id="16408390">
+    <nd ref="169284156"/>
+    <nd ref="169353278"/>
+    <nd ref="169353279"/>
+    <nd ref="169353281"/>
+    <nd ref="169353283"/>
+    <nd ref="169353285"/>
+    <nd ref="169353288"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Oz Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="The Oz"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

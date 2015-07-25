@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16620893">
+    <nd ref="171671784"/>
+    <nd ref="171671786"/>
+    <nd ref="171671788"/>
+    <nd ref="171671790"/>
+    <nd ref="171671792"/>
+    <nd ref="171671794"/>
+    <nd ref="171671797"/>
+    <nd ref="171671800"/>
+    <nd ref="171671803"/>
+    <nd ref="171671806"/>
+    <nd ref="171671809"/>
+    <nd ref="171671812"/>
+    <nd ref="171671815"/>
+    <nd ref="171671817"/>
+    <nd ref="171671819"/>
+    <nd ref="171671821"/>
+    <nd ref="171671824"/>
+    <nd ref="171671827"/>
+    <nd ref="171671829"/>
+    <nd ref="171671830"/>
+    <nd ref="171671832"/>
+    <nd ref="171671835"/>
+    <nd ref="171671837"/>
+    <nd ref="171671840"/>
+    <nd ref="171671841"/>
+    <nd ref="171671842"/>
+    <nd ref="171671844"/>
+    <nd ref="171671846"/>
+    <nd ref="171671848"/>
+    <nd ref="171671850"/>
+    <nd ref="171671852"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35978326:35978327:35978329:35977218"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622522">
+    <nd ref="171688619"/>
+    <nd ref="171688622"/>
+    <nd ref="171688625"/>
+    <nd ref="171688628"/>
+    <nd ref="171688631"/>
+    <nd ref="171688634"/>
+    <nd ref="171688637"/>
+    <nd ref="171688640"/>
+    <nd ref="171688645"/>
+    <nd ref="171688650"/>
+    <nd ref="171688653"/>
+    <nd ref="171688657"/>
+    <nd ref="171688660"/>
+    <nd ref="171688663"/>
+    <nd ref="171688666"/>
+    <nd ref="171688669"/>
+    <nd ref="171688672"/>
+    <nd ref="171688675"/>
+    <nd ref="171688678"/>
+    <nd ref="171688681"/>
+    <nd ref="171688683"/>
+    <nd ref="171688685"/>
+    <nd ref="171688687"/>
+    <nd ref="171688689"/>
+    <nd ref="171688691"/>
+    <nd ref="171688693"/>
+    <nd ref="171688695"/>
+    <nd ref="171688697"/>
+    <nd ref="171688699"/>
+    <nd ref="171688702"/>
+    <nd ref="171688706"/>
+    <nd ref="171688710"/>
+    <nd ref="171688715"/>
+    <nd ref="171688721"/>
+    <nd ref="171688724"/>
+    <nd ref="171688727"/>
+    <nd ref="171688729"/>
+    <nd ref="171688732"/>
+    <nd ref="171688735"/>
+    <nd ref="171688737"/>
+    <nd ref="171688739"/>
+    <nd ref="171688742"/>
+    <nd ref="171688744"/>
+    <nd ref="171688747"/>
+    <nd ref="171688749"/>
+    <nd ref="171688752"/>
+    <nd ref="171688755"/>
+    <nd ref="171688758"/>
+    <nd ref="171688761"/>
+    <nd ref="171688764"/>
+    <nd ref="171688766"/>
+    <nd ref="171688768"/>
+    <nd ref="171688770"/>
+    <nd ref="171688772"/>
+    <nd ref="171688774"/>
+    <nd ref="171688778"/>
+    <nd ref="171688780"/>
+    <nd ref="171688782"/>
+    <nd ref="171688784"/>
+    <nd ref="171688786"/>
+    <nd ref="171688789"/>
+    <nd ref="171688792"/>
+    <nd ref="171688793"/>
+    <nd ref="171671784"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35984405:35978332"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16625037">
+    <nd ref="171671790"/>
+    <nd ref="171715921"/>
+    <nd ref="171715923"/>
+    <nd ref="171715925"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35978330"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16634522">
+    <nd ref="171671784"/>
+    <nd ref="171822609"/>
+    <nd ref="171822614"/>
+    <nd ref="171822617"/>
+    <nd ref="171822621"/>
+    <nd ref="171822625"/>
+    <nd ref="172112866"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1522"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="State Road 1522"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35978331"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16652246">
+    <nd ref="172010757"/>
+    <nd ref="172010760"/>
+    <nd ref="172010762"/>
+    <nd ref="172010765"/>
+    <nd ref="172010768"/>
+    <nd ref="172010771"/>
+    <nd ref="172010774"/>
+    <nd ref="172010777"/>
+    <nd ref="172010779"/>
+    <nd ref="172010781"/>
+    <nd ref="172010784"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35488017"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16659483">
+    <nd ref="172112866"/>
+    <nd ref="172112869"/>
+    <nd ref="172112871"/>
+    <nd ref="172112872"/>
+    <nd ref="172112873"/>
+    <nd ref="172112874"/>
+    <nd ref="172010757"/>
+    <nd ref="172112875"/>
+    <nd ref="172112876"/>
+    <nd ref="172112881"/>
+    <nd ref="172112883"/>
+    <nd ref="172112886"/>
+    <nd ref="172010669"/>
+    <nd ref="172112890"/>
+    <nd ref="172112892"/>
+    <nd ref="172112894"/>
+    <nd ref="172112895"/>
+    <nd ref="172112897"/>
+    <nd ref="172112900"/>
+    <nd ref="172112902"/>
+    <nd ref="172112905"/>
+    <nd ref="172010692"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1522"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="State Road 1522"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35488015:35488041:35488016"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+
+</osm>

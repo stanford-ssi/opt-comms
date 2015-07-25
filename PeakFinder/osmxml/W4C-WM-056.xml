@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16627372">
+    <nd ref="171693640"/>
+    <nd ref="171740317"/>
+    <nd ref="171740320"/>
+    <nd ref="171740327"/>
+    <nd ref="171740330"/>
+    <nd ref="171740332"/>
+    <nd ref="171740334"/>
+    <nd ref="171740339"/>
+    <nd ref="171740342"/>
+    <nd ref="171740345"/>
+    <nd ref="171740351"/>
+    <nd ref="171740354"/>
+    <nd ref="171740358"/>
+    <nd ref="171740365"/>
+    <nd ref="171740367"/>
+    <nd ref="171740370"/>
+    <nd ref="171740372"/>
+    <nd ref="171740374"/>
+    <nd ref="171740376"/>
+    <nd ref="171740379"/>
+    <nd ref="171740380"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Pinicle Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="High Pinicle"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16632593">
+    <nd ref="171740365"/>
+    <nd ref="171801753"/>
+    <nd ref="171801756"/>
+    <nd ref="171801757"/>
+    <nd ref="171801759"/>
+    <nd ref="171801762"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Waterleaf Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Waterleaf"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16635457">
+    <nd ref="171714381"/>
+    <nd ref="171833868"/>
+    <nd ref="171833870"/>
+    <nd ref="171833874"/>
+    <nd ref="171833877"/>
+    <nd ref="171833880"/>
+    <nd ref="171833883"/>
+    <nd ref="171833886"/>
+    <nd ref="171833889"/>
+    <nd ref="171833892"/>
+    <nd ref="171833894"/>
+    <nd ref="171833896"/>
+    <nd ref="171833899"/>
+    <nd ref="171833902"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dominion Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Dominion"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

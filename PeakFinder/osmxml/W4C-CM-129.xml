@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16651109">
+    <nd ref="172000945"/>
+    <nd ref="172000948"/>
+    <nd ref="172000951"/>
+    <nd ref="172000954"/>
+    <nd ref="172000957"/>
+    <nd ref="172000958"/>
+    <nd ref="172000960"/>
+    <nd ref="172000962"/>
+    <nd ref="172000964"/>
+    <nd ref="172000967"/>
+    <nd ref="172000970"/>
+    <nd ref="172000973"/>
+    <nd ref="172000976"/>
+    <nd ref="172000979"/>
+    <nd ref="172000981"/>
+    <nd ref="172000983"/>
+    <nd ref="172000987"/>
+    <nd ref="172000991"/>
+    <nd ref="172000994"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40936244:40936246:40936248:40936250:40936251"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="16656945">
+    <nd ref="172064511"/>
+    <nd ref="172077636"/>
+    <nd ref="172077639"/>
+    <nd ref="172077641"/>
+    <nd ref="172077643"/>
+    <nd ref="172077644"/>
+    <nd ref="172077645"/>
+    <nd ref="172077646"/>
+    <nd ref="172077647"/>
+    <nd ref="172077649"/>
+    <nd ref="171981553"/>
+    <nd ref="172077651"/>
+    <nd ref="172077652"/>
+    <nd ref="172077657"/>
+    <nd ref="172077660"/>
+    <nd ref="172000979"/>
+    <nd ref="172077663"/>
+    <nd ref="172077666"/>
+    <nd ref="172077669"/>
+    <nd ref="172077671"/>
+    <nd ref="172077673"/>
+    <nd ref="172077675"/>
+    <nd ref="172077676"/>
+    <nd ref="172077679"/>
+    <nd ref="172077682"/>
+    <nd ref="172077684"/>
+    <nd ref="172077685"/>
+    <nd ref="172077688"/>
+    <nd ref="172077691"/>
+    <nd ref="172077693"/>
+    <nd ref="172077695"/>
+    <nd ref="172077699"/>
+    <nd ref="172077702"/>
+    <nd ref="172077703"/>
+    <nd ref="172077706"/>
+    <nd ref="172077709"/>
+    <nd ref="172077712"/>
+    <nd ref="172077715"/>
+    <nd ref="172077718"/>
+    <nd ref="172077721"/>
+    <nd ref="172077724"/>
+    <nd ref="172077727"/>
+    <nd ref="172077729"/>
+    <nd ref="172077732"/>
+    <nd ref="172077735"/>
+    <nd ref="172077738"/>
+    <nd ref="172077741"/>
+    <nd ref="172077744"/>
+    <nd ref="172077747"/>
+    <nd ref="172077750"/>
+    <nd ref="172077752"/>
+    <nd ref="172077754"/>
+    <nd ref="172077756"/>
+    <nd ref="172077757"/>
+    <nd ref="172077758"/>
+    <nd ref="172077759"/>
+    <nd ref="172077760"/>
+    <nd ref="172077761"/>
+    <nd ref="172077762"/>
+    <nd ref="172077763"/>
+    <nd ref="172077764"/>
+    <nd ref="172077765"/>
+    <nd ref="172077767"/>
+    <nd ref="172077769"/>
+    <nd ref="172077771"/>
+    <nd ref="172077774"/>
+    <nd ref="172077777"/>
+    <nd ref="172077781"/>
+    <nd ref="172077784"/>
+    <nd ref="172077787"/>
+    <nd ref="172077790"/>
+    <nd ref="172077793"/>
+    <nd ref="172077796"/>
+    <nd ref="172034467"/>
+    <nd ref="172077799"/>
+    <nd ref="172077801"/>
+    <nd ref="172077803"/>
+    <nd ref="172077804"/>
+    <nd ref="172034487"/>
+    <nd ref="172077805"/>
+    <nd ref="172034429"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lamptown Mtn Road"/>
+    <tag k="name_1" v="State Road 1321"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:name_base" v="Lamptown Mtn"/>
+    <tag k="tiger:name_base_1" v="State Road 1321"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

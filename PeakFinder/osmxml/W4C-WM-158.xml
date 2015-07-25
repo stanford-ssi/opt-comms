@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16776197">
+    <nd ref="173511685"/>
+    <nd ref="173511688"/>
+    <nd ref="173511691"/>
+    <nd ref="173511694"/>
+    <nd ref="173511697"/>
+    <nd ref="173511700"/>
+    <nd ref="173507978"/>
+    <nd ref="173511703"/>
+    <nd ref="173511707"/>
+    <nd ref="173511710"/>
+    <nd ref="173511713"/>
+    <nd ref="173511715"/>
+    <nd ref="173511718"/>
+    <nd ref="173511720"/>
+    <nd ref="173511722"/>
+    <nd ref="173511724"/>
+    <nd ref="173511725"/>
+    <nd ref="173511727"/>
+    <nd ref="173511730"/>
+    <nd ref="173511733"/>
+    <nd ref="173511737"/>
+    <nd ref="173511738"/>
+    <nd ref="173511744"/>
+    <nd ref="173511748"/>
+    <nd ref="173511751"/>
+    <nd ref="173511754"/>
+    <nd ref="173511756"/>
+    <nd ref="173511759"/>
+    <nd ref="173511762"/>
+    <nd ref="173511766"/>
+    <nd ref="173511767"/>
+    <nd ref="173511770"/>
+    <nd ref="173511772"/>
+    <nd ref="173511774"/>
+    <nd ref="173511777"/>
+    <nd ref="173511778"/>
+    <nd ref="173511782"/>
+    <nd ref="173511784"/>
+    <nd ref="173511785"/>
+    <nd ref="173511786"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Poplar Cove Road"/>
+    <tag k="name_1" v="State Road 1119"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Poplar Cove"/>
+    <tag k="tiger:name_base_1" v="State Road 1119"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777625">
+    <nd ref="173544206"/>
+    <nd ref="173544209"/>
+    <nd ref="173544211"/>
+    <nd ref="173544213"/>
+    <nd ref="173544215"/>
+    <nd ref="173544216"/>
+    <nd ref="173544219"/>
+    <nd ref="173544222"/>
+    <nd ref="173544225"/>
+    <nd ref="173544227"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East H Bailey Road"/>
+    <tag k="name_1" v="State Road 1117"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="H Bailey"/>
+    <tag k="tiger:name_base_1" v="State Road 1117"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777657">
+    <nd ref="173545609"/>
+    <nd ref="173545613"/>
+    <nd ref="173545616"/>
+    <nd ref="173545620"/>
+    <nd ref="173545623"/>
+    <nd ref="173545627"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Blackberry Run"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Blackberry"/>
+    <tag k="tiger:name_type" v="Run"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36126983"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777980">
+    <nd ref="173513347"/>
+    <nd ref="173553060"/>
+    <nd ref="173553065"/>
+    <nd ref="173553068"/>
+    <nd ref="173553071"/>
+    <nd ref="173553074"/>
+    <nd ref="173553080"/>
+    <nd ref="173553084"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wagon Wheel Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Wagon Wheel"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16777981">
+    <nd ref="173553071"/>
+    <nd ref="173553102"/>
+    <nd ref="173553107"/>
+    <nd ref="173553110"/>
+    <nd ref="173553114"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wagon Wheel Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Wagon Wheel"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16778182">
+    <nd ref="173544227"/>
+    <nd ref="173557844"/>
+    <nd ref="173557850"/>
+    <nd ref="173557856"/>
+    <nd ref="173557859"/>
+    <nd ref="173557862"/>
+    <nd ref="173557865"/>
+    <nd ref="173557869"/>
+    <nd ref="173557876"/>
+    <nd ref="173557879"/>
+    <nd ref="173545609"/>
+    <nd ref="173557881"/>
+    <nd ref="173557884"/>
+    <nd ref="173557886"/>
+    <nd ref="173557888"/>
+    <nd ref="173557891"/>
+    <nd ref="173557892"/>
+    <nd ref="173557894"/>
+    <nd ref="173545627"/>
+    <nd ref="173557895"/>
+    <nd ref="173557896"/>
+    <nd ref="173557898"/>
+    <nd ref="173557900"/>
+    <nd ref="173557844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Valley Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="High Valley"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+
+</osm>

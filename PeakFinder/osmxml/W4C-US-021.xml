@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12525008">
+    <nd ref="114107387"/>
+    <nd ref="114108196"/>
+    <nd ref="114108198"/>
+    <nd ref="114108200"/>
+    <nd ref="114108201"/>
+    <nd ref="114108203"/>
+    <nd ref="114108205"/>
+    <nd ref="114108207"/>
+    <nd ref="114108210"/>
+    <nd ref="114108211"/>
+    <nd ref="114108213"/>
+    <nd ref="114108215"/>
+    <nd ref="114108217"/>
+    <nd ref="114108219"/>
+    <nd ref="114108221"/>
+    <nd ref="114108224"/>
+    <nd ref="114108227"/>
+    <nd ref="114108229"/>
+    <nd ref="114108231"/>
+    <nd ref="114108233"/>
+    <nd ref="114108236"/>
+    <nd ref="114108239"/>
+    <nd ref="114108244"/>
+    <nd ref="114108246"/>
+    <nd ref="114108248"/>
+    <nd ref="114108250"/>
+    <nd ref="114108251"/>
+    <nd ref="114108254"/>
+    <nd ref="114108256"/>
+    <nd ref="114108260"/>
+    <nd ref="114108263"/>
+    <nd ref="114108265"/>
+    <nd ref="114108267"/>
+    <nd ref="114108269"/>
+    <nd ref="114108270"/>
+    <nd ref="114108271"/>
+    <nd ref="114108272"/>
+    <nd ref="114108273"/>
+    <nd ref="114108274"/>
+    <nd ref="114108275"/>
+    <nd ref="114108276"/>
+    <nd ref="114108277"/>
+    <nd ref="114108278"/>
+    <nd ref="114108279"/>
+    <nd ref="114108281"/>
+    <nd ref="114108282"/>
+    <nd ref="114108283"/>
+    <nd ref="114108284"/>
+    <nd ref="114108286"/>
+    <nd ref="114108288"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Harris Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Harris"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+  </way>
+
+</osm>

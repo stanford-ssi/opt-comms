@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:50:02Z"/>
+
+  <way id="18901619">
+    <nd ref="195534404"/>
+    <nd ref="195534406"/>
+    <nd ref="195534408"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52052480"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18903104">
+    <nd ref="195548055"/>
+    <nd ref="195548056"/>
+    <nd ref="195548057"/>
+    <nd ref="195548059"/>
+    <nd ref="195548061"/>
+    <nd ref="195548064"/>
+    <nd ref="195548066"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Omerta Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Omerta"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18904241">
+    <nd ref="195562442"/>
+    <nd ref="195565548"/>
+    <nd ref="195565550"/>
+    <nd ref="195565552"/>
+    <nd ref="195565554"/>
+    <nd ref="195565556"/>
+    <nd ref="195565558"/>
+    <nd ref="195565560"/>
+    <nd ref="195565562"/>
+    <nd ref="195565564"/>
+    <nd ref="195548055"/>
+    <nd ref="195565566"/>
+    <nd ref="195565569"/>
+    <nd ref="195565571"/>
+    <nd ref="195565573"/>
+    <nd ref="195565575"/>
+    <nd ref="195565577"/>
+    <nd ref="195565579"/>
+    <nd ref="195565581"/>
+    <nd ref="195565583"/>
+    <nd ref="195565585"/>
+    <nd ref="195565587"/>
+    <nd ref="195565588"/>
+    <nd ref="195565589"/>
+    <nd ref="195565591"/>
+    <nd ref="195565593"/>
+    <nd ref="195565595"/>
+    <nd ref="195565597"/>
+    <nd ref="195565599"/>
+    <nd ref="195565601"/>
+    <nd ref="195565603"/>
+    <nd ref="195565605"/>
+    <nd ref="195565607"/>
+    <nd ref="195565609"/>
+    <nd ref="195565611"/>
+    <nd ref="195565613"/>
+    <nd ref="195565615"/>
+    <nd ref="195565618"/>
+    <nd ref="195565620"/>
+    <nd ref="195565622"/>
+    <nd ref="195565623"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Brown Stone Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Brown Stone Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18904601">
+    <nd ref="195570928"/>
+    <nd ref="195570930"/>
+    <nd ref="195570932"/>
+    <nd ref="195570934"/>
+    <nd ref="195570936"/>
+    <nd ref="195570937"/>
+    <nd ref="195570939"/>
+    <nd ref="195570941"/>
+    <nd ref="195570942"/>
+    <nd ref="195570943"/>
+    <nd ref="195570944"/>
+    <nd ref="195570945"/>
+    <nd ref="195570946"/>
+    <nd ref="195570947"/>
+    <nd ref="195570948"/>
+    <nd ref="195570950"/>
+    <nd ref="195570952"/>
+    <nd ref="195570954"/>
+    <nd ref="195570956"/>
+    <nd ref="195570958"/>
+    <nd ref="195570960"/>
+    <nd ref="195570962"/>
+    <nd ref="195570964"/>
+    <nd ref="195570966"/>
+    <nd ref="195570968"/>
+    <nd ref="195570970"/>
+    <nd ref="195570974"/>
+    <nd ref="195570977"/>
+    <nd ref="195570979"/>
+    <nd ref="195570981"/>
+    <nd ref="195570983"/>
+    <nd ref="195570985"/>
+    <nd ref="195570987"/>
+    <nd ref="195570989"/>
+    <nd ref="195570991"/>
+    <nd ref="195570993"/>
+    <nd ref="195570995"/>
+    <nd ref="195570997"/>
+    <nd ref="195570999"/>
+    <nd ref="195571001"/>
+    <nd ref="195571003"/>
+    <nd ref="195571004"/>
+    <nd ref="195571005"/>
+    <nd ref="195571006"/>
+    <nd ref="195571007"/>
+    <nd ref="195571008"/>
+    <nd ref="195571009"/>
+    <nd ref="195571010"/>
+    <nd ref="195571011"/>
+    <nd ref="195571012"/>
+    <nd ref="195571014"/>
+    <nd ref="195571016"/>
+    <nd ref="195571019"/>
+    <nd ref="195571020"/>
+    <nd ref="195571021"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Grouse Run Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Grouse Run"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+    <tag k="tiger:zip_right" v="28607"/>
+  </way>
+  <way id="18904687">
+    <nd ref="195571997"/>
+    <nd ref="195571999"/>
+    <nd ref="195572001"/>
+    <nd ref="195572003"/>
+    <nd ref="195572005"/>
+    <nd ref="195572007"/>
+    <nd ref="195572008"/>
+    <nd ref="195572010"/>
+    <nd ref="195572011"/>
+    <nd ref="195572013"/>
+    <nd ref="195572016"/>
+    <nd ref="195572018"/>
+    <nd ref="195572020"/>
+    <nd ref="195572023"/>
+    <nd ref="195572024"/>
+    <nd ref="195572025"/>
+    <nd ref="195572027"/>
+    <nd ref="195572029"/>
+    <nd ref="195572031"/>
+    <nd ref="195572033"/>
+    <nd ref="195572036"/>
+    <nd ref="195572037"/>
+    <nd ref="195572039"/>
+    <nd ref="195572041"/>
+    <nd ref="195572043"/>
+    <nd ref="195572045"/>
+    <nd ref="195572048"/>
+    <nd ref="195572050"/>
+    <nd ref="195572053"/>
+    <nd ref="195572055"/>
+    <nd ref="195572056"/>
+    <nd ref="195572059"/>
+    <nd ref="195572060"/>
+    <nd ref="195572063"/>
+    <nd ref="195572065"/>
+    <nd ref="195572067"/>
+    <nd ref="195572070"/>
+    <nd ref="195572072"/>
+    <nd ref="195572074"/>
+    <nd ref="195572076"/>
+    <nd ref="195572078"/>
+    <nd ref="195572081"/>
+    <nd ref="195572083"/>
+    <nd ref="195572085"/>
+    <nd ref="195572087"/>
+    <nd ref="195572090"/>
+    <nd ref="195572092"/>
+    <nd ref="195572095"/>
+    <nd ref="195572098"/>
+    <nd ref="195572102"/>
+    <nd ref="195572104"/>
+    <nd ref="195572105"/>
+    <nd ref="195572107"/>
+    <nd ref="195572108"/>
+    <nd ref="195572109"/>
+    <nd ref="195572110"/>
+    <nd ref="195572113"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Center Court Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Center Court"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18905188">
+    <nd ref="195578834"/>
+    <nd ref="195578835"/>
+    <nd ref="195578836"/>
+    <nd ref="195578838"/>
+    <nd ref="195578840"/>
+    <nd ref="195578841"/>
+    <nd ref="195578843"/>
+    <nd ref="195578845"/>
+    <nd ref="195578849"/>
+    <nd ref="195578850"/>
+    <nd ref="195578851"/>
+    <nd ref="195578852"/>
+    <nd ref="195578853"/>
+    <nd ref="195578854"/>
+    <nd ref="195578856"/>
+    <nd ref="195578858"/>
+    <nd ref="195578860"/>
+    <nd ref="195578862"/>
+    <nd ref="195578863"/>
+    <nd ref="195578864"/>
+    <nd ref="195578865"/>
+    <nd ref="195578866"/>
+    <nd ref="195578869"/>
+    <nd ref="195578871"/>
+    <nd ref="195578873"/>
+    <nd ref="195578875"/>
+    <nd ref="195578877"/>
+    <nd ref="195578879"/>
+    <nd ref="195578882"/>
+    <nd ref="195578884"/>
+    <nd ref="195578886"/>
+    <nd ref="195578888"/>
+    <nd ref="195578890"/>
+    <nd ref="195578891"/>
+    <nd ref="195578892"/>
+    <nd ref="195578893"/>
+    <nd ref="195578894"/>
+    <nd ref="195578895"/>
+    <nd ref="195578896"/>
+    <nd ref="195578898"/>
+    <nd ref="195578900"/>
+    <nd ref="195578901"/>
+    <nd ref="195578902"/>
+    <nd ref="195578903"/>
+    <nd ref="195578905"/>
+    <nd ref="195578907"/>
+    <nd ref="195578909"/>
+    <nd ref="195578911"/>
+    <nd ref="195578913"/>
+    <nd ref="195578915"/>
+    <nd ref="195578917"/>
+    <nd ref="195578919"/>
+    <nd ref="195578920"/>
+    <nd ref="195578922"/>
+    <nd ref="195578923"/>
+    <nd ref="195578924"/>
+    <nd ref="195578925"/>
+    <nd ref="195578926"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Boone Coffey Tr"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Boone Coffey Tr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52039655"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18906984">
+    <nd ref="195602988"/>
+    <nd ref="195602990"/>
+    <nd ref="195602993"/>
+    <nd ref="195602994"/>
+    <nd ref="195602995"/>
+    <nd ref="195602996"/>
+    <nd ref="195602997"/>
+    <nd ref="195602998"/>
+    <nd ref="195603000"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Magnolia Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Magnolia"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+  </way>
+  <way id="18907655">
+    <nd ref="195614254"/>
+    <nd ref="195614256"/>
+    <nd ref="195614258"/>
+    <nd ref="195614260"/>
+    <nd ref="195614262"/>
+    <nd ref="195614264"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lester Tree Farm"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Lester Tree Farm"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52046848"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18908242">
+    <nd ref="195622185"/>
+    <nd ref="195622186"/>
+    <nd ref="195622188"/>
+    <nd ref="195622190"/>
+    <nd ref="195622192"/>
+    <nd ref="195622193"/>
+    <nd ref="195622194"/>
+    <nd ref="195622195"/>
+    <nd ref="195622196"/>
+    <nd ref="195622198"/>
+    <nd ref="195622200"/>
+    <nd ref="195622202"/>
+    <nd ref="195622204"/>
+    <nd ref="195622207"/>
+    <nd ref="195622208"/>
+    <nd ref="195622209"/>
+    <nd ref="195622210"/>
+    <nd ref="195622211"/>
+    <nd ref="195622212"/>
+    <nd ref="195622213"/>
+    <nd ref="195622215"/>
+    <nd ref="195622216"/>
+    <nd ref="195622217"/>
+    <nd ref="195622219"/>
+    <nd ref="195622221"/>
+    <nd ref="195622223"/>
+    <nd ref="195622225"/>
+    <nd ref="195622227"/>
+    <nd ref="195622229"/>
+    <nd ref="195622231"/>
+    <nd ref="195622232"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Alumni Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Alumni"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+    <tag k="tiger:zip_left_1" v="28607"/>
+  </way>
+  <way id="18908293">
+    <nd ref="195623078"/>
+    <nd ref="195623080"/>
+    <nd ref="195623082"/>
+    <nd ref="195623083"/>
+    <nd ref="195623084"/>
+    <nd ref="195623085"/>
+    <nd ref="195623086"/>
+    <nd ref="195623087"/>
+    <nd ref="195623089"/>
+    <nd ref="195623090"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Peak Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="High Peak"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+    <tag k="tiger:zip_right" v="28607"/>
+  </way>
+  <way id="18908986">
+    <nd ref="195570977"/>
+    <nd ref="195634138"/>
+    <nd ref="195634141"/>
+    <nd ref="195634143"/>
+    <nd ref="195634147"/>
+    <nd ref="195634151"/>
+    <nd ref="195634153"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Maple Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Maple"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18910300">
+    <nd ref="195562447"/>
+    <nd ref="195655308"/>
+    <nd ref="195655310"/>
+    <nd ref="195655313"/>
+    <nd ref="195655317"/>
+    <nd ref="195655319"/>
+    <nd ref="195655321"/>
+    <nd ref="195655323"/>
+    <nd ref="195655325"/>
+    <nd ref="195655327"/>
+    <nd ref="195655329"/>
+    <nd ref="195655331"/>
+    <nd ref="195655333"/>
+    <nd ref="195655335"/>
+    <nd ref="195655337"/>
+    <nd ref="195655339"/>
+    <nd ref="195655342"/>
+    <nd ref="195655344"/>
+    <nd ref="195655346"/>
+    <nd ref="195655347"/>
+    <nd ref="195655348"/>
+    <nd ref="195655349"/>
+    <nd ref="195655350"/>
+    <nd ref="195655351"/>
+    <nd ref="195655352"/>
+    <nd ref="195655353"/>
+    <nd ref="195655354"/>
+    <nd ref="195655355"/>
+    <nd ref="195655357"/>
+    <nd ref="195655358"/>
+    <nd ref="195655359"/>
+    <nd ref="195655360"/>
+    <nd ref="195655361"/>
+    <nd ref="195655362"/>
+    <nd ref="195655364"/>
+    <nd ref="195655368"/>
+    <nd ref="195655369"/>
+    <nd ref="195655370"/>
+    <nd ref="195655371"/>
+    <nd ref="195655372"/>
+    <nd ref="195655373"/>
+    <nd ref="195655374"/>
+    <nd ref="195655376"/>
+    <nd ref="195655377"/>
+    <nd ref="195655378"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Virgil's Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Virgil's"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+  </way>
+  <way id="18912853">
+    <nd ref="195694939"/>
+    <nd ref="195694941"/>
+    <nd ref="195694943"/>
+    <nd ref="195694945"/>
+    <nd ref="195694947"/>
+    <nd ref="195694949"/>
+    <nd ref="195694952"/>
+    <nd ref="195694954"/>
+    <nd ref="195694956"/>
+    <nd ref="195694957"/>
+    <nd ref="195694958"/>
+    <nd ref="195694959"/>
+    <nd ref="195694960"/>
+    <nd ref="195694962"/>
+    <nd ref="195694963"/>
+    <nd ref="195694964"/>
+    <nd ref="195694965"/>
+    <nd ref="195694966"/>
+    <nd ref="195694968"/>
+    <nd ref="195694970"/>
+    <nd ref="195694972"/>
+    <nd ref="195694974"/>
+    <nd ref="195694976"/>
+    <nd ref="195694977"/>
+    <nd ref="195694978"/>
+    <nd ref="195694981"/>
+    <nd ref="195694983"/>
+    <nd ref="195694984"/>
+    <nd ref="195694986"/>
+    <nd ref="195694988"/>
+    <nd ref="195694990"/>
+    <nd ref="195694992"/>
+    <nd ref="195694994"/>
+    <nd ref="195695000"/>
+    <nd ref="195695006"/>
+    <nd ref="195695012"/>
+    <nd ref="195695022"/>
+    <nd ref="195695033"/>
+    <nd ref="195695037"/>
+    <nd ref="195695045"/>
+    <nd ref="195695050"/>
+    <nd ref="195695058"/>
+    <nd ref="195695059"/>
+    <nd ref="195695060"/>
+    <nd ref="195695062"/>
+    <nd ref="195695066"/>
+    <nd ref="195695071"/>
+    <nd ref="195695078"/>
+    <nd ref="195695086"/>
+    <nd ref="195623078"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Peak Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="High Peak"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18913515">
+    <nd ref="195572098"/>
+    <nd ref="195704886"/>
+    <nd ref="195704887"/>
+    <nd ref="195704888"/>
+    <nd ref="195704889"/>
+    <nd ref="195704890"/>
+    <nd ref="195704891"/>
+    <nd ref="195704892"/>
+    <nd ref="195704894"/>
+    <nd ref="195704896"/>
+    <nd ref="195704897"/>
+    <nd ref="195704898"/>
+    <nd ref="195704899"/>
+    <nd ref="195704901"/>
+    <nd ref="195704903"/>
+    <nd ref="195704904"/>
+    <nd ref="195704905"/>
+    <nd ref="195704906"/>
+    <nd ref="195704907"/>
+    <nd ref="195704908"/>
+    <nd ref="195704910"/>
+    <nd ref="195704912"/>
+    <nd ref="195572110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sammi Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Sammi"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18913612">
+    <nd ref="195642033"/>
+    <nd ref="195705934"/>
+    <nd ref="195705938"/>
+    <nd ref="195705939"/>
+    <nd ref="195705941"/>
+    <nd ref="195705942"/>
+    <nd ref="195705944"/>
+    <nd ref="195705946"/>
+    <nd ref="195705949"/>
+    <nd ref="195705951"/>
+    <nd ref="195705953"/>
+    <nd ref="195705956"/>
+    <nd ref="195705959"/>
+    <nd ref="195705961"/>
+    <nd ref="195705964"/>
+    <nd ref="195705966"/>
+    <nd ref="195705968"/>
+    <nd ref="195705969"/>
+    <nd ref="195705971"/>
+    <nd ref="195705973"/>
+    <nd ref="195705974"/>
+    <nd ref="195705977"/>
+    <nd ref="195705979"/>
+    <nd ref="195705981"/>
+    <nd ref="195705984"/>
+    <nd ref="195705986"/>
+    <nd ref="195705988"/>
+    <nd ref="195705989"/>
+    <nd ref="195705991"/>
+    <nd ref="195705993"/>
+    <nd ref="195705996"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Overlook Hill Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Overlook Hill"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+  </way>
+  <way id="18914959">
+    <nd ref="195694994"/>
+    <nd ref="195725186"/>
+    <nd ref="195725188"/>
+    <nd ref="195725189"/>
+    <nd ref="195725190"/>
+    <nd ref="195725192"/>
+    <nd ref="195725193"/>
+    <nd ref="195725194"/>
+    <nd ref="195725195"/>
+    <nd ref="195725196"/>
+    <nd ref="195725198"/>
+    <nd ref="195725200"/>
+    <nd ref="195725201"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Hill Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Laurel Hill"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+    <tag k="tiger:zip_left_1" v="28607"/>
+  </way>
+  <way id="18915262">
+    <nd ref="195638531"/>
+    <nd ref="195728109"/>
+    <nd ref="195728111"/>
+    <nd ref="195728114"/>
+    <nd ref="195728116"/>
+    <nd ref="195728119"/>
+    <nd ref="195728121"/>
+    <nd ref="195728124"/>
+    <nd ref="195728126"/>
+    <nd ref="195728129"/>
+    <nd ref="195728132"/>
+    <nd ref="195728134"/>
+    <nd ref="195728137"/>
+    <nd ref="195728140"/>
+    <nd ref="195728142"/>
+    <nd ref="195728145"/>
+    <nd ref="195728150"/>
+    <nd ref="195728152"/>
+    <nd ref="195728153"/>
+    <nd ref="195728155"/>
+    <nd ref="195728156"/>
+    <nd ref="195728159"/>
+    <nd ref="195728160"/>
+    <nd ref="195728162"/>
+    <nd ref="195728165"/>
+    <nd ref="195728167"/>
+    <nd ref="195728170"/>
+    <nd ref="195728173"/>
+    <nd ref="195728175"/>
+    <nd ref="195728177"/>
+    <nd ref="195728178"/>
+    <nd ref="195728180"/>
+    <nd ref="195728181"/>
+    <nd ref="195728182"/>
+    <nd ref="195728185"/>
+    <nd ref="195728187"/>
+    <nd ref="195728190"/>
+    <nd ref="195728192"/>
+    <nd ref="195728195"/>
+    <nd ref="195728197"/>
+    <nd ref="195728200"/>
+    <nd ref="195728202"/>
+    <nd ref="195728205"/>
+    <nd ref="195728207"/>
+    <nd ref="195728210"/>
+    <nd ref="195728212"/>
+    <nd ref="195728213"/>
+    <nd ref="195728215"/>
+    <nd ref="195728216"/>
+    <nd ref="195728218"/>
+    <nd ref="195728219"/>
+    <nd ref="195728221"/>
+    <nd ref="195728223"/>
+    <nd ref="195728226"/>
+    <nd ref="195728228"/>
+    <nd ref="195728231"/>
+    <nd ref="195728233"/>
+    <nd ref="195728235"/>
+    <nd ref="195728236"/>
+    <nd ref="195728238"/>
+    <nd ref="195728241"/>
+    <nd ref="195728243"/>
+    <nd ref="195704170"/>
+    <nd ref="195728244"/>
+    <nd ref="195728247"/>
+    <nd ref="195728249"/>
+    <nd ref="195728251"/>
+    <nd ref="195728254"/>
+    <nd ref="195728257"/>
+    <nd ref="195728259"/>
+    <nd ref="195728262"/>
+    <nd ref="195728264"/>
+    <nd ref="195728267"/>
+    <nd ref="195728269"/>
+    <nd ref="195728272"/>
+    <nd ref="195728274"/>
+    <nd ref="195728276"/>
+    <nd ref="195728278"/>
+    <nd ref="195728279"/>
+    <nd ref="195728282"/>
+    <nd ref="195728284"/>
+    <nd ref="195728287"/>
+    <nd ref="195728291"/>
+    <nd ref="195728295"/>
+    <nd ref="195728297"/>
+    <nd ref="195728300"/>
+    <nd ref="195728302"/>
+    <nd ref="195728305"/>
+    <nd ref="195728307"/>
+    <nd ref="195728310"/>
+    <nd ref="195728312"/>
+    <nd ref="195728315"/>
+    <nd ref="195728318"/>
+    <nd ref="195728320"/>
+    <nd ref="195728323"/>
+    <nd ref="195728324"/>
+    <nd ref="195728327"/>
+    <nd ref="195728329"/>
+    <nd ref="195728332"/>
+    <nd ref="195728334"/>
+    <nd ref="195728336"/>
+    <nd ref="195728339"/>
+    <nd ref="195728342"/>
+    <nd ref="195728343"/>
+    <nd ref="195728345"/>
+    <nd ref="195728346"/>
+    <nd ref="195728348"/>
+    <nd ref="195728349"/>
+    <nd ref="195728351"/>
+    <nd ref="195728353"/>
+    <nd ref="195728355"/>
+    <nd ref="195728358"/>
+    <nd ref="195728360"/>
+    <nd ref="195728363"/>
+    <nd ref="195728365"/>
+    <nd ref="195728368"/>
+    <nd ref="195728369"/>
+    <nd ref="195728370"/>
+    <nd ref="195728372"/>
+    <nd ref="195728373"/>
+    <nd ref="195728375"/>
+    <nd ref="195728376"/>
+    <nd ref="195728379"/>
+    <nd ref="195728381"/>
+    <nd ref="195728384"/>
+    <nd ref="195728386"/>
+    <nd ref="195728389"/>
+    <nd ref="195728391"/>
+    <nd ref="195728393"/>
+    <nd ref="195728395"/>
+    <nd ref="195728396"/>
+    <nd ref="195728399"/>
+    <nd ref="195728401"/>
+    <nd ref="195728404"/>
+    <nd ref="195728406"/>
+    <nd ref="195728410"/>
+    <nd ref="195728414"/>
+    <nd ref="195528305"/>
+    <nd ref="195728417"/>
+    <nd ref="195728419"/>
+    <nd ref="195534101"/>
+    <nd ref="195728422"/>
+    <nd ref="195728424"/>
+    <nd ref="195728427"/>
+    <nd ref="195728430"/>
+    <nd ref="195728432"/>
+    <nd ref="195728434"/>
+    <nd ref="195728435"/>
+    <nd ref="195728439"/>
+    <nd ref="195728443"/>
+    <nd ref="195728445"/>
+    <nd ref="195728448"/>
+    <nd ref="195728453"/>
+    <nd ref="195728455"/>
+    <nd ref="195728458"/>
+    <nd ref="195728460"/>
+    <nd ref="195728463"/>
+    <nd ref="195728469"/>
+    <nd ref="195728471"/>
+    <nd ref="195728472"/>
+    <nd ref="195728474"/>
+    <nd ref="195557212"/>
+    <nd ref="195728476"/>
+    <nd ref="195728479"/>
+    <nd ref="195728481"/>
+    <nd ref="195728483"/>
+    <nd ref="195728484"/>
+    <nd ref="195728486"/>
+    <nd ref="195728489"/>
+    <nd ref="195529851"/>
+    <nd ref="195728491"/>
+    <nd ref="195728494"/>
+    <nd ref="195728496"/>
+    <nd ref="195728499"/>
+    <nd ref="195728502"/>
+    <nd ref="195728505"/>
+    <nd ref="195728507"/>
+    <nd ref="195728510"/>
+    <nd ref="195728511"/>
+    <nd ref="195728513"/>
+    <nd ref="195728514"/>
+    <nd ref="195728517"/>
+    <nd ref="195728519"/>
+    <nd ref="195728521"/>
+    <nd ref="195728523"/>
+    <nd ref="195728526"/>
+    <nd ref="195728528"/>
+    <nd ref="195728531"/>
+    <nd ref="195728533"/>
+    <nd ref="195728536"/>
+    <nd ref="195728537"/>
+    <nd ref="195728539"/>
+    <nd ref="195728540"/>
+    <nd ref="195728543"/>
+    <nd ref="195728545"/>
+    <nd ref="195728548"/>
+    <nd ref="195728550"/>
+    <nd ref="195728553"/>
+    <nd ref="195728555"/>
+    <nd ref="195728558"/>
+    <nd ref="195728560"/>
+    <nd ref="195728563"/>
+    <nd ref="195728566"/>
+    <nd ref="195728568"/>
+    <nd ref="195728571"/>
+    <nd ref="195728572"/>
+    <nd ref="195728574"/>
+    <nd ref="195728576"/>
+    <nd ref="195728579"/>
+    <nd ref="195728581"/>
+    <nd ref="195728584"/>
+    <nd ref="195728586"/>
+    <nd ref="195728589"/>
+    <nd ref="195728591"/>
+    <nd ref="195728594"/>
+    <nd ref="195728596"/>
+    <nd ref="195728599"/>
+    <nd ref="195728602"/>
+    <nd ref="195728605"/>
+    <nd ref="195728606"/>
+    <nd ref="195728608"/>
+    <nd ref="195728609"/>
+    <nd ref="195728611"/>
+    <nd ref="195728612"/>
+    <nd ref="195728615"/>
+    <nd ref="195728617"/>
+    <nd ref="195728620"/>
+    <nd ref="195728622"/>
+    <nd ref="195728625"/>
+    <nd ref="195728627"/>
+    <nd ref="195728630"/>
+    <nd ref="195728632"/>
+    <nd ref="195728636"/>
+    <nd ref="195728639"/>
+    <nd ref="195728641"/>
+    <nd ref="195728644"/>
+    <nd ref="195728646"/>
+    <nd ref="195728647"/>
+    <nd ref="195728650"/>
+    <nd ref="195728653"/>
+    <nd ref="195728657"/>
+    <nd ref="195728659"/>
+    <nd ref="195728661"/>
+    <nd ref="195728664"/>
+    <nd ref="195728666"/>
+    <nd ref="195728669"/>
+    <nd ref="195728670"/>
+    <nd ref="195728672"/>
+    <nd ref="195728675"/>
+    <nd ref="195728677"/>
+    <nd ref="195728679"/>
+    <nd ref="195728681"/>
+    <nd ref="195728684"/>
+    <nd ref="195728686"/>
+    <nd ref="195728688"/>
+    <nd ref="195728691"/>
+    <nd ref="195728693"/>
+    <nd ref="195728698"/>
+    <nd ref="195728700"/>
+    <nd ref="195728703"/>
+    <nd ref="195728705"/>
+    <nd ref="195728707"/>
+    <nd ref="195728710"/>
+    <nd ref="195728712"/>
+    <nd ref="195728714"/>
+    <nd ref="195728717"/>
+    <nd ref="195728719"/>
+    <nd ref="195728721"/>
+    <nd ref="195728723"/>
+    <nd ref="195728726"/>
+    <nd ref="195728728"/>
+    <nd ref="195728730"/>
+    <nd ref="195728733"/>
+    <nd ref="195728735"/>
+    <nd ref="195728737"/>
+    <nd ref="195728740"/>
+    <nd ref="195728744"/>
+    <nd ref="195728747"/>
+    <nd ref="195728749"/>
+    <nd ref="195728752"/>
+    <nd ref="195728754"/>
+    <nd ref="195728756"/>
+    <nd ref="195728759"/>
+    <nd ref="195728761"/>
+    <nd ref="195728763"/>
+    <nd ref="195728766"/>
+    <nd ref="195728768"/>
+    <nd ref="195728770"/>
+    <nd ref="195728772"/>
+    <nd ref="195728775"/>
+    <nd ref="195728777"/>
+    <nd ref="195728780"/>
+    <nd ref="195728782"/>
+    <nd ref="195728785"/>
+    <nd ref="195728787"/>
+    <nd ref="195728789"/>
+    <nd ref="195728792"/>
+    <nd ref="195728796"/>
+    <nd ref="195728797"/>
+    <nd ref="195728799"/>
+    <nd ref="195728800"/>
+    <nd ref="195728802"/>
+    <nd ref="195728803"/>
+    <nd ref="195728804"/>
+    <nd ref="195728806"/>
+    <nd ref="195728807"/>
+    <nd ref="195728808"/>
+    <nd ref="195728810"/>
+    <nd ref="195728811"/>
+    <nd ref="195728812"/>
+    <nd ref="195728814"/>
+    <nd ref="195728816"/>
+    <nd ref="195728820"/>
+    <nd ref="195728822"/>
+    <nd ref="195728824"/>
+    <nd ref="195728827"/>
+    <nd ref="195728829"/>
+    <nd ref="195728832"/>
+    <nd ref="195728834"/>
+    <nd ref="195728836"/>
+    <nd ref="195728839"/>
+    <nd ref="195728841"/>
+    <nd ref="195728843"/>
+    <nd ref="195728846"/>
+    <nd ref="195728848"/>
+    <nd ref="195728850"/>
+    <nd ref="195728853"/>
+    <nd ref="195728855"/>
+    <nd ref="195728857"/>
+    <nd ref="195728859"/>
+    <nd ref="195728862"/>
+    <nd ref="195728864"/>
+    <nd ref="195728867"/>
+    <nd ref="195728869"/>
+    <nd ref="195728871"/>
+    <nd ref="195728875"/>
+    <nd ref="195728877"/>
+    <nd ref="195728880"/>
+    <nd ref="195728882"/>
+    <nd ref="195728885"/>
+    <nd ref="195728887"/>
+    <nd ref="195728889"/>
+    <nd ref="195728892"/>
+    <nd ref="195728894"/>
+    <nd ref="195728897"/>
+    <nd ref="195728899"/>
+    <nd ref="195728900"/>
+    <nd ref="195650753"/>
+    <nd ref="195728903"/>
+    <nd ref="195728904"/>
+    <nd ref="195728906"/>
+    <nd ref="195728909"/>
+    <nd ref="195728911"/>
+    <nd ref="195728913"/>
+    <nd ref="195728916"/>
+    <nd ref="195728918"/>
+    <nd ref="195728920"/>
+    <nd ref="195728922"/>
+    <nd ref="195728924"/>
+    <nd ref="195728926"/>
+    <nd ref="195728927"/>
+    <nd ref="195728929"/>
+    <nd ref="195728931"/>
+    <nd ref="195728933"/>
+    <nd ref="195728935"/>
+    <nd ref="195728937"/>
+    <nd ref="195728939"/>
+    <nd ref="195728941"/>
+    <nd ref="195728943"/>
+    <nd ref="195728945"/>
+    <nd ref="195728947"/>
+    <nd ref="195728949"/>
+    <nd ref="195728951"/>
+    <nd ref="195728953"/>
+    <nd ref="195728955"/>
+    <nd ref="195728957"/>
+    <nd ref="195728959"/>
+    <nd ref="195728961"/>
+    <nd ref="195728963"/>
+    <nd ref="195728965"/>
+    <nd ref="195728967"/>
+    <nd ref="195728968"/>
+    <nd ref="195728970"/>
+    <nd ref="195520607"/>
+    <nd ref="195728972"/>
+    <nd ref="195728974"/>
+    <nd ref="195728976"/>
+    <nd ref="195728978"/>
+    <nd ref="195728980"/>
+    <nd ref="195728982"/>
+    <nd ref="195728984"/>
+    <nd ref="195728985"/>
+    <nd ref="195728986"/>
+    <nd ref="195728987"/>
+    <nd ref="195728988"/>
+    <nd ref="195728989"/>
+    <nd ref="195728990"/>
+    <nd ref="195728991"/>
+    <nd ref="195728992"/>
+    <nd ref="195728993"/>
+    <nd ref="195728994"/>
+    <nd ref="195728995"/>
+    <nd ref="195728996"/>
+    <nd ref="195728998"/>
+    <nd ref="195729000"/>
+    <nd ref="195729001"/>
+    <nd ref="195729002"/>
+    <nd ref="195729003"/>
+    <nd ref="195729005"/>
+    <nd ref="195729007"/>
+    <nd ref="195729009"/>
+    <nd ref="195729011"/>
+    <nd ref="195729013"/>
+    <nd ref="195729015"/>
+    <nd ref="195729017"/>
+    <nd ref="195729019"/>
+    <nd ref="195729021"/>
+    <nd ref="195729024"/>
+    <nd ref="195729025"/>
+    <nd ref="195729026"/>
+    <nd ref="195729027"/>
+    <nd ref="195729029"/>
+    <nd ref="195729034"/>
+    <nd ref="195729036"/>
+    <nd ref="195729038"/>
+    <nd ref="195729040"/>
+    <nd ref="195729042"/>
+    <nd ref="195729043"/>
+    <nd ref="195729044"/>
+    <nd ref="195729045"/>
+    <nd ref="195729047"/>
+    <nd ref="195729049"/>
+    <nd ref="195729051"/>
+    <nd ref="195729053"/>
+    <nd ref="195729055"/>
+    <nd ref="195729056"/>
+    <nd ref="195729057"/>
+    <nd ref="195729059"/>
+    <nd ref="195729061"/>
+    <nd ref="195729062"/>
+    <nd ref="195729063"/>
+    <nd ref="195729064"/>
+    <nd ref="195729065"/>
+    <nd ref="195729067"/>
+    <nd ref="195729069"/>
+    <nd ref="195729071"/>
+    <nd ref="195729073"/>
+    <nd ref="195729075"/>
+    <nd ref="195729077"/>
+    <nd ref="195729079"/>
+    <nd ref="195729081"/>
+    <nd ref="195729083"/>
+    <nd ref="195729085"/>
+    <nd ref="195729087"/>
+    <nd ref="195729088"/>
+    <nd ref="195729090"/>
+    <nd ref="195729093"/>
+    <nd ref="195729095"/>
+    <nd ref="195729098"/>
+    <nd ref="195729100"/>
+    <nd ref="195729101"/>
+    <nd ref="195729103"/>
+    <nd ref="195729104"/>
+    <nd ref="195729106"/>
+    <nd ref="195729108"/>
+    <nd ref="195729110"/>
+    <nd ref="195729112"/>
+    <nd ref="195729113"/>
+    <nd ref="195729114"/>
+    <nd ref="195550987"/>
+    <nd ref="195729115"/>
+    <nd ref="195729116"/>
+    <nd ref="195729118"/>
+    <nd ref="195729120"/>
+    <nd ref="195729121"/>
+    <nd ref="195729122"/>
+    <nd ref="195729123"/>
+    <nd ref="195729125"/>
+    <nd ref="195729126"/>
+    <nd ref="195729127"/>
+    <nd ref="195729128"/>
+    <nd ref="195729130"/>
+    <nd ref="195729132"/>
+    <nd ref="195729134"/>
+    <nd ref="195729136"/>
+    <nd ref="195729137"/>
+    <nd ref="195729138"/>
+    <nd ref="195729139"/>
+    <nd ref="195729141"/>
+    <nd ref="195729142"/>
+    <nd ref="195729144"/>
+    <nd ref="195729145"/>
+    <nd ref="195729147"/>
+    <nd ref="195729149"/>
+    <nd ref="195729150"/>
+    <nd ref="195729151"/>
+    <nd ref="195729152"/>
+    <nd ref="195729153"/>
+    <nd ref="195729155"/>
+    <nd ref="195729157"/>
+    <nd ref="195729159"/>
+    <nd ref="195729161"/>
+    <nd ref="195729163"/>
+    <nd ref="195545093"/>
+    <nd ref="195729165"/>
+    <nd ref="195678943"/>
+    <nd ref="195729167"/>
+    <nd ref="195729168"/>
+    <nd ref="195729169"/>
+    <nd ref="195729170"/>
+    <nd ref="195729171"/>
+    <nd ref="195729172"/>
+    <nd ref="195729173"/>
+    <nd ref="195729175"/>
+    <nd ref="195729177"/>
+    <nd ref="195729179"/>
+    <nd ref="195729181"/>
+    <nd ref="195729183"/>
+    <nd ref="195729185"/>
+    <nd ref="195729187"/>
+    <nd ref="195729189"/>
+    <nd ref="195729191"/>
+    <nd ref="195729192"/>
+    <nd ref="195729193"/>
+    <nd ref="195729194"/>
+    <nd ref="195729196"/>
+    <nd ref="195729197"/>
+    <nd ref="195729198"/>
+    <nd ref="195729199"/>
+    <nd ref="195729200"/>
+    <nd ref="195729202"/>
+    <nd ref="195729203"/>
+    <nd ref="195729204"/>
+    <nd ref="195729205"/>
+    <nd ref="195729207"/>
+    <nd ref="195729209"/>
+    <nd ref="195729211"/>
+    <nd ref="195729213"/>
+    <nd ref="195729215"/>
+    <nd ref="195729217"/>
+    <nd ref="195729219"/>
+    <nd ref="195729221"/>
+    <nd ref="195729223"/>
+    <nd ref="195729224"/>
+    <nd ref="195569600"/>
+    <nd ref="195729225"/>
+    <nd ref="195729226"/>
+    <nd ref="195729227"/>
+    <nd ref="195729228"/>
+    <nd ref="195729230"/>
+    <nd ref="195729231"/>
+    <nd ref="195729232"/>
+    <nd ref="195729234"/>
+    <nd ref="195729235"/>
+    <nd ref="195729236"/>
+    <nd ref="195729237"/>
+    <nd ref="195729239"/>
+    <nd ref="195729241"/>
+    <nd ref="195729243"/>
+    <nd ref="195729245"/>
+    <nd ref="195729247"/>
+    <nd ref="195729249"/>
+    <nd ref="195729251"/>
+    <nd ref="195729253"/>
+    <nd ref="195729254"/>
+    <nd ref="195729255"/>
+    <nd ref="195729256"/>
+    <nd ref="195729257"/>
+    <nd ref="195729258"/>
+    <nd ref="195729260"/>
+    <nd ref="195729262"/>
+    <nd ref="195729264"/>
+    <nd ref="195729266"/>
+    <nd ref="195729268"/>
+    <nd ref="195729270"/>
+    <nd ref="195729272"/>
+    <nd ref="195729274"/>
+    <nd ref="195729276"/>
+    <nd ref="195729278"/>
+    <nd ref="195729280"/>
+    <nd ref="195729282"/>
+    <nd ref="195729284"/>
+    <nd ref="195729286"/>
+    <nd ref="195729288"/>
+    <nd ref="195729289"/>
+    <nd ref="195729290"/>
+    <nd ref="195729292"/>
+    <nd ref="195729293"/>
+    <nd ref="195729299"/>
+    <nd ref="195729303"/>
+    <nd ref="195729305"/>
+    <nd ref="195729307"/>
+    <nd ref="195729309"/>
+    <nd ref="195729311"/>
+    <nd ref="195729313"/>
+    <nd ref="195729315"/>
+    <nd ref="195729317"/>
+    <nd ref="195729319"/>
+    <nd ref="195729321"/>
+    <nd ref="195729323"/>
+    <nd ref="195729325"/>
+    <nd ref="195729327"/>
+    <nd ref="195729329"/>
+    <nd ref="195729330"/>
+    <nd ref="195729331"/>
+    <nd ref="195729332"/>
+    <nd ref="195729333"/>
+    <nd ref="195729334"/>
+    <nd ref="195729335"/>
+    <nd ref="195729336"/>
+    <nd ref="195729337"/>
+    <nd ref="195729339"/>
+    <nd ref="195729340"/>
+    <nd ref="195729341"/>
+    <nd ref="195729343"/>
+    <nd ref="195729345"/>
+    <nd ref="195729347"/>
+    <nd ref="195729348"/>
+    <nd ref="195729349"/>
+    <nd ref="195729350"/>
+    <nd ref="195729351"/>
+    <nd ref="195729352"/>
+    <nd ref="195729354"/>
+    <nd ref="195729356"/>
+    <nd ref="195729357"/>
+    <nd ref="195729358"/>
+    <nd ref="195729359"/>
+    <nd ref="195729361"/>
+    <nd ref="195729363"/>
+    <nd ref="195729365"/>
+    <nd ref="195729367"/>
+    <nd ref="195729369"/>
+    <nd ref="195729370"/>
+    <nd ref="195729371"/>
+    <nd ref="195729373"/>
+    <nd ref="195729375"/>
+    <nd ref="195729377"/>
+    <nd ref="195729379"/>
+    <nd ref="195729381"/>
+    <nd ref="195729383"/>
+    <nd ref="195729384"/>
+    <nd ref="195570928"/>
+    <nd ref="195729385"/>
+    <nd ref="195614254"/>
+    <nd ref="195729387"/>
+    <nd ref="195729389"/>
+    <nd ref="195729391"/>
+    <nd ref="195729393"/>
+    <nd ref="195729395"/>
+    <nd ref="195572113"/>
+    <nd ref="195534404"/>
+    <nd ref="195729397"/>
+    <nd ref="195729399"/>
+    <nd ref="195729401"/>
+    <nd ref="195729402"/>
+    <nd ref="195729403"/>
+    <nd ref="195729404"/>
+    <nd ref="195729405"/>
+    <nd ref="195729406"/>
+    <nd ref="195729408"/>
+    <nd ref="195729409"/>
+    <nd ref="195729410"/>
+    <nd ref="195729411"/>
+    <nd ref="195729413"/>
+    <nd ref="195729415"/>
+    <nd ref="195729417"/>
+    <nd ref="195729419"/>
+    <nd ref="195729421"/>
+    <nd ref="195729423"/>
+    <nd ref="195729425"/>
+    <nd ref="195729427"/>
+    <nd ref="195729429"/>
+    <nd ref="195729431"/>
+    <nd ref="195729433"/>
+    <nd ref="195729435"/>
+    <nd ref="195729437"/>
+    <nd ref="195729438"/>
+    <nd ref="195729439"/>
+    <nd ref="195729440"/>
+    <nd ref="195729441"/>
+    <nd ref="195729442"/>
+    <nd ref="195729443"/>
+    <nd ref="195729445"/>
+    <nd ref="195729447"/>
+    <nd ref="195562362"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sampson Road"/>
+    <tag k="name_1" v="State Road 1526"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Sampson"/>
+    <tag k="tiger:name_base_1" v="State Road 1526"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18915397">
+    <nd ref="195729337"/>
+    <nd ref="195731247"/>
+    <nd ref="195731248"/>
+    <nd ref="195731249"/>
+    <nd ref="195731250"/>
+    <nd ref="195731251"/>
+    <nd ref="195731252"/>
+    <nd ref="195602988"/>
+    <nd ref="195731254"/>
+    <nd ref="195731256"/>
+    <nd ref="195731258"/>
+    <nd ref="195731259"/>
+    <nd ref="195731260"/>
+    <nd ref="195731261"/>
+    <nd ref="195731262"/>
+    <nd ref="195731264"/>
+    <nd ref="195731266"/>
+    <nd ref="195731268"/>
+    <nd ref="195731270"/>
+    <nd ref="195731272"/>
+    <nd ref="195731274"/>
+    <nd ref="195731276"/>
+    <nd ref="195731278"/>
+    <nd ref="195578834"/>
+    <nd ref="195731280"/>
+    <nd ref="195731281"/>
+    <nd ref="195731283"/>
+    <nd ref="195731285"/>
+    <nd ref="195731287"/>
+    <nd ref="195731289"/>
+    <nd ref="195731291"/>
+    <nd ref="195731293"/>
+    <nd ref="195731295"/>
+    <nd ref="195731297"/>
+    <nd ref="195731299"/>
+    <nd ref="195731301"/>
+    <nd ref="195731304"/>
+    <nd ref="195731306"/>
+    <nd ref="195731308"/>
+    <nd ref="195731310"/>
+    <nd ref="195731312"/>
+    <nd ref="195731314"/>
+    <nd ref="195731316"/>
+    <nd ref="195731318"/>
+    <nd ref="195731320"/>
+    <nd ref="195731322"/>
+    <nd ref="195731324"/>
+    <nd ref="195731326"/>
+    <nd ref="195731328"/>
+    <nd ref="195731330"/>
+    <nd ref="195731332"/>
+    <nd ref="195731334"/>
+    <nd ref="195731336"/>
+    <nd ref="195731338"/>
+    <nd ref="195731340"/>
+    <nd ref="195731343"/>
+    <nd ref="195731344"/>
+    <nd ref="195731345"/>
+    <nd ref="195731346"/>
+    <nd ref="195731347"/>
+    <nd ref="195731348"/>
+    <nd ref="195731349"/>
+    <nd ref="195731350"/>
+    <nd ref="195731352"/>
+    <nd ref="195731353"/>
+    <nd ref="195731354"/>
+    <nd ref="195731355"/>
+    <nd ref="195731357"/>
+    <nd ref="195731359"/>
+    <nd ref="195731361"/>
+    <nd ref="195731363"/>
+    <nd ref="195731365"/>
+    <nd ref="195731367"/>
+    <nd ref="195731369"/>
+    <nd ref="195731371"/>
+    <nd ref="195731373"/>
+    <nd ref="195731375"/>
+    <nd ref="195731378"/>
+    <nd ref="195731380"/>
+    <nd ref="195731382"/>
+    <nd ref="195731384"/>
+    <nd ref="195731387"/>
+    <nd ref="195731389"/>
+    <nd ref="195731391"/>
+    <nd ref="195731393"/>
+    <nd ref="195731395"/>
+    <nd ref="195731396"/>
+    <nd ref="195731397"/>
+    <nd ref="195731398"/>
+    <nd ref="195731399"/>
+    <nd ref="195731400"/>
+    <nd ref="195731402"/>
+    <nd ref="195731404"/>
+    <nd ref="195731406"/>
+    <nd ref="195731408"/>
+    <nd ref="195731410"/>
+    <nd ref="195731412"/>
+    <nd ref="195731416"/>
+    <nd ref="195731418"/>
+    <nd ref="195731420"/>
+    <nd ref="195731421"/>
+    <nd ref="195731422"/>
+    <nd ref="195731423"/>
+    <nd ref="195731424"/>
+    <nd ref="195731426"/>
+    <nd ref="195731428"/>
+    <nd ref="195731430"/>
+    <nd ref="195731431"/>
+    <nd ref="195731432"/>
+    <nd ref="195731434"/>
+    <nd ref="195731435"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greystone Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Greystone"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18915775">
+    <nd ref="195570952"/>
+    <nd ref="195736542"/>
+    <nd ref="195736544"/>
+    <nd ref="195736546"/>
+    <nd ref="195736548"/>
+    <nd ref="195736550"/>
+    <nd ref="195736552"/>
+    <nd ref="195736554"/>
+    <nd ref="195736556"/>
+    <nd ref="195736558"/>
+    <nd ref="195736560"/>
+    <nd ref="195736562"/>
+    <nd ref="195736564"/>
+    <nd ref="195736566"/>
+    <nd ref="195736568"/>
+    <nd ref="195736570"/>
+    <nd ref="195736572"/>
+    <nd ref="195736574"/>
+    <nd ref="195736576"/>
+    <nd ref="195736577"/>
+    <nd ref="195736578"/>
+    <nd ref="195736580"/>
+    <nd ref="195736582"/>
+    <nd ref="195736584"/>
+    <nd ref="195736586"/>
+    <nd ref="195736588"/>
+    <nd ref="195736590"/>
+    <nd ref="195736592"/>
+    <nd ref="195736594"/>
+    <nd ref="195736596"/>
+    <nd ref="195736598"/>
+    <nd ref="195736600"/>
+    <nd ref="195736602"/>
+    <nd ref="195736604"/>
+    <nd ref="195736606"/>
+    <nd ref="195736608"/>
+    <nd ref="195736610"/>
+    <nd ref="195736612"/>
+    <nd ref="195736614"/>
+    <nd ref="195736615"/>
+    <nd ref="195736617"/>
+    <nd ref="195736619"/>
+    <nd ref="195736621"/>
+    <nd ref="195736628"/>
+    <nd ref="195736633"/>
+    <nd ref="195736639"/>
+    <nd ref="195736646"/>
+    <nd ref="195571008"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oak Ridge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Oak Ridge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18916154">
+    <nd ref="195740941"/>
+    <nd ref="195740943"/>
+    <nd ref="195740945"/>
+    <nd ref="195740947"/>
+    <nd ref="195740949"/>
+    <nd ref="195740951"/>
+    <nd ref="195740953"/>
+    <nd ref="195740955"/>
+    <nd ref="195740957"/>
+    <nd ref="195740959"/>
+    <nd ref="195740961"/>
+    <nd ref="195740963"/>
+    <nd ref="195740965"/>
+    <nd ref="195740967"/>
+    <nd ref="195740969"/>
+    <nd ref="195740970"/>
+    <nd ref="195740972"/>
+    <nd ref="195740973"/>
+    <nd ref="195740975"/>
+    <nd ref="195740977"/>
+    <nd ref="195740979"/>
+    <nd ref="195740981"/>
+    <nd ref="195740982"/>
+    <nd ref="195740983"/>
+    <nd ref="195740984"/>
+    <nd ref="195572107"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tree Top Ridge Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Tree Top Ridge"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+    <tag k="tiger:zip_right" v="28607"/>
+  </way>
+  <way id="18918536">
+    <nd ref="195729258"/>
+    <nd ref="195768366"/>
+    <nd ref="195768368"/>
+    <nd ref="195768370"/>
+    <nd ref="195768372"/>
+    <nd ref="195768373"/>
+    <nd ref="195768374"/>
+    <nd ref="195768375"/>
+    <nd ref="195768376"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Autumn Hills Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Autumn Hills"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28607"/>
+    <tag k="tiger:zip_left_1" v="28607"/>
+  </way>
+  <way id="18920367">
+    <nd ref="195623078"/>
+    <nd ref="195792960"/>
+    <nd ref="195792962"/>
+    <nd ref="195792964"/>
+    <nd ref="195792966"/>
+    <nd ref="195642029"/>
+    <nd ref="195792968"/>
+    <nd ref="195792970"/>
+    <nd ref="195792971"/>
+    <nd ref="195622185"/>
+    <nd ref="195792972"/>
+    <nd ref="195792973"/>
+    <nd ref="195792974"/>
+    <nd ref="195792976"/>
+    <nd ref="195792978"/>
+    <nd ref="195792980"/>
+    <nd ref="195792981"/>
+    <nd ref="195792982"/>
+    <nd ref="195792983"/>
+    <nd ref="195792984"/>
+    <nd ref="195792985"/>
+    <nd ref="195792987"/>
+    <nd ref="195792989"/>
+    <nd ref="195792990"/>
+    <nd ref="195792991"/>
+    <nd ref="195792993"/>
+    <nd ref="195792995"/>
+    <nd ref="195792997"/>
+    <nd ref="195792998"/>
+    <nd ref="195792999"/>
+    <nd ref="195793001"/>
+    <nd ref="195793003"/>
+    <nd ref="195793004"/>
+    <nd ref="195793005"/>
+    <nd ref="195642022"/>
+    <nd ref="195793007"/>
+    <nd ref="195793009"/>
+    <nd ref="195793010"/>
+    <nd ref="195729413"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Hill Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Laurel Hill"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18920683">
+    <nd ref="195565605"/>
+    <nd ref="195797031"/>
+    <nd ref="195797034"/>
+    <nd ref="195797036"/>
+    <nd ref="195797039"/>
+    <nd ref="195797041"/>
+    <nd ref="195797043"/>
+    <nd ref="195797044"/>
+    <nd ref="195797046"/>
+    <nd ref="195797047"/>
+    <nd ref="195797049"/>
+    <nd ref="195797051"/>
+    <nd ref="195797054"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Brandon Lane"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Brandon"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="208898027">
+    <nd ref="195565566"/>
+    <nd ref="2191526782"/>
+    <nd ref="2191526771"/>
+    <nd ref="2191526804"/>
+    <nd ref="2191526770"/>
+    <nd ref="2191526780"/>
+    <nd ref="2191526811"/>
+    <nd ref="2191526778"/>
+    <nd ref="2191526772"/>
+    <nd ref="2191526812"/>
+    <nd ref="2191526807"/>
+    <nd ref="2191526788"/>
+    <nd ref="2191526808"/>
+    <nd ref="2191526800"/>
+    <nd ref="2191526781"/>
+    <nd ref="2191526787"/>
+    <nd ref="2191526792"/>
+    <nd ref="2191526793"/>
+    <nd ref="2191526791"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="208898028">
+    <nd ref="2191526772"/>
+    <nd ref="2191526776"/>
+    <nd ref="2191526806"/>
+    <nd ref="2191526809"/>
+    <nd ref="2191526797"/>
+    <nd ref="2191526790"/>
+    <nd ref="2191526784"/>
+    <nd ref="2191526774"/>
+    <nd ref="2191526803"/>
+    <nd ref="2191526813"/>
+    <nd ref="2191526805"/>
+    <nd ref="2191526773"/>
+    <nd ref="2191526775"/>
+    <nd ref="2191526777"/>
+    <nd ref="2191526814"/>
+    <nd ref="2191526794"/>
+    <nd ref="2191526789"/>
+    <nd ref="2191526799"/>
+    <nd ref="2191526801"/>
+    <nd ref="2191526802"/>
+    <nd ref="2191526810"/>
+    <nd ref="2191526796"/>
+    <nd ref="2191526786"/>
+    <nd ref="2191526785"/>
+    <nd ref="2191526795"/>
+    <nd ref="2191526798"/>
+    <nd ref="2191526779"/>
+    <tag k="highway" v="residential"/>
+  </way>
+
+</osm>

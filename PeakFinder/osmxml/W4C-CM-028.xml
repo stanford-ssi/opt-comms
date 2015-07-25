@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:40:02Z"/>
+
+  <way id="16651290">
+    <nd ref="202452643"/>
+    <nd ref="172002748"/>
+    <nd ref="172002751"/>
+    <nd ref="172002754"/>
+    <nd ref="172002757"/>
+    <nd ref="172002759"/>
+    <nd ref="172002761"/>
+    <nd ref="172002763"/>
+    <nd ref="172002766"/>
+    <nd ref="172002769"/>
+    <nd ref="202466197"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40936153:40936156:40936159"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="16651293">
+    <nd ref="202466212"/>
+    <nd ref="172002811"/>
+    <nd ref="172002814"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="40936155"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ca686e1e-419d-44e6-afcc-f56fd0eea9b7"/>
+  </way>
+  <way id="19476558">
+    <nd ref="202466197"/>
+    <nd ref="202466204"/>
+    <nd ref="202466207"/>
+    <nd ref="202466210"/>
+    <nd ref="202466212"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greene, TN"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="127760585"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-6e893c3f-43b4-4414-95ef-f18a474999f7"/>
+  </way>
+  <way id="19483362">
+    <nd ref="202521651"/>
+    <nd ref="202521652"/>
+    <nd ref="202521655"/>
+    <nd ref="202521658"/>
+    <nd ref="202521661"/>
+    <nd ref="202521665"/>
+    <nd ref="202521668"/>
+    <nd ref="202521671"/>
+    <nd ref="202521674"/>
+    <nd ref="202521677"/>
+    <nd ref="202521680"/>
+    <nd ref="202521684"/>
+    <nd ref="202521687"/>
+    <nd ref="202521689"/>
+    <nd ref="202521696"/>
+    <nd ref="202521699"/>
+    <nd ref="202521702"/>
+    <nd ref="202521708"/>
+    <nd ref="202521711"/>
+    <nd ref="202521714"/>
+    <nd ref="202521718"/>
+    <nd ref="202521720"/>
+    <nd ref="202521724"/>
+    <nd ref="202521726"/>
+    <nd ref="202521730"/>
+    <nd ref="202521735"/>
+    <nd ref="202521739"/>
+    <nd ref="202521745"/>
+    <nd ref="202452643"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bald Mountain Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greene, TN"/>
+    <tag k="tiger:name_base" v="Bald Mountain"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="30671412">
+    <nd ref="339188225"/>
+    <nd ref="339188226"/>
+    <nd ref="339188229"/>
+    <nd ref="339188230"/>
+    <nd ref="339188231"/>
+    <nd ref="339188232"/>
+    <nd ref="339188233"/>
+    <nd ref="339188234"/>
+    <nd ref="339188235"/>
+    <nd ref="339188236"/>
+    <nd ref="339188237"/>
+    <nd ref="339188238"/>
+    <nd ref="339188239"/>
+    <nd ref="339188240"/>
+    <nd ref="339188241"/>
+    <nd ref="339188242"/>
+    <nd ref="339188246"/>
+    <nd ref="339188248"/>
+    <nd ref="339188251"/>
+    <nd ref="339188253"/>
+    <nd ref="339188256"/>
+    <nd ref="339188258"/>
+    <nd ref="339188262"/>
+    <nd ref="339188264"/>
+    <nd ref="339188266"/>
+    <nd ref="339188269"/>
+    <nd ref="339188271"/>
+    <nd ref="339188274"/>
+    <nd ref="339188276"/>
+    <nd ref="339188279"/>
+    <nd ref="339188282"/>
+    <nd ref="339188284"/>
+    <nd ref="339188286"/>
+    <nd ref="339188288"/>
+    <nd ref="339188290"/>
+    <nd ref="339188293"/>
+    <nd ref="339188295"/>
+    <nd ref="339188297"/>
+    <nd ref="339188299"/>
+    <nd ref="339188301"/>
+    <nd ref="339188303"/>
+    <nd ref="339188306"/>
+    <nd ref="339188308"/>
+    <nd ref="339188310"/>
+    <nd ref="339188312"/>
+    <nd ref="339188315"/>
+    <nd ref="339188317"/>
+    <nd ref="339188319"/>
+    <nd ref="339188321"/>
+    <nd ref="339188323"/>
+    <nd ref="339188326"/>
+    <nd ref="339188328"/>
+    <nd ref="339188330"/>
+    <nd ref="339188333"/>
+    <nd ref="339188335"/>
+    <nd ref="339188337"/>
+    <nd ref="339188339"/>
+    <nd ref="339188341"/>
+    <nd ref="339188343"/>
+    <nd ref="339188345"/>
+    <nd ref="339188348"/>
+    <nd ref="339188350"/>
+    <nd ref="339188352"/>
+    <nd ref="339188354"/>
+    <nd ref="339188356"/>
+    <nd ref="339188359"/>
+    <nd ref="339188361"/>
+    <nd ref="339188363"/>
+    <nd ref="339188365"/>
+    <nd ref="339188366"/>
+    <nd ref="339188410"/>
+    <nd ref="339188412"/>
+    <nd ref="339188414"/>
+    <nd ref="339188416"/>
+    <nd ref="339188418"/>
+    <nd ref="339188420"/>
+    <nd ref="339188423"/>
+    <nd ref="339188424"/>
+    <nd ref="339188427"/>
+    <nd ref="339188429"/>
+    <nd ref="339188431"/>
+    <nd ref="339188433"/>
+    <nd ref="339188436"/>
+    <nd ref="339188438"/>
+    <nd ref="339188441"/>
+    <nd ref="339188443"/>
+    <nd ref="339188446"/>
+    <nd ref="339188448"/>
+    <nd ref="339188450"/>
+    <nd ref="339188453"/>
+    <nd ref="339188455"/>
+    <nd ref="339188457"/>
+    <nd ref="339188460"/>
+    <nd ref="339188462"/>
+    <nd ref="339188464"/>
+    <nd ref="339188466"/>
+    <nd ref="339188469"/>
+    <nd ref="339188471"/>
+    <nd ref="339188473"/>
+    <nd ref="339188475"/>
+    <nd ref="339188477"/>
+    <nd ref="339188478"/>
+    <nd ref="339188479"/>
+    <nd ref="339188480"/>
+    <nd ref="339188481"/>
+    <nd ref="339188482"/>
+    <nd ref="339188483"/>
+    <nd ref="339188484"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="name" v="Appalachian Trail"/>
+  </way>
+  <way id="30671413">
+    <nd ref="339188484"/>
+    <nd ref="339188485"/>
+    <nd ref="339188486"/>
+    <nd ref="339188487"/>
+    <nd ref="339188488"/>
+    <nd ref="339188489"/>
+    <nd ref="339188490"/>
+    <nd ref="339188493"/>
+    <nd ref="339188495"/>
+    <nd ref="339188498"/>
+    <nd ref="339188500"/>
+    <nd ref="339188501"/>
+    <nd ref="339188502"/>
+    <nd ref="339188503"/>
+    <nd ref="339188504"/>
+    <nd ref="339188505"/>
+    <nd ref="339188506"/>
+    <nd ref="339188507"/>
+    <nd ref="339188508"/>
+    <nd ref="339188509"/>
+    <nd ref="339188510"/>
+    <nd ref="339188511"/>
+    <nd ref="339188512"/>
+    <nd ref="339188513"/>
+    <nd ref="339188514"/>
+    <nd ref="339188515"/>
+    <nd ref="339188516"/>
+    <nd ref="339188517"/>
+    <nd ref="339188518"/>
+    <nd ref="339188519"/>
+    <nd ref="339188520"/>
+    <nd ref="339188521"/>
+    <nd ref="339188522"/>
+    <nd ref="339188523"/>
+    <nd ref="339188524"/>
+    <nd ref="339188525"/>
+    <nd ref="339188526"/>
+    <nd ref="339188527"/>
+    <nd ref="339188528"/>
+    <nd ref="339188529"/>
+    <nd ref="339188530"/>
+    <nd ref="339188531"/>
+    <nd ref="339188532"/>
+    <nd ref="339188533"/>
+    <nd ref="339188534"/>
+    <nd ref="339188535"/>
+    <nd ref="339188536"/>
+    <nd ref="339188537"/>
+    <nd ref="339188538"/>
+    <nd ref="339188539"/>
+    <nd ref="339188540"/>
+    <nd ref="339188541"/>
+    <nd ref="339188542"/>
+    <nd ref="339188543"/>
+    <nd ref="339188544"/>
+    <nd ref="339188545"/>
+    <nd ref="339188546"/>
+    <nd ref="339188547"/>
+    <nd ref="339188548"/>
+    <nd ref="339188549"/>
+    <nd ref="339188550"/>
+    <nd ref="339188551"/>
+    <nd ref="339188552"/>
+    <nd ref="339188553"/>
+    <nd ref="339188554"/>
+    <nd ref="339188555"/>
+    <nd ref="339188556"/>
+    <nd ref="339188557"/>
+    <nd ref="339188558"/>
+    <nd ref="339188559"/>
+    <nd ref="339188560"/>
+    <nd ref="339188561"/>
+    <nd ref="339188562"/>
+    <nd ref="339188563"/>
+    <nd ref="339188564"/>
+    <nd ref="339188577"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="name" v="Appalachian Trail"/>
+  </way>
+  <way id="30671414">
+    <nd ref="339188577"/>
+    <nd ref="339188579"/>
+    <nd ref="339188581"/>
+    <nd ref="339188582"/>
+    <nd ref="339188583"/>
+    <nd ref="339188584"/>
+    <nd ref="339188585"/>
+    <nd ref="339188586"/>
+    <nd ref="339188587"/>
+    <nd ref="339188588"/>
+    <nd ref="339188589"/>
+    <nd ref="339188590"/>
+    <nd ref="339188591"/>
+    <nd ref="339188592"/>
+    <nd ref="339188593"/>
+    <nd ref="339188594"/>
+    <nd ref="339188595"/>
+    <nd ref="339188596"/>
+    <nd ref="339188597"/>
+    <nd ref="339188598"/>
+    <nd ref="339188599"/>
+    <nd ref="339188600"/>
+    <nd ref="339188601"/>
+    <nd ref="339188602"/>
+    <nd ref="339188603"/>
+    <nd ref="339188604"/>
+    <nd ref="339188605"/>
+    <nd ref="339188606"/>
+    <nd ref="339188607"/>
+    <nd ref="339188608"/>
+    <nd ref="339188609"/>
+    <nd ref="339188610"/>
+    <nd ref="339188611"/>
+    <nd ref="339188612"/>
+    <nd ref="339188613"/>
+    <nd ref="339188614"/>
+    <nd ref="339188615"/>
+    <nd ref="339188616"/>
+    <nd ref="339188617"/>
+    <nd ref="339188618"/>
+    <nd ref="339188619"/>
+    <nd ref="339188620"/>
+    <nd ref="339188621"/>
+    <nd ref="339188622"/>
+    <nd ref="339188623"/>
+    <nd ref="339188624"/>
+    <nd ref="339188625"/>
+    <nd ref="339188626"/>
+    <nd ref="339188627"/>
+    <nd ref="339188628"/>
+    <nd ref="339188629"/>
+    <nd ref="339188630"/>
+    <nd ref="339188631"/>
+    <nd ref="339188632"/>
+    <nd ref="339188633"/>
+    <nd ref="339188634"/>
+    <nd ref="339188635"/>
+    <nd ref="339188636"/>
+    <nd ref="339188637"/>
+    <nd ref="339188638"/>
+    <nd ref="339188639"/>
+    <nd ref="339188640"/>
+    <nd ref="339188641"/>
+    <nd ref="339188642"/>
+    <nd ref="339188643"/>
+    <nd ref="339188644"/>
+    <nd ref="339188645"/>
+    <nd ref="339188646"/>
+    <nd ref="339188647"/>
+    <nd ref="339188648"/>
+    <nd ref="339188649"/>
+    <nd ref="339188650"/>
+    <nd ref="339188651"/>
+    <nd ref="339188652"/>
+    <nd ref="339188653"/>
+    <nd ref="339188654"/>
+    <nd ref="339188655"/>
+    <nd ref="339188656"/>
+    <nd ref="339188657"/>
+    <nd ref="339188658"/>
+    <nd ref="339188659"/>
+    <nd ref="339188660"/>
+    <nd ref="339188661"/>
+    <nd ref="339188662"/>
+    <nd ref="339188663"/>
+    <nd ref="339188664"/>
+    <nd ref="339188665"/>
+    <nd ref="339188666"/>
+    <nd ref="339188667"/>
+    <nd ref="339188668"/>
+    <nd ref="339188669"/>
+    <nd ref="339188670"/>
+    <nd ref="339188671"/>
+    <nd ref="339188672"/>
+    <nd ref="339188673"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="name" v="Appalachian Trail"/>
+  </way>
+  <way id="30671415">
+    <nd ref="339188673"/>
+    <nd ref="339188674"/>
+    <nd ref="339188675"/>
+    <nd ref="339188676"/>
+    <nd ref="339188677"/>
+    <nd ref="339188678"/>
+    <nd ref="339188680"/>
+    <nd ref="339188683"/>
+    <nd ref="339188685"/>
+    <nd ref="339188687"/>
+    <nd ref="339188689"/>
+    <nd ref="339188726"/>
+    <nd ref="339188727"/>
+    <nd ref="339188728"/>
+    <nd ref="339188729"/>
+    <nd ref="339188730"/>
+    <nd ref="339188731"/>
+    <nd ref="339188732"/>
+    <nd ref="339188733"/>
+    <nd ref="339188734"/>
+    <nd ref="339188735"/>
+    <nd ref="339188737"/>
+    <nd ref="339188739"/>
+    <nd ref="339188742"/>
+    <nd ref="339188744"/>
+    <nd ref="339188746"/>
+    <nd ref="339188748"/>
+    <nd ref="339188750"/>
+    <nd ref="339188752"/>
+    <nd ref="339188754"/>
+    <nd ref="339188756"/>
+    <nd ref="339188759"/>
+    <nd ref="339188761"/>
+    <nd ref="339188763"/>
+    <nd ref="339188765"/>
+    <nd ref="339188767"/>
+    <nd ref="339188769"/>
+    <nd ref="339188771"/>
+    <nd ref="339188774"/>
+    <nd ref="339188776"/>
+    <nd ref="339188778"/>
+    <nd ref="339188780"/>
+    <nd ref="339188782"/>
+    <nd ref="339188784"/>
+    <nd ref="339188786"/>
+    <nd ref="339188789"/>
+    <nd ref="339188791"/>
+    <nd ref="339188793"/>
+    <nd ref="339188795"/>
+    <nd ref="339188797"/>
+    <nd ref="339188800"/>
+    <nd ref="339188802"/>
+    <nd ref="339188804"/>
+    <nd ref="339188806"/>
+    <nd ref="339188809"/>
+    <nd ref="339188811"/>
+    <nd ref="339188813"/>
+    <nd ref="339188816"/>
+    <nd ref="339188818"/>
+    <nd ref="339188820"/>
+    <nd ref="339188822"/>
+    <nd ref="339188824"/>
+    <nd ref="339188826"/>
+    <nd ref="339188829"/>
+    <nd ref="339188831"/>
+    <nd ref="339188833"/>
+    <nd ref="339188835"/>
+    <nd ref="339188838"/>
+    <nd ref="339188840"/>
+    <nd ref="339188842"/>
+    <nd ref="339188844"/>
+    <nd ref="339188847"/>
+    <nd ref="339188849"/>
+    <nd ref="339188851"/>
+    <nd ref="339188853"/>
+    <nd ref="339188855"/>
+    <nd ref="339188857"/>
+    <nd ref="339188859"/>
+    <nd ref="339188861"/>
+    <nd ref="339188864"/>
+    <nd ref="339188865"/>
+    <nd ref="339188867"/>
+    <nd ref="339188869"/>
+    <nd ref="339188871"/>
+    <nd ref="339188873"/>
+    <nd ref="339188875"/>
+    <nd ref="339188877"/>
+    <nd ref="339188880"/>
+    <nd ref="339188882"/>
+    <nd ref="339188883"/>
+    <nd ref="339188884"/>
+    <nd ref="339188885"/>
+    <nd ref="339188886"/>
+    <nd ref="339188887"/>
+    <nd ref="339188888"/>
+    <nd ref="339188889"/>
+    <nd ref="339188890"/>
+    <nd ref="339188891"/>
+    <nd ref="339188895"/>
+    <nd ref="339188900"/>
+    <nd ref="339188901"/>
+    <nd ref="339188902"/>
+    <nd ref="339188903"/>
+    <nd ref="339188904"/>
+    <nd ref="339188905"/>
+    <nd ref="339188906"/>
+    <nd ref="339188907"/>
+    <nd ref="339188908"/>
+    <nd ref="339188909"/>
+    <nd ref="339188910"/>
+    <nd ref="339188911"/>
+    <nd ref="339188912"/>
+    <nd ref="339188913"/>
+    <nd ref="339188914"/>
+    <nd ref="339188915"/>
+    <nd ref="339188916"/>
+    <nd ref="339188917"/>
+    <nd ref="339188918"/>
+    <nd ref="339188919"/>
+    <nd ref="339188920"/>
+    <nd ref="339188935"/>
+    <nd ref="339188936"/>
+    <nd ref="339188937"/>
+    <nd ref="339188938"/>
+    <nd ref="339188939"/>
+    <nd ref="339188940"/>
+    <nd ref="339188941"/>
+    <nd ref="339188942"/>
+    <nd ref="339188943"/>
+    <nd ref="339188944"/>
+    <nd ref="339188945"/>
+    <nd ref="339188946"/>
+    <nd ref="339188947"/>
+    <nd ref="339188948"/>
+    <nd ref="339188949"/>
+    <nd ref="339188950"/>
+    <nd ref="339188954"/>
+    <nd ref="339188957"/>
+    <nd ref="339188960"/>
+    <nd ref="339188963"/>
+    <nd ref="339188966"/>
+    <nd ref="339188969"/>
+    <nd ref="339188973"/>
+    <nd ref="339188976"/>
+    <nd ref="339188979"/>
+    <nd ref="339188982"/>
+    <nd ref="339188986"/>
+    <nd ref="339188989"/>
+    <nd ref="339188992"/>
+    <nd ref="339188996"/>
+    <nd ref="339188999"/>
+    <nd ref="339189002"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="name" v="Appalachian Trail"/>
+  </way>
+
+</osm>

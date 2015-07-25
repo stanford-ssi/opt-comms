@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16758229">
+    <nd ref="173237130"/>
+    <nd ref="173237135"/>
+    <nd ref="173237137"/>
+    <nd ref="173237140"/>
+    <nd ref="173237143"/>
+    <nd ref="173237146"/>
+    <nd ref="173237149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Deep Path"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Deep"/>
+    <tag k="tiger:name_type" v="Path"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19401852"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+  <way id="16759389">
+    <nd ref="173251833"/>
+    <nd ref="173251835"/>
+    <nd ref="173251837"/>
+    <nd ref="173251840"/>
+    <nd ref="173251843"/>
+    <nd ref="173251844"/>
+    <nd ref="173251846"/>
+    <nd ref="173251848"/>
+    <nd ref="173251850"/>
+    <nd ref="173251853"/>
+    <nd ref="173251856"/>
+    <nd ref="173251859"/>
+    <nd ref="173251862"/>
+    <nd ref="173251866"/>
+    <nd ref="173221521"/>
+    <nd ref="173251868"/>
+    <nd ref="173251871"/>
+    <nd ref="173251874"/>
+    <nd ref="173251877"/>
+    <nd ref="173251879"/>
+    <nd ref="173251881"/>
+    <nd ref="173251883"/>
+    <nd ref="173251885"/>
+    <nd ref="173251887"/>
+    <nd ref="173251890"/>
+    <nd ref="173251893"/>
+    <nd ref="173251896"/>
+    <nd ref="173251898"/>
+    <nd ref="173251900"/>
+    <nd ref="173251903"/>
+    <nd ref="173251906"/>
+    <nd ref="173251908"/>
+    <nd ref="173251910"/>
+    <nd ref="173164032"/>
+    <nd ref="173251913"/>
+    <nd ref="173251916"/>
+    <nd ref="173251918"/>
+    <nd ref="173251921"/>
+    <nd ref="173251924"/>
+    <nd ref="173251926"/>
+    <nd ref="173251930"/>
+    <nd ref="173251933"/>
+    <nd ref="173251939"/>
+    <nd ref="173251941"/>
+    <nd ref="173204532"/>
+    <nd ref="173251944"/>
+    <nd ref="173251947"/>
+    <nd ref="173251949"/>
+    <nd ref="173251952"/>
+    <nd ref="173251955"/>
+    <nd ref="173251958"/>
+    <nd ref="173251961"/>
+    <nd ref="173251964"/>
+    <nd ref="173174860"/>
+    <nd ref="173251967"/>
+    <nd ref="173251969"/>
+    <nd ref="173251971"/>
+    <nd ref="173251973"/>
+    <nd ref="173251976"/>
+    <nd ref="173251980"/>
+    <nd ref="173251982"/>
+    <nd ref="173251984"/>
+    <nd ref="173251987"/>
+    <nd ref="173251990"/>
+    <nd ref="173207467"/>
+    <nd ref="173251992"/>
+    <nd ref="173251994"/>
+    <nd ref="173251996"/>
+    <nd ref="173251998"/>
+    <nd ref="173252000"/>
+    <nd ref="173252003"/>
+    <nd ref="173252006"/>
+    <nd ref="173252008"/>
+    <nd ref="173252011"/>
+    <nd ref="173252014"/>
+    <nd ref="173252017"/>
+    <nd ref="173252020"/>
+    <nd ref="173252025"/>
+    <nd ref="173252029"/>
+    <nd ref="173252031"/>
+    <nd ref="173252033"/>
+    <nd ref="173252035"/>
+    <nd ref="173162089"/>
+    <nd ref="173252037"/>
+    <nd ref="173252040"/>
+    <nd ref="173191677"/>
+    <nd ref="173252042"/>
+    <nd ref="173252044"/>
+    <nd ref="173207488"/>
+    <nd ref="173252047"/>
+    <nd ref="173252050"/>
+    <nd ref="173252052"/>
+    <nd ref="173252055"/>
+    <nd ref="173252058"/>
+    <nd ref="173252061"/>
+    <nd ref="173252064"/>
+    <nd ref="173252070"/>
+    <nd ref="173252072"/>
+    <nd ref="173252075"/>
+    <nd ref="173252077"/>
+    <nd ref="173252080"/>
+    <nd ref="173252083"/>
+    <nd ref="173252086"/>
+    <nd ref="173252089"/>
+    <nd ref="173252092"/>
+    <nd ref="173252095"/>
+    <nd ref="173252099"/>
+    <nd ref="173252102"/>
+    <nd ref="173252105"/>
+    <nd ref="173252109"/>
+    <nd ref="173252114"/>
+    <nd ref="173252117"/>
+    <nd ref="173252120"/>
+    <nd ref="173252125"/>
+    <nd ref="173252129"/>
+    <nd ref="173252131"/>
+    <nd ref="173252134"/>
+    <nd ref="173252137"/>
+    <nd ref="173252140"/>
+    <nd ref="173175804"/>
+    <nd ref="173223001"/>
+    <nd ref="173252144"/>
+    <nd ref="173252147"/>
+    <nd ref="173252150"/>
+    <nd ref="173252151"/>
+    <nd ref="173252155"/>
+    <nd ref="173252158"/>
+    <nd ref="173252160"/>
+    <nd ref="173252162"/>
+    <nd ref="173227128"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Painters Gap Road"/>
+    <tag k="name_1" v="State Road 1328"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Painters Gap"/>
+    <tag k="tiger:name_base_1" v="State Road 1328"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16760838">
+    <nd ref="173193592"/>
+    <nd ref="173154971"/>
+    <nd ref="173269519"/>
+    <nd ref="173269523"/>
+    <nd ref="173269527"/>
+    <nd ref="173269532"/>
+    <nd ref="173269535"/>
+    <nd ref="173269538"/>
+    <nd ref="173269541"/>
+    <nd ref="173269544"/>
+    <nd ref="173237130"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Western Meander"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Western Meander"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19401874:19401875"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+
+</osm>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:42:02Z"/>
+
+  <way id="19645856">
+    <nd ref="203902736"/>
+    <nd ref="203902740"/>
+    <nd ref="203902741"/>
+    <nd ref="203902743"/>
+    <nd ref="203902745"/>
+    <nd ref="203902750"/>
+    <nd ref="203902753"/>
+    <nd ref="203902757"/>
+    <nd ref="203902762"/>
+    <nd ref="203902766"/>
+    <nd ref="203902768"/>
+    <nd ref="203902769"/>
+    <nd ref="203902770"/>
+    <nd ref="203902771"/>
+    <nd ref="203902773"/>
+    <nd ref="203902775"/>
+    <nd ref="203902777"/>
+    <nd ref="203902779"/>
+    <nd ref="203902783"/>
+    <nd ref="203902789"/>
+    <nd ref="203902793"/>
+    <nd ref="203902798"/>
+    <nd ref="203902802"/>
+    <nd ref="203902809"/>
+    <nd ref="203902814"/>
+    <nd ref="203902819"/>
+    <nd ref="203902824"/>
+    <nd ref="203902831"/>
+    <nd ref="203902834"/>
+    <nd ref="203902837"/>
+    <nd ref="203902841"/>
+    <nd ref="203902845"/>
+    <nd ref="203902848"/>
+    <nd ref="203902851"/>
+    <nd ref="203902853"/>
+    <nd ref="203902855"/>
+    <nd ref="203902858"/>
+    <nd ref="203902859"/>
+    <nd ref="203902861"/>
+    <nd ref="203902865"/>
+    <nd ref="203902869"/>
+    <nd ref="203902876"/>
+    <nd ref="203902879"/>
+    <nd ref="203902883"/>
+    <nd ref="203902886"/>
+    <nd ref="203902887"/>
+    <nd ref="203902888"/>
+    <nd ref="203902890"/>
+    <nd ref="203902892"/>
+    <nd ref="203902894"/>
+    <nd ref="203902895"/>
+    <nd ref="203902900"/>
+    <nd ref="203902905"/>
+    <nd ref="203902910"/>
+    <nd ref="172179478"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Ephiram Place Road"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Unicoi, TN"/>
+    <tag k="tiger:name_base" v="Ephiram Place"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

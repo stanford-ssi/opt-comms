@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12500377">
+    <nd ref="113826745"/>
+    <nd ref="113817095"/>
+    <nd ref="113826751"/>
+    <nd ref="113826753"/>
+    <nd ref="113826756"/>
+    <nd ref="113826759"/>
+    <nd ref="113826761"/>
+    <nd ref="113826764"/>
+    <nd ref="113826767"/>
+    <nd ref="113826769"/>
+    <nd ref="113826772"/>
+    <nd ref="113826775"/>
+    <nd ref="113826778"/>
+    <nd ref="113826781"/>
+    <nd ref="113826783"/>
+    <nd ref="113826785"/>
+    <nd ref="113826788"/>
+    <nd ref="113817101"/>
+    <nd ref="113826792"/>
+    <nd ref="113826794"/>
+    <nd ref="113801341"/>
+    <nd ref="113826797"/>
+    <nd ref="113826799"/>
+    <nd ref="113826802"/>
+    <nd ref="113817105"/>
+    <nd ref="113826813"/>
+    <nd ref="113826815"/>
+    <nd ref="113826817"/>
+    <nd ref="113826819"/>
+    <nd ref="113817108"/>
+    <nd ref="113826824"/>
+    <nd ref="113826826"/>
+    <nd ref="113817110"/>
+    <nd ref="113826833"/>
+    <nd ref="113826836"/>
+    <nd ref="113826839"/>
+    <nd ref="113826842"/>
+    <nd ref="113826845"/>
+    <nd ref="113826849"/>
+    <nd ref="113826851"/>
+    <nd ref="113826855"/>
+    <nd ref="113826857"/>
+    <nd ref="113826859"/>
+    <nd ref="113826862"/>
+    <nd ref="113826864"/>
+    <nd ref="113826866"/>
+    <nd ref="113826869"/>
+    <nd ref="113826870"/>
+    <nd ref="113826872"/>
+    <nd ref="113826876"/>
+    <nd ref="113826877"/>
+    <nd ref="113826880"/>
+    <nd ref="113826883"/>
+    <nd ref="113826886"/>
+    <nd ref="113826888"/>
+    <nd ref="113826893"/>
+    <nd ref="113826895"/>
+    <nd ref="113826897"/>
+    <nd ref="113826900"/>
+    <nd ref="113826902"/>
+    <nd ref="113826905"/>
+    <nd ref="113826907"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="26156614:26156616:26156618:26156608:26156610:26155907:26155908:26156620"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ad367733-952a-4321-ad54-a39164d42da4"/>
+  </way>
+  <way id="12513763">
+    <nd ref="113964848"/>
+    <nd ref="113981369"/>
+    <nd ref="113981370"/>
+    <nd ref="113981372"/>
+    <nd ref="113981374"/>
+    <nd ref="113981376"/>
+    <nd ref="113981378"/>
+    <nd ref="113981381"/>
+    <nd ref="113981384"/>
+    <nd ref="113981387"/>
+    <nd ref="113981389"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Chapman Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Old Chapman"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+  </way>
+
+</osm>

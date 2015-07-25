@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16619214">
+    <nd ref="171652091"/>
+    <nd ref="171652092"/>
+    <nd ref="171652094"/>
+    <nd ref="171652096"/>
+    <nd ref="171652099"/>
+    <nd ref="171652102"/>
+    <nd ref="171652106"/>
+    <nd ref="171652108"/>
+    <nd ref="171652110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35980479:35980480:35984569"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16623474">
+    <nd ref="171652099"/>
+    <nd ref="171699232"/>
+    <nd ref="171699236"/>
+    <nd ref="171699240"/>
+    <nd ref="171699243"/>
+    <nd ref="171699246"/>
+    <nd ref="171699248"/>
+    <nd ref="171699250"/>
+    <nd ref="171699252"/>
+    <nd ref="171699254"/>
+    <nd ref="171699256"/>
+    <nd ref="171699259"/>
+    <nd ref="171699262"/>
+    <nd ref="171699265"/>
+    <nd ref="171699268"/>
+    <nd ref="171699271"/>
+    <nd ref="171699274"/>
+    <nd ref="171699277"/>
+    <nd ref="171699280"/>
+    <nd ref="171699283"/>
+    <nd ref="171699285"/>
+    <nd ref="171699288"/>
+    <nd ref="171699291"/>
+    <nd ref="171699294"/>
+    <nd ref="171699298"/>
+    <nd ref="171699300"/>
+    <nd ref="171699304"/>
+    <nd ref="171699307"/>
+    <nd ref="171699310"/>
+    <nd ref="171699313"/>
+    <nd ref="171699316"/>
+    <nd ref="171699318"/>
+    <nd ref="171699320"/>
+    <nd ref="171699322"/>
+    <nd ref="171699324"/>
+    <nd ref="171699326"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35980403:35984568"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16623692">
+    <nd ref="171652110"/>
+    <nd ref="171702230"/>
+    <nd ref="171702233"/>
+    <nd ref="171702236"/>
+    <nd ref="171702239"/>
+    <nd ref="171702242"/>
+    <nd ref="171702245"/>
+    <nd ref="171702248"/>
+    <nd ref="171702251"/>
+    <nd ref="171702254"/>
+    <nd ref="171702257"/>
+    <nd ref="171702260"/>
+    <nd ref="171702263"/>
+    <nd ref="171702266"/>
+    <nd ref="171702269"/>
+    <nd ref="171702276"/>
+    <nd ref="171702283"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35980483"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16632250">
+    <nd ref="171734629"/>
+    <nd ref="2571758959"/>
+    <nd ref="2571758955"/>
+    <nd ref="171798922"/>
+    <nd ref="171798924"/>
+    <nd ref="2571758962"/>
+    <nd ref="2571758965"/>
+    <nd ref="171798926"/>
+    <nd ref="171798930"/>
+    <nd ref="171798931"/>
+    <nd ref="171798933"/>
+    <nd ref="171707381"/>
+    <nd ref="171798935"/>
+    <nd ref="171798936"/>
+    <nd ref="171798938"/>
+    <nd ref="171798941"/>
+    <nd ref="171798944"/>
+    <nd ref="171798947"/>
+    <nd ref="171798948"/>
+    <nd ref="171798951"/>
+    <nd ref="171699265"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Owens Gap Road"/>
+    <tag k="name_1" v="State Road 1763"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Owens Gap"/>
+    <tag k="tiger:name_base_1" v="State Road 1763"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28783"/>
+    <tag k="tiger:zip_right" v="28747"/>
+  </way>
+
+</osm>

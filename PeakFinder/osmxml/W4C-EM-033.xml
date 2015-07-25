@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:49:02Z"/>
+
+  <way id="18900732">
+    <nd ref="195527185"/>
+    <nd ref="195527187"/>
+    <nd ref="195527189"/>
+    <nd ref="195527191"/>
+    <nd ref="195527193"/>
+    <nd ref="195527194"/>
+    <nd ref="195527195"/>
+    <nd ref="195527196"/>
+    <nd ref="195527197"/>
+    <nd ref="195527198"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52069761:52069762"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18901294">
+    <nd ref="195531774"/>
+    <nd ref="195531777"/>
+    <nd ref="195531780"/>
+    <nd ref="195531782"/>
+    <nd ref="195531784"/>
+    <nd ref="195531786"/>
+    <nd ref="195531788"/>
+    <nd ref="195531789"/>
+    <nd ref="195531794"/>
+    <nd ref="195531796"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52044941:52044939"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18902643">
+    <nd ref="195542768"/>
+    <nd ref="195542769"/>
+    <nd ref="195542770"/>
+    <nd ref="195542771"/>
+    <nd ref="195542772"/>
+    <nd ref="195542773"/>
+    <nd ref="195542774"/>
+    <nd ref="195542775"/>
+    <nd ref="195542776"/>
+    <nd ref="195542777"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52044951:52044953"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18902645">
+    <nd ref="195542780"/>
+    <nd ref="195542781"/>
+    <nd ref="195542782"/>
+    <nd ref="195542783"/>
+    <nd ref="195542784"/>
+    <nd ref="195542786"/>
+    <nd ref="195542788"/>
+    <nd ref="195542791"/>
+    <nd ref="195542793"/>
+    <nd ref="195542768"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52044956:52044957"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18902840">
+    <nd ref="195544289"/>
+    <nd ref="195527198"/>
+    <nd ref="195544291"/>
+    <nd ref="195544293"/>
+    <nd ref="195544294"/>
+    <nd ref="195544295"/>
+    <nd ref="195544297"/>
+    <nd ref="195544289"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="52052419"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8f9f9ae6-802c-4bf3-90b2-b695c65e975e"/>
+  </way>
+  <way id="18904614">
+    <nd ref="195571070"/>
+    <nd ref="195571071"/>
+    <nd ref="195571072"/>
+    <nd ref="195571073"/>
+    <nd ref="195571075"/>
+    <nd ref="195571077"/>
+    <nd ref="195571079"/>
+    <nd ref="195571083"/>
+    <nd ref="195571085"/>
+    <nd ref="195571087"/>
+    <nd ref="195571089"/>
+    <nd ref="195571091"/>
+    <nd ref="195571093"/>
+    <nd ref="195571095"/>
+    <nd ref="195571097"/>
+    <nd ref="195571098"/>
+    <nd ref="195571099"/>
+    <nd ref="195571100"/>
+    <nd ref="195571101"/>
+    <nd ref="195571103"/>
+    <nd ref="195571105"/>
+    <nd ref="195571107"/>
+    <nd ref="195571109"/>
+    <nd ref="195571110"/>
+    <nd ref="195571111"/>
+    <nd ref="195571112"/>
+    <nd ref="195571113"/>
+    <nd ref="195571115"/>
+    <nd ref="195571117"/>
+    <nd ref="195571119"/>
+    <nd ref="195571122"/>
+    <nd ref="195571124"/>
+    <nd ref="195571125"/>
+    <nd ref="195571126"/>
+    <nd ref="195571127"/>
+    <nd ref="195571128"/>
+    <nd ref="195571129"/>
+    <nd ref="195571131"/>
+    <nd ref="195571133"/>
+    <nd ref="195571135"/>
+    <nd ref="195571137"/>
+    <nd ref="195571139"/>
+    <nd ref="195571141"/>
+    <nd ref="195571143"/>
+    <nd ref="195542620"/>
+    <nd ref="195571144"/>
+    <nd ref="195571145"/>
+    <nd ref="195571146"/>
+    <nd ref="195571147"/>
+    <nd ref="195571148"/>
+    <nd ref="195571150"/>
+    <nd ref="195571152"/>
+    <nd ref="195571154"/>
+    <nd ref="195571155"/>
+    <nd ref="195571156"/>
+    <nd ref="195571157"/>
+    <nd ref="195571158"/>
+    <nd ref="195571160"/>
+    <nd ref="195571161"/>
+    <nd ref="195571162"/>
+    <nd ref="195571164"/>
+    <nd ref="195571166"/>
+    <nd ref="195571168"/>
+    <nd ref="195571170"/>
+    <nd ref="195571172"/>
+    <nd ref="195571174"/>
+    <nd ref="195571176"/>
+    <nd ref="195571178"/>
+    <nd ref="195571181"/>
+    <nd ref="195571183"/>
+    <nd ref="195571184"/>
+    <nd ref="195571185"/>
+    <nd ref="195571186"/>
+    <nd ref="195571188"/>
+    <nd ref="195571190"/>
+    <nd ref="195571192"/>
+    <nd ref="195571194"/>
+    <nd ref="195531774"/>
+    <nd ref="195571196"/>
+    <nd ref="195571198"/>
+    <nd ref="195571201"/>
+    <nd ref="195571203"/>
+    <nd ref="195571205"/>
+    <nd ref="195571207"/>
+    <nd ref="195571209"/>
+    <nd ref="195571211"/>
+    <nd ref="195571213"/>
+    <nd ref="195531997"/>
+    <nd ref="195571215"/>
+    <nd ref="195571217"/>
+    <nd ref="195571219"/>
+    <nd ref="195571220"/>
+    <nd ref="195571223"/>
+    <nd ref="195528719"/>
+    <nd ref="195571225"/>
+    <nd ref="195571227"/>
+    <nd ref="195571229"/>
+    <nd ref="195571230"/>
+    <nd ref="195571232"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wood's Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Wood's"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18916911">
+    <nd ref="195531774"/>
+    <nd ref="195751454"/>
+    <nd ref="195751456"/>
+    <nd ref="195751458"/>
+    <nd ref="195751460"/>
+    <nd ref="195751462"/>
+    <nd ref="195751464"/>
+    <nd ref="195751466"/>
+    <nd ref="195751470"/>
+    <nd ref="195751472"/>
+    <nd ref="195542768"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fork Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Fork Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

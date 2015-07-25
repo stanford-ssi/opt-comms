@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="18938432">
+    <nd ref="195973529"/>
+    <nd ref="195973531"/>
+    <nd ref="195973533"/>
+    <nd ref="195973536"/>
+    <nd ref="195973538"/>
+    <nd ref="195973540"/>
+    <nd ref="195973542"/>
+    <nd ref="195973545"/>
+    <nd ref="195973547"/>
+    <nd ref="195973549"/>
+    <nd ref="195973552"/>
+    <nd ref="195973554"/>
+    <nd ref="195973556"/>
+    <nd ref="195973559"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37428520:37428521"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18938434">
+    <nd ref="195973542"/>
+    <nd ref="195973582"/>
+    <nd ref="195973584"/>
+    <nd ref="195973586"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37428522"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18938644">
+    <nd ref="195975703"/>
+    <nd ref="195975705"/>
+    <nd ref="195975707"/>
+    <nd ref="195975709"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37422672"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18938808">
+    <nd ref="195977040"/>
+    <nd ref="195977042"/>
+    <nd ref="195977044"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37422669"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18939784">
+    <nd ref="195985172"/>
+    <nd ref="195985173"/>
+    <nd ref="195985174"/>
+    <nd ref="195985176"/>
+    <nd ref="195985177"/>
+    <nd ref="195985179"/>
+    <nd ref="195985180"/>
+    <nd ref="195985182"/>
+    <nd ref="195985184"/>
+    <nd ref="195985186"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37417945"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18940631">
+    <nd ref="195995908"/>
+    <nd ref="195995910"/>
+    <nd ref="195995912"/>
+    <nd ref="195995914"/>
+    <nd ref="195995915"/>
+    <nd ref="195977040"/>
+    <nd ref="195995916"/>
+    <nd ref="195995918"/>
+    <nd ref="195995920"/>
+    <nd ref="195995922"/>
+    <nd ref="195995924"/>
+    <nd ref="195995926"/>
+    <nd ref="195995929"/>
+    <nd ref="195985172"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gurley Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:name_base" v="Gurley"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18941865">
+    <nd ref="195995908"/>
+    <nd ref="196007607"/>
+    <nd ref="196007609"/>
+    <nd ref="196007611"/>
+    <nd ref="196007613"/>
+    <nd ref="195952715"/>
+    <nd ref="195981876"/>
+    <nd ref="196007615"/>
+    <nd ref="195952769"/>
+    <nd ref="196007617"/>
+    <nd ref="196007619"/>
+    <nd ref="196007621"/>
+    <nd ref="196007623"/>
+    <nd ref="196007624"/>
+    <nd ref="195954575"/>
+    <nd ref="196007625"/>
+    <nd ref="196007627"/>
+    <nd ref="196007630"/>
+    <nd ref="195954543"/>
+    <nd ref="195973529"/>
+    <nd ref="196007632"/>
+    <nd ref="196007634"/>
+    <nd ref="196007636"/>
+    <nd ref="196007638"/>
+    <nd ref="196007640"/>
+    <nd ref="195952476"/>
+    <nd ref="196007642"/>
+    <nd ref="196007645"/>
+    <nd ref="195990130"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1300"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:name_base" v="State Road 1300"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37420240:37417925:37417921:37425371:37425372:37417269:37427910:37427911"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+  <way id="18941867">
+    <nd ref="195975717"/>
+    <nd ref="196007652"/>
+    <nd ref="196007654"/>
+    <nd ref="195951553"/>
+    <nd ref="196007655"/>
+    <nd ref="196007657"/>
+    <nd ref="196007659"/>
+    <nd ref="195995908"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="State Road 1300"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Yancey, NC"/>
+    <tag k="tiger:name_base" v="State Road 1300"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37425378:37425379"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-95e9d9ba-93b7-4a1b-b254-aae74d35a54d"/>
+  </way>
+
+</osm>

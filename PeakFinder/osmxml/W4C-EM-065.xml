@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="16408404">
+    <nd ref="169353588"/>
+    <nd ref="169353591"/>
+    <nd ref="169353594"/>
+    <nd ref="169353597"/>
+    <nd ref="169353600"/>
+    <nd ref="169353602"/>
+    <nd ref="169353605"/>
+    <nd ref="169353608"/>
+    <nd ref="169353610"/>
+    <nd ref="169353614"/>
+    <nd ref="169353616"/>
+    <nd ref="169353618"/>
+    <nd ref="169353620"/>
+    <nd ref="169353622"/>
+    <nd ref="169353624"/>
+    <nd ref="169353626"/>
+    <nd ref="169353629"/>
+    <nd ref="169353631"/>
+    <nd ref="169353633"/>
+    <nd ref="169353635"/>
+    <nd ref="169353637"/>
+    <nd ref="169353639"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sunset View Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Sunset View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16411969">
+    <nd ref="169343082"/>
+    <nd ref="169395475"/>
+    <nd ref="169395479"/>
+    <nd ref="169395481"/>
+    <nd ref="169395482"/>
+    <nd ref="169395483"/>
+    <nd ref="169395484"/>
+    <nd ref="169395486"/>
+    <nd ref="169395488"/>
+    <nd ref="169395490"/>
+    <nd ref="169395493"/>
+    <nd ref="169395496"/>
+    <nd ref="169395498"/>
+    <nd ref="169395500"/>
+    <nd ref="169395502"/>
+    <nd ref="169395504"/>
+    <nd ref="169395507"/>
+    <nd ref="169395510"/>
+    <nd ref="169395513"/>
+    <nd ref="169395516"/>
+    <nd ref="169395520"/>
+    <nd ref="169395523"/>
+    <nd ref="169395526"/>
+    <nd ref="169395528"/>
+    <nd ref="169395530"/>
+    <nd ref="169395533"/>
+    <nd ref="169395535"/>
+    <nd ref="169395538"/>
+    <nd ref="169395541"/>
+    <nd ref="169395542"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buckland Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Buckland"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28631"/>
+    <tag k="tiger:zip_right" v="28631"/>
+  </way>
+  <way id="16412132">
+    <nd ref="169397382"/>
+    <nd ref="169397392"/>
+    <nd ref="169397397"/>
+    <nd ref="169397399"/>
+    <nd ref="169397403"/>
+    <nd ref="169397406"/>
+    <nd ref="169397408"/>
+    <nd ref="169397410"/>
+    <nd ref="169397411"/>
+    <nd ref="169397412"/>
+    <nd ref="169397414"/>
+    <nd ref="169397416"/>
+    <nd ref="169397418"/>
+    <nd ref="169397420"/>
+    <nd ref="169397422"/>
+    <nd ref="169397424"/>
+    <nd ref="169395542"/>
+    <nd ref="169397425"/>
+    <nd ref="169397427"/>
+    <nd ref="169397430"/>
+    <nd ref="169397432"/>
+    <nd ref="169397434"/>
+    <nd ref="169397436"/>
+    <nd ref="169397441"/>
+    <nd ref="169397446"/>
+    <nd ref="169397449"/>
+    <nd ref="169397450"/>
+    <nd ref="169397451"/>
+    <nd ref="169397454"/>
+    <nd ref="169353588"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dream Mtn Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Dream Mtn"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28631"/>
+  </way>
+  <way id="16412144">
+    <nd ref="169353588"/>
+    <nd ref="169397461"/>
+    <nd ref="169397462"/>
+    <nd ref="169397464"/>
+    <nd ref="169397467"/>
+    <nd ref="169397472"/>
+    <nd ref="169397474"/>
+    <nd ref="169397478"/>
+    <nd ref="169397480"/>
+    <nd ref="169397482"/>
+    <nd ref="169397483"/>
+    <nd ref="169397485"/>
+    <nd ref="169397487"/>
+    <nd ref="169397489"/>
+    <nd ref="169397492"/>
+    <nd ref="169397494"/>
+    <nd ref="169397496"/>
+    <nd ref="169397498"/>
+    <nd ref="169397501"/>
+    <nd ref="169397503"/>
+    <nd ref="169397505"/>
+    <nd ref="169397507"/>
+    <nd ref="169397509"/>
+    <nd ref="169397512"/>
+    <nd ref="169397515"/>
+    <nd ref="169397517"/>
+    <nd ref="169397519"/>
+    <nd ref="169397521"/>
+    <nd ref="169397524"/>
+    <nd ref="169397527"/>
+    <nd ref="169397528"/>
+    <nd ref="169397529"/>
+    <nd ref="169397531"/>
+    <nd ref="169397533"/>
+    <nd ref="169397535"/>
+    <nd ref="169397537"/>
+    <nd ref="169397540"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dream Mtn Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Dream Mtn"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16422138">
+    <nd ref="169353614"/>
+    <nd ref="169512458"/>
+    <nd ref="169512463"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Long View Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Long View"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28631"/>
+    <tag k="tiger:zip_right" v="28631"/>
+  </way>
+  <way id="16426194">
+    <nd ref="169397492"/>
+    <nd ref="169555040"/>
+    <nd ref="169555042"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Deerwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Deerwood"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28631"/>
+    <tag k="tiger:zip_right" v="28631"/>
+  </way>
+
+</osm>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="16592964">
+    <nd ref="171326145"/>
+    <nd ref="171326148"/>
+    <nd ref="171326151"/>
+    <nd ref="171326155"/>
+    <nd ref="171326158"/>
+    <nd ref="171326161"/>
+    <nd ref="171326164"/>
+    <nd ref="171326167"/>
+    <nd ref="171326170"/>
+    <nd ref="171326175"/>
+    <nd ref="171326178"/>
+    <nd ref="171326182"/>
+    <nd ref="171326185"/>
+    <nd ref="171326189"/>
+    <nd ref="171326193"/>
+    <nd ref="171326196"/>
+    <nd ref="171326199"/>
+    <nd ref="171326202"/>
+    <nd ref="171326204"/>
+    <nd ref="171326205"/>
+    <nd ref="171326206"/>
+    <nd ref="171326207"/>
+    <nd ref="171326208"/>
+    <nd ref="171326209"/>
+    <nd ref="171326210"/>
+    <nd ref="171326211"/>
+    <nd ref="171326213"/>
+    <nd ref="171326215"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ardella Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Ardella"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16604999">
+    <nd ref="171326145"/>
+    <nd ref="171467024"/>
+    <nd ref="171467029"/>
+    <nd ref="171467032"/>
+    <nd ref="171467035"/>
+    <nd ref="171467038"/>
+    <nd ref="171467041"/>
+    <nd ref="171467044"/>
+    <nd ref="171467047"/>
+    <nd ref="171467050"/>
+    <nd ref="171467055"/>
+    <nd ref="171467057"/>
+    <nd ref="171467060"/>
+    <nd ref="171467062"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tracy Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Tracy"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+
+</osm>

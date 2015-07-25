@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:01:02Z"/>
+
+  <way id="16469264">
+    <nd ref="169971475"/>
+    <nd ref="169971478"/>
+    <nd ref="169971484"/>
+    <nd ref="169971487"/>
+    <nd ref="169971490"/>
+    <nd ref="169971493"/>
+    <nd ref="169971496"/>
+    <nd ref="169971499"/>
+    <nd ref="169971502"/>
+    <nd ref="169971505"/>
+    <nd ref="169971508"/>
+    <nd ref="169971510"/>
+    <nd ref="169971515"/>
+    <nd ref="169971519"/>
+    <nd ref="169971522"/>
+    <nd ref="169971525"/>
+    <nd ref="169971528"/>
+    <nd ref="169971531"/>
+    <nd ref="169971535"/>
+    <nd ref="169971538"/>
+    <nd ref="169949403"/>
+    <nd ref="169971542"/>
+    <nd ref="169971545"/>
+    <nd ref="169971548"/>
+    <nd ref="169971551"/>
+    <nd ref="169971553"/>
+    <nd ref="169971556"/>
+    <nd ref="169971559"/>
+    <nd ref="169971562"/>
+    <nd ref="169971565"/>
+    <nd ref="169971569"/>
+    <nd ref="169971572"/>
+    <nd ref="169971575"/>
+    <nd ref="169971578"/>
+    <nd ref="169971581"/>
+    <nd ref="169971584"/>
+    <nd ref="169971587"/>
+    <nd ref="169971589"/>
+    <nd ref="169971592"/>
+    <nd ref="169971594"/>
+    <nd ref="169971596"/>
+    <nd ref="169971598"/>
+    <nd ref="169971600"/>
+    <nd ref="169971602"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hide-A-Way Mtn Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Hide-A-Way Mtn"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

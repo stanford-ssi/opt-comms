@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" 
+     creator="SOTA Mapping Project GPX Generator 1.1" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xmlns="http://www.topografix.com/GPX/1/1" 
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>SOTA Summits GPX Export</name>
+    <desc>SOTA Summits data in GPX v1.1 format></desc>
+    <author>
+      <name>SOTA Mapping Project></name>
+      <email id="admin" domain="www.sotamaps.org" />
+      <link href="http://www.sotamaps.org">
+        <text>SOTA Mapping Project</text>
+      </link>
+    </author>
+    <link href="http://www.sotamaps.org">
+      <text>SOTA Mapping Project</text>
+    </link>
+    <time>2014-09-21T18:40:02Z</time>
+    <keywords>SOTA, Summits On The Air, amateur radio, ham radio</keywords>
+    <bounds minlat="33.1281" minlon="-89.3107" maxlat="33.1281" maxlon="-89.3107"/>
+  </metadata>
+  <wpt lat="33.1281" lon="-89.3107">
+    <ele>222</ele>
+    <name>W5M/MS-001</name>
+    <cmt>Choctaw County HP</cmt>
+    <desc>SOTA Association: W5M - USA - Mississippi, Region: Mississippi Mountains</desc>
+    <sym>SOTA01</sym>
+    <type>SOTA Summit W5M/MS</type>
+  </wpt>
+</gpx>

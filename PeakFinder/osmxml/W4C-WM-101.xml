@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16648019">
+    <nd ref="171976919"/>
+    <nd ref="171976921"/>
+    <nd ref="171976923"/>
+    <nd ref="171976925"/>
+    <nd ref="171976928"/>
+    <nd ref="171976931"/>
+    <nd ref="171976933"/>
+    <nd ref="171976936"/>
+    <nd ref="171976937"/>
+    <nd ref="171976939"/>
+    <nd ref="171976942"/>
+    <nd ref="171976946"/>
+    <nd ref="171976950"/>
+    <nd ref="171976953"/>
+    <nd ref="171976957"/>
+    <nd ref="171976960"/>
+    <nd ref="171976963"/>
+    <nd ref="171976966"/>
+    <nd ref="171976968"/>
+    <nd ref="171976971"/>
+    <nd ref="171976973"/>
+    <nd ref="171976976"/>
+    <nd ref="171976979"/>
+    <nd ref="171976982"/>
+    <nd ref="171976985"/>
+    <nd ref="171976988"/>
+    <nd ref="171976991"/>
+    <nd ref="171976994"/>
+    <nd ref="171976997"/>
+    <nd ref="171970215"/>
+    <nd ref="171976999"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35496861:35496863:35496865:35496866:35494560:35496858:35489802"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16653663">
+    <nd ref="172025409"/>
+    <nd ref="172025412"/>
+    <nd ref="172025413"/>
+    <nd ref="172025415"/>
+    <nd ref="172025417"/>
+    <nd ref="171976921"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Van Hook Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Van Hook"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28734"/>
+    <tag k="tiger:zip_right" v="28734"/>
+  </way>
+
+</osm>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16724953">
+    <nd ref="172917866"/>
+    <nd ref="172925606"/>
+    <nd ref="172925608"/>
+    <nd ref="172925610"/>
+    <nd ref="172925613"/>
+    <nd ref="172925615"/>
+    <nd ref="172925618"/>
+    <nd ref="172925621"/>
+    <nd ref="172925624"/>
+    <nd ref="172925626"/>
+    <nd ref="172925627"/>
+    <nd ref="172925628"/>
+    <nd ref="172925630"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="44318603:44317498"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-73a6f366-e085-4f00-94ff-6cff4981138a"/>
+  </way>
+  <way id="16725180">
+    <nd ref="172927500"/>
+    <nd ref="172927503"/>
+    <nd ref="172927506"/>
+    <nd ref="172927509"/>
+    <nd ref="172927510"/>
+    <nd ref="172927512"/>
+    <nd ref="172927514"/>
+    <nd ref="172927516"/>
+    <nd ref="172927518"/>
+    <nd ref="172927521"/>
+    <nd ref="172927523"/>
+    <nd ref="172927526"/>
+    <nd ref="172927528"/>
+    <nd ref="172927531"/>
+    <nd ref="172927534"/>
+    <nd ref="172927537"/>
+    <nd ref="172927539"/>
+    <nd ref="172927541"/>
+    <nd ref="172927543"/>
+    <nd ref="172927546"/>
+    <nd ref="172927549"/>
+    <nd ref="172927552"/>
+    <nd ref="172927555"/>
+    <nd ref="172927558"/>
+    <nd ref="172927562"/>
+    <nd ref="172927565"/>
+    <nd ref="172927566"/>
+    <nd ref="172927569"/>
+    <nd ref="172927572"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="44322255:44313787:44313789"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-73a6f366-e085-4f00-94ff-6cff4981138a"/>
+  </way>
+
+</osm>

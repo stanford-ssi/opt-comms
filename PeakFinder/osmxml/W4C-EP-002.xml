@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:53:02Z"/>
+
+  <way id="16781845">
+    <nd ref="173617605"/>
+    <nd ref="173617607"/>
+    <nd ref="173617609"/>
+    <nd ref="173617611"/>
+    <nd ref="173617614"/>
+    <nd ref="173617617"/>
+    <nd ref="173617618"/>
+    <nd ref="173617621"/>
+    <nd ref="173617624"/>
+    <nd ref="173617627"/>
+    <nd ref="173617633"/>
+    <nd ref="173617637"/>
+    <nd ref="173617640"/>
+    <nd ref="173617642"/>
+    <nd ref="173617645"/>
+    <nd ref="173617648"/>
+    <nd ref="173617651"/>
+    <nd ref="173617654"/>
+    <nd ref="173617657"/>
+    <nd ref="173617660"/>
+    <nd ref="173617663"/>
+    <nd ref="173617666"/>
+    <nd ref="173617670"/>
+    <nd ref="173617673"/>
+    <nd ref="173617676"/>
+    <nd ref="173617679"/>
+    <nd ref="173617682"/>
+    <nd ref="173617685"/>
+    <nd ref="173617688"/>
+    <nd ref="173617690"/>
+    <nd ref="173617693"/>
+    <nd ref="173617695"/>
+    <nd ref="173617697"/>
+    <nd ref="173617698"/>
+    <nd ref="173617700"/>
+    <nd ref="173617704"/>
+    <nd ref="173617707"/>
+    <nd ref="173617710"/>
+    <nd ref="173617712"/>
+    <nd ref="173617714"/>
+    <nd ref="173617717"/>
+    <nd ref="173617720"/>
+    <nd ref="173617722"/>
+    <nd ref="173617725"/>
+    <nd ref="173617728"/>
+    <nd ref="173617730"/>
+    <nd ref="173617732"/>
+    <nd ref="173617734"/>
+    <nd ref="173617736"/>
+    <nd ref="173617738"/>
+    <nd ref="173617740"/>
+    <nd ref="173617744"/>
+    <nd ref="173617748"/>
+    <nd ref="173617750"/>
+    <nd ref="173617753"/>
+    <nd ref="173617756"/>
+    <nd ref="173617758"/>
+    <nd ref="173617759"/>
+    <nd ref="173617760"/>
+    <nd ref="173617761"/>
+    <nd ref="173617762"/>
+    <nd ref="173617766"/>
+    <nd ref="173617769"/>
+    <nd ref="173617772"/>
+    <nd ref="173617775"/>
+    <nd ref="173617779"/>
+    <nd ref="173345348"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sauratown Tower Road"/>
+    <tag k="name_1" v="State Road 1172"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Stokes, NC"/>
+    <tag k="tiger:name_base" v="Sauratown Tower"/>
+    <tag k="tiger:name_base_1" v="State Road 1172"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

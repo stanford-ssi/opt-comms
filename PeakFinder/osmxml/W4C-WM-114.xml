@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16776305">
+    <nd ref="173514230"/>
+    <nd ref="173514231"/>
+    <nd ref="173514232"/>
+    <nd ref="173514233"/>
+    <nd ref="173514235"/>
+    <nd ref="173514237"/>
+    <nd ref="173514238"/>
+    <nd ref="173514240"/>
+    <nd ref="173514243"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Point Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="High Point"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16776435">
+    <nd ref="173512539"/>
+    <nd ref="173516847"/>
+    <nd ref="173516849"/>
+    <nd ref="173516851"/>
+    <nd ref="173516853"/>
+    <nd ref="173516855"/>
+    <nd ref="173516857"/>
+    <nd ref="173516860"/>
+    <nd ref="173516862"/>
+    <nd ref="173516864"/>
+    <nd ref="173516867"/>
+    <nd ref="173516869"/>
+    <nd ref="173516871"/>
+    <nd ref="173516873"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kimberly Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Kimberly"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+  <way id="16778029">
+    <nd ref="173475226"/>
+    <nd ref="173554277"/>
+    <nd ref="173524630"/>
+    <nd ref="173554281"/>
+    <nd ref="173554285"/>
+    <nd ref="173524611"/>
+    <nd ref="173554288"/>
+    <nd ref="173514230"/>
+    <nd ref="173554290"/>
+    <nd ref="173554296"/>
+    <nd ref="173554299"/>
+    <nd ref="173554302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mountain Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Mountain"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+
+</osm>

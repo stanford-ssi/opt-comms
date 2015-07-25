@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:55:01Z"/>
+
+  <way id="16586473">
+    <nd ref="171251492"/>
+    <nd ref="2894080703"/>
+    <nd ref="2894080708"/>
+    <nd ref="2894080711"/>
+    <nd ref="171251495"/>
+    <nd ref="2894080709"/>
+    <nd ref="2894080712"/>
+    <nd ref="2894080720"/>
+    <nd ref="171251497"/>
+    <nd ref="2894080723"/>
+    <nd ref="2894080722"/>
+    <nd ref="171251501"/>
+    <nd ref="2894080725"/>
+    <nd ref="171251502"/>
+    <nd ref="2894080742"/>
+    <nd ref="2894080748"/>
+    <nd ref="171251508"/>
+    <nd ref="171251511"/>
+    <nd ref="171251515"/>
+    <nd ref="2894080757"/>
+    <nd ref="171251518"/>
+    <nd ref="171251521"/>
+    <nd ref="2894080761"/>
+    <nd ref="2894080767"/>
+    <nd ref="2894080769"/>
+    <nd ref="171251524"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="16600626">
+    <nd ref="171283527"/>
+    <nd ref="2894080563"/>
+    <nd ref="171415289"/>
+    <nd ref="2894080564"/>
+    <nd ref="2210021408"/>
+    <nd ref="2894080566"/>
+    <nd ref="2210021415"/>
+    <nd ref="2210021444"/>
+    <nd ref="171415292"/>
+    <nd ref="2210021472"/>
+    <nd ref="2210021475"/>
+    <nd ref="171415295"/>
+    <nd ref="2210021479"/>
+    <nd ref="2210021477"/>
+    <nd ref="171415298"/>
+    <nd ref="2210021476"/>
+    <nd ref="2210021478"/>
+    <nd ref="171415301"/>
+    <nd ref="171415304"/>
+    <nd ref="2210021493"/>
+    <nd ref="2210021495"/>
+    <nd ref="2894080582"/>
+    <nd ref="171415306"/>
+    <nd ref="2210021500"/>
+    <nd ref="2894080585"/>
+    <nd ref="2210021502"/>
+    <nd ref="171415308"/>
+    <nd ref="2210021508"/>
+    <nd ref="2894080598"/>
+    <nd ref="2210021518"/>
+    <nd ref="2894080704"/>
+    <nd ref="171415312"/>
+    <nd ref="2210021524"/>
+    <nd ref="171415316"/>
+    <nd ref="2210021519"/>
+    <nd ref="2210021514"/>
+    <nd ref="2210021509"/>
+    <nd ref="171415319"/>
+    <nd ref="2210021516"/>
+    <nd ref="2210021520"/>
+    <nd ref="2894080705"/>
+    <nd ref="2210021522"/>
+    <nd ref="2894080706"/>
+    <nd ref="2210021521"/>
+    <nd ref="171415322"/>
+    <nd ref="2210021511"/>
+    <nd ref="2210021506"/>
+    <nd ref="2210021507"/>
+    <nd ref="2210021515"/>
+    <nd ref="171415323"/>
+    <nd ref="171415326"/>
+    <nd ref="2210021517"/>
+    <nd ref="2210021513"/>
+    <nd ref="2210021512"/>
+    <nd ref="171415328"/>
+    <nd ref="171251492"/>
+    <nd ref="171415330"/>
+    <nd ref="171415332"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="BIA Highway 407"/>
+  </way>
+  <way id="16629271">
+    <nd ref="171711719"/>
+    <nd ref="2023925457"/>
+    <nd ref="2023925522"/>
+    <nd ref="171715090"/>
+    <nd ref="2023925469"/>
+    <nd ref="171711710"/>
+    <nd ref="2023925485"/>
+    <nd ref="2023925491"/>
+    <nd ref="171763589"/>
+    <nd ref="2023925536"/>
+    <nd ref="2023925578"/>
+    <nd ref="171763591"/>
+    <nd ref="171763593"/>
+    <nd ref="2023925461"/>
+    <nd ref="171763595"/>
+    <nd ref="2894080573"/>
+    <nd ref="2023925534"/>
+    <nd ref="2023925574"/>
+    <nd ref="2894080583"/>
+    <nd ref="171763597"/>
+    <nd ref="2894080591"/>
+    <nd ref="2023925483"/>
+    <nd ref="2894080593"/>
+    <nd ref="2023925531"/>
+    <nd ref="171763598"/>
+    <nd ref="2894080595"/>
+    <nd ref="2894080597"/>
+    <nd ref="2023925456"/>
+    <nd ref="2894080600"/>
+    <nd ref="2023925573"/>
+    <nd ref="2894080707"/>
+    <nd ref="2894080713"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="source" v="NPS"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="16633225">
+    <nd ref="171415332"/>
+    <nd ref="2894080702"/>
+    <nd ref="171807231"/>
+    <nd ref="171807233"/>
+    <nd ref="171807235"/>
+    <nd ref="171807236"/>
+    <nd ref="2894080760"/>
+    <nd ref="2894080763"/>
+    <nd ref="171807239"/>
+    <nd ref="171807242"/>
+    <nd ref="2894080774"/>
+    <nd ref="2894080773"/>
+    <nd ref="2894080772"/>
+    <nd ref="2894080771"/>
+    <nd ref="171807245"/>
+    <nd ref="2894080756"/>
+    <nd ref="2894080753"/>
+    <nd ref="2894080749"/>
+    <nd ref="2894080741"/>
+    <nd ref="171807248"/>
+    <nd ref="2894080590"/>
+    <nd ref="2894080587"/>
+    <nd ref="2894080581"/>
+    <nd ref="2894080579"/>
+    <nd ref="171807250"/>
+    <nd ref="2894080576"/>
+    <nd ref="2894080575"/>
+    <nd ref="2894080577"/>
+    <nd ref="2894080578"/>
+    <nd ref="2894080580"/>
+    <nd ref="171807253"/>
+    <nd ref="2894080589"/>
+    <nd ref="171807256"/>
+    <nd ref="2894080594"/>
+    <nd ref="2894080596"/>
+    <nd ref="171807259"/>
+    <nd ref="2894080710"/>
+    <nd ref="2894080714"/>
+    <nd ref="171807262"/>
+    <nd ref="2894080715"/>
+    <nd ref="2894080716"/>
+    <nd ref="2894080717"/>
+    <nd ref="2894080718"/>
+    <nd ref="2894080719"/>
+    <nd ref="2894080724"/>
+    <nd ref="2894080732"/>
+    <nd ref="2894080736"/>
+    <nd ref="171807264"/>
+    <nd ref="2894080731"/>
+    <nd ref="2894080727"/>
+    <nd ref="2894080728"/>
+    <nd ref="171807266"/>
+    <nd ref="2894080744"/>
+    <nd ref="2894080747"/>
+    <nd ref="171807269"/>
+    <nd ref="2894080745"/>
+    <nd ref="2894080739"/>
+    <nd ref="2894080735"/>
+    <nd ref="171807271"/>
+    <nd ref="2894080740"/>
+    <nd ref="2894080737"/>
+    <nd ref="2894080734"/>
+    <nd ref="2894080730"/>
+    <nd ref="2894080729"/>
+    <nd ref="171807274"/>
+    <nd ref="2894080733"/>
+    <nd ref="2894080738"/>
+    <nd ref="2894080743"/>
+    <nd ref="2894080746"/>
+    <nd ref="2894080751"/>
+    <nd ref="2894080754"/>
+    <nd ref="2894080755"/>
+    <nd ref="2894080759"/>
+    <nd ref="2894080766"/>
+    <nd ref="171807277"/>
+    <nd ref="171807280"/>
+    <nd ref="2894080775"/>
+    <nd ref="2894080776"/>
+    <nd ref="2894080777"/>
+    <nd ref="2894080778"/>
+    <nd ref="171807283"/>
+    <nd ref="2894080780"/>
+    <nd ref="2894080782"/>
+    <nd ref="171807286"/>
+    <nd ref="171807288"/>
+    <nd ref="171807290"/>
+    <nd ref="173521367"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="BIA Highway 407"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="BIA Highway 407"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16776665">
+    <nd ref="173521367"/>
+    <nd ref="173521369"/>
+    <nd ref="173521372"/>
+    <nd ref="173521375"/>
+    <nd ref="2894080796"/>
+    <nd ref="2894080797"/>
+    <nd ref="2894080798"/>
+    <nd ref="173521378"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="BIA Highway 407"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="BIA Highway 407"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16777362">
+    <nd ref="173536290"/>
+    <nd ref="2894080789"/>
+    <nd ref="173536292"/>
+    <nd ref="2894080790"/>
+    <nd ref="2894080791"/>
+    <nd ref="173536295"/>
+    <nd ref="2023925499"/>
+    <nd ref="173536298"/>
+    <nd ref="2894080788"/>
+    <nd ref="2894080786"/>
+    <nd ref="2894080784"/>
+    <nd ref="2894080783"/>
+    <nd ref="173536302"/>
+    <nd ref="173536306"/>
+    <nd ref="173536310"/>
+    <nd ref="171763616"/>
+    <nd ref="2023925494"/>
+    <nd ref="173536315"/>
+    <nd ref="2023925526"/>
+    <nd ref="173536319"/>
+    <nd ref="171763625"/>
+    <nd ref="171763628"/>
+    <nd ref="173536328"/>
+    <nd ref="171763633"/>
+    <nd ref="173536337"/>
+    <nd ref="173536340"/>
+    <nd ref="171763641"/>
+    <nd ref="171763644"/>
+    <nd ref="171711765"/>
+    <nd ref="171763647"/>
+    <nd ref="173536357"/>
+    <nd ref="171763651"/>
+    <nd ref="173536364"/>
+    <nd ref="173536367"/>
+    <nd ref="171763658"/>
+    <nd ref="173536373"/>
+    <nd ref="171763665"/>
+    <nd ref="173536379"/>
+    <nd ref="171763671"/>
+    <nd ref="173536387"/>
+    <nd ref="173536400"/>
+    <nd ref="173536404"/>
+    <nd ref="171763680"/>
+    <nd ref="2023925519"/>
+    <nd ref="2810239217"/>
+    <nd ref="2810239219"/>
+    <nd ref="2810239218"/>
+    <nd ref="173536412"/>
+    <nd ref="171763684"/>
+    <nd ref="171763686"/>
+    <nd ref="173500612"/>
+    <nd ref="173536419"/>
+    <nd ref="2023925474"/>
+    <nd ref="2023925431"/>
+    <nd ref="173517097"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="source" v="NPS"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="285774535">
+    <nd ref="2023925492"/>
+    <nd ref="171763600"/>
+    <nd ref="171763601"/>
+    <nd ref="171763602"/>
+    <nd ref="2894080779"/>
+    <nd ref="2894080781"/>
+    <nd ref="2023925444"/>
+    <nd ref="2023925473"/>
+    <nd ref="2894080785"/>
+    <nd ref="171763603"/>
+    <nd ref="2894080787"/>
+    <nd ref="173536290"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="source" v="NPS"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="285774539">
+    <nd ref="2894080713"/>
+    <nd ref="2894080721"/>
+    <nd ref="2894080726"/>
+    <nd ref="171763599"/>
+    <nd ref="2894080752"/>
+    <nd ref="2023925492"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="source" v="NPS"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+
+</osm>

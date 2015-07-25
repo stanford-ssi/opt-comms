@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16405971">
+    <nd ref="169310957"/>
+    <nd ref="169327001"/>
+    <nd ref="169327002"/>
+    <nd ref="169327004"/>
+    <nd ref="195693426"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buckeye Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Buckeye"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16406873">
+    <nd ref="169327002"/>
+    <nd ref="169337660"/>
+    <nd ref="169337662"/>
+    <nd ref="169337664"/>
+    <nd ref="169337665"/>
+    <nd ref="169337667"/>
+    <nd ref="169337669"/>
+    <nd ref="169337672"/>
+    <nd ref="169337674"/>
+    <nd ref="169337677"/>
+    <nd ref="169337680"/>
+    <nd ref="169337684"/>
+    <nd ref="169337686"/>
+    <nd ref="169337688"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cliffdwellers Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:name_base" v="Cliffdwellers"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_right" v="28604"/>
+  </way>
+  <way id="18905096">
+    <nd ref="195577651"/>
+    <nd ref="195577652"/>
+    <nd ref="195577654"/>
+    <nd ref="195577655"/>
+    <nd ref="195577657"/>
+    <nd ref="195577661"/>
+    <nd ref="195577663"/>
+    <nd ref="195577665"/>
+    <nd ref="195577666"/>
+    <nd ref="195577678"/>
+    <nd ref="195577679"/>
+    <nd ref="195577680"/>
+    <nd ref="195577682"/>
+    <nd ref="195577684"/>
+    <nd ref="195577686"/>
+    <nd ref="195577688"/>
+    <nd ref="195577689"/>
+    <nd ref="195577690"/>
+    <nd ref="195577691"/>
+    <nd ref="195577693"/>
+    <nd ref="195577694"/>
+    <nd ref="195577695"/>
+    <nd ref="195577696"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cliffside Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Cliffside"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_right" v="28604"/>
+  </way>
+  <way id="18912728">
+    <nd ref="195693426"/>
+    <nd ref="195693429"/>
+    <nd ref="195693431"/>
+    <nd ref="195693433"/>
+    <nd ref="195693435"/>
+    <nd ref="195693437"/>
+    <nd ref="195693439"/>
+    <nd ref="195693441"/>
+    <nd ref="195693442"/>
+    <nd ref="195693444"/>
+    <nd ref="195693446"/>
+    <nd ref="195693448"/>
+    <nd ref="195693450"/>
+    <nd ref="195693452"/>
+    <nd ref="195693454"/>
+    <nd ref="195693456"/>
+    <nd ref="195693458"/>
+    <nd ref="195693460"/>
+    <nd ref="195693462"/>
+    <nd ref="195693464"/>
+    <nd ref="195693466"/>
+    <nd ref="195693468"/>
+    <nd ref="195693470"/>
+    <nd ref="195693472"/>
+    <nd ref="195693474"/>
+    <nd ref="195693476"/>
+    <nd ref="195693478"/>
+    <nd ref="195693480"/>
+    <nd ref="195693483"/>
+    <nd ref="195693486"/>
+    <nd ref="195693488"/>
+    <nd ref="195693490"/>
+    <nd ref="195693492"/>
+    <nd ref="195693494"/>
+    <nd ref="195693496"/>
+    <nd ref="195693498"/>
+    <nd ref="195693501"/>
+    <nd ref="195693503"/>
+    <nd ref="195693506"/>
+    <nd ref="195693508"/>
+    <nd ref="195693509"/>
+    <nd ref="195693510"/>
+    <nd ref="195693511"/>
+    <nd ref="195693512"/>
+    <nd ref="195693513"/>
+    <nd ref="195693514"/>
+    <nd ref="195693515"/>
+    <nd ref="195693516"/>
+    <nd ref="195693517"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Buckeye Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Buckeye"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18913591">
+    <nd ref="195693498"/>
+    <nd ref="195705698"/>
+    <nd ref="195705701"/>
+    <nd ref="195705703"/>
+    <nd ref="195705704"/>
+    <nd ref="195705706"/>
+    <nd ref="195705707"/>
+    <nd ref="195705710"/>
+    <nd ref="195705712"/>
+    <nd ref="195705714"/>
+    <nd ref="195705717"/>
+    <nd ref="195705719"/>
+    <nd ref="195705721"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wolf Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Wolf"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18922066">
+    <nd ref="195660255"/>
+    <nd ref="195814019"/>
+    <nd ref="195814022"/>
+    <nd ref="195814024"/>
+    <nd ref="195814026"/>
+    <nd ref="195814028"/>
+    <nd ref="195814030"/>
+    <nd ref="195814032"/>
+    <nd ref="195814033"/>
+    <nd ref="195814034"/>
+    <nd ref="195814035"/>
+    <nd ref="195577696"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Thorncliff Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Watauga, NC"/>
+    <tag k="tiger:name_base" v="Thorncliff"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28604"/>
+    <tag k="tiger:zip_left_1" v="28604"/>
+  </way>
+
+</osm>

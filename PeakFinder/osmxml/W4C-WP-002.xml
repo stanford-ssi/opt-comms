@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="18935207">
+    <nd ref="195940223"/>
+    <nd ref="195940224"/>
+    <nd ref="195940225"/>
+    <nd ref="195940226"/>
+    <nd ref="195940228"/>
+    <nd ref="195940229"/>
+    <nd ref="195940230"/>
+    <nd ref="195940231"/>
+    <nd ref="195940234"/>
+    <nd ref="195940236"/>
+    <nd ref="195940237"/>
+    <nd ref="195940238"/>
+    <nd ref="195940239"/>
+    <nd ref="195940240"/>
+    <nd ref="195940242"/>
+    <nd ref="195940243"/>
+    <nd ref="195940244"/>
+    <nd ref="195940246"/>
+    <nd ref="195940248"/>
+    <nd ref="195940250"/>
+    <nd ref="195940252"/>
+    <nd ref="195940254"/>
+    <nd ref="195940256"/>
+    <nd ref="195940258"/>
+    <nd ref="195940260"/>
+    <nd ref="195940262"/>
+    <nd ref="195940264"/>
+    <nd ref="195940266"/>
+    <nd ref="195940268"/>
+    <nd ref="195940269"/>
+    <nd ref="195940271"/>
+    <nd ref="195940274"/>
+    <nd ref="195940275"/>
+    <nd ref="195940276"/>
+    <nd ref="195940277"/>
+    <nd ref="195940278"/>
+    <nd ref="195940281"/>
+    <nd ref="195940283"/>
+    <nd ref="195940285"/>
+    <nd ref="195940287"/>
+    <nd ref="195940289"/>
+    <nd ref="195940292"/>
+    <nd ref="195940294"/>
+    <nd ref="195940296"/>
+    <nd ref="195940299"/>
+    <nd ref="195940301"/>
+    <nd ref="195896199"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Treadway Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Treadway"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28654"/>
+  </way>
+
+</osm>

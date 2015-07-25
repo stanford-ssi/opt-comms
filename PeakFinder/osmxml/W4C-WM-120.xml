@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16620149">
+    <nd ref="171662303"/>
+    <nd ref="171662306"/>
+    <nd ref="171662309"/>
+    <nd ref="171662311"/>
+    <nd ref="171662313"/>
+    <nd ref="171662315"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35973628"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624479">
+    <nd ref="171668598"/>
+    <nd ref="171668602"/>
+    <nd ref="171668610"/>
+    <nd ref="171668620"/>
+    <nd ref="171668626"/>
+    <nd ref="171710316"/>
+    <nd ref="171710320"/>
+    <nd ref="171710323"/>
+    <nd ref="171710326"/>
+    <nd ref="171710329"/>
+    <nd ref="171710332"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35973632:35993926:35993929:35993932:35993936:35993937"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16634989">
+    <nd ref="171792272"/>
+    <nd ref="2939934984"/>
+    <nd ref="2939934981"/>
+    <nd ref="171828435"/>
+    <nd ref="2965415150"/>
+    <nd ref="171828436"/>
+    <nd ref="171828439"/>
+    <nd ref="2939934982"/>
+    <nd ref="2939934983"/>
+    <nd ref="171828440"/>
+    <nd ref="171828441"/>
+    <nd ref="171663210"/>
+    <nd ref="171828442"/>
+    <nd ref="2965415164"/>
+    <nd ref="2965415168"/>
+    <nd ref="2965415180"/>
+    <nd ref="2965415185"/>
+    <nd ref="171809053"/>
+    <nd ref="171828443"/>
+    <nd ref="2965415203"/>
+    <nd ref="171828444"/>
+    <nd ref="171667094"/>
+    <nd ref="2965415210"/>
+    <nd ref="2965415213"/>
+    <nd ref="2965415214"/>
+    <nd ref="2965415215"/>
+    <nd ref="2965415216"/>
+    <nd ref="2939935006"/>
+    <nd ref="2939935007"/>
+    <nd ref="171663141"/>
+    <nd ref="2939935008"/>
+    <nd ref="171828445"/>
+    <nd ref="2965415241"/>
+    <nd ref="171740261"/>
+    <nd ref="171828446"/>
+    <nd ref="171828447"/>
+    <nd ref="171828448"/>
+    <nd ref="2965415301"/>
+    <nd ref="171775911"/>
+    <nd ref="171828450"/>
+    <nd ref="2965415331"/>
+    <nd ref="171828452"/>
+    <nd ref="171828454"/>
+    <nd ref="2965415338"/>
+    <nd ref="171828456"/>
+    <nd ref="171828458"/>
+    <nd ref="2965415350"/>
+    <nd ref="171828464"/>
+    <nd ref="171828466"/>
+    <nd ref="171808787"/>
+    <nd ref="171818783"/>
+    <nd ref="171828469"/>
+    <nd ref="2965415355"/>
+    <nd ref="2965415358"/>
+    <nd ref="2965415360"/>
+    <nd ref="171828471"/>
+    <nd ref="2965415364"/>
+    <nd ref="171828473"/>
+    <nd ref="171697164"/>
+    <nd ref="171828475"/>
+    <nd ref="171828477"/>
+    <nd ref="2965415374"/>
+    <nd ref="171828479"/>
+    <nd ref="2965415375"/>
+    <nd ref="171828481"/>
+    <nd ref="2965415377"/>
+    <nd ref="171828483"/>
+    <nd ref="2965415378"/>
+    <nd ref="171828485"/>
+    <nd ref="2965415379"/>
+    <nd ref="2965415381"/>
+    <nd ref="171828487"/>
+    <nd ref="2965415383"/>
+    <nd ref="2965415384"/>
+    <nd ref="171828489"/>
+    <nd ref="2965415387"/>
+    <nd ref="2965415388"/>
+    <nd ref="171759650"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Sutton Branch Road"/>
+    <tag k="name_1" v="State Road 1377"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Sutton Branch"/>
+    <tag k="tiger:name_base_1" v="State Road 1377"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16634991">
+    <nd ref="171759670"/>
+    <nd ref="171662303"/>
+    <nd ref="171828498"/>
+    <nd ref="171828499"/>
+    <nd ref="171828501"/>
+    <nd ref="171828503"/>
+    <nd ref="171828505"/>
+    <nd ref="171828507"/>
+    <nd ref="171828509"/>
+    <nd ref="171828511"/>
+    <nd ref="171828513"/>
+    <nd ref="171828515"/>
+    <nd ref="171828517"/>
+    <nd ref="171828519"/>
+    <nd ref="171828521"/>
+    <nd ref="171828523"/>
+    <nd ref="171828525"/>
+    <nd ref="171828526"/>
+    <nd ref="171828527"/>
+    <nd ref="171828528"/>
+    <nd ref="171828529"/>
+    <nd ref="171683407"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sutton Branch Road"/>
+    <tag k="name_1" v="St Rd 1377"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Sutton Branch"/>
+    <tag k="tiger:name_base_1" v="St Rd 1377"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16635653">
+    <nd ref="171828477"/>
+    <nd ref="171836113"/>
+    <nd ref="171836115"/>
+    <nd ref="171836118"/>
+    <nd ref="171836121"/>
+    <nd ref="171836124"/>
+    <nd ref="171836127"/>
+    <nd ref="171836130"/>
+    <nd ref="171836132"/>
+    <nd ref="171836135"/>
+    <nd ref="171836136"/>
+    <nd ref="171836138"/>
+    <nd ref="171836140"/>
+    <nd ref="171836142"/>
+    <nd ref="171836145"/>
+    <nd ref="171836148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rebel Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Rebel"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

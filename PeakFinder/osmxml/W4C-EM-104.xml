@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:53:02Z"/>
+
+  <way id="16770196">
+    <nd ref="173409990"/>
+    <nd ref="173409993"/>
+    <nd ref="173409994"/>
+    <nd ref="173409997"/>
+    <nd ref="173409999"/>
+    <nd ref="173410001"/>
+    <nd ref="173410003"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Surry, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="154222585"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-2ee8c871-cd60-495d-8547-27ab750251f8"/>
+  </way>
+  <way id="16787924">
+    <nd ref="173698869"/>
+    <nd ref="173698873"/>
+    <nd ref="173698876"/>
+    <nd ref="173698880"/>
+    <nd ref="173698883"/>
+    <nd ref="173698886"/>
+    <nd ref="173698891"/>
+    <nd ref="173698894"/>
+    <nd ref="173698897"/>
+    <nd ref="173698900"/>
+    <nd ref="173698903"/>
+    <nd ref="173698907"/>
+    <nd ref="173698910"/>
+    <nd ref="173698911"/>
+    <nd ref="173698914"/>
+    <nd ref="173698917"/>
+    <nd ref="173698920"/>
+    <nd ref="173698923"/>
+    <nd ref="173698925"/>
+    <nd ref="173698928"/>
+    <nd ref="173698930"/>
+    <nd ref="173698932"/>
+    <nd ref="173698934"/>
+    <nd ref="173698936"/>
+    <nd ref="173698938"/>
+    <nd ref="173698941"/>
+    <nd ref="173698945"/>
+    <nd ref="173698948"/>
+    <nd ref="173698952"/>
+    <nd ref="173698954"/>
+    <nd ref="173698957"/>
+    <nd ref="173698961"/>
+    <nd ref="173698964"/>
+    <nd ref="173698967"/>
+    <nd ref="173698970"/>
+    <nd ref="173698972"/>
+    <nd ref="173698973"/>
+    <nd ref="173698975"/>
+    <nd ref="173698977"/>
+    <nd ref="173698981"/>
+    <nd ref="173698986"/>
+    <nd ref="173698988"/>
+    <nd ref="173698991"/>
+    <nd ref="173698994"/>
+    <nd ref="173698997"/>
+    <nd ref="173698999"/>
+    <nd ref="173699000"/>
+    <nd ref="173699003"/>
+    <nd ref="173699006"/>
+    <nd ref="173699009"/>
+    <nd ref="173699013"/>
+    <nd ref="173699016"/>
+    <nd ref="173699020"/>
+    <nd ref="173699023"/>
+    <nd ref="173699026"/>
+    <nd ref="173699029"/>
+    <nd ref="173699033"/>
+    <nd ref="173699037"/>
+    <nd ref="173699041"/>
+    <nd ref="173699044"/>
+    <nd ref="173699048"/>
+    <nd ref="173699051"/>
+    <nd ref="173699053"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Caseys Crossing Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Surry, NC"/>
+    <tag k="tiger:name_base" v="Caseys Crossing"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="27024"/>
+    <tag k="tiger:zip_right" v="27024"/>
+  </way>
+  <way id="16788137">
+    <nd ref="173702245"/>
+    <nd ref="173702250"/>
+    <nd ref="173702254"/>
+    <nd ref="173702258"/>
+    <nd ref="173702260"/>
+    <nd ref="173702261"/>
+    <nd ref="173702263"/>
+    <nd ref="173702265"/>
+    <nd ref="173702269"/>
+    <nd ref="173702275"/>
+    <nd ref="173702279"/>
+    <nd ref="173702281"/>
+    <nd ref="173702285"/>
+    <nd ref="173702288"/>
+    <nd ref="173702293"/>
+    <nd ref="173702296"/>
+    <nd ref="173702300"/>
+    <nd ref="173702302"/>
+    <nd ref="173702304"/>
+    <nd ref="173702309"/>
+    <nd ref="173702314"/>
+    <nd ref="173702316"/>
+    <nd ref="173530174"/>
+    <nd ref="173702320"/>
+    <nd ref="173702322"/>
+    <nd ref="173702325"/>
+    <nd ref="173702327"/>
+    <nd ref="173702330"/>
+    <nd ref="173702333"/>
+    <nd ref="173702337"/>
+    <nd ref="173702340"/>
+    <nd ref="173702343"/>
+    <nd ref="173702344"/>
+    <nd ref="173702347"/>
+    <nd ref="173702349"/>
+    <nd ref="173702353"/>
+    <nd ref="173702356"/>
+    <nd ref="173702359"/>
+    <nd ref="173702361"/>
+    <nd ref="173702364"/>
+    <nd ref="173702367"/>
+    <nd ref="173702370"/>
+    <nd ref="173702372"/>
+    <nd ref="173702375"/>
+    <nd ref="173702379"/>
+    <nd ref="173702380"/>
+    <nd ref="173702381"/>
+    <nd ref="173702384"/>
+    <nd ref="173702386"/>
+    <nd ref="173702390"/>
+    <nd ref="173702393"/>
+    <nd ref="173506205"/>
+    <nd ref="173698869"/>
+    <nd ref="173702395"/>
+    <nd ref="173702399"/>
+    <nd ref="173702402"/>
+    <nd ref="173702406"/>
+    <nd ref="173702409"/>
+    <nd ref="173702411"/>
+    <nd ref="173702412"/>
+    <nd ref="173702413"/>
+    <nd ref="173702414"/>
+    <nd ref="173702415"/>
+    <nd ref="173702416"/>
+    <nd ref="173702417"/>
+    <nd ref="173702418"/>
+    <nd ref="173702421"/>
+    <nd ref="173702423"/>
+    <nd ref="173702426"/>
+    <nd ref="173702432"/>
+    <nd ref="173702438"/>
+    <nd ref="173702444"/>
+    <nd ref="173702446"/>
+    <nd ref="173702448"/>
+    <nd ref="173702451"/>
+    <nd ref="173702456"/>
+    <nd ref="173702459"/>
+    <nd ref="173702460"/>
+    <nd ref="173702462"/>
+    <nd ref="173702464"/>
+    <nd ref="173702469"/>
+    <nd ref="173702472"/>
+    <nd ref="173702475"/>
+    <nd ref="173702477"/>
+    <nd ref="173702479"/>
+    <nd ref="173702483"/>
+    <nd ref="173702485"/>
+    <nd ref="173702487"/>
+    <nd ref="173702488"/>
+    <nd ref="173702491"/>
+    <nd ref="173702494"/>
+    <nd ref="173702495"/>
+    <nd ref="173702498"/>
+    <nd ref="173702500"/>
+    <nd ref="173702503"/>
+    <nd ref="173702505"/>
+    <nd ref="173702507"/>
+    <nd ref="173702509"/>
+    <nd ref="173702511"/>
+    <nd ref="173702513"/>
+    <nd ref="173702515"/>
+    <nd ref="173702517"/>
+    <nd ref="173702518"/>
+    <nd ref="173426750"/>
+    <nd ref="173702521"/>
+    <nd ref="173702524"/>
+    <nd ref="173702527"/>
+    <nd ref="173702529"/>
+    <nd ref="173702531"/>
+    <nd ref="173702533"/>
+    <nd ref="173702535"/>
+    <nd ref="173702538"/>
+    <nd ref="173702541"/>
+    <nd ref="173702544"/>
+    <nd ref="173702546"/>
+    <nd ref="173702548"/>
+    <nd ref="173702549"/>
+    <nd ref="173702552"/>
+    <nd ref="173702554"/>
+    <nd ref="173702556"/>
+    <nd ref="173702558"/>
+    <nd ref="173702560"/>
+    <nd ref="173702561"/>
+    <nd ref="173702564"/>
+    <nd ref="173702568"/>
+    <nd ref="173702572"/>
+    <nd ref="173702575"/>
+    <nd ref="173702577"/>
+    <nd ref="173702580"/>
+    <nd ref="173702588"/>
+    <nd ref="173702591"/>
+    <nd ref="173702594"/>
+    <nd ref="173702597"/>
+    <nd ref="173702600"/>
+    <nd ref="173702604"/>
+    <nd ref="173702606"/>
+    <nd ref="173702607"/>
+    <nd ref="173702608"/>
+    <nd ref="173702609"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wandering Walk Road"/>
+    <tag k="name_1" v="St Rd 2433"/>
+    <tag k="name_2" v="Wandering Walk Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Surry, NC"/>
+    <tag k="tiger:name_base" v="Wandering Walk"/>
+    <tag k="tiger:name_base_1" v="St Rd 2433"/>
+    <tag k="tiger:name_base_2" v="Wandering Walk"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_2" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="27024"/>
+    <tag k="tiger:zip_right" v="27024"/>
+  </way>
+
+</osm>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16456456">
+    <nd ref="169824807"/>
+    <nd ref="169824810"/>
+    <nd ref="169824812"/>
+    <nd ref="169824814"/>
+    <nd ref="169824816"/>
+    <nd ref="169824818"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Catawba, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="45902628"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-bfd92a21-eae6-48f6-96eb-1951753ce5d8"/>
+  </way>
+  <way id="16462552">
+    <nd ref="169883058"/>
+    <nd ref="169883063"/>
+    <nd ref="169883064"/>
+    <nd ref="169883067"/>
+    <nd ref="169883069"/>
+    <nd ref="169883071"/>
+    <nd ref="169883074"/>
+    <nd ref="169883076"/>
+    <nd ref="169883079"/>
+    <nd ref="169883081"/>
+    <nd ref="169883083"/>
+    <nd ref="169883085"/>
+    <nd ref="169883086"/>
+    <nd ref="169883087"/>
+    <nd ref="169883104"/>
+    <nd ref="169883108"/>
+    <nd ref="169883111"/>
+    <nd ref="169883114"/>
+    <nd ref="169883117"/>
+    <nd ref="169883121"/>
+    <nd ref="169883123"/>
+    <nd ref="169883126"/>
+    <nd ref="169883130"/>
+    <nd ref="169883132"/>
+    <nd ref="169883135"/>
+    <nd ref="169883137"/>
+    <nd ref="169883140"/>
+    <nd ref="169883143"/>
+    <nd ref="169883146"/>
+    <nd ref="169883149"/>
+    <nd ref="169883152"/>
+    <nd ref="169883155"/>
+    <nd ref="169883158"/>
+    <nd ref="169883165"/>
+    <nd ref="169883168"/>
+    <nd ref="169883171"/>
+    <nd ref="169883174"/>
+    <nd ref="169883177"/>
+    <nd ref="169883181"/>
+    <nd ref="169883184"/>
+    <nd ref="169883187"/>
+    <nd ref="169883189"/>
+    <nd ref="169883192"/>
+    <nd ref="169883194"/>
+    <nd ref="169883196"/>
+    <nd ref="169883199"/>
+    <nd ref="169883201"/>
+    <nd ref="169883203"/>
+    <nd ref="169883205"/>
+    <nd ref="169883207"/>
+    <nd ref="169883209"/>
+    <nd ref="169883211"/>
+    <nd ref="169883213"/>
+    <nd ref="169883215"/>
+    <nd ref="169883217"/>
+    <nd ref="169883219"/>
+    <nd ref="169883221"/>
+    <nd ref="169883223"/>
+    <nd ref="169883225"/>
+    <nd ref="169883226"/>
+    <nd ref="169883227"/>
+    <nd ref="169883229"/>
+    <nd ref="169883231"/>
+    <nd ref="169883233"/>
+    <nd ref="169883237"/>
+    <nd ref="169883239"/>
+    <nd ref="169883242"/>
+    <nd ref="169883245"/>
+    <nd ref="169883248"/>
+    <nd ref="169883251"/>
+    <nd ref="169883254"/>
+    <nd ref="169883257"/>
+    <nd ref="169883260"/>
+    <nd ref="169883263"/>
+    <nd ref="169883266"/>
+    <nd ref="169883270"/>
+    <nd ref="1054005525"/>
+    <nd ref="1054005486"/>
+    <nd ref="1054005545"/>
+    <nd ref="1054005496"/>
+    <nd ref="1054005466"/>
+    <nd ref="1054005538"/>
+    <nd ref="934015882"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tower Road"/>
+    <tag k="name_1" v="State Road 1895"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Catawba, NC"/>
+    <tag k="tiger:name_base" v="Tower"/>
+    <tag k="tiger:name_base_1" v="State Road 1895"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28650"/>
+    <tag k="tiger:zip_right" v="28650"/>
+  </way>
+  <way id="16466017">
+    <nd ref="169919526"/>
+    <nd ref="169930419"/>
+    <nd ref="169930422"/>
+    <nd ref="169930424"/>
+    <nd ref="169930427"/>
+    <nd ref="169930430"/>
+    <nd ref="169930433"/>
+    <nd ref="169930436"/>
+    <nd ref="169930438"/>
+    <nd ref="169930441"/>
+    <nd ref="169930446"/>
+    <nd ref="169930448"/>
+    <nd ref="169930451"/>
+    <nd ref="169930453"/>
+    <nd ref="169930458"/>
+    <nd ref="169930463"/>
+    <nd ref="169930465"/>
+    <nd ref="169930468"/>
+    <nd ref="169930471"/>
+    <nd ref="169930474"/>
+    <nd ref="169930477"/>
+    <nd ref="169930479"/>
+    <nd ref="169930482"/>
+    <nd ref="169930485"/>
+    <nd ref="169930488"/>
+    <nd ref="169930491"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rocking Horse Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Catawba, NC"/>
+    <tag k="tiger:name_base" v="Rocking Horse"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28650"/>
+    <tag k="tiger:zip_right" v="28650"/>
+  </way>
+  <way id="16476734">
+    <nd ref="169883245"/>
+    <nd ref="170082066"/>
+    <nd ref="170082069"/>
+    <nd ref="170082072"/>
+    <nd ref="170082075"/>
+    <nd ref="170082078"/>
+    <nd ref="170082081"/>
+    <nd ref="170082084"/>
+    <nd ref="170082086"/>
+    <nd ref="170082089"/>
+    <nd ref="170082092"/>
+    <nd ref="170082095"/>
+    <nd ref="170082098"/>
+    <nd ref="170082101"/>
+    <nd ref="170082104"/>
+    <nd ref="169893997"/>
+    <nd ref="170082107"/>
+    <nd ref="170082110"/>
+    <nd ref="170082113"/>
+    <nd ref="170082117"/>
+    <nd ref="170082119"/>
+    <nd ref="170082121"/>
+    <nd ref="170082126"/>
+    <nd ref="170082129"/>
+    <nd ref="170082132"/>
+    <nd ref="170082135"/>
+    <nd ref="170082138"/>
+    <nd ref="170082141"/>
+    <nd ref="170082144"/>
+    <nd ref="170082148"/>
+    <nd ref="170082151"/>
+    <nd ref="170082154"/>
+    <nd ref="170082156"/>
+    <nd ref="170082158"/>
+    <nd ref="170082159"/>
+    <nd ref="170082160"/>
+    <nd ref="170082161"/>
+    <nd ref="170082162"/>
+    <nd ref="170082163"/>
+    <nd ref="170082165"/>
+    <nd ref="170082167"/>
+    <nd ref="170082168"/>
+    <nd ref="170082170"/>
+    <nd ref="170082173"/>
+    <nd ref="170082175"/>
+    <nd ref="170082178"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sierra Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Catawba, NC"/>
+    <tag k="tiger:name_base" v="Sierra"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28650"/>
+    <tag k="tiger:zip_right" v="28650"/>
+  </way>
+
+</osm>

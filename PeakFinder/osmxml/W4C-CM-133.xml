@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="12504787">
+    <nd ref="113874553"/>
+    <nd ref="113874556"/>
+    <nd ref="113874560"/>
+    <nd ref="113874562"/>
+    <nd ref="113874564"/>
+    <nd ref="113874566"/>
+    <nd ref="113874568"/>
+    <nd ref="113874570"/>
+    <nd ref="113874572"/>
+    <nd ref="113874574"/>
+    <nd ref="113874576"/>
+    <nd ref="113874580"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Liz Reece Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Liz Reece"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12505783">
+    <nd ref="113886825"/>
+    <nd ref="113886828"/>
+    <nd ref="113886830"/>
+    <nd ref="113886832"/>
+    <nd ref="113886835"/>
+    <nd ref="113886837"/>
+    <nd ref="113886839"/>
+    <nd ref="113886841"/>
+    <nd ref="113886843"/>
+    <nd ref="113886845"/>
+    <nd ref="113886847"/>
+    <nd ref="113886850"/>
+    <nd ref="113886855"/>
+    <nd ref="113886857"/>
+    <nd ref="113886858"/>
+    <nd ref="113886860"/>
+    <nd ref="113886863"/>
+    <nd ref="113886866"/>
+    <nd ref="113886869"/>
+    <nd ref="113886872"/>
+    <nd ref="113886875"/>
+    <nd ref="113886878"/>
+    <nd ref="113886881"/>
+    <nd ref="113886884"/>
+    <nd ref="113886887"/>
+    <nd ref="113886890"/>
+    <nd ref="113886893"/>
+    <nd ref="113886895"/>
+    <nd ref="113886897"/>
+    <nd ref="113886899"/>
+    <nd ref="113886900"/>
+    <nd ref="113886901"/>
+    <nd ref="113886903"/>
+    <nd ref="113886905"/>
+    <nd ref="113886908"/>
+    <nd ref="113886911"/>
+    <nd ref="113886913"/>
+    <nd ref="113874553"/>
+    <nd ref="113886915"/>
+    <nd ref="113886918"/>
+    <nd ref="113886920"/>
+    <nd ref="113886922"/>
+    <nd ref="113886924"/>
+    <nd ref="113886927"/>
+    <nd ref="113886930"/>
+    <nd ref="113886934"/>
+    <nd ref="113886937"/>
+    <nd ref="113886941"/>
+    <nd ref="113886944"/>
+    <nd ref="113886947"/>
+    <nd ref="113886950"/>
+    <nd ref="113886953"/>
+    <nd ref="113886956"/>
+    <nd ref="113886960"/>
+    <nd ref="113886963"/>
+    <nd ref="113886966"/>
+    <nd ref="113886969"/>
+    <nd ref="113886972"/>
+    <nd ref="113886975"/>
+    <nd ref="113886978"/>
+    <nd ref="113886980"/>
+    <nd ref="113886982"/>
+    <nd ref="113886984"/>
+    <nd ref="113886987"/>
+    <nd ref="113886993"/>
+    <nd ref="173692573"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Continental Divide Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Continental Divide"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12510535">
+    <nd ref="113951923"/>
+    <nd ref="113951924"/>
+    <nd ref="113951926"/>
+    <nd ref="113951927"/>
+    <nd ref="113951929"/>
+    <nd ref="113951930"/>
+    <nd ref="113951932"/>
+    <nd ref="113951935"/>
+    <nd ref="113951938"/>
+    <nd ref="113951940"/>
+    <nd ref="113951942"/>
+    <nd ref="113951943"/>
+    <nd ref="113951944"/>
+    <nd ref="113951945"/>
+    <nd ref="113951947"/>
+    <nd ref="113951949"/>
+    <nd ref="113951951"/>
+    <nd ref="113951953"/>
+    <nd ref="113951954"/>
+    <nd ref="113951955"/>
+    <nd ref="113951957"/>
+    <nd ref="113951960"/>
+    <nd ref="113951962"/>
+    <nd ref="113951963"/>
+    <nd ref="113951965"/>
+    <nd ref="113951967"/>
+    <nd ref="113951968"/>
+    <nd ref="113951971"/>
+    <nd ref="113951974"/>
+    <nd ref="113951977"/>
+    <nd ref="113951979"/>
+    <nd ref="113951981"/>
+    <nd ref="113951983"/>
+    <nd ref="113951986"/>
+    <nd ref="113951988"/>
+    <nd ref="113951991"/>
+    <nd ref="113951994"/>
+    <nd ref="113951997"/>
+    <nd ref="113952000"/>
+    <nd ref="113952003"/>
+    <nd ref="113952005"/>
+    <nd ref="113952008"/>
+    <nd ref="113952010"/>
+    <nd ref="113952012"/>
+    <nd ref="113952014"/>
+    <nd ref="113952017"/>
+    <nd ref="113952020"/>
+    <nd ref="113952023"/>
+    <nd ref="113952026"/>
+    <nd ref="113952028"/>
+    <nd ref="113952030"/>
+    <nd ref="113952032"/>
+    <nd ref="113952034"/>
+    <nd ref="113952038"/>
+    <nd ref="113952041"/>
+    <nd ref="113952044"/>
+    <nd ref="113952046"/>
+    <nd ref="113886969"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Trout Pond Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Trout Pond"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16778487">
+    <nd ref="173562986"/>
+    <nd ref="173562988"/>
+    <nd ref="173562991"/>
+    <nd ref="173562995"/>
+    <nd ref="173562998"/>
+    <nd ref="173563002"/>
+    <nd ref="173563006"/>
+    <nd ref="173563010"/>
+    <nd ref="173563014"/>
+    <nd ref="173563017"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133746744"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16778867">
+    <nd ref="173569985"/>
+    <nd ref="173569986"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133755534"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16778869">
+    <nd ref="173569992"/>
+    <nd ref="173569996"/>
+    <nd ref="173569997"/>
+    <nd ref="173570000"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133755537"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16779061">
+    <nd ref="173573167"/>
+    <nd ref="173573171"/>
+    <nd ref="173573173"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133755314"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16779065">
+    <nd ref="173573173"/>
+    <nd ref="173573191"/>
+    <nd ref="173573193"/>
+    <nd ref="173573196"/>
+    <nd ref="173573201"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133755315:133747186"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16780331">
+    <nd ref="173594546"/>
+    <nd ref="173594550"/>
+    <nd ref="173594553"/>
+    <nd ref="173594555"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133747198"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16783202">
+    <nd ref="173573196"/>
+    <nd ref="173628196"/>
+    <nd ref="173628198"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133747187"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16784997">
+    <nd ref="173649151"/>
+    <nd ref="173649152"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mad Bear Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Mad Bear"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16785192">
+    <nd ref="173593994"/>
+    <nd ref="173652137"/>
+    <nd ref="173652139"/>
+    <nd ref="173652142"/>
+    <nd ref="173652144"/>
+    <nd ref="173594546"/>
+    <nd ref="173652146"/>
+    <nd ref="173652148"/>
+    <nd ref="173652150"/>
+    <nd ref="173594349"/>
+    <nd ref="173628204"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Line Runner Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Line Runner Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16785830">
+    <nd ref="173573167"/>
+    <nd ref="173662246"/>
+    <nd ref="173662247"/>
+    <nd ref="173662248"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elliot Rock Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Elliot Rock"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16785831">
+    <nd ref="173593994"/>
+    <nd ref="173662250"/>
+    <nd ref="173649151"/>
+    <nd ref="173662251"/>
+    <nd ref="173573167"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elliot Rock Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Elliot Rock"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16786461">
+    <nd ref="113874580"/>
+    <nd ref="173674057"/>
+    <nd ref="173573173"/>
+    <nd ref="173674061"/>
+    <nd ref="173674068"/>
+    <nd ref="173674074"/>
+    <nd ref="173674078"/>
+    <nd ref="173674082"/>
+    <nd ref="173674085"/>
+    <nd ref="173674089"/>
+    <nd ref="173674093"/>
+    <nd ref="173674098"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gap Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Gap"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16786572">
+    <nd ref="173652146"/>
+    <nd ref="173675734"/>
+    <nd ref="173675737"/>
+    <nd ref="173675740"/>
+    <nd ref="173675742"/>
+    <nd ref="173675744"/>
+    <nd ref="173675746"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Eastatoe Gap"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Eastatoe Gap"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="133747195"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-c5f73f9d-60f1-4118-837a-d03f08a8484b"/>
+  </way>
+  <way id="16787272">
+    <nd ref="173662248"/>
+    <nd ref="173689225"/>
+    <nd ref="173689227"/>
+    <nd ref="173689229"/>
+    <nd ref="173689232"/>
+    <nd ref="173689235"/>
+    <nd ref="173689215"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Liz Reece Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Liz Reece"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16787452">
+    <nd ref="173673347"/>
+    <nd ref="2030632798"/>
+    <nd ref="2030632791"/>
+    <nd ref="2030632764"/>
+    <nd ref="2030632793"/>
+    <nd ref="2030632719"/>
+    <nd ref="2030632762"/>
+    <nd ref="173591988"/>
+    <nd ref="2030632808"/>
+    <nd ref="2030632802"/>
+    <nd ref="2030632768"/>
+    <nd ref="173692518"/>
+    <nd ref="173692520"/>
+    <nd ref="173692523"/>
+    <nd ref="173692526"/>
+    <nd ref="173692528"/>
+    <nd ref="173692530"/>
+    <nd ref="173692532"/>
+    <nd ref="2030632781"/>
+    <nd ref="173692534"/>
+    <nd ref="173692536"/>
+    <nd ref="173625045"/>
+    <nd ref="173692538"/>
+    <nd ref="173692540"/>
+    <nd ref="173692542"/>
+    <nd ref="173692545"/>
+    <nd ref="173692547"/>
+    <nd ref="173692550"/>
+    <nd ref="173692553"/>
+    <nd ref="173692559"/>
+    <nd ref="173692563"/>
+    <nd ref="173692564"/>
+    <nd ref="173692566"/>
+    <nd ref="173692567"/>
+    <nd ref="173692569"/>
+    <nd ref="173692571"/>
+    <nd ref="173562995"/>
+    <nd ref="173569992"/>
+    <nd ref="173569985"/>
+    <nd ref="173692573"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Logging Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Transylvania, NC"/>
+    <tag k="tiger:name_base" v="Logging"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

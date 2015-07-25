@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16621660">
+    <nd ref="171655247"/>
+    <nd ref="171680552"/>
+    <nd ref="171680555"/>
+    <nd ref="171680559"/>
+    <nd ref="171680562"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35984849"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16622696">
+    <nd ref="171690666"/>
+    <nd ref="171690669"/>
+    <nd ref="171690673"/>
+    <nd ref="171690675"/>
+    <nd ref="171690677"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35976995"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16629189">
+    <nd ref="171762465"/>
+    <nd ref="171762467"/>
+    <nd ref="171762469"/>
+    <nd ref="171762471"/>
+    <nd ref="171762473"/>
+    <nd ref="171762475"/>
+    <nd ref="171762477"/>
+    <nd ref="171762479"/>
+    <nd ref="171762482"/>
+    <nd ref="171655243"/>
+    <nd ref="171762356"/>
+    <nd ref="171762359"/>
+    <nd ref="171762362"/>
+    <nd ref="171680562"/>
+    <nd ref="171762365"/>
+    <nd ref="171690666"/>
+    <nd ref="171762368"/>
+    <nd ref="171762371"/>
+    <nd ref="171762374"/>
+    <nd ref="171762376"/>
+    <nd ref="171762378"/>
+    <nd ref="171762379"/>
+    <nd ref="171762380"/>
+    <nd ref="171762382"/>
+    <nd ref="171762384"/>
+    <nd ref="171762387"/>
+    <nd ref="171672036"/>
+    <nd ref="171762389"/>
+    <nd ref="171671980"/>
+    <nd ref="171762391"/>
+    <nd ref="171762393"/>
+    <nd ref="171762396"/>
+    <nd ref="171762398"/>
+    <nd ref="171762401"/>
+    <nd ref="171762403"/>
+    <nd ref="171762404"/>
+    <nd ref="171762406"/>
+    <nd ref="171762408"/>
+    <nd ref="171762412"/>
+    <nd ref="171762415"/>
+    <nd ref="171762417"/>
+    <nd ref="171762420"/>
+    <nd ref="171762422"/>
+    <nd ref="171762424"/>
+    <nd ref="171762426"/>
+    <nd ref="171762428"/>
+    <nd ref="171762430"/>
+    <nd ref="171717917"/>
+    <nd ref="171762434"/>
+    <nd ref="171762436"/>
+    <nd ref="171762439"/>
+    <nd ref="171762441"/>
+    <nd ref="171762445"/>
+    <nd ref="171762447"/>
+    <nd ref="171762450"/>
+    <nd ref="171762453"/>
+    <nd ref="171762456"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Charley's Creek Road;State Road 1756"/>
+    <tag k="name_1" v="State Road 1756"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Charley's Creek;State Road 1756"/>
+    <tag k="tiger:name_base_1" v="State Road 1756"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

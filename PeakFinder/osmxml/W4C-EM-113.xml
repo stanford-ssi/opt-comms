@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:53:02Z"/>
+
+  <way id="18932871">
+    <nd ref="195918081"/>
+    <nd ref="195918083"/>
+    <nd ref="195918085"/>
+    <nd ref="195918086"/>
+    <nd ref="195918087"/>
+    <nd ref="195918089"/>
+    <nd ref="195918091"/>
+    <nd ref="195918092"/>
+    <nd ref="195918093"/>
+    <nd ref="195918095"/>
+    <nd ref="195918097"/>
+    <nd ref="195918099"/>
+    <nd ref="195918101"/>
+    <nd ref="195918104"/>
+    <nd ref="195918105"/>
+    <nd ref="195918107"/>
+    <nd ref="195918108"/>
+    <nd ref="195918109"/>
+    <nd ref="195918110"/>
+    <nd ref="195918112"/>
+    <nd ref="195918114"/>
+    <nd ref="195918116"/>
+    <nd ref="195918118"/>
+    <nd ref="195918119"/>
+    <nd ref="195918120"/>
+    <nd ref="195918081"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Larkins Little Mountain Road"/>
+    <tag k="name_1" v="State Road 1187"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:name_base" v="Larkins Little Mountain"/>
+    <tag k="tiger:name_base_1" v="State Road 1187"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="301435151">
+    <nd ref="195928079"/>
+    <nd ref="195918226"/>
+    <nd ref="195928082"/>
+    <nd ref="195928084"/>
+    <nd ref="195928086"/>
+    <nd ref="195853940"/>
+    <nd ref="195928088"/>
+    <nd ref="195928090"/>
+    <nd ref="195928092"/>
+    <nd ref="195928094"/>
+    <nd ref="195915887"/>
+    <nd ref="195928096"/>
+    <nd ref="195889562"/>
+    <nd ref="195928098"/>
+    <nd ref="195928100"/>
+    <nd ref="195928102"/>
+    <nd ref="195854575"/>
+    <nd ref="195928104"/>
+    <nd ref="195928106"/>
+    <nd ref="195928108"/>
+    <nd ref="195928111"/>
+    <nd ref="195928113"/>
+    <nd ref="195928115"/>
+    <nd ref="195928117"/>
+    <nd ref="195928119"/>
+    <nd ref="195875909"/>
+    <nd ref="195918134"/>
+    <nd ref="195928121"/>
+    <nd ref="195832186"/>
+    <nd ref="195928123"/>
+    <nd ref="195928125"/>
+    <nd ref="195928127"/>
+    <nd ref="195928129"/>
+    <nd ref="195928131"/>
+    <nd ref="195928133"/>
+    <nd ref="195928135"/>
+    <nd ref="195928137"/>
+    <nd ref="195928138"/>
+    <nd ref="195928141"/>
+    <nd ref="195928143"/>
+    <nd ref="195928145"/>
+    <nd ref="195917888"/>
+    <nd ref="195928147"/>
+    <nd ref="195928149"/>
+    <nd ref="195928151"/>
+    <nd ref="195928153"/>
+    <nd ref="195928155"/>
+    <nd ref="195887474"/>
+    <nd ref="195837324"/>
+    <nd ref="195864209"/>
+    <nd ref="195928157"/>
+    <nd ref="195928159"/>
+    <nd ref="195928161"/>
+    <nd ref="195928163"/>
+    <nd ref="195825258"/>
+    <nd ref="195928164"/>
+    <nd ref="195928165"/>
+    <nd ref="195928166"/>
+    <nd ref="195825372"/>
+    <nd ref="195928167"/>
+    <nd ref="195928168"/>
+    <nd ref="195928169"/>
+    <nd ref="195928170"/>
+    <nd ref="195851528"/>
+    <nd ref="195928171"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="name" v="State Highway 268"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="NC 268"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Caldwell, NC:Wilkes, NC"/>
+    <tag k="tiger:name_base" v="State Highway 268"/>
+    <tag k="tiger:name_base_1" v="C Hwy 268"/>
+    <tag k="tiger:name_direction_prefix" v="W"/>
+    <tag k="tiger:name_direction_prefix_1" v="N"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

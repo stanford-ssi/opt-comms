@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:45:01Z"/>
+
+  <way id="16429743">
+    <nd ref="169581124"/>
+    <nd ref="169581126"/>
+    <nd ref="169581128"/>
+    <nd ref="169581130"/>
+    <nd ref="169581132"/>
+    <nd ref="169581135"/>
+    <nd ref="169581137"/>
+    <nd ref="169581139"/>
+    <nd ref="169581141"/>
+    <nd ref="169581143"/>
+    <nd ref="169581144"/>
+    <nd ref="169581145"/>
+    <nd ref="169581146"/>
+    <nd ref="169581147"/>
+    <nd ref="169581148"/>
+    <nd ref="169581151"/>
+    <nd ref="169581153"/>
+    <nd ref="169581155"/>
+    <nd ref="169581158"/>
+    <nd ref="169581161"/>
+    <nd ref="169581163"/>
+    <nd ref="169581164"/>
+    <nd ref="169581166"/>
+    <nd ref="169581169"/>
+    <nd ref="169581171"/>
+    <nd ref="169581172"/>
+    <nd ref="169581181"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elkins Mt Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Elkins Mt"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28715"/>
+    <tag k="tiger:zip_right" v="28715"/>
+  </way>
+  <way id="16438270">
+    <nd ref="169657975"/>
+    <nd ref="169657979"/>
+    <nd ref="169657982"/>
+    <nd ref="169657986"/>
+    <nd ref="169657988"/>
+    <nd ref="169657992"/>
+    <nd ref="169657995"/>
+    <nd ref="169657998"/>
+    <nd ref="169658001"/>
+    <nd ref="169658005"/>
+    <nd ref="169658007"/>
+    <nd ref="169658010"/>
+    <nd ref="169658012"/>
+    <nd ref="169658016"/>
+    <nd ref="169658020"/>
+    <nd ref="169658022"/>
+    <nd ref="169658025"/>
+    <nd ref="169658031"/>
+    <nd ref="169581124"/>
+    <nd ref="169658037"/>
+    <nd ref="169658040"/>
+    <nd ref="169658045"/>
+    <nd ref="169658051"/>
+    <nd ref="169658055"/>
+    <nd ref="169658058"/>
+    <nd ref="169658062"/>
+    <nd ref="169658066"/>
+    <nd ref="169658071"/>
+    <nd ref="169658073"/>
+    <nd ref="169658075"/>
+    <nd ref="169658077"/>
+    <nd ref="169658080"/>
+    <nd ref="169658085"/>
+    <nd ref="169658090"/>
+    <nd ref="169658093"/>
+    <nd ref="169658094"/>
+    <nd ref="169658097"/>
+    <nd ref="169658101"/>
+    <nd ref="169658104"/>
+    <nd ref="169658110"/>
+    <nd ref="169658113"/>
+    <nd ref="169658116"/>
+    <nd ref="169658120"/>
+    <nd ref="169658123"/>
+    <nd ref="169658126"/>
+    <nd ref="169658129"/>
+    <nd ref="169658137"/>
+    <nd ref="169513507"/>
+    <nd ref="169658141"/>
+    <nd ref="169658145"/>
+    <nd ref="169658149"/>
+    <nd ref="169658153"/>
+    <nd ref="169658157"/>
+    <nd ref="169658164"/>
+    <nd ref="169658170"/>
+    <nd ref="169658173"/>
+    <nd ref="169658177"/>
+    <nd ref="169658182"/>
+    <nd ref="169658185"/>
+    <nd ref="169658188"/>
+    <nd ref="169658191"/>
+    <nd ref="169658195"/>
+    <nd ref="169658199"/>
+    <nd ref="169658203"/>
+    <nd ref="169658207"/>
+    <nd ref="169658213"/>
+    <nd ref="169658217"/>
+    <nd ref="169658221"/>
+    <nd ref="169658224"/>
+    <nd ref="169658227"/>
+    <nd ref="169658230"/>
+    <nd ref="169658234"/>
+    <nd ref="169658237"/>
+    <nd ref="169658240"/>
+    <nd ref="169658244"/>
+    <nd ref="169658248"/>
+    <nd ref="169658250"/>
+    <nd ref="169658252"/>
+    <nd ref="169658254"/>
+    <nd ref="169607957"/>
+    <nd ref="169658255"/>
+    <nd ref="169658256"/>
+    <nd ref="169658258"/>
+    <nd ref="169657572"/>
+    <nd ref="169658260"/>
+    <nd ref="169508430"/>
+    <nd ref="169531970"/>
+    <nd ref="169658262"/>
+    <nd ref="169658263"/>
+    <nd ref="169658264"/>
+    <nd ref="169658267"/>
+    <nd ref="169658269"/>
+    <nd ref="169658271"/>
+    <nd ref="169658273"/>
+    <nd ref="169658277"/>
+    <nd ref="169658279"/>
+    <nd ref="169658282"/>
+    <nd ref="169658286"/>
+    <nd ref="169658289"/>
+    <nd ref="169658291"/>
+    <nd ref="169658294"/>
+    <nd ref="169658296"/>
+    <nd ref="169658298"/>
+    <nd ref="169658300"/>
+    <nd ref="169658303"/>
+    <nd ref="169658306"/>
+    <nd ref="169658308"/>
+    <nd ref="169658310"/>
+    <nd ref="169658313"/>
+    <nd ref="169658316"/>
+    <nd ref="169658318"/>
+    <nd ref="169658321"/>
+    <nd ref="169658324"/>
+    <nd ref="169658325"/>
+    <nd ref="169658328"/>
+    <nd ref="169658330"/>
+    <nd ref="169658332"/>
+    <nd ref="169658335"/>
+    <nd ref="169658339"/>
+    <nd ref="169624448"/>
+    <nd ref="169658341"/>
+    <nd ref="169658346"/>
+    <nd ref="169658350"/>
+    <nd ref="169658354"/>
+    <nd ref="169658358"/>
+    <nd ref="169658361"/>
+    <nd ref="169658365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dix Creek Rd 2"/>
+    <tag k="name_1" v="State Road 1306"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Dix Creek Rd 2"/>
+    <tag k="tiger:name_base_1" v="State Road 1306"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36885532:36885533:36895131:36895132:36895104:36895105:36905986:36905987:36885540:36840245:36885544:36885545:36885547:36895138:36895139:36878770"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16446800">
+    <nd ref="169657975"/>
+    <nd ref="169734724"/>
+    <nd ref="169734726"/>
+    <nd ref="169734729"/>
+    <nd ref="169734732"/>
+    <nd ref="169734734"/>
+    <nd ref="169734737"/>
+    <nd ref="169734740"/>
+    <nd ref="169734742"/>
+    <nd ref="169734744"/>
+    <nd ref="169734746"/>
+    <nd ref="169734748"/>
+    <nd ref="169734751"/>
+    <nd ref="169734754"/>
+    <nd ref="169734757"/>
+    <nd ref="169734759"/>
+    <nd ref="169734763"/>
+    <nd ref="169734766"/>
+    <nd ref="169734769"/>
+    <nd ref="169734772"/>
+    <nd ref="169734774"/>
+    <nd ref="169734776"/>
+    <nd ref="169734779"/>
+    <nd ref="169734782"/>
+    <nd ref="169734784"/>
+    <nd ref="169734785"/>
+    <nd ref="169734786"/>
+    <nd ref="169734787"/>
+    <nd ref="169734788"/>
+    <nd ref="169734789"/>
+    <nd ref="169734792"/>
+    <nd ref="169734795"/>
+    <nd ref="169734797"/>
+    <nd ref="169734799"/>
+    <nd ref="169734801"/>
+    <nd ref="169734803"/>
+    <nd ref="169734805"/>
+    <nd ref="169734807"/>
+    <nd ref="169734809"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="Trail"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Trail"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36839835:36839836:36839837"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+
+</osm>

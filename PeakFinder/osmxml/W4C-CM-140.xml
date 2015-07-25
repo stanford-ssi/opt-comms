@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16607980">
+    <nd ref="171504758"/>
+    <nd ref="171504760"/>
+    <nd ref="171504761"/>
+    <nd ref="171504764"/>
+    <nd ref="171504766"/>
+    <nd ref="171504768"/>
+    <nd ref="171504770"/>
+    <nd ref="171504772"/>
+    <nd ref="171504774"/>
+    <nd ref="171504777"/>
+    <nd ref="171504780"/>
+    <nd ref="171504783"/>
+    <nd ref="171504786"/>
+    <nd ref="171504789"/>
+    <nd ref="171504792"/>
+    <nd ref="171504795"/>
+    <nd ref="171504798"/>
+    <nd ref="171504801"/>
+    <nd ref="171504804"/>
+    <nd ref="171504807"/>
+    <nd ref="171504810"/>
+    <nd ref="171504815"/>
+    <nd ref="171504817"/>
+    <nd ref="171504820"/>
+    <nd ref="171504823"/>
+    <nd ref="171504826"/>
+    <nd ref="171504829"/>
+    <nd ref="171504832"/>
+    <nd ref="171504834"/>
+    <nd ref="171504837"/>
+    <nd ref="171504840"/>
+    <nd ref="171504843"/>
+    <nd ref="171504846"/>
+    <nd ref="171504849"/>
+    <nd ref="171504852"/>
+    <nd ref="171504855"/>
+    <nd ref="171504858"/>
+    <nd ref="171504861"/>
+    <nd ref="171504863"/>
+    <nd ref="171504865"/>
+    <nd ref="171504866"/>
+    <nd ref="171504868"/>
+    <nd ref="171504870"/>
+    <nd ref="171504872"/>
+    <nd ref="171504874"/>
+    <nd ref="171504876"/>
+    <nd ref="171504879"/>
+    <nd ref="171504882"/>
+    <nd ref="171504885"/>
+    <nd ref="171504888"/>
+    <nd ref="171504891"/>
+    <nd ref="171504893"/>
+    <nd ref="171504895"/>
+    <nd ref="171504897"/>
+    <nd ref="171504900"/>
+    <nd ref="171504903"/>
+    <nd ref="171504908"/>
+    <nd ref="171504912"/>
+    <nd ref="171504915"/>
+    <nd ref="171504918"/>
+    <nd ref="171504921"/>
+    <nd ref="171504924"/>
+    <nd ref="171504927"/>
+    <nd ref="171504930"/>
+    <nd ref="171504933"/>
+    <nd ref="171504935"/>
+    <nd ref="171504938"/>
+    <nd ref="171504945"/>
+    <nd ref="171504947"/>
+    <nd ref="171504949"/>
+    <nd ref="171504951"/>
+    <nd ref="171504953"/>
+    <nd ref="171504957"/>
+    <nd ref="171504960"/>
+    <nd ref="171504963"/>
+    <nd ref="171504965"/>
+    <nd ref="171504967"/>
+    <nd ref="171504969"/>
+    <nd ref="171504971"/>
+    <nd ref="171504973"/>
+    <nd ref="171504975"/>
+    <nd ref="171504977"/>
+    <nd ref="171504979"/>
+    <nd ref="171504981"/>
+    <nd ref="171504982"/>
+    <nd ref="171504983"/>
+    <nd ref="171504984"/>
+    <nd ref="171504985"/>
+    <nd ref="171504986"/>
+    <nd ref="171504988"/>
+    <nd ref="171504990"/>
+    <nd ref="171504992"/>
+    <nd ref="171504994"/>
+    <nd ref="171504995"/>
+    <nd ref="171504997"/>
+    <nd ref="171504998"/>
+    <nd ref="171505000"/>
+    <nd ref="171505001"/>
+    <nd ref="171505003"/>
+    <nd ref="171505005"/>
+    <nd ref="171505010"/>
+    <nd ref="171505013"/>
+    <nd ref="171505016"/>
+    <nd ref="171505019"/>
+    <nd ref="171505022"/>
+    <nd ref="171505025"/>
+    <nd ref="171505028"/>
+    <nd ref="171467006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Overton Hills Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Overton Hills"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28739"/>
+    <tag k="tiger:zip_right" v="28739"/>
+  </way>
+
+</osm>

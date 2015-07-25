@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:03:01Z"/>
+
+  <way id="16471752">
+    <nd ref="170012690"/>
+    <nd ref="170012693"/>
+    <nd ref="170012696"/>
+    <nd ref="170012699"/>
+    <nd ref="170012702"/>
+    <nd ref="170012705"/>
+    <nd ref="170012707"/>
+    <nd ref="170012709"/>
+    <nd ref="170012711"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Scarlet Oak Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Scarlet Oak"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="301495617">
+    <nd ref="3055576782"/>
+    <nd ref="3055576800"/>
+    <nd ref="3055576801"/>
+    <nd ref="3055576804"/>
+    <nd ref="3055576805"/>
+    <nd ref="3055576811"/>
+    <nd ref="3055576823"/>
+    <nd ref="3055577033"/>
+    <nd ref="3055577037"/>
+    <nd ref="3055577036"/>
+    <nd ref="3055576830"/>
+    <nd ref="3055576824"/>
+    <nd ref="3055576831"/>
+    <nd ref="3055576817"/>
+    <nd ref="3055576828"/>
+    <nd ref="3055576818"/>
+    <nd ref="3055576829"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Chinquapin Lane"/>
+  </way>
+  <way id="301495621">
+    <nd ref="3055576800"/>
+    <nd ref="3055576799"/>
+    <nd ref="3055576798"/>
+    <nd ref="3055576803"/>
+    <nd ref="3055576806"/>
+    <nd ref="3055576797"/>
+    <nd ref="3055576794"/>
+    <nd ref="3055576795"/>
+    <nd ref="3055576792"/>
+    <nd ref="3055576790"/>
+    <tag k="highway" v="track"/>
+    <tag k="name" v="Crossover Lane"/>
+  </way>
+
+</osm>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16633286">
+    <nd ref="171747482"/>
+    <nd ref="171808414"/>
+    <nd ref="171756061"/>
+    <nd ref="171808415"/>
+    <nd ref="171808416"/>
+    <nd ref="171749539"/>
+    <nd ref="171808418"/>
+    <nd ref="171808420"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Two Sweet Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Two Sweet"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16649486">
+    <nd ref="171988062"/>
+    <nd ref="171988064"/>
+    <nd ref="171988066"/>
+    <nd ref="171988069"/>
+    <nd ref="171988073"/>
+    <nd ref="171988077"/>
+    <nd ref="171988079"/>
+    <nd ref="171988081"/>
+    <nd ref="171988082"/>
+    <nd ref="171988086"/>
+    <nd ref="171988089"/>
+    <nd ref="171988092"/>
+    <nd ref="171988094"/>
+    <nd ref="171988097"/>
+    <nd ref="171988100"/>
+    <nd ref="171988104"/>
+    <nd ref="171988107"/>
+    <nd ref="171988108"/>
+    <nd ref="171988109"/>
+    <nd ref="171988111"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35498993:35498994:35498995"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+
+</osm>

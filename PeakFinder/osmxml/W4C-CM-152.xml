@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16417383">
+    <nd ref="169460283"/>
+    <nd ref="169460286"/>
+    <nd ref="169460291"/>
+    <nd ref="169460295"/>
+    <nd ref="169460299"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36907787"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16417386">
+    <nd ref="169460395"/>
+    <nd ref="169460399"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36907788"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16439309">
+    <nd ref="445192782"/>
+    <nd ref="169670125"/>
+    <nd ref="169670126"/>
+    <nd ref="169670128"/>
+    <nd ref="169670130"/>
+    <nd ref="169670132"/>
+    <nd ref="169670134"/>
+    <nd ref="169670137"/>
+    <nd ref="169670140"/>
+    <nd ref="169670142"/>
+    <nd ref="169670144"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chinquapin Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Chinquapin"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16440853">
+    <nd ref="169687852"/>
+    <nd ref="169687855"/>
+    <nd ref="169687857"/>
+    <nd ref="169687861"/>
+    <nd ref="169670144"/>
+    <nd ref="169687865"/>
+    <nd ref="169687869"/>
+    <nd ref="169460299"/>
+    <nd ref="169687877"/>
+    <nd ref="169687880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chestnut Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Chestnut Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16442301">
+    <nd ref="445192851"/>
+    <nd ref="169697077"/>
+    <nd ref="169697080"/>
+    <nd ref="169460283"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Laurel"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16444662">
+    <nd ref="169717543"/>
+    <nd ref="169717545"/>
+    <nd ref="169717547"/>
+    <nd ref="169717550"/>
+    <nd ref="169687855"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chestnut Top Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Chestnut Top"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16446233">
+    <nd ref="445192847"/>
+    <nd ref="169729760"/>
+    <nd ref="169729762"/>
+    <nd ref="169729765"/>
+    <nd ref="169729768"/>
+    <nd ref="169729770"/>
+    <nd ref="169729772"/>
+    <nd ref="169729775"/>
+    <nd ref="169729778"/>
+    <nd ref="169729780"/>
+    <nd ref="169729782"/>
+    <nd ref="169729784"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Red Oak Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Red Oak"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+  </way>
+  <way id="16446235">
+    <nd ref="169697080"/>
+    <nd ref="169729768"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Red Oak Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Red Oak"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16446313">
+    <nd ref="169681808"/>
+    <nd ref="169730358"/>
+    <nd ref="169730360"/>
+    <nd ref="169730362"/>
+    <nd ref="169730365"/>
+    <nd ref="169476900"/>
+    <nd ref="169730368"/>
+    <nd ref="169730372"/>
+    <nd ref="169730375"/>
+    <nd ref="169497440"/>
+    <nd ref="169730378"/>
+    <nd ref="169497448"/>
+    <nd ref="169730381"/>
+    <nd ref="169730385"/>
+    <nd ref="169730388"/>
+    <nd ref="169730391"/>
+    <nd ref="169497642"/>
+    <nd ref="169730394"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bishop Road"/>
+    <tag k="name_1" v="State Road 3494"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:name_base" v="Bishop"/>
+    <tag k="tiger:name_base_1" v="State Road 3494"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+  </way>
+  <way id="16603504">
+    <nd ref="171448632"/>
+    <nd ref="171448635"/>
+    <nd ref="171448638"/>
+    <nd ref="171448641"/>
+    <nd ref="171448643"/>
+    <nd ref="171448646"/>
+    <nd ref="171448649"/>
+    <nd ref="171448652"/>
+    <nd ref="171448655"/>
+    <nd ref="171448658"/>
+    <nd ref="171448661"/>
+    <nd ref="171448665"/>
+    <nd ref="171448668"/>
+    <nd ref="171448670"/>
+    <nd ref="171448672"/>
+    <nd ref="171448674"/>
+    <nd ref="171448676"/>
+    <nd ref="171448678"/>
+    <nd ref="171448679"/>
+    <nd ref="171448681"/>
+    <nd ref="171448683"/>
+    <nd ref="171448684"/>
+    <nd ref="171448686"/>
+    <nd ref="171448687"/>
+    <nd ref="171448688"/>
+    <nd ref="171448690"/>
+    <nd ref="171448691"/>
+    <nd ref="171448693"/>
+    <nd ref="171448695"/>
+    <nd ref="171448697"/>
+    <nd ref="171448699"/>
+    <nd ref="171448702"/>
+    <nd ref="171448705"/>
+    <nd ref="171448707"/>
+    <nd ref="171448709"/>
+    <nd ref="171448712"/>
+    <nd ref="171448714"/>
+    <nd ref="171448717"/>
+    <nd ref="171448719"/>
+    <nd ref="171448722"/>
+    <nd ref="171448725"/>
+    <nd ref="171448728"/>
+    <nd ref="171448732"/>
+    <nd ref="171448734"/>
+    <nd ref="171448736"/>
+    <nd ref="171448738"/>
+    <nd ref="171448740"/>
+    <nd ref="171448743"/>
+    <nd ref="171448745"/>
+    <nd ref="171448748"/>
+    <nd ref="171448749"/>
+    <nd ref="171448752"/>
+    <nd ref="171448756"/>
+    <nd ref="171448759"/>
+    <nd ref="171448761"/>
+    <nd ref="171448763"/>
+    <nd ref="171448766"/>
+    <nd ref="171448769"/>
+    <nd ref="171448772"/>
+    <nd ref="171448774"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sugar Maple Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sugar Maple"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16604373">
+    <nd ref="171459322"/>
+    <nd ref="171459325"/>
+    <nd ref="171459330"/>
+    <nd ref="171459333"/>
+    <nd ref="171459335"/>
+    <nd ref="171459337"/>
+    <nd ref="171459339"/>
+    <nd ref="171459342"/>
+    <nd ref="171459345"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mulberry Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Mulberry"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16608693">
+    <nd ref="171512837"/>
+    <nd ref="171512839"/>
+    <nd ref="171512841"/>
+    <nd ref="171512843"/>
+    <nd ref="171512846"/>
+    <nd ref="171512849"/>
+    <nd ref="171512852"/>
+    <nd ref="171512854"/>
+    <nd ref="171512856"/>
+    <nd ref="171512860"/>
+    <nd ref="171512863"/>
+    <nd ref="171512866"/>
+    <nd ref="171512871"/>
+    <nd ref="171512874"/>
+    <nd ref="171512877"/>
+    <nd ref="171512881"/>
+    <nd ref="171512883"/>
+    <nd ref="171512885"/>
+    <nd ref="171512888"/>
+    <nd ref="171512891"/>
+    <nd ref="171512894"/>
+    <nd ref="171512897"/>
+    <nd ref="171512900"/>
+    <nd ref="171512903"/>
+    <nd ref="171512906"/>
+    <nd ref="171512909"/>
+    <nd ref="171512913"/>
+    <nd ref="171512915"/>
+    <nd ref="171512917"/>
+    <nd ref="171512919"/>
+    <nd ref="171512922"/>
+    <nd ref="171512924"/>
+    <nd ref="171512928"/>
+    <nd ref="171512930"/>
+    <nd ref="171512932"/>
+    <nd ref="171512933"/>
+    <nd ref="171512936"/>
+    <nd ref="171512938"/>
+    <nd ref="171512941"/>
+    <nd ref="171512943"/>
+    <nd ref="171512946"/>
+    <nd ref="171512949"/>
+    <nd ref="171512952"/>
+    <nd ref="171512955"/>
+    <nd ref="171512957"/>
+    <nd ref="171512959"/>
+    <nd ref="171512961"/>
+    <nd ref="171512964"/>
+    <nd ref="171512966"/>
+    <nd ref="171512968"/>
+    <nd ref="171393869"/>
+    <nd ref="171512970"/>
+    <nd ref="171512972"/>
+    <nd ref="171512975"/>
+    <nd ref="171512980"/>
+    <nd ref="171512987"/>
+    <nd ref="171512989"/>
+    <nd ref="171512991"/>
+    <nd ref="171512995"/>
+    <nd ref="171512998"/>
+    <nd ref="171513002"/>
+    <nd ref="171513005"/>
+    <nd ref="171513007"/>
+    <nd ref="171513009"/>
+    <nd ref="171513011"/>
+    <nd ref="171513012"/>
+    <nd ref="171513013"/>
+    <nd ref="171513014"/>
+    <nd ref="171513016"/>
+    <nd ref="171513019"/>
+    <nd ref="171513020"/>
+    <nd ref="171513021"/>
+    <nd ref="171513022"/>
+    <nd ref="171513024"/>
+    <nd ref="171513027"/>
+    <nd ref="171513029"/>
+    <nd ref="171513030"/>
+    <nd ref="171513032"/>
+    <nd ref="171513033"/>
+    <nd ref="171513034"/>
+    <nd ref="171513035"/>
+    <nd ref="171513039"/>
+    <nd ref="171513042"/>
+    <nd ref="171513045"/>
+    <nd ref="171513048"/>
+    <nd ref="171513051"/>
+    <nd ref="171513054"/>
+    <nd ref="171513056"/>
+    <nd ref="171513058"/>
+    <nd ref="171513059"/>
+    <nd ref="171513060"/>
+    <nd ref="171513061"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Honey Locust Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Honey Locust"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16612092">
+    <nd ref="445192782"/>
+    <nd ref="171556565"/>
+    <nd ref="171556567"/>
+    <nd ref="171556569"/>
+    <nd ref="171556573"/>
+    <nd ref="171556579"/>
+    <nd ref="171556584"/>
+    <nd ref="171556587"/>
+    <nd ref="171556591"/>
+    <nd ref="171556594"/>
+    <nd ref="171556598"/>
+    <nd ref="171556601"/>
+    <nd ref="171556603"/>
+    <nd ref="171556606"/>
+    <nd ref="171556609"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chinquapin Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Chinquapin"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16614064">
+    <nd ref="171585938"/>
+    <nd ref="171585939"/>
+    <nd ref="171585941"/>
+    <nd ref="171585943"/>
+    <nd ref="171585945"/>
+    <nd ref="171585948"/>
+    <nd ref="171585950"/>
+    <nd ref="171585953"/>
+    <nd ref="171585955"/>
+    <nd ref="171585957"/>
+    <nd ref="171585959"/>
+    <nd ref="171585962"/>
+    <nd ref="171585965"/>
+    <nd ref="171585967"/>
+    <nd ref="171585970"/>
+    <nd ref="171585973"/>
+    <nd ref="171585976"/>
+    <nd ref="171585978"/>
+    <nd ref="171585980"/>
+    <nd ref="171585982"/>
+    <nd ref="171585984"/>
+    <nd ref="171585985"/>
+    <nd ref="171585987"/>
+    <nd ref="171585990"/>
+    <nd ref="171585991"/>
+    <nd ref="171585993"/>
+    <nd ref="171585995"/>
+    <nd ref="171585997"/>
+    <nd ref="171585999"/>
+    <nd ref="171586001"/>
+    <nd ref="171586003"/>
+    <nd ref="171586005"/>
+    <nd ref="171586006"/>
+    <nd ref="171586007"/>
+    <nd ref="171586008"/>
+    <nd ref="171586009"/>
+    <nd ref="171586011"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Poplar Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Poplar"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16614563">
+    <nd ref="171513022"/>
+    <nd ref="171590890"/>
+    <nd ref="171590891"/>
+    <nd ref="171590894"/>
+    <nd ref="171448774"/>
+    <nd ref="171590899"/>
+    <nd ref="171590901"/>
+    <nd ref="171590907"/>
+    <nd ref="171590911"/>
+    <nd ref="171590914"/>
+    <nd ref="171590916"/>
+    <nd ref="171590918"/>
+    <nd ref="171590919"/>
+    <nd ref="171590921"/>
+    <nd ref="171590923"/>
+    <nd ref="171590926"/>
+    <nd ref="171590927"/>
+    <nd ref="171590929"/>
+    <nd ref="171590932"/>
+    <nd ref="171590934"/>
+    <nd ref="171590936"/>
+    <nd ref="171590938"/>
+    <nd ref="171590941"/>
+    <nd ref="171590943"/>
+    <nd ref="171590946"/>
+    <nd ref="171590948"/>
+    <nd ref="171590950"/>
+    <nd ref="171590952"/>
+    <nd ref="171590954"/>
+    <nd ref="171590958"/>
+    <nd ref="171590961"/>
+    <nd ref="171556609"/>
+    <nd ref="171590966"/>
+    <nd ref="171590968"/>
+    <nd ref="171590971"/>
+    <nd ref="171590974"/>
+    <nd ref="171590977"/>
+    <nd ref="445192884"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chestnut Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Chestnut Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16614773">
+    <nd ref="171593254"/>
+    <nd ref="171593257"/>
+    <nd ref="171593259"/>
+    <nd ref="171593262"/>
+    <nd ref="171593265"/>
+    <nd ref="171593268"/>
+    <nd ref="171593270"/>
+    <nd ref="171593272"/>
+    <nd ref="171593275"/>
+    <nd ref="171593278"/>
+    <nd ref="171459322"/>
+    <nd ref="171593281"/>
+    <nd ref="171593283"/>
+    <nd ref="171593285"/>
+    <nd ref="171593287"/>
+    <nd ref="171593289"/>
+    <nd ref="171593292"/>
+    <nd ref="171593295"/>
+    <nd ref="171593298"/>
+    <nd ref="171593299"/>
+    <nd ref="171593300"/>
+    <nd ref="171593302"/>
+    <nd ref="171593304"/>
+    <nd ref="171593306"/>
+    <nd ref="171593307"/>
+    <nd ref="171593308"/>
+    <nd ref="171593310"/>
+    <nd ref="171593312"/>
+    <nd ref="171593314"/>
+    <nd ref="171593316"/>
+    <nd ref="171593319"/>
+    <nd ref="171593321"/>
+    <nd ref="171593324"/>
+    <nd ref="171593326"/>
+    <nd ref="171593328"/>
+    <nd ref="171593330"/>
+    <nd ref="171593332"/>
+    <nd ref="171593333"/>
+    <nd ref="171593335"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="High Vista Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="High Vista"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16616111">
+    <nd ref="171608377"/>
+    <nd ref="171608380"/>
+    <nd ref="171608381"/>
+    <nd ref="171608383"/>
+    <nd ref="171608385"/>
+    <nd ref="171608387"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Laurel"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16617955">
+    <nd ref="171590923"/>
+    <nd ref="171635194"/>
+    <nd ref="171635197"/>
+    <nd ref="171635200"/>
+    <nd ref="171635203"/>
+    <nd ref="171635206"/>
+    <nd ref="171635210"/>
+    <nd ref="171635213"/>
+    <nd ref="171635217"/>
+    <nd ref="171635224"/>
+    <nd ref="171635228"/>
+    <nd ref="171635231"/>
+    <nd ref="171635235"/>
+    <nd ref="171635239"/>
+    <nd ref="171635243"/>
+    <nd ref="171635245"/>
+    <nd ref="171635247"/>
+    <nd ref="171635248"/>
+    <nd ref="171635249"/>
+    <nd ref="171635250"/>
+    <nd ref="171635251"/>
+    <nd ref="171635252"/>
+    <nd ref="171635253"/>
+    <nd ref="171635255"/>
+    <nd ref="171635256"/>
+    <nd ref="171635257"/>
+    <nd ref="171635260"/>
+    <nd ref="171635262"/>
+    <nd ref="171635266"/>
+    <nd ref="171635268"/>
+    <nd ref="171635269"/>
+    <nd ref="171635270"/>
+    <nd ref="171635273"/>
+    <nd ref="171635276"/>
+    <nd ref="171608377"/>
+    <nd ref="171635279"/>
+    <nd ref="171635281"/>
+    <nd ref="171635283"/>
+    <nd ref="171635285"/>
+    <nd ref="171635286"/>
+    <nd ref="171635288"/>
+    <nd ref="445192851"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sourwood Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Sourwood"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16618766">
+    <nd ref="171590974"/>
+    <nd ref="171646323"/>
+    <nd ref="171646326"/>
+    <nd ref="171646329"/>
+    <nd ref="171646332"/>
+    <nd ref="171646335"/>
+    <nd ref="171646337"/>
+    <nd ref="171646340"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chestnut Top Circle"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Chestnut Top"/>
+    <tag k="tiger:name_type" v="Cir"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16620509">
+    <nd ref="171666730"/>
+    <nd ref="171666733"/>
+    <nd ref="171666736"/>
+    <nd ref="171666739"/>
+    <nd ref="171666742"/>
+    <nd ref="171666744"/>
+    <nd ref="171666747"/>
+    <nd ref="171666750"/>
+    <nd ref="171666753"/>
+    <nd ref="171666756"/>
+    <nd ref="171666758"/>
+    <nd ref="171666761"/>
+    <nd ref="171666764"/>
+    <nd ref="171666767"/>
+    <nd ref="171666770"/>
+    <nd ref="171666773"/>
+    <nd ref="171666776"/>
+    <nd ref="171541321"/>
+    <nd ref="171666779"/>
+    <nd ref="171666781"/>
+    <nd ref="171666784"/>
+    <nd ref="171666787"/>
+    <nd ref="171666790"/>
+    <nd ref="171666793"/>
+    <nd ref="171666799"/>
+    <nd ref="171666802"/>
+    <nd ref="171666805"/>
+    <nd ref="171666808"/>
+    <nd ref="171666811"/>
+    <nd ref="171666815"/>
+    <nd ref="171608776"/>
+    <nd ref="171666818"/>
+    <nd ref="171666821"/>
+    <nd ref="171666824"/>
+    <nd ref="171666827"/>
+    <nd ref="171666831"/>
+    <nd ref="171666836"/>
+    <nd ref="171666839"/>
+    <nd ref="171517153"/>
+    <nd ref="171666842"/>
+    <nd ref="171666846"/>
+    <nd ref="171666849"/>
+    <nd ref="171666853"/>
+    <nd ref="171666855"/>
+    <nd ref="171666858"/>
+    <nd ref="171666861"/>
+    <nd ref="171666864"/>
+    <nd ref="171666872"/>
+    <nd ref="171666876"/>
+    <nd ref="171666880"/>
+    <nd ref="171666883"/>
+    <nd ref="171666886"/>
+    <nd ref="171666889"/>
+    <nd ref="171666892"/>
+    <nd ref="171666896"/>
+    <nd ref="171666899"/>
+    <nd ref="171666901"/>
+    <nd ref="171512837"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Red Oak Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Red Oak"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16620511">
+    <nd ref="171512837"/>
+    <nd ref="171666927"/>
+    <nd ref="171666931"/>
+    <nd ref="171666935"/>
+    <nd ref="171666938"/>
+    <nd ref="171666945"/>
+    <nd ref="171666948"/>
+    <nd ref="171666951"/>
+    <nd ref="171666954"/>
+    <nd ref="171666958"/>
+    <nd ref="171666962"/>
+    <nd ref="171666964"/>
+    <nd ref="171666966"/>
+    <nd ref="445192847"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Red Oak Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Red Oak"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16627763">
+    <nd ref="169460395"/>
+    <nd ref="171745068"/>
+    <nd ref="171745070"/>
+    <nd ref="171745072"/>
+    <nd ref="171745075"/>
+    <nd ref="171745078"/>
+    <nd ref="171745081"/>
+    <nd ref="171745084"/>
+    <nd ref="171745087"/>
+    <nd ref="171745090"/>
+    <nd ref="171745093"/>
+    <nd ref="171745096"/>
+    <nd ref="171745099"/>
+    <nd ref="171745102"/>
+    <nd ref="171745105"/>
+    <nd ref="171745108"/>
+    <nd ref="171745111"/>
+    <nd ref="171590948"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wild Cherry Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Wild Cherry"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+  <way id="16628020">
+    <nd ref="171590923"/>
+    <nd ref="171748104"/>
+    <nd ref="171748107"/>
+    <nd ref="171748110"/>
+    <nd ref="171748113"/>
+    <nd ref="171748116"/>
+    <nd ref="171748119"/>
+    <nd ref="171748123"/>
+    <nd ref="171748126"/>
+    <nd ref="171748129"/>
+    <nd ref="171748131"/>
+    <nd ref="171748133"/>
+    <nd ref="171748135"/>
+    <nd ref="171748138"/>
+    <nd ref="171748141"/>
+    <nd ref="171748143"/>
+    <nd ref="171748146"/>
+    <nd ref="171748149"/>
+    <nd ref="171748152"/>
+    <nd ref="171748155"/>
+    <nd ref="171748157"/>
+    <nd ref="171748159"/>
+    <nd ref="171748161"/>
+    <nd ref="171748163"/>
+    <nd ref="171748165"/>
+    <nd ref="171748166"/>
+    <nd ref="171748169"/>
+    <nd ref="171748174"/>
+    <nd ref="171748176"/>
+    <nd ref="171748178"/>
+    <nd ref="171748180"/>
+    <nd ref="171748183"/>
+    <nd ref="171748186"/>
+    <nd ref="171585980"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Walnut Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Henderson, NC"/>
+    <tag k="tiger:name_base" v="Walnut"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28704"/>
+    <tag k="tiger:zip_right" v="28704"/>
+  </way>
+
+</osm>

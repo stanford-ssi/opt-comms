@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16586366">
+    <nd ref="171249888"/>
+    <nd ref="171249892"/>
+    <nd ref="171249896"/>
+    <nd ref="171249911"/>
+    <nd ref="171249917"/>
+    <nd ref="171249922"/>
+    <nd ref="171249926"/>
+    <nd ref="171249929"/>
+    <nd ref="171249933"/>
+    <nd ref="171249938"/>
+    <nd ref="171249943"/>
+    <nd ref="171249946"/>
+    <nd ref="171249951"/>
+    <nd ref="171249953"/>
+    <nd ref="171249957"/>
+    <nd ref="171249960"/>
+    <nd ref="171249964"/>
+    <nd ref="171249967"/>
+    <nd ref="171249970"/>
+    <nd ref="171249974"/>
+    <nd ref="171249978"/>
+    <nd ref="171249981"/>
+    <nd ref="171249984"/>
+    <nd ref="171249986"/>
+    <nd ref="171249988"/>
+    <nd ref="171249991"/>
+    <nd ref="171249995"/>
+    <nd ref="171249998"/>
+    <nd ref="171250001"/>
+    <nd ref="171250003"/>
+    <nd ref="171250007"/>
+    <nd ref="171250009"/>
+    <nd ref="171250012"/>
+    <nd ref="171250016"/>
+    <nd ref="171250018"/>
+    <nd ref="171250022"/>
+    <nd ref="171250025"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="151816713:151780879:151815248"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-65406fe5-5cfa-4c0f-a2b4-de91fac9e049"/>
+  </way>
+  <way id="16590513">
+    <nd ref="171290964"/>
+    <nd ref="171296444"/>
+    <nd ref="171296447"/>
+    <nd ref="171296449"/>
+    <nd ref="171296451"/>
+    <nd ref="171296453"/>
+    <nd ref="171296455"/>
+    <nd ref="171296457"/>
+    <nd ref="171296459"/>
+    <nd ref="171296463"/>
+    <nd ref="171296465"/>
+    <nd ref="171296468"/>
+    <nd ref="171296470"/>
+    <nd ref="171296473"/>
+    <nd ref="171296477"/>
+    <nd ref="171296481"/>
+    <nd ref="171296485"/>
+    <nd ref="171296488"/>
+    <nd ref="171296492"/>
+    <nd ref="171296496"/>
+    <nd ref="171296500"/>
+    <nd ref="171296504"/>
+    <nd ref="171296505"/>
+    <nd ref="171296509"/>
+    <nd ref="171296512"/>
+    <nd ref="171296517"/>
+    <nd ref="171296521"/>
+    <nd ref="171296524"/>
+    <nd ref="171296527"/>
+    <nd ref="171296530"/>
+    <nd ref="171296532"/>
+    <nd ref="171296534"/>
+    <nd ref="171296536"/>
+    <nd ref="171296539"/>
+    <nd ref="171296542"/>
+    <nd ref="171296546"/>
+    <nd ref="171296550"/>
+    <nd ref="171249888"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wesley Creek Road"/>
+    <tag k="name_1" v="State Road 1336"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Wesley Creek"/>
+    <tag k="tiger:name_base_1" v="State Road 1336"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+
+</osm>

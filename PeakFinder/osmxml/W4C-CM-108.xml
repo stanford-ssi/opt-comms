@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:44:02Z"/>
+
+  <way id="16648620">
+    <nd ref="171981919"/>
+    <nd ref="171981924"/>
+    <nd ref="171981926"/>
+    <nd ref="171981929"/>
+    <nd ref="171981931"/>
+    <nd ref="171981933"/>
+    <nd ref="171981936"/>
+    <nd ref="171981938"/>
+    <nd ref="171981940"/>
+    <nd ref="171981943"/>
+    <nd ref="171981945"/>
+    <nd ref="171981947"/>
+    <nd ref="171981949"/>
+    <nd ref="171981953"/>
+    <nd ref="171981956"/>
+    <nd ref="171981960"/>
+    <nd ref="171981962"/>
+    <nd ref="171981965"/>
+    <nd ref="171981967"/>
+    <nd ref="171981969"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Madison, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="30673761">
+    <nd ref="339200616"/>
+    <nd ref="339200617"/>
+    <nd ref="339200618"/>
+    <nd ref="339200619"/>
+    <nd ref="339200620"/>
+    <nd ref="339200621"/>
+    <nd ref="339200622"/>
+    <nd ref="339200623"/>
+    <nd ref="339200624"/>
+    <nd ref="339200625"/>
+    <nd ref="339200626"/>
+    <nd ref="339200627"/>
+    <nd ref="339200628"/>
+    <nd ref="339200696"/>
+    <nd ref="339200699"/>
+    <nd ref="339200701"/>
+    <nd ref="339200702"/>
+    <nd ref="339200703"/>
+    <nd ref="339200705"/>
+    <nd ref="339200706"/>
+    <nd ref="339200707"/>
+    <nd ref="339200708"/>
+    <nd ref="339200709"/>
+    <nd ref="339200710"/>
+    <nd ref="339200711"/>
+    <nd ref="339200712"/>
+    <nd ref="339200713"/>
+    <nd ref="339200715"/>
+    <nd ref="339200719"/>
+    <nd ref="339200721"/>
+    <nd ref="339200724"/>
+    <nd ref="339200726"/>
+    <nd ref="339200729"/>
+    <nd ref="339200731"/>
+    <nd ref="339200734"/>
+    <nd ref="339200736"/>
+    <nd ref="339200737"/>
+    <nd ref="339200738"/>
+    <nd ref="339200739"/>
+    <nd ref="339200740"/>
+    <nd ref="339200743"/>
+    <nd ref="339200744"/>
+    <nd ref="339200745"/>
+    <nd ref="339200746"/>
+    <nd ref="339200747"/>
+    <nd ref="339200748"/>
+    <nd ref="339200749"/>
+    <nd ref="339200751"/>
+    <nd ref="339200752"/>
+    <nd ref="339200753"/>
+    <nd ref="339200755"/>
+    <nd ref="339200756"/>
+    <nd ref="339200757"/>
+    <nd ref="339200758"/>
+    <nd ref="339200760"/>
+    <nd ref="339200762"/>
+    <nd ref="339200764"/>
+    <nd ref="339200766"/>
+    <nd ref="339200769"/>
+    <nd ref="339200771"/>
+    <nd ref="339200772"/>
+    <nd ref="339200774"/>
+    <nd ref="339200776"/>
+    <nd ref="339200777"/>
+    <nd ref="339200778"/>
+    <nd ref="339200779"/>
+    <nd ref="339200780"/>
+    <nd ref="339200781"/>
+    <nd ref="339200785"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="name" v="Appalachian Trail"/>
+  </way>
+
+</osm>

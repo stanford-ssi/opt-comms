@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:55:01Z"/>
+
+  <way id="12504259">
+    <nd ref="113867862"/>
+    <nd ref="113867865"/>
+    <nd ref="113867868"/>
+    <nd ref="113867870"/>
+    <nd ref="113867872"/>
+    <nd ref="113867874"/>
+    <nd ref="113867876"/>
+    <nd ref="113867878"/>
+    <nd ref="113867880"/>
+    <nd ref="113867883"/>
+    <nd ref="113803832"/>
+    <nd ref="113867885"/>
+    <nd ref="113867887"/>
+    <nd ref="113867889"/>
+    <nd ref="113867891"/>
+    <nd ref="113867893"/>
+    <nd ref="113867895"/>
+    <nd ref="113867897"/>
+    <nd ref="113867899"/>
+    <nd ref="113867901"/>
+    <nd ref="113867904"/>
+    <nd ref="113867907"/>
+    <nd ref="113867909"/>
+    <nd ref="113867912"/>
+    <nd ref="113867914"/>
+    <nd ref="113867915"/>
+    <nd ref="113867916"/>
+    <nd ref="113867917"/>
+    <nd ref="113867919"/>
+    <nd ref="113867921"/>
+    <nd ref="113867922"/>
+    <nd ref="113867924"/>
+    <nd ref="113867926"/>
+    <nd ref="113867928"/>
+    <nd ref="113867930"/>
+    <nd ref="113867932"/>
+    <nd ref="113867936"/>
+    <nd ref="113867938"/>
+    <nd ref="113867942"/>
+    <nd ref="113867945"/>
+    <nd ref="113867947"/>
+    <nd ref="113867948"/>
+    <nd ref="113867950"/>
+    <nd ref="113867952"/>
+    <nd ref="113867955"/>
+    <nd ref="113867958"/>
+    <nd ref="113867961"/>
+    <nd ref="113867963"/>
+    <nd ref="113867966"/>
+    <nd ref="113867968"/>
+    <nd ref="113867970"/>
+    <nd ref="113833719"/>
+    <nd ref="113867972"/>
+    <nd ref="113867973"/>
+    <nd ref="113867975"/>
+    <nd ref="113833714"/>
+    <nd ref="113867979"/>
+    <nd ref="113867980"/>
+    <nd ref="113867983"/>
+    <nd ref="113867985"/>
+    <nd ref="113867987"/>
+    <nd ref="113867989"/>
+    <nd ref="113867990"/>
+    <nd ref="113803842"/>
+    <nd ref="113867993"/>
+    <nd ref="113867996"/>
+    <nd ref="113867998"/>
+    <nd ref="113868000"/>
+    <nd ref="113868001"/>
+    <nd ref="113868003"/>
+    <nd ref="113868004"/>
+    <nd ref="113868005"/>
+    <nd ref="113837244"/>
+    <nd ref="113868006"/>
+    <nd ref="113868007"/>
+    <nd ref="113868008"/>
+    <nd ref="113868010"/>
+    <nd ref="113868011"/>
+    <nd ref="113868012"/>
+    <nd ref="113868016"/>
+    <nd ref="113868019"/>
+    <nd ref="113868021"/>
+    <nd ref="113868023"/>
+    <nd ref="113868024"/>
+    <nd ref="113868027"/>
+    <nd ref="113868029"/>
+    <nd ref="113868031"/>
+    <nd ref="113867862"/>
+    <nd ref="113868033"/>
+    <nd ref="113868036"/>
+    <nd ref="113868038"/>
+    <nd ref="113868041"/>
+    <nd ref="113868044"/>
+    <nd ref="113868047"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Big Rock Lake Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Big Rock Lake"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+  </way>
+  <way id="12524116">
+    <nd ref="114099081"/>
+    <nd ref="114099083"/>
+    <nd ref="114099087"/>
+    <nd ref="114099088"/>
+    <nd ref="114099089"/>
+    <nd ref="114099092"/>
+    <nd ref="114099093"/>
+    <nd ref="114099095"/>
+    <nd ref="114099097"/>
+    <nd ref="114099100"/>
+    <nd ref="114099103"/>
+    <nd ref="114099107"/>
+    <nd ref="114099109"/>
+    <nd ref="114099112"/>
+    <nd ref="114099114"/>
+    <nd ref="114099116"/>
+    <nd ref="114099118"/>
+    <nd ref="114099120"/>
+    <nd ref="114099123"/>
+    <nd ref="114099124"/>
+    <nd ref="114099128"/>
+    <nd ref="114099130"/>
+    <nd ref="114099132"/>
+    <nd ref="114099134"/>
+    <nd ref="114099135"/>
+    <nd ref="114099137"/>
+    <nd ref="114099139"/>
+    <nd ref="114099140"/>
+    <nd ref="114099141"/>
+    <nd ref="114099142"/>
+    <nd ref="114099143"/>
+    <nd ref="114099146"/>
+    <nd ref="114099148"/>
+    <nd ref="114099150"/>
+    <nd ref="114099152"/>
+    <nd ref="114099155"/>
+    <nd ref="114099158"/>
+    <nd ref="114099159"/>
+    <nd ref="114099160"/>
+    <nd ref="114099161"/>
+    <nd ref="113801498"/>
+    <nd ref="114099163"/>
+    <nd ref="114099165"/>
+    <nd ref="114099168"/>
+    <nd ref="114099169"/>
+    <nd ref="114099171"/>
+    <nd ref="114099175"/>
+    <nd ref="114099177"/>
+    <nd ref="114099179"/>
+    <nd ref="114099185"/>
+    <nd ref="114099188"/>
+    <nd ref="114099189"/>
+    <nd ref="114099191"/>
+    <nd ref="114099193"/>
+    <nd ref="114099195"/>
+    <nd ref="114099198"/>
+    <nd ref="114099200"/>
+    <nd ref="114099203"/>
+    <nd ref="114099205"/>
+    <nd ref="114099207"/>
+    <nd ref="114099213"/>
+    <nd ref="114099216"/>
+    <nd ref="114099218"/>
+    <nd ref="114099220"/>
+    <nd ref="114099222"/>
+    <nd ref="114099227"/>
+    <nd ref="114099228"/>
+    <nd ref="114099230"/>
+    <nd ref="114099233"/>
+    <nd ref="114099235"/>
+    <nd ref="114099237"/>
+    <nd ref="114099241"/>
+    <nd ref="114099246"/>
+    <nd ref="114099249"/>
+    <nd ref="114099255"/>
+    <nd ref="114099257"/>
+    <nd ref="114099261"/>
+    <nd ref="114099264"/>
+    <nd ref="114099266"/>
+    <nd ref="114099268"/>
+    <nd ref="114099270"/>
+    <nd ref="114099273"/>
+    <nd ref="114099275"/>
+    <nd ref="114099278"/>
+    <nd ref="114099281"/>
+    <nd ref="114099284"/>
+    <nd ref="113845881"/>
+    <nd ref="114099286"/>
+    <nd ref="114099289"/>
+    <nd ref="114099292"/>
+    <nd ref="114099295"/>
+    <nd ref="114099297"/>
+    <nd ref="114099299"/>
+    <nd ref="114099301"/>
+    <nd ref="114099302"/>
+    <nd ref="114099306"/>
+    <nd ref="114099309"/>
+    <nd ref="113803792"/>
+    <nd ref="114099312"/>
+    <nd ref="114099314"/>
+    <nd ref="114099316"/>
+    <nd ref="114099318"/>
+    <nd ref="114099320"/>
+    <nd ref="114099321"/>
+    <nd ref="114099325"/>
+    <nd ref="114099328"/>
+    <nd ref="114099329"/>
+    <nd ref="114099334"/>
+    <nd ref="113868047"/>
+    <nd ref="114099337"/>
+    <nd ref="114099340"/>
+    <nd ref="114099343"/>
+    <nd ref="114099346"/>
+    <nd ref="114099350"/>
+    <nd ref="114099351"/>
+    <nd ref="114099354"/>
+    <nd ref="114099357"/>
+    <nd ref="114099360"/>
+    <nd ref="114099363"/>
+    <nd ref="114099365"/>
+    <nd ref="113809559"/>
+    <nd ref="114099370"/>
+    <nd ref="114099374"/>
+    <nd ref="114099378"/>
+    <nd ref="114099379"/>
+    <nd ref="114099380"/>
+    <nd ref="113843835"/>
+    <nd ref="114099381"/>
+    <nd ref="114099382"/>
+    <nd ref="114099384"/>
+    <nd ref="114099385"/>
+    <nd ref="114099386"/>
+    <nd ref="114099387"/>
+    <nd ref="114099390"/>
+    <nd ref="114099391"/>
+    <nd ref="114099394"/>
+    <nd ref="113823566"/>
+    <nd ref="114099397"/>
+    <nd ref="114099398"/>
+    <nd ref="114099400"/>
+    <nd ref="114099402"/>
+    <nd ref="114099404"/>
+    <nd ref="114099406"/>
+    <nd ref="114099409"/>
+    <nd ref="114099411"/>
+    <nd ref="114099414"/>
+    <nd ref="114099416"/>
+    <nd ref="114099418"/>
+    <nd ref="113829832"/>
+    <nd ref="114099425"/>
+    <nd ref="114099427"/>
+    <nd ref="114099429"/>
+    <nd ref="114099431"/>
+    <nd ref="114099433"/>
+    <nd ref="114099435"/>
+    <nd ref="114099437"/>
+    <nd ref="114099439"/>
+    <nd ref="114099442"/>
+    <nd ref="114099445"/>
+    <nd ref="114099446"/>
+    <nd ref="113830269"/>
+    <nd ref="114099448"/>
+    <nd ref="114099451"/>
+    <nd ref="114099453"/>
+    <nd ref="113824218"/>
+    <nd ref="114099455"/>
+    <nd ref="114099459"/>
+    <nd ref="114099461"/>
+    <nd ref="114099463"/>
+    <nd ref="114099465"/>
+    <nd ref="114099467"/>
+    <nd ref="114099469"/>
+    <nd ref="114099472"/>
+    <nd ref="114099475"/>
+    <nd ref="114099477"/>
+    <nd ref="114099479"/>
+    <nd ref="114099481"/>
+    <nd ref="113807687"/>
+    <nd ref="114099483"/>
+    <nd ref="114099485"/>
+    <nd ref="114099487"/>
+    <nd ref="113810501"/>
+    <nd ref="114099490"/>
+    <nd ref="114099492"/>
+    <nd ref="114099494"/>
+    <nd ref="114099497"/>
+    <nd ref="114099500"/>
+    <nd ref="114099501"/>
+    <nd ref="113868412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Preston McDaniel Road"/>
+    <tag k="name_1" v="State Road S-39-156"/>
+    <tag k="name_2" v="Mountain Grove Church Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Preston McDaniel"/>
+    <tag k="tiger:name_base_1" v="State Road S-39-156"/>
+    <tag k="tiger:name_base_2" v="Mountain Grove Church"/>
+    <tag k="tiger:name_direction_prefix" v="E"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_2" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29671"/>
+    <tag k="tiger:zip_right" v="29671"/>
+  </way>
+  <way id="12526026">
+    <nd ref="113845803"/>
+    <nd ref="114119149"/>
+    <nd ref="114119153"/>
+    <nd ref="114119155"/>
+    <nd ref="114119159"/>
+    <nd ref="114119165"/>
+    <nd ref="114119168"/>
+    <nd ref="114119170"/>
+    <nd ref="114119172"/>
+    <nd ref="114119175"/>
+    <nd ref="114119179"/>
+    <nd ref="114119181"/>
+    <nd ref="114119184"/>
+    <nd ref="114119187"/>
+    <nd ref="114119190"/>
+    <nd ref="114119193"/>
+    <nd ref="114119195"/>
+    <nd ref="114119197"/>
+    <nd ref="114119199"/>
+    <nd ref="114119201"/>
+    <nd ref="114119204"/>
+    <nd ref="114119207"/>
+    <nd ref="114119210"/>
+    <nd ref="114119213"/>
+    <nd ref="114119215"/>
+    <nd ref="114119217"/>
+    <nd ref="113829809"/>
+    <nd ref="114119224"/>
+    <nd ref="114119227"/>
+    <nd ref="114119230"/>
+    <nd ref="114119233"/>
+    <nd ref="114119235"/>
+    <nd ref="114119237"/>
+    <nd ref="114119239"/>
+    <nd ref="114119242"/>
+    <nd ref="114119245"/>
+    <nd ref="114119247"/>
+    <nd ref="114119249"/>
+    <nd ref="114119251"/>
+    <nd ref="114119254"/>
+    <nd ref="114119257"/>
+    <nd ref="114119261"/>
+    <nd ref="114119264"/>
+    <nd ref="114119267"/>
+    <nd ref="114119270"/>
+    <nd ref="114119276"/>
+    <nd ref="114119279"/>
+    <nd ref="114119282"/>
+    <nd ref="114119285"/>
+    <nd ref="114119288"/>
+    <nd ref="114119291"/>
+    <nd ref="114119294"/>
+    <nd ref="114119296"/>
+    <nd ref="114119298"/>
+    <nd ref="114119301"/>
+    <nd ref="114119304"/>
+    <nd ref="114119307"/>
+    <nd ref="114119310"/>
+    <nd ref="114119312"/>
+    <nd ref="114119315"/>
+    <nd ref="114119318"/>
+    <nd ref="114119321"/>
+    <nd ref="114119323"/>
+    <nd ref="114119326"/>
+    <nd ref="114119328"/>
+    <nd ref="114119330"/>
+    <nd ref="114119331"/>
+    <nd ref="114119332"/>
+    <nd ref="114119334"/>
+    <nd ref="114119337"/>
+    <nd ref="114119339"/>
+    <nd ref="114119341"/>
+    <nd ref="114119343"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Turkey Run"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Pickens, SC"/>
+    <tag k="tiger:name_base" v="Turkey"/>
+    <tag k="tiger:name_type" v="Run"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="26222707"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ad367733-952a-4321-ad54-a39164d42da4"/>
+  </way>
+
+</osm>

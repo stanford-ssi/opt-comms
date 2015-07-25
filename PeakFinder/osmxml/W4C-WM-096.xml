@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:59:02Z"/>
+
+  <way id="16464634">
+    <nd ref="169913136"/>
+    <nd ref="169913138"/>
+    <nd ref="169913140"/>
+    <nd ref="169913143"/>
+    <nd ref="169913145"/>
+    <nd ref="169913148"/>
+    <nd ref="169913150"/>
+    <nd ref="169913153"/>
+    <nd ref="169913156"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35855343:35855344"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-4d27beb6-d2d0-4773-ad75-d4dd663187df"/>
+  </way>
+  <way id="16469875">
+    <nd ref="169982858"/>
+    <nd ref="169982862"/>
+    <nd ref="169982864"/>
+    <nd ref="169982868"/>
+    <nd ref="169982870"/>
+    <nd ref="169982875"/>
+    <nd ref="169982878"/>
+    <nd ref="169982881"/>
+    <nd ref="169982883"/>
+    <nd ref="169982887"/>
+    <nd ref="169982890"/>
+    <nd ref="169982892"/>
+    <nd ref="169982894"/>
+    <nd ref="169982898"/>
+    <nd ref="169982732"/>
+    <nd ref="169982902"/>
+    <nd ref="169982908"/>
+    <nd ref="169982912"/>
+    <nd ref="169982915"/>
+    <nd ref="169982918"/>
+    <nd ref="169982921"/>
+    <nd ref="169982924"/>
+    <nd ref="169982927"/>
+    <nd ref="169982931"/>
+    <nd ref="169982934"/>
+    <nd ref="169982938"/>
+    <nd ref="169982942"/>
+    <nd ref="169982945"/>
+    <nd ref="169982949"/>
+    <nd ref="169913098"/>
+    <nd ref="169913140"/>
+    <nd ref="169982950"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dinkins Creek Road"/>
+    <tag k="name_1" v="Dinkin Creek Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Dinkins Creek"/>
+    <tag k="tiger:name_base_1" v="Dinkin Creek"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16471723">
+    <nd ref="170012296"/>
+    <nd ref="170012331"/>
+    <nd ref="170012333"/>
+    <nd ref="170012335"/>
+    <nd ref="170012337"/>
+    <nd ref="170012339"/>
+    <nd ref="170012343"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Owl Creek Road"/>
+    <tag k="name_1" v="Owl Cr Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Cherokee, NC"/>
+    <tag k="tiger:name_base" v="Owl Creek"/>
+    <tag k="tiger:name_base_1" v="Owl Cr"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:name_type_1" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

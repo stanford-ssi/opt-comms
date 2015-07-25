@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:54:02Z"/>
+
+  <way id="12393084">
+    <nd ref="112695061"/>
+    <nd ref="112695064"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="38348426"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f4b332de-cd92-4f5a-acff-5f1a1acec231"/>
+  </way>
+  <way id="12395443">
+    <nd ref="112715783"/>
+    <nd ref="112715785"/>
+    <nd ref="112715788"/>
+    <nd ref="112715789"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="R-Pd-47"/>
+    <tag k="name_1" v="Indian Pipe Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="R-Pd-47"/>
+    <tag k="tiger:name_base_1" v="Indian Pipe"/>
+    <tag k="tiger:name_type_1" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12397622">
+    <nd ref="112733143"/>
+    <nd ref="112733146"/>
+    <nd ref="112733149"/>
+    <nd ref="112733152"/>
+    <nd ref="112733156"/>
+    <nd ref="112733161"/>
+    <nd ref="112733164"/>
+    <nd ref="112733167"/>
+    <nd ref="112733171"/>
+    <nd ref="112733174"/>
+    <nd ref="112733176"/>
+    <nd ref="112733180"/>
+    <nd ref="112733182"/>
+    <nd ref="112733186"/>
+    <nd ref="112733192"/>
+    <nd ref="112733195"/>
+    <nd ref="112733200"/>
+    <nd ref="112733204"/>
+    <nd ref="112733206"/>
+    <nd ref="112733209"/>
+    <nd ref="112733212"/>
+    <nd ref="112715783"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mossy Glen Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Mossy Glen"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29690"/>
+    <tag k="tiger:zip_right" v="29690"/>
+  </way>
+  <way id="12398280">
+    <nd ref="112744808"/>
+    <nd ref="112744810"/>
+    <nd ref="112744813"/>
+    <nd ref="112744818"/>
+    <nd ref="112744821"/>
+    <nd ref="112744826"/>
+    <nd ref="112744829"/>
+    <nd ref="112744832"/>
+    <nd ref="112744836"/>
+    <nd ref="112744839"/>
+    <nd ref="112744841"/>
+    <nd ref="112744844"/>
+    <nd ref="112744848"/>
+    <nd ref="112744851"/>
+    <nd ref="112744854"/>
+    <nd ref="112744857"/>
+    <nd ref="112744859"/>
+    <nd ref="112744865"/>
+    <nd ref="112744869"/>
+    <nd ref="112744871"/>
+    <nd ref="112744873"/>
+    <nd ref="112744876"/>
+    <nd ref="112744879"/>
+    <nd ref="112744882"/>
+    <nd ref="112744884"/>
+    <nd ref="112744887"/>
+    <nd ref="112744890"/>
+    <nd ref="112744892"/>
+    <nd ref="112744894"/>
+    <nd ref="112744895"/>
+    <nd ref="112744896"/>
+    <nd ref="112744898"/>
+    <nd ref="112744899"/>
+    <nd ref="112744900"/>
+    <nd ref="112744902"/>
+    <nd ref="112744904"/>
+    <nd ref="112744906"/>
+    <nd ref="112744908"/>
+    <nd ref="112744910"/>
+    <nd ref="112744913"/>
+    <nd ref="112744915"/>
+    <nd ref="112744917"/>
+    <nd ref="112744920"/>
+    <nd ref="112744922"/>
+    <nd ref="112744925"/>
+    <nd ref="112744928"/>
+    <nd ref="112744932"/>
+    <nd ref="112744936"/>
+    <nd ref="112744939"/>
+    <nd ref="112744941"/>
+    <nd ref="112744944"/>
+    <nd ref="112744947"/>
+    <nd ref="112744949"/>
+    <nd ref="112744951"/>
+    <nd ref="112744955"/>
+    <nd ref="112744958"/>
+    <nd ref="112744962"/>
+    <nd ref="112744966"/>
+    <nd ref="112744970"/>
+    <nd ref="112744975"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wild Ginger Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Wild Ginger"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29356"/>
+    <tag k="tiger:zip_right" v="29356"/>
+  </way>
+  <way id="12399114">
+    <nd ref="112759630"/>
+    <nd ref="112759632"/>
+    <nd ref="112759634"/>
+    <nd ref="112759637"/>
+    <nd ref="112759640"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lacy Fern Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Lacy Fern"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="38329852"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f4b332de-cd92-4f5a-acff-5f1a1acec231"/>
+    <tag k="tiger:zip_left" v="29690"/>
+    <tag k="tiger:zip_right" v="29690"/>
+  </way>
+  <way id="12407031">
+    <nd ref="112715789"/>
+    <nd ref="112898684"/>
+    <nd ref="112898688"/>
+    <nd ref="112898693"/>
+    <nd ref="112898697"/>
+    <nd ref="112898700"/>
+    <nd ref="112898703"/>
+    <nd ref="112898706"/>
+    <nd ref="112898709"/>
+    <nd ref="112898712"/>
+    <nd ref="112898716"/>
+    <nd ref="112898720"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Goldenrod Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Goldenrod"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="38354171"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f4b332de-cd92-4f5a-acff-5f1a1acec231"/>
+    <tag k="tiger:zip_left" v="29356"/>
+    <tag k="tiger:zip_right" v="29356"/>
+  </way>
+  <way id="12407148">
+    <nd ref="112900800"/>
+    <nd ref="112900803"/>
+    <nd ref="112900807"/>
+    <nd ref="112900811"/>
+    <nd ref="112900813"/>
+    <nd ref="112900815"/>
+    <nd ref="112900816"/>
+    <nd ref="112900819"/>
+    <nd ref="112900821"/>
+    <nd ref="112900824"/>
+    <nd ref="112900826"/>
+    <nd ref="112900830"/>
+    <nd ref="112900833"/>
+    <nd ref="112900836"/>
+    <nd ref="112900839"/>
+    <nd ref="112900842"/>
+    <nd ref="112900846"/>
+    <nd ref="112900849"/>
+    <nd ref="112900851"/>
+    <nd ref="112900854"/>
+    <nd ref="112900856"/>
+    <nd ref="112900859"/>
+    <nd ref="112900863"/>
+    <nd ref="112900867"/>
+    <nd ref="112900870"/>
+    <nd ref="112900874"/>
+    <nd ref="112900876"/>
+    <nd ref="112900879"/>
+    <nd ref="112900882"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cliff Overlook Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Cliff Overlook"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29356"/>
+    <tag k="tiger:zip_right" v="29356"/>
+  </way>
+  <way id="12410901">
+    <nd ref="112975268"/>
+    <nd ref="112975273"/>
+    <nd ref="112975275"/>
+    <nd ref="112975278"/>
+    <nd ref="112975281"/>
+    <nd ref="112975283"/>
+    <nd ref="112975286"/>
+    <nd ref="112975289"/>
+    <nd ref="112975292"/>
+    <nd ref="112975296"/>
+    <nd ref="112975300"/>
+    <nd ref="112975303"/>
+    <nd ref="112975306"/>
+    <nd ref="112975310"/>
+    <nd ref="112975314"/>
+    <nd ref="112715783"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Indian Pipe Trail"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Indian Pipe"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="29690"/>
+    <tag k="tiger:zip_right" v="29690"/>
+  </way>
+  <way id="12410923">
+    <nd ref="112715789"/>
+    <nd ref="112975324"/>
+    <nd ref="112975326"/>
+    <nd ref="112975330"/>
+    <nd ref="112759630"/>
+    <nd ref="112975334"/>
+    <nd ref="112975336"/>
+    <nd ref="112975339"/>
+    <nd ref="112975342"/>
+    <nd ref="112975345"/>
+    <nd ref="112975350"/>
+    <nd ref="112975352"/>
+    <nd ref="112975356"/>
+    <nd ref="112975360"/>
+    <nd ref="112975363"/>
+    <nd ref="112975365"/>
+    <nd ref="112975368"/>
+    <nd ref="112975373"/>
+    <nd ref="112975376"/>
+    <nd ref="112975382"/>
+    <nd ref="112975388"/>
+    <nd ref="112975391"/>
+    <nd ref="112975395"/>
+    <nd ref="112975398"/>
+    <nd ref="112975400"/>
+    <nd ref="112975403"/>
+    <nd ref="112975405"/>
+    <nd ref="112975408"/>
+    <nd ref="112975411"/>
+    <nd ref="112975417"/>
+    <nd ref="112744975"/>
+    <nd ref="112975419"/>
+    <nd ref="112975423"/>
+    <nd ref="112975426"/>
+    <nd ref="112975428"/>
+    <nd ref="112975431"/>
+    <nd ref="112975435"/>
+    <nd ref="112975437"/>
+    <nd ref="112975440"/>
+    <nd ref="112975442"/>
+    <nd ref="112975446"/>
+    <nd ref="112975449"/>
+    <nd ref="112975454"/>
+    <nd ref="112975455"/>
+    <nd ref="112975458"/>
+    <nd ref="112975460"/>
+    <nd ref="112975462"/>
+    <nd ref="112975465"/>
+    <nd ref="112975467"/>
+    <nd ref="112975470"/>
+    <nd ref="112975473"/>
+    <nd ref="112975475"/>
+    <nd ref="112975478"/>
+    <nd ref="112975480"/>
+    <nd ref="112975483"/>
+    <nd ref="112975485"/>
+    <nd ref="112975489"/>
+    <nd ref="112975491"/>
+    <nd ref="112975493"/>
+    <nd ref="112975494"/>
+    <nd ref="112975496"/>
+    <nd ref="112975498"/>
+    <nd ref="112975500"/>
+    <nd ref="112975502"/>
+    <nd ref="112975505"/>
+    <nd ref="112975507"/>
+    <nd ref="112975510"/>
+    <nd ref="112975513"/>
+    <nd ref="112975517"/>
+    <nd ref="112975523"/>
+    <nd ref="112975527"/>
+    <nd ref="112975532"/>
+    <nd ref="112975535"/>
+    <nd ref="112975539"/>
+    <nd ref="112975542"/>
+    <nd ref="112975545"/>
+    <nd ref="112975549"/>
+    <nd ref="112975553"/>
+    <nd ref="112975557"/>
+    <nd ref="112975559"/>
+    <nd ref="112975563"/>
+    <nd ref="112975565"/>
+    <nd ref="112975568"/>
+    <nd ref="112975570"/>
+    <nd ref="112975574"/>
+    <nd ref="112975577"/>
+    <nd ref="112975581"/>
+    <nd ref="112975583"/>
+    <nd ref="112975586"/>
+    <nd ref="112975588"/>
+    <nd ref="112975590"/>
+    <nd ref="112975592"/>
+    <nd ref="112975594"/>
+    <nd ref="112975597"/>
+    <nd ref="112975600"/>
+    <nd ref="112975605"/>
+    <nd ref="112975609"/>
+    <nd ref="112975613"/>
+    <nd ref="112975616"/>
+    <nd ref="112975619"/>
+    <nd ref="112975622"/>
+    <nd ref="112975624"/>
+    <nd ref="112975627"/>
+    <nd ref="112975629"/>
+    <nd ref="112975632"/>
+    <nd ref="112975635"/>
+    <nd ref="112975639"/>
+    <nd ref="112975641"/>
+    <nd ref="112975644"/>
+    <nd ref="112975647"/>
+    <nd ref="112975650"/>
+    <nd ref="112975652"/>
+    <nd ref="112975653"/>
+    <nd ref="112733835"/>
+    <nd ref="112975656"/>
+    <nd ref="112975657"/>
+    <nd ref="112975660"/>
+    <nd ref="112975663"/>
+    <nd ref="112975666"/>
+    <nd ref="112975669"/>
+    <nd ref="112975672"/>
+    <nd ref="112975675"/>
+    <nd ref="112975678"/>
+    <nd ref="112723861"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Indian Pipe Trail"/>
+    <tag k="name_1" v="R-Pd-47"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Indian Pipe"/>
+    <tag k="tiger:name_base_1" v="R-Pd-47"/>
+    <tag k="tiger:name_type" v="Trl"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="12412675">
+    <nd ref="112726631"/>
+    <nd ref="112993943"/>
+    <nd ref="112993947"/>
+    <nd ref="112993949"/>
+    <nd ref="112993952"/>
+    <nd ref="112993954"/>
+    <nd ref="112993958"/>
+    <nd ref="112993960"/>
+    <nd ref="112993962"/>
+    <nd ref="112993966"/>
+    <nd ref="112993967"/>
+    <nd ref="112993968"/>
+    <nd ref="112993972"/>
+    <nd ref="112993975"/>
+    <nd ref="112993977"/>
+    <nd ref="112993978"/>
+    <nd ref="112993981"/>
+    <nd ref="112993984"/>
+    <nd ref="112993988"/>
+    <nd ref="112724086"/>
+    <nd ref="112993991"/>
+    <nd ref="112993994"/>
+    <nd ref="112993997"/>
+    <nd ref="112994000"/>
+    <nd ref="112994003"/>
+    <nd ref="112994005"/>
+    <nd ref="112994007"/>
+    <nd ref="112994010"/>
+    <nd ref="112994012"/>
+    <nd ref="112994015"/>
+    <nd ref="112994019"/>
+    <nd ref="112994022"/>
+    <nd ref="112994027"/>
+    <nd ref="112994031"/>
+    <nd ref="112994033"/>
+    <nd ref="112994036"/>
+    <nd ref="112994038"/>
+    <nd ref="112994040"/>
+    <nd ref="112994044"/>
+    <nd ref="112994049"/>
+    <nd ref="112975268"/>
+    <nd ref="112994052"/>
+    <nd ref="112994055"/>
+    <nd ref="112994058"/>
+    <nd ref="112994061"/>
+    <nd ref="112994064"/>
+    <nd ref="112994066"/>
+    <nd ref="112994068"/>
+    <nd ref="112994070"/>
+    <nd ref="112994073"/>
+    <nd ref="112994076"/>
+    <nd ref="112994078"/>
+    <nd ref="112994079"/>
+    <nd ref="112994081"/>
+    <nd ref="112994082"/>
+    <nd ref="112994083"/>
+    <nd ref="112994087"/>
+    <nd ref="112994091"/>
+    <nd ref="112994093"/>
+    <nd ref="112994095"/>
+    <nd ref="112994096"/>
+    <nd ref="112994098"/>
+    <nd ref="112900800"/>
+    <nd ref="112994100"/>
+    <nd ref="112994105"/>
+    <nd ref="112994108"/>
+    <nd ref="112994110"/>
+    <nd ref="112994113"/>
+    <nd ref="112994117"/>
+    <nd ref="112994121"/>
+    <nd ref="112994124"/>
+    <nd ref="112994127"/>
+    <nd ref="112994131"/>
+    <nd ref="112994135"/>
+    <nd ref="112994136"/>
+    <nd ref="112994141"/>
+    <nd ref="112695061"/>
+    <nd ref="112994143"/>
+    <nd ref="112994146"/>
+    <nd ref="112994149"/>
+    <nd ref="112994153"/>
+    <nd ref="112994158"/>
+    <nd ref="112994160"/>
+    <nd ref="112994164"/>
+    <nd ref="112994167"/>
+    <nd ref="112994171"/>
+    <nd ref="112994174"/>
+    <nd ref="112994176"/>
+    <nd ref="112994180"/>
+    <nd ref="112994183"/>
+    <nd ref="112994187"/>
+    <nd ref="112994191"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fire Pink Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Fire Pink"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="38347146:38347147:38329816:38329819:38342225:38329810:38342228:38342229"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f4b332de-cd92-4f5a-acff-5f1a1acec231"/>
+    <tag k="tiger:zip_left" v="29356"/>
+    <tag k="tiger:zip_right" v="29356"/>
+  </way>
+  <way id="12459471">
+    <nd ref="112975408"/>
+    <nd ref="113350205"/>
+    <nd ref="113350208"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Morning Glory Way"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Greenville, SC"/>
+    <tag k="tiger:name_base" v="Morning Glory"/>
+    <tag k="tiger:name_type" v="Way"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="38329845"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f4b332de-cd92-4f5a-acff-5f1a1acec231"/>
+    <tag k="tiger:zip_left" v="29690"/>
+    <tag k="tiger:zip_right" v="29690"/>
+  </way>
+  <way id="302980538">
+    <nd ref="113139274"/>
+    <nd ref="3072716779"/>
+    <nd ref="3072716780"/>
+    <nd ref="3072716781"/>
+    <nd ref="3072716782"/>
+    <nd ref="3072716783"/>
+    <nd ref="3072716784"/>
+    <nd ref="3072716785"/>
+    <nd ref="3072716786"/>
+    <nd ref="3072716787"/>
+    <nd ref="3072716788"/>
+    <nd ref="3072716789"/>
+    <nd ref="3072716790"/>
+    <nd ref="3072716791"/>
+    <nd ref="3072716792"/>
+    <nd ref="3072716793"/>
+    <nd ref="3072716794"/>
+    <nd ref="3072716795"/>
+    <nd ref="3072716796"/>
+    <nd ref="3072716797"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dark Corner Way"/>
+  </way>
+
+</osm>

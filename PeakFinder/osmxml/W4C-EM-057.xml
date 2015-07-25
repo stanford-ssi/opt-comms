@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:50:02Z"/>
+
+  <way id="16399700">
+    <nd ref="169266129"/>
+    <nd ref="169266131"/>
+    <nd ref="169266133"/>
+    <nd ref="169266135"/>
+    <nd ref="169266138"/>
+    <nd ref="169266141"/>
+    <nd ref="169266145"/>
+    <nd ref="169266147"/>
+    <nd ref="169266149"/>
+    <nd ref="169266153"/>
+    <nd ref="169266156"/>
+    <nd ref="169266158"/>
+    <nd ref="169266162"/>
+    <nd ref="169266165"/>
+    <nd ref="169266168"/>
+    <nd ref="169266171"/>
+    <nd ref="169266172"/>
+    <nd ref="169266174"/>
+    <nd ref="169266176"/>
+    <nd ref="169266178"/>
+    <nd ref="169266180"/>
+    <nd ref="169266182"/>
+    <nd ref="169266185"/>
+    <nd ref="169266186"/>
+    <nd ref="169266189"/>
+    <nd ref="169266191"/>
+    <nd ref="169266192"/>
+    <nd ref="169266195"/>
+    <nd ref="169266196"/>
+    <nd ref="169266199"/>
+    <nd ref="169266202"/>
+    <nd ref="169266206"/>
+    <nd ref="169266208"/>
+    <nd ref="169266210"/>
+    <nd ref="169266213"/>
+    <nd ref="169266216"/>
+    <nd ref="169266218"/>
+    <nd ref="169266220"/>
+    <nd ref="169266222"/>
+    <nd ref="169266224"/>
+    <nd ref="169266226"/>
+    <nd ref="169266227"/>
+    <nd ref="169266228"/>
+    <nd ref="169266229"/>
+    <nd ref="169266230"/>
+    <nd ref="169266231"/>
+    <nd ref="169266232"/>
+    <nd ref="169266233"/>
+    <nd ref="169266234"/>
+    <nd ref="169266236"/>
+    <nd ref="169266238"/>
+    <nd ref="169266239"/>
+    <nd ref="169266240"/>
+    <nd ref="169266241"/>
+    <nd ref="169266242"/>
+    <nd ref="169266245"/>
+    <nd ref="169266248"/>
+    <nd ref="169266250"/>
+    <nd ref="169266253"/>
+    <nd ref="169266256"/>
+    <nd ref="169266259"/>
+    <nd ref="169266262"/>
+    <nd ref="169266265"/>
+    <nd ref="169266267"/>
+    <nd ref="169266272"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gaither Poe Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Gaither Poe"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28644"/>
+    <tag k="tiger:zip_right" v="28644"/>
+  </way>
+  <way id="16402186">
+    <nd ref="169442408"/>
+    <nd ref="169288840"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Don Bare Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Don Bare"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16415792">
+    <nd ref="169442468"/>
+    <nd ref="169442466"/>
+    <nd ref="1634451840"/>
+    <nd ref="1634451841"/>
+    <nd ref="169442464"/>
+    <nd ref="1634451843"/>
+    <nd ref="169442462"/>
+    <nd ref="169442459"/>
+    <nd ref="1634451855"/>
+    <nd ref="1634451860"/>
+    <nd ref="169442456"/>
+    <nd ref="169442454"/>
+    <nd ref="169442452"/>
+    <nd ref="169442450"/>
+    <nd ref="169442447"/>
+    <nd ref="1634451871"/>
+    <nd ref="169442443"/>
+    <nd ref="1634451872"/>
+    <nd ref="169442433"/>
+    <nd ref="1634451869"/>
+    <nd ref="169442430"/>
+    <nd ref="1634451868"/>
+    <nd ref="1634451870"/>
+    <nd ref="169442427"/>
+    <nd ref="1634451873"/>
+    <nd ref="1634451874"/>
+    <nd ref="169442425"/>
+    <nd ref="1634451877"/>
+    <nd ref="1634451880"/>
+    <nd ref="169442423"/>
+    <nd ref="169442420"/>
+    <nd ref="169442418"/>
+    <nd ref="169442416"/>
+    <nd ref="169442414"/>
+    <nd ref="169442411"/>
+    <nd ref="169442409"/>
+    <nd ref="169442408"/>
+    <nd ref="1634451928"/>
+    <nd ref="169442407"/>
+    <nd ref="169442406"/>
+    <nd ref="1634451930"/>
+    <nd ref="1634451932"/>
+    <nd ref="169442405"/>
+    <nd ref="1634451934"/>
+    <nd ref="169442402"/>
+    <nd ref="1634451936"/>
+    <nd ref="1634451935"/>
+    <nd ref="169442401"/>
+    <nd ref="1634451933"/>
+    <nd ref="169442400"/>
+    <nd ref="1634451931"/>
+    <nd ref="169442398"/>
+    <nd ref="1634451929"/>
+    <nd ref="169442395"/>
+    <nd ref="1634451927"/>
+    <nd ref="1634451915"/>
+    <nd ref="1634451909"/>
+    <nd ref="1634451908"/>
+    <nd ref="169442393"/>
+    <nd ref="1634451907"/>
+    <nd ref="1634451906"/>
+    <nd ref="1634451905"/>
+    <nd ref="169442392"/>
+    <nd ref="1634451903"/>
+    <nd ref="169442389"/>
+    <nd ref="1634451902"/>
+    <nd ref="1634451901"/>
+    <nd ref="1634451900"/>
+    <nd ref="169442387"/>
+    <nd ref="1634451899"/>
+    <nd ref="1634451898"/>
+    <nd ref="1634451894"/>
+    <nd ref="169442386"/>
+    <nd ref="1634451891"/>
+    <nd ref="169442383"/>
+    <nd ref="1634451887"/>
+    <nd ref="1634451886"/>
+    <nd ref="1634451888"/>
+    <nd ref="169442381"/>
+    <nd ref="169442380"/>
+    <nd ref="169316204"/>
+    <nd ref="169375851"/>
+    <nd ref="169442375"/>
+    <nd ref="169442372"/>
+    <nd ref="169442369"/>
+    <nd ref="1634451897"/>
+    <nd ref="1634451896"/>
+    <nd ref="1634451895"/>
+    <nd ref="1634451893"/>
+    <nd ref="169442366"/>
+    <nd ref="169442364"/>
+    <nd ref="169442363"/>
+    <nd ref="169442361"/>
+    <nd ref="169331642"/>
+    <nd ref="169288466"/>
+    <nd ref="449624285"/>
+    <nd ref="1634451848"/>
+    <nd ref="449624287"/>
+    <nd ref="1634451844"/>
+    <nd ref="449624288"/>
+    <nd ref="1634451845"/>
+    <nd ref="449624294"/>
+    <nd ref="1634451846"/>
+    <nd ref="449624296"/>
+    <nd ref="449624298"/>
+    <nd ref="449624299"/>
+    <nd ref="449624301"/>
+    <nd ref="1634451847"/>
+    <nd ref="169334486"/>
+    <nd ref="169334843"/>
+    <nd ref="449624304"/>
+    <nd ref="1634451842"/>
+    <nd ref="449624305"/>
+    <nd ref="449624306"/>
+    <nd ref="449624307"/>
+    <nd ref="449624308"/>
+    <nd ref="169334481"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Blue Ridge"/>
+    <tag k="tiger:name_type" v="Pky"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="154035913:154048133:154048134:154036779:154053312:154053314:154053315:154037907"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-f5d30e1e-b9c9-4043-8bc2-575d31645af6"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+  <way id="16417250">
+    <nd ref="169266129"/>
+    <nd ref="169458394"/>
+    <nd ref="169458396"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gragg Mtn Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ashe, NC"/>
+    <tag k="tiger:name_base" v="Gragg Mtn"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28644"/>
+    <tag k="tiger:zip_right" v="28644"/>
+  </way>
+  <way id="18923494">
+    <nd ref="195826864"/>
+    <nd ref="195826866"/>
+    <nd ref="195826867"/>
+    <nd ref="195826868"/>
+    <nd ref="195826871"/>
+    <nd ref="195826873"/>
+    <nd ref="195826875"/>
+    <nd ref="195826877"/>
+    <nd ref="195826880"/>
+    <nd ref="195826881"/>
+    <nd ref="1634451890"/>
+    <nd ref="195826883"/>
+    <nd ref="195826884"/>
+    <nd ref="195826886"/>
+    <nd ref="195826888"/>
+    <nd ref="195826891"/>
+    <nd ref="195826893"/>
+    <nd ref="195826896"/>
+    <nd ref="195826897"/>
+    <nd ref="1634451923"/>
+    <nd ref="1634451926"/>
+    <nd ref="195826899"/>
+    <nd ref="1634451925"/>
+    <nd ref="1634451920"/>
+    <nd ref="1634451917"/>
+    <nd ref="1634451914"/>
+    <nd ref="1634451913"/>
+    <nd ref="1634451912"/>
+    <nd ref="1634451916"/>
+    <nd ref="1634451919"/>
+    <nd ref="1634451922"/>
+    <nd ref="1634451924"/>
+    <nd ref="169442408"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Wilkes, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="46125951:46141826:46141827"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-75b59c69-de97-45cc-95c0-f32c21d3c5aa"/>
+  </way>
+
+</osm>

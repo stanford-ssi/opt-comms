@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16751190">
+    <nd ref="173169629"/>
+    <nd ref="173169632"/>
+    <nd ref="173169635"/>
+    <nd ref="173169638"/>
+    <nd ref="173169640"/>
+    <nd ref="173169643"/>
+    <nd ref="173169646"/>
+    <nd ref="173169650"/>
+    <nd ref="173169656"/>
+    <nd ref="173169661"/>
+    <nd ref="173169667"/>
+    <nd ref="173169672"/>
+    <nd ref="173169677"/>
+    <nd ref="173169684"/>
+    <nd ref="173169689"/>
+    <nd ref="173169701"/>
+    <nd ref="173169706"/>
+    <nd ref="173169718"/>
+    <nd ref="173169723"/>
+    <nd ref="173169733"/>
+    <nd ref="173169736"/>
+    <nd ref="173169742"/>
+    <nd ref="173169750"/>
+    <nd ref="173169759"/>
+    <nd ref="173169768"/>
+    <nd ref="173169778"/>
+    <nd ref="173169782"/>
+    <nd ref="173169785"/>
+    <nd ref="173169788"/>
+    <nd ref="173169791"/>
+    <nd ref="173169795"/>
+    <nd ref="173169796"/>
+    <nd ref="173169798"/>
+    <nd ref="173169799"/>
+    <nd ref="173169801"/>
+    <nd ref="173169803"/>
+    <nd ref="173169806"/>
+    <nd ref="173169808"/>
+    <nd ref="173169810"/>
+    <nd ref="173169811"/>
+    <nd ref="173169812"/>
+    <nd ref="173169814"/>
+    <nd ref="173169816"/>
+    <nd ref="173169818"/>
+    <nd ref="173169819"/>
+    <nd ref="173169820"/>
+    <nd ref="173169823"/>
+    <nd ref="173169828"/>
+    <nd ref="173169830"/>
+    <nd ref="173169832"/>
+    <nd ref="173163491"/>
+    <nd ref="173169835"/>
+    <nd ref="173169837"/>
+    <nd ref="173169840"/>
+    <nd ref="173169842"/>
+    <nd ref="173169845"/>
+    <nd ref="173169848"/>
+    <nd ref="173169851"/>
+    <nd ref="173169854"/>
+    <nd ref="173169857"/>
+    <nd ref="173169860"/>
+    <nd ref="173169863"/>
+    <nd ref="173169865"/>
+    <nd ref="173169868"/>
+    <nd ref="173169871"/>
+    <nd ref="173169874"/>
+    <nd ref="173169505"/>
+    <nd ref="173169877"/>
+    <nd ref="173169880"/>
+    <nd ref="173169883"/>
+    <nd ref="173169886"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="19394201:19393804:19414531"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-b808e7f3-7901-486b-aa19-168a2427ddca"/>
+  </way>
+
+</osm>

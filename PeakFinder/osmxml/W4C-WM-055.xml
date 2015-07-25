@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16633204">
+    <nd ref="173517106"/>
+    <nd ref="173521277"/>
+    <nd ref="173521280"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="BIA Highway 406"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="BIA Highway 406"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35969395"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16633205">
+    <nd ref="173521280"/>
+    <nd ref="171807003"/>
+    <nd ref="171807005"/>
+    <nd ref="171807009"/>
+    <nd ref="171807012"/>
+    <nd ref="171807016"/>
+    <nd ref="171807019"/>
+    <nd ref="171807021"/>
+    <nd ref="171807024"/>
+    <nd ref="171807026"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="BIA Highway 406"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="BIA Highway 406"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35983873"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="41374878">
+    <nd ref="173517097"/>
+    <nd ref="173536423"/>
+    <nd ref="2731244808"/>
+    <nd ref="173536425"/>
+    <nd ref="173536427"/>
+    <nd ref="2730626569"/>
+    <nd ref="2730626571"/>
+    <nd ref="173536431"/>
+    <nd ref="2730626574"/>
+    <nd ref="2730626580"/>
+    <nd ref="173536434"/>
+    <nd ref="173536436"/>
+    <nd ref="2730626596"/>
+    <nd ref="173536439"/>
+    <nd ref="2730626599"/>
+    <nd ref="173536443"/>
+    <nd ref="2730626603"/>
+    <nd ref="173536446"/>
+    <nd ref="2730626602"/>
+    <nd ref="173536451"/>
+    <nd ref="2730626600"/>
+    <nd ref="2730626598"/>
+    <nd ref="173536454"/>
+    <nd ref="2730626594"/>
+    <nd ref="2730626589"/>
+    <nd ref="2730626591"/>
+    <nd ref="2730626593"/>
+    <nd ref="173536457"/>
+    <nd ref="2730626592"/>
+    <nd ref="2730626588"/>
+    <nd ref="173536460"/>
+    <nd ref="173536464"/>
+    <nd ref="2730626581"/>
+    <nd ref="2730626577"/>
+    <nd ref="2730626576"/>
+    <nd ref="173536467"/>
+    <nd ref="2730626578"/>
+    <nd ref="2730626582"/>
+    <nd ref="173536471"/>
+    <nd ref="2730626585"/>
+    <nd ref="2731244812"/>
+    <nd ref="2730626586"/>
+    <nd ref="2730626584"/>
+    <nd ref="173536475"/>
+    <nd ref="173536478"/>
+    <nd ref="2730626573"/>
+    <nd ref="2730626572"/>
+    <nd ref="2730626568"/>
+    <nd ref="173536482"/>
+    <nd ref="2730626567"/>
+    <nd ref="173536485"/>
+    <nd ref="2730626565"/>
+    <nd ref="2882203149"/>
+    <nd ref="2731244815"/>
+    <nd ref="2882203145"/>
+    <nd ref="173536488"/>
+    <nd ref="2882203143"/>
+    <nd ref="2882203141"/>
+    <nd ref="2882203140"/>
+    <nd ref="173536492"/>
+    <nd ref="2882203136"/>
+    <nd ref="173536495"/>
+    <nd ref="2882203133"/>
+    <nd ref="173536497"/>
+    <nd ref="2882203118"/>
+    <nd ref="2882203111"/>
+    <nd ref="2882203110"/>
+    <nd ref="173536501"/>
+    <nd ref="2882203103"/>
+    <nd ref="2882203095"/>
+    <nd ref="2882203093"/>
+    <nd ref="2882203092"/>
+    <nd ref="173536504"/>
+    <nd ref="2882203088"/>
+    <nd ref="2882203085"/>
+    <nd ref="173536507"/>
+    <nd ref="2882203083"/>
+    <nd ref="2882203082"/>
+    <nd ref="2882203077"/>
+    <nd ref="173536510"/>
+    <nd ref="2882203063"/>
+    <nd ref="2882203061"/>
+    <nd ref="2882203057"/>
+    <nd ref="173536514"/>
+    <nd ref="2882203051"/>
+    <nd ref="2882203050"/>
+    <nd ref="173536518"/>
+    <nd ref="2882203048"/>
+    <nd ref="2882203047"/>
+    <nd ref="173536520"/>
+    <nd ref="2882203046"/>
+    <nd ref="2882203045"/>
+    <nd ref="2882203044"/>
+    <nd ref="173536524"/>
+    <nd ref="2882203043"/>
+    <nd ref="2882203042"/>
+    <nd ref="173536526"/>
+    <nd ref="2882203040"/>
+    <nd ref="2882203039"/>
+    <nd ref="2882203035"/>
+    <nd ref="173536529"/>
+    <nd ref="2882203031"/>
+    <nd ref="2882203032"/>
+    <nd ref="2882203036"/>
+    <nd ref="2882203037"/>
+    <nd ref="2882203038"/>
+    <nd ref="173536532"/>
+    <nd ref="2882203034"/>
+    <nd ref="2882203033"/>
+    <nd ref="173536535"/>
+    <nd ref="2023925466"/>
+    <nd ref="2882203026"/>
+    <nd ref="2023925476"/>
+    <nd ref="173536538"/>
+    <nd ref="173536540"/>
+    <nd ref="2882203025"/>
+    <nd ref="2023925472"/>
+    <nd ref="2023925513"/>
+    <nd ref="2023925552"/>
+    <nd ref="173536542"/>
+    <nd ref="2882203028"/>
+    <nd ref="2023925452"/>
+    <nd ref="2882203029"/>
+    <nd ref="2882203030"/>
+    <nd ref="173536545"/>
+    <nd ref="2023925448"/>
+    <nd ref="2023925532"/>
+    <nd ref="2023925471"/>
+    <nd ref="2023925543"/>
+    <nd ref="173536548"/>
+    <nd ref="2023925558"/>
+    <nd ref="2882203053"/>
+    <nd ref="2023925478"/>
+    <nd ref="173536551"/>
+    <nd ref="173536554"/>
+    <nd ref="2882203068"/>
+    <nd ref="173536556"/>
+    <nd ref="2023925562"/>
+    <nd ref="2023925495"/>
+    <nd ref="2882203081"/>
+    <nd ref="2023925521"/>
+    <nd ref="2023925545"/>
+    <nd ref="2023925517"/>
+    <nd ref="173536558"/>
+    <nd ref="173536562"/>
+    <nd ref="2023925551"/>
+    <nd ref="173536564"/>
+    <nd ref="2882203119"/>
+    <nd ref="2023925504"/>
+    <nd ref="2023925439"/>
+    <nd ref="173536566"/>
+    <nd ref="2023925555"/>
+    <nd ref="2023925546"/>
+    <nd ref="173536568"/>
+    <nd ref="2882203128"/>
+    <nd ref="2023925544"/>
+    <nd ref="2882203127"/>
+    <nd ref="2023925459"/>
+    <nd ref="173536570"/>
+    <nd ref="2882203124"/>
+    <nd ref="173536572"/>
+    <nd ref="173536574"/>
+    <nd ref="2023925503"/>
+    <nd ref="2882203109"/>
+    <nd ref="2882203102"/>
+    <nd ref="2023925561"/>
+    <nd ref="173536577"/>
+    <nd ref="2882203086"/>
+    <nd ref="2023925560"/>
+    <nd ref="2023925550"/>
+    <nd ref="2882203084"/>
+    <nd ref="173536580"/>
+    <nd ref="2023925509"/>
+    <nd ref="2023925541"/>
+    <nd ref="173536583"/>
+    <tag k="goods" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Blue Ridge Parkway"/>
+    <tag k="ref" v="BRP"/>
+    <tag k="source" v="NPS"/>
+    <tag k="website" v="http://www.blueridgeparkway.org/"/>
+  </way>
+
+</osm>

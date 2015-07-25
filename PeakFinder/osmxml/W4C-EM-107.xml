@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:53:02Z"/>
+
+  <way id="16429234">
+    <nd ref="169577536"/>
+    <nd ref="169577538"/>
+    <nd ref="169577540"/>
+    <nd ref="169577542"/>
+    <nd ref="169577545"/>
+    <nd ref="169577548"/>
+    <nd ref="169577550"/>
+    <nd ref="169577553"/>
+    <nd ref="169577557"/>
+    <nd ref="169577560"/>
+    <nd ref="169577564"/>
+    <nd ref="169577566"/>
+    <nd ref="169571197"/>
+    <nd ref="169577570"/>
+    <nd ref="169577572"/>
+    <nd ref="169577574"/>
+    <nd ref="169577575"/>
+    <nd ref="169577578"/>
+    <nd ref="169577581"/>
+    <nd ref="169577582"/>
+    <nd ref="169577583"/>
+    <nd ref="169577586"/>
+    <nd ref="169577591"/>
+    <nd ref="169577595"/>
+    <nd ref="169577599"/>
+    <nd ref="169577602"/>
+    <nd ref="169577603"/>
+    <nd ref="169577606"/>
+    <nd ref="169577608"/>
+    <nd ref="169577612"/>
+    <nd ref="169577616"/>
+    <nd ref="169577619"/>
+    <nd ref="169577622"/>
+    <nd ref="169577625"/>
+    <nd ref="169577629"/>
+    <nd ref="169577631"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Burke, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="37163865:37163869:37163685:37163688:37163871:37163380"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-275a4238-2f1b-4141-a15b-abca78dd249b"/>
+  </way>
+
+</osm>

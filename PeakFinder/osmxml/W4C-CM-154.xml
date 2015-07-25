@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:46:02Z"/>
+
+  <way id="16418777">
+    <nd ref="169475888"/>
+    <nd ref="169475890"/>
+    <nd ref="169475893"/>
+    <nd ref="169475894"/>
+    <nd ref="169475896"/>
+    <nd ref="169475899"/>
+    <nd ref="169475904"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36909832:36889576"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16423715">
+    <nd ref="169529202"/>
+    <nd ref="169529204"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36889567"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="16426358">
+    <nd ref="169475893"/>
+    <nd ref="169556908"/>
+    <nd ref="169556910"/>
+    <nd ref="169556913"/>
+    <nd ref="169556916"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Buncombe, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36889577"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-8ce0f50b-a930-4e72-a7fc-6d619c0c0951"/>
+  </way>
+  <way id="288352933">
+    <nd ref="2919109196"/>
+    <nd ref="2919109208"/>
+    <nd ref="2919109219"/>
+    <nd ref="2919109224"/>
+    <nd ref="2919109231"/>
+    <nd ref="2919109237"/>
+    <nd ref="2919109235"/>
+    <nd ref="2919109236"/>
+    <nd ref="2919109234"/>
+    <nd ref="2919109230"/>
+    <nd ref="2919109227"/>
+    <nd ref="2919109212"/>
+    <nd ref="2919109207"/>
+    <nd ref="2919109203"/>
+    <nd ref="2919109202"/>
+    <nd ref="2919109204"/>
+    <nd ref="2919109206"/>
+    <nd ref="2919109210"/>
+    <nd ref="2919109221"/>
+    <nd ref="2919109239"/>
+    <nd ref="2919109248"/>
+    <nd ref="2919109251"/>
+    <nd ref="2919109254"/>
+    <nd ref="2919109255"/>
+    <nd ref="2919109260"/>
+    <nd ref="2919109271"/>
+    <nd ref="2919109280"/>
+    <nd ref="2919109282"/>
+    <nd ref="2919109285"/>
+    <nd ref="2919109287"/>
+    <nd ref="2919109289"/>
+    <nd ref="2919109290"/>
+    <nd ref="2919109291"/>
+    <nd ref="2919109295"/>
+    <nd ref="2919109301"/>
+    <nd ref="2919109306"/>
+    <nd ref="2919109311"/>
+    <nd ref="2919109327"/>
+    <nd ref="2919109333"/>
+    <nd ref="2919109334"/>
+    <nd ref="2919109340"/>
+    <nd ref="2919109347"/>
+    <nd ref="2919109352"/>
+    <nd ref="2919109355"/>
+    <nd ref="2919109356"/>
+    <nd ref="2919109358"/>
+    <nd ref="2919109362"/>
+    <nd ref="2919109364"/>
+    <nd ref="2919109366"/>
+    <nd ref="2919109370"/>
+    <nd ref="2919109388"/>
+    <nd ref="2919109399"/>
+    <nd ref="2919109402"/>
+    <nd ref="2919109406"/>
+    <nd ref="2919109412"/>
+    <nd ref="2919109418"/>
+    <nd ref="2919109423"/>
+    <nd ref="2919109428"/>
+    <nd ref="2919109433"/>
+    <nd ref="2919109434"/>
+    <nd ref="2919109442"/>
+    <nd ref="2919109446"/>
+    <nd ref="2919109451"/>
+    <nd ref="2919109456"/>
+    <nd ref="2919109463"/>
+    <nd ref="2919109472"/>
+    <nd ref="2919109475"/>
+    <nd ref="2919109479"/>
+    <nd ref="2919109482"/>
+    <nd ref="2919109485"/>
+    <nd ref="2919109489"/>
+    <nd ref="2919109496"/>
+    <nd ref="2919109497"/>
+    <nd ref="2919109499"/>
+    <nd ref="2919109501"/>
+    <nd ref="2919109503"/>
+    <nd ref="2919109505"/>
+    <nd ref="2919109510"/>
+    <nd ref="2919109512"/>
+    <nd ref="2919109513"/>
+    <nd ref="2919109514"/>
+    <nd ref="2919109515"/>
+    <nd ref="2919109517"/>
+    <nd ref="2919109519"/>
+    <nd ref="2919109520"/>
+    <nd ref="2919109524"/>
+    <nd ref="2919109530"/>
+    <nd ref="2919109534"/>
+    <nd ref="2919109536"/>
+    <nd ref="2919109549"/>
+    <nd ref="2919109554"/>
+    <nd ref="2919109559"/>
+    <nd ref="2919109558"/>
+    <nd ref="2919109555"/>
+    <nd ref="2919109552"/>
+    <nd ref="2919109553"/>
+    <nd ref="2919109560"/>
+    <nd ref="2919109561"/>
+    <nd ref="2919109565"/>
+    <nd ref="2919109569"/>
+    <nd ref="2919109571"/>
+    <nd ref="2919109579"/>
+    <nd ref="2919109588"/>
+    <nd ref="2919109593"/>
+    <nd ref="2919109598"/>
+    <nd ref="2919109602"/>
+    <nd ref="2919109605"/>
+    <nd ref="2919109608"/>
+    <nd ref="2919109612"/>
+    <nd ref="2919109618"/>
+    <nd ref="2919109623"/>
+    <nd ref="2919109635"/>
+    <nd ref="2919109642"/>
+    <nd ref="2919109646"/>
+    <nd ref="2919109650"/>
+    <nd ref="2919109659"/>
+    <nd ref="2919109670"/>
+    <nd ref="2919109676"/>
+    <nd ref="2919109684"/>
+    <nd ref="2919109688"/>
+    <nd ref="2919109691"/>
+    <nd ref="2919109692"/>
+    <nd ref="2919109695"/>
+    <nd ref="2919109700"/>
+    <nd ref="2919109802"/>
+    <nd ref="2919109803"/>
+    <nd ref="2919109804"/>
+    <nd ref="2919109805"/>
+    <nd ref="2919109807"/>
+    <nd ref="2919109808"/>
+    <nd ref="2919109809"/>
+    <nd ref="2919109812"/>
+    <nd ref="2919109810"/>
+    <nd ref="2919109811"/>
+    <nd ref="2919109813"/>
+    <nd ref="2919109818"/>
+    <nd ref="2919109819"/>
+    <nd ref="2919109815"/>
+    <nd ref="2919109814"/>
+    <nd ref="2919109817"/>
+    <nd ref="2919109820"/>
+    <nd ref="2919109821"/>
+    <nd ref="2919109823"/>
+    <nd ref="2919109826"/>
+    <nd ref="2919109827"/>
+    <nd ref="2919109828"/>
+    <nd ref="2919109825"/>
+    <nd ref="2919109824"/>
+    <nd ref="2919109822"/>
+    <nd ref="2919109816"/>
+    <nd ref="2919109806"/>
+    <nd ref="2919109801"/>
+    <nd ref="2919109699"/>
+    <nd ref="2919109698"/>
+    <nd ref="2919109694"/>
+    <nd ref="2919109696"/>
+    <nd ref="2919109697"/>
+    <nd ref="2919109693"/>
+    <nd ref="2919109690"/>
+    <nd ref="2919109689"/>
+    <nd ref="2919109687"/>
+    <nd ref="2919109686"/>
+    <nd ref="2919109685"/>
+    <nd ref="2919109683"/>
+    <nd ref="2919109680"/>
+    <nd ref="2919109677"/>
+    <nd ref="2919109675"/>
+    <nd ref="2919109674"/>
+    <nd ref="2919109672"/>
+    <nd ref="2919109671"/>
+    <nd ref="2919109669"/>
+    <nd ref="2919109666"/>
+    <nd ref="2919109662"/>
+    <nd ref="2919109664"/>
+    <nd ref="2919109667"/>
+    <nd ref="2919109663"/>
+    <nd ref="2919109660"/>
+    <nd ref="2919109653"/>
+    <nd ref="2919109648"/>
+    <nd ref="2919109647"/>
+    <nd ref="2919109644"/>
+    <nd ref="2919109643"/>
+    <nd ref="2919109640"/>
+    <nd ref="2919109638"/>
+    <nd ref="2919109637"/>
+    <nd ref="2919109636"/>
+    <nd ref="2919109630"/>
+    <nd ref="2919109628"/>
+    <nd ref="2919109629"/>
+    <nd ref="2919109631"/>
+    <nd ref="2919109633"/>
+    <nd ref="2919109632"/>
+    <nd ref="2919109627"/>
+    <nd ref="2919109625"/>
+    <nd ref="2919109624"/>
+    <nd ref="2919109621"/>
+    <nd ref="2919109615"/>
+    <nd ref="2919109610"/>
+    <nd ref="2919109607"/>
+    <nd ref="2919109603"/>
+    <nd ref="2919109595"/>
+    <nd ref="2919109584"/>
+    <nd ref="2919109574"/>
+    <nd ref="2919109564"/>
+    <nd ref="2919109551"/>
+    <nd ref="2919109539"/>
+    <nd ref="2919109527"/>
+    <nd ref="2919109523"/>
+    <nd ref="2919109518"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Walnut Valley Parkway"/>
+  </way>
+
+</osm>

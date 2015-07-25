@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:00:02Z"/>
+
+  <way id="16657540">
+    <nd ref="172087944"/>
+    <nd ref="172087947"/>
+    <nd ref="172087950"/>
+    <nd ref="172087953"/>
+    <nd ref="172087956"/>
+    <nd ref="172087959"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanna Mtn Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Hanna Mtn"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+    <tag k="tiger:zip_right" v="28763"/>
+  </way>
+  <way id="16657541">
+    <nd ref="172087953"/>
+    <nd ref="172087970"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanna Mtn Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Hanna Mtn"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658631">
+    <nd ref="172070211"/>
+    <nd ref="172102868"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Holloway Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Holloway"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+  </way>
+  <way id="16660343">
+    <nd ref="172070231"/>
+    <nd ref="172122697"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Flood Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Flood"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28763"/>
+    <tag k="tiger:zip_right" v="28763"/>
+  </way>
+
+</osm>

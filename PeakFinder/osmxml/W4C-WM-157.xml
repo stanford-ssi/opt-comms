@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-22T00:02:02Z"/>
+
+  <way id="16773835">
+    <nd ref="173475694"/>
+    <nd ref="173475698"/>
+    <nd ref="173475701"/>
+    <nd ref="173475705"/>
+    <nd ref="173475707"/>
+    <nd ref="173475710"/>
+    <nd ref="173475714"/>
+    <nd ref="173475716"/>
+    <nd ref="173475719"/>
+    <nd ref="173475722"/>
+    <nd ref="173475724"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36131313:36131314:36125360"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16773888">
+    <nd ref="173476377"/>
+    <nd ref="173476380"/>
+    <nd ref="173476383"/>
+    <nd ref="173476386"/>
+    <nd ref="173476388"/>
+    <nd ref="173476390"/>
+    <nd ref="173476393"/>
+    <nd ref="173476395"/>
+    <nd ref="173476397"/>
+    <nd ref="173476328"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36125394"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16774216">
+    <nd ref="173482166"/>
+    <nd ref="173482171"/>
+    <nd ref="173482175"/>
+    <nd ref="173482178"/>
+    <nd ref="173482181"/>
+    <nd ref="173482184"/>
+    <nd ref="173482188"/>
+    <nd ref="173482191"/>
+    <nd ref="173482195"/>
+    <nd ref="173482199"/>
+    <nd ref="173475716"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36127257"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-39d18f8f-2ff6-42a1-9ea2-dbe000d06aef"/>
+  </way>
+  <way id="16777574">
+    <nd ref="173542387"/>
+    <nd ref="173542390"/>
+    <nd ref="173542393"/>
+    <nd ref="173542395"/>
+    <nd ref="173542490"/>
+    <nd ref="173542496"/>
+    <nd ref="173542500"/>
+    <nd ref="173542504"/>
+    <nd ref="173542507"/>
+    <nd ref="173542511"/>
+    <nd ref="173542514"/>
+    <nd ref="173542518"/>
+    <nd ref="173542523"/>
+    <nd ref="173542526"/>
+    <nd ref="173542529"/>
+    <nd ref="173542534"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Twin Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Twin Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16777577">
+    <nd ref="173513808"/>
+    <nd ref="173542546"/>
+    <nd ref="173542549"/>
+    <nd ref="173542551"/>
+    <nd ref="173542553"/>
+    <nd ref="173542555"/>
+    <nd ref="173542558"/>
+    <nd ref="173475694"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Twin Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Twin Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16777579">
+    <nd ref="173475719"/>
+    <nd ref="173542566"/>
+    <nd ref="173542569"/>
+    <nd ref="173542571"/>
+    <nd ref="173542574"/>
+    <nd ref="173542577"/>
+    <nd ref="173542580"/>
+    <nd ref="173542583"/>
+    <nd ref="173542585"/>
+    <nd ref="173542590"/>
+    <nd ref="173542593"/>
+    <nd ref="173542597"/>
+    <nd ref="173542600"/>
+    <nd ref="173542523"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Twin Cove Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Twin Cove"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+  </way>
+  <way id="16778024">
+    <nd ref="1352512060"/>
+    <nd ref="1352512218"/>
+    <nd ref="1352512170"/>
+    <nd ref="1352512174"/>
+    <nd ref="1352512123"/>
+    <nd ref="1352511931"/>
+    <nd ref="1352512219"/>
+    <nd ref="1352512035"/>
+    <nd ref="1352512019"/>
+    <nd ref="1352511976"/>
+    <nd ref="1352512139"/>
+    <nd ref="1352512091"/>
+    <nd ref="1352512014"/>
+    <nd ref="1352512227"/>
+    <nd ref="1352512197"/>
+    <nd ref="1352511937"/>
+    <nd ref="173544645"/>
+    <nd ref="173554195"/>
+    <nd ref="173528996"/>
+    <nd ref="173554198"/>
+    <nd ref="173554203"/>
+    <nd ref="173554210"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lakeview Lodge Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Swain, NC"/>
+    <tag k="tiger:name_base" v="Lakeview Lodge"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28713"/>
+    <tag k="tiger:zip_right" v="28713"/>
+  </way>
+
+</osm>

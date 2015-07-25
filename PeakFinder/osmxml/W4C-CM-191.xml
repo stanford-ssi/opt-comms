@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:48:02Z"/>
+
+  <way id="16727790">
+    <nd ref="172950684"/>
+    <nd ref="172950687"/>
+    <nd ref="172950689"/>
+    <nd ref="172950691"/>
+    <nd ref="172950698"/>
+    <nd ref="172950700"/>
+    <nd ref="172950702"/>
+    <nd ref="172950706"/>
+    <nd ref="172950709"/>
+    <nd ref="172950713"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Williams Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="Williams"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16727890">
+    <nd ref="172951704"/>
+    <nd ref="172951706"/>
+    <nd ref="172951709"/>
+    <nd ref="172951712"/>
+    <nd ref="172951716"/>
+    <nd ref="172951718"/>
+    <nd ref="172951720"/>
+    <nd ref="172951721"/>
+    <nd ref="172951722"/>
+    <nd ref="172951724"/>
+    <nd ref="172951726"/>
+    <nd ref="172951727"/>
+    <nd ref="172951729"/>
+    <nd ref="172951732"/>
+    <nd ref="172951736"/>
+    <nd ref="172951739"/>
+    <nd ref="172951741"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beechwood West Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="Beechwood West"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28722"/>
+    <tag k="tiger:zip_right" v="28722"/>
+  </way>
+  <way id="16729291">
+    <nd ref="172962933"/>
+    <nd ref="172910694"/>
+    <nd ref="172965741"/>
+    <nd ref="172965744"/>
+    <nd ref="172965747"/>
+    <nd ref="172965749"/>
+    <nd ref="172965751"/>
+    <nd ref="172965753"/>
+    <nd ref="172965755"/>
+    <nd ref="172965758"/>
+    <nd ref="172940802"/>
+    <nd ref="172965760"/>
+    <nd ref="172965762"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Little Wings Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="Little Wings"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16730453">
+    <nd ref="172978365"/>
+    <nd ref="172978367"/>
+    <nd ref="172978368"/>
+    <nd ref="172978369"/>
+    <nd ref="172978372"/>
+    <nd ref="172978374"/>
+    <nd ref="172978377"/>
+    <nd ref="172978380"/>
+    <nd ref="172978382"/>
+    <nd ref="172978384"/>
+    <nd ref="172978386"/>
+    <nd ref="172978389"/>
+    <nd ref="172978392"/>
+    <nd ref="172978394"/>
+    <nd ref="172978396"/>
+    <nd ref="172978398"/>
+    <nd ref="172978400"/>
+    <nd ref="172978402"/>
+    <nd ref="172978405"/>
+    <nd ref="172978408"/>
+    <nd ref="172978411"/>
+    <nd ref="172978414"/>
+    <nd ref="172978417"/>
+    <nd ref="172978420"/>
+    <nd ref="172978425"/>
+    <nd ref="172978428"/>
+    <nd ref="172978431"/>
+    <nd ref="172978433"/>
+    <nd ref="172978434"/>
+    <nd ref="172978435"/>
+    <nd ref="172978436"/>
+    <nd ref="172978437"/>
+    <nd ref="172978439"/>
+    <nd ref="172978441"/>
+    <nd ref="172978443"/>
+    <nd ref="172978445"/>
+    <nd ref="172978447"/>
+    <nd ref="172978449"/>
+    <nd ref="172978451"/>
+    <nd ref="172978453"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laurel Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="Laurel Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28722"/>
+    <tag k="tiger:zip_left_1" v="28722"/>
+    <tag k="tiger:zip_right" v="28722"/>
+    <tag k="tiger:zip_right_1" v="28722"/>
+  </way>
+  <way id="38518929">
+    <nd ref="455770951"/>
+    <nd ref="455770952"/>
+    <nd ref="455770954"/>
+    <nd ref="455770956"/>
+    <nd ref="455770957"/>
+    <nd ref="455770959"/>
+    <nd ref="455770961"/>
+    <nd ref="455770962"/>
+    <nd ref="455770964"/>
+    <nd ref="455770973"/>
+    <nd ref="455770974"/>
+    <nd ref="455770975"/>
+    <nd ref="455770976"/>
+    <nd ref="455770977"/>
+    <nd ref="455770978"/>
+    <nd ref="455770979"/>
+    <nd ref="455770980"/>
+    <nd ref="455770981"/>
+    <nd ref="455770982"/>
+    <nd ref="455770983"/>
+    <nd ref="455770984"/>
+    <nd ref="455770985"/>
+    <nd ref="455770986"/>
+    <nd ref="455770987"/>
+    <nd ref="455770988"/>
+    <nd ref="455770989"/>
+    <nd ref="455770990"/>
+    <nd ref="455770991"/>
+    <nd ref="455770992"/>
+    <nd ref="455770993"/>
+    <nd ref="455770994"/>
+    <nd ref="455770995"/>
+    <nd ref="455770996"/>
+    <nd ref="455770997"/>
+    <nd ref="455770998"/>
+    <nd ref="455770999"/>
+    <nd ref="455771000"/>
+    <nd ref="455771001"/>
+    <nd ref="455771003"/>
+    <nd ref="455771005"/>
+    <nd ref="455771006"/>
+    <nd ref="455771008"/>
+    <nd ref="455771010"/>
+    <nd ref="455771011"/>
+    <nd ref="455771013"/>
+    <nd ref="455771014"/>
+    <nd ref="455771016"/>
+    <nd ref="455771018"/>
+    <nd ref="455771019"/>
+    <nd ref="455771021"/>
+    <nd ref="455771022"/>
+    <nd ref="455771024"/>
+    <nd ref="455771026"/>
+    <nd ref="455771027"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="65 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 26"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="I-26"/>
+  </way>
+  <way id="38518933">
+    <nd ref="172919794"/>
+    <nd ref="937710679"/>
+    <nd ref="172919791"/>
+    <nd ref="172919788"/>
+    <nd ref="172919785"/>
+    <nd ref="172919783"/>
+    <nd ref="172910727"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="65 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="US 74"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="44312725:44315393:44317557:44315392:44316276"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-73a6f366-e085-4f00-94ff-6cff4981138a"/>
+  </way>
+  <way id="38518944">
+    <nd ref="172984696"/>
+    <nd ref="937710648"/>
+    <nd ref="455771058"/>
+    <nd ref="455771057"/>
+    <nd ref="455771055"/>
+    <nd ref="455771053"/>
+    <nd ref="455771052"/>
+    <nd ref="455771050"/>
+    <nd ref="455771049"/>
+    <nd ref="455771027"/>
+    <tag k="NHS" v="yes"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="hgv:national_network" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="US 74"/>
+    <tag k="source:hgv:national_network" v="Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;rgn=div5&amp;view=text&amp;node=23:1.0.1.7.33&amp;idno=23"/>
+  </way>
+  <way id="38518954">
+    <nd ref="172961353"/>
+    <nd ref="455771321"/>
+    <nd ref="172961356"/>
+    <nd ref="172913389"/>
+    <nd ref="172925361"/>
+    <nd ref="172961358"/>
+    <nd ref="172961360"/>
+    <nd ref="172961361"/>
+    <nd ref="172961363"/>
+    <nd ref="172961365"/>
+    <nd ref="172961367"/>
+    <nd ref="172961369"/>
+    <nd ref="172961372"/>
+    <nd ref="172961374"/>
+    <nd ref="172961376"/>
+    <nd ref="172961379"/>
+    <nd ref="172961382"/>
+    <nd ref="172961385"/>
+    <nd ref="172961388"/>
+    <nd ref="172961391"/>
+    <nd ref="172961394"/>
+    <nd ref="172961397"/>
+    <nd ref="172961400"/>
+    <nd ref="172961402"/>
+    <nd ref="172961404"/>
+    <nd ref="172961406"/>
+    <nd ref="172961408"/>
+    <nd ref="172961410"/>
+    <nd ref="172961413"/>
+    <nd ref="172961416"/>
+    <nd ref="172961419"/>
+    <nd ref="172961422"/>
+    <nd ref="172961425"/>
+    <nd ref="172961428"/>
+    <nd ref="172961431"/>
+    <nd ref="172961434"/>
+    <nd ref="172961437"/>
+    <nd ref="172955070"/>
+    <nd ref="172961440"/>
+    <nd ref="172961443"/>
+    <nd ref="172961445"/>
+    <nd ref="172961447"/>
+    <nd ref="172961449"/>
+    <nd ref="172961451"/>
+    <nd ref="172961453"/>
+    <nd ref="172961455"/>
+    <nd ref="172961458"/>
+    <nd ref="172961461"/>
+    <nd ref="172961464"/>
+    <nd ref="172961467"/>
+    <nd ref="172961469"/>
+    <nd ref="172961471"/>
+    <nd ref="172961474"/>
+    <nd ref="172961478"/>
+    <nd ref="172961482"/>
+    <nd ref="172961485"/>
+    <nd ref="172961488"/>
+    <nd ref="172961491"/>
+    <nd ref="172961494"/>
+    <nd ref="172961497"/>
+    <nd ref="172961500"/>
+    <nd ref="172961503"/>
+    <nd ref="172961506"/>
+    <nd ref="455771145"/>
+    <nd ref="172961509"/>
+    <nd ref="455771144"/>
+    <nd ref="172961512"/>
+    <nd ref="172961515"/>
+    <nd ref="172961518"/>
+    <nd ref="455771142"/>
+    <nd ref="455771140"/>
+    <nd ref="172961521"/>
+    <nd ref="172961523"/>
+    <nd ref="172961526"/>
+    <nd ref="172961528"/>
+    <nd ref="172961532"/>
+    <nd ref="172961534"/>
+    <nd ref="172961536"/>
+    <nd ref="172961538"/>
+    <nd ref="172961540"/>
+    <nd ref="172919794"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="65 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 26;US 74"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="I-26"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="44318207:44312600"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-73a6f366-e085-4f00-94ff-6cff4981138a"/>
+  </way>
+  <way id="51655146">
+    <nd ref="455771027"/>
+    <nd ref="455771029"/>
+    <nd ref="455771031"/>
+    <nd ref="455771147"/>
+    <nd ref="455771149"/>
+    <nd ref="455771150"/>
+    <nd ref="455771152"/>
+    <nd ref="455771154"/>
+    <nd ref="455771155"/>
+    <nd ref="455771157"/>
+    <nd ref="455771159"/>
+    <nd ref="455771160"/>
+    <nd ref="455771162"/>
+    <nd ref="455771164"/>
+    <nd ref="455771165"/>
+    <nd ref="455771167"/>
+    <nd ref="455771169"/>
+    <nd ref="455771170"/>
+    <nd ref="455771172"/>
+    <nd ref="455771174"/>
+    <nd ref="455771175"/>
+    <nd ref="455771177"/>
+    <nd ref="455771179"/>
+    <nd ref="455771180"/>
+    <nd ref="455771182"/>
+    <nd ref="455771183"/>
+    <nd ref="455771185"/>
+    <nd ref="455771187"/>
+    <nd ref="455771188"/>
+    <nd ref="455771190"/>
+    <nd ref="455771191"/>
+    <nd ref="455771193"/>
+    <nd ref="455771195"/>
+    <nd ref="455771201"/>
+    <nd ref="455771202"/>
+    <nd ref="455771204"/>
+    <nd ref="455771206"/>
+    <nd ref="455771207"/>
+    <nd ref="455771209"/>
+    <nd ref="455771211"/>
+    <nd ref="455771212"/>
+    <nd ref="455771214"/>
+    <nd ref="455771216"/>
+    <nd ref="455771217"/>
+    <nd ref="455771229"/>
+    <nd ref="455771231"/>
+    <nd ref="455771232"/>
+    <nd ref="455771234"/>
+    <nd ref="455771236"/>
+    <nd ref="455771238"/>
+    <nd ref="455771239"/>
+    <nd ref="455771241"/>
+    <nd ref="455771243"/>
+    <nd ref="455771245"/>
+    <nd ref="455771246"/>
+    <nd ref="455771248"/>
+    <nd ref="455771250"/>
+    <nd ref="455771251"/>
+    <nd ref="455771253"/>
+    <nd ref="455771255"/>
+    <nd ref="455771257"/>
+    <nd ref="455771258"/>
+    <nd ref="455771260"/>
+    <nd ref="455771262"/>
+    <nd ref="455771263"/>
+    <nd ref="455771265"/>
+    <nd ref="455771267"/>
+    <nd ref="455771268"/>
+    <nd ref="455771270"/>
+    <nd ref="455771272"/>
+    <nd ref="455771274"/>
+    <nd ref="455771289"/>
+    <nd ref="455771291"/>
+    <nd ref="455771293"/>
+    <nd ref="455771294"/>
+    <nd ref="455771296"/>
+    <nd ref="455771298"/>
+    <nd ref="455771300"/>
+    <nd ref="455771301"/>
+    <nd ref="455771303"/>
+    <nd ref="455771305"/>
+    <nd ref="455771306"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="65 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 26;US 74"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="I-26"/>
+  </way>
+  <way id="51655148">
+    <nd ref="172919794"/>
+    <nd ref="937710606"/>
+    <nd ref="172961542"/>
+    <nd ref="172961544"/>
+    <nd ref="172961546"/>
+    <nd ref="172961548"/>
+    <nd ref="172961549"/>
+    <nd ref="172961552"/>
+    <nd ref="172910734"/>
+    <nd ref="172961554"/>
+    <nd ref="172961556"/>
+    <nd ref="172961558"/>
+    <nd ref="172961560"/>
+    <nd ref="172961562"/>
+    <nd ref="172961564"/>
+    <nd ref="172961567"/>
+    <nd ref="172961569"/>
+    <nd ref="172961570"/>
+    <nd ref="172961572"/>
+    <nd ref="172961574"/>
+    <nd ref="172961576"/>
+    <nd ref="172961578"/>
+    <nd ref="172961579"/>
+    <nd ref="172961580"/>
+    <nd ref="172961581"/>
+    <nd ref="172961582"/>
+    <nd ref="172961587"/>
+    <nd ref="172961589"/>
+    <nd ref="172961591"/>
+    <nd ref="172961594"/>
+    <nd ref="172961597"/>
+    <nd ref="172961599"/>
+    <nd ref="172961600"/>
+    <nd ref="172961601"/>
+    <nd ref="172961603"/>
+    <nd ref="172961612"/>
+    <nd ref="172961615"/>
+    <nd ref="172961618"/>
+    <nd ref="172961621"/>
+    <nd ref="172961624"/>
+    <nd ref="172961626"/>
+    <nd ref="172961628"/>
+    <nd ref="172961635"/>
+    <nd ref="172961639"/>
+    <nd ref="172961645"/>
+    <nd ref="172961648"/>
+    <nd ref="172961651"/>
+    <nd ref="172961654"/>
+    <nd ref="172961656"/>
+    <nd ref="172961659"/>
+    <nd ref="172961667"/>
+    <nd ref="172961671"/>
+    <nd ref="172961673"/>
+    <nd ref="172961675"/>
+    <nd ref="172961676"/>
+    <nd ref="172961677"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="65 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 26"/>
+    <tag k="sidewalk" v="none"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Polk, NC"/>
+    <tag k="tiger:name_base" v="I-26"/>
+    <tag k="tiger:separated" v="yes"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="44318207:44312600"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-73a6f366-e085-4f00-94ff-6cff4981138a"/>
+  </way>
+
+</osm>

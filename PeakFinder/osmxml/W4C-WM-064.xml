@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16648628">
+    <nd ref="171982022"/>
+    <nd ref="171982027"/>
+    <nd ref="171982030"/>
+    <nd ref="171982032"/>
+    <nd ref="171982035"/>
+    <nd ref="171982038"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35492843:35491734"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16648640">
+    <nd ref="171982091"/>
+    <nd ref="171982094"/>
+    <nd ref="171982022"/>
+    <nd ref="171982097"/>
+    <nd ref="171982099"/>
+    <nd ref="171982101"/>
+    <nd ref="171982103"/>
+    <nd ref="171982105"/>
+    <nd ref="171982110"/>
+    <nd ref="171982114"/>
+    <nd ref="171982115"/>
+    <nd ref="171982116"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35492845"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16650716">
+    <nd ref="171997011"/>
+    <nd ref="171997012"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="service"/>
+    <tag k="tiger:cfcc" v="A74"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35511159"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-78f847cc-e16e-402d-8709-c978149cf480"/>
+  </way>
+  <way id="16652624">
+    <nd ref="172014001"/>
+    <nd ref="172014005"/>
+    <nd ref="172014007"/>
+    <nd ref="172014009"/>
+    <nd ref="172014010"/>
+    <nd ref="172014011"/>
+    <nd ref="172014012"/>
+    <nd ref="172014013"/>
+    <nd ref="172014014"/>
+    <nd ref="172014016"/>
+    <nd ref="172014018"/>
+    <nd ref="172014020"/>
+    <nd ref="172014022"/>
+    <nd ref="172014024"/>
+    <nd ref="172014027"/>
+    <nd ref="172014030"/>
+    <nd ref="172014032"/>
+    <nd ref="172014034"/>
+    <nd ref="172014036"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Satulah Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Satulah Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28741"/>
+    <tag k="tiger:zip_right" v="28741"/>
+  </way>
+  <way id="16656543">
+    <nd ref="172071095"/>
+    <nd ref="172071098"/>
+    <nd ref="172071101"/>
+    <nd ref="172071103"/>
+    <nd ref="172071105"/>
+    <nd ref="172071106"/>
+    <nd ref="172071107"/>
+    <nd ref="172071110"/>
+    <nd ref="172071113"/>
+    <nd ref="172071116"/>
+    <nd ref="172071119"/>
+    <nd ref="171975640"/>
+    <nd ref="172071121"/>
+    <nd ref="172071124"/>
+    <nd ref="172071126"/>
+    <nd ref="172071129"/>
+    <nd ref="172071132"/>
+    <nd ref="172071134"/>
+    <nd ref="172071136"/>
+    <nd ref="172071137"/>
+    <nd ref="172071139"/>
+    <nd ref="172071141"/>
+    <nd ref="172071144"/>
+    <nd ref="172071147"/>
+    <nd ref="172071150"/>
+    <nd ref="172071153"/>
+    <nd ref="172070080"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sunset Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Sunset"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658205">
+    <nd ref="171976846"/>
+    <nd ref="172098484"/>
+    <nd ref="172098486"/>
+    <nd ref="172098488"/>
+    <nd ref="172098490"/>
+    <nd ref="172098491"/>
+    <nd ref="172098492"/>
+    <nd ref="172098494"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Old Walhalla Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Old Walhalla"/>
+    <tag k="tiger:name_direction_prefix" v="S"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16658219">
+    <nd ref="171997011"/>
+    <nd ref="171982116"/>
+    <nd ref="172098574"/>
+    <nd ref="172098578"/>
+    <nd ref="172098579"/>
+    <nd ref="172098582"/>
+    <nd ref="172098585"/>
+    <nd ref="172098587"/>
+    <nd ref="172098589"/>
+    <nd ref="172098591"/>
+    <nd ref="172098594"/>
+    <nd ref="172098597"/>
+    <nd ref="172098599"/>
+    <nd ref="172098601"/>
+    <nd ref="172039860"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Satulah Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Satulah"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28741"/>
+    <tag k="tiger:zip_right" v="28741"/>
+  </way>
+  <way id="287661012">
+    <nd ref="172024341"/>
+    <nd ref="2958849433"/>
+    <nd ref="2912323786"/>
+    <nd ref="2912323785"/>
+    <nd ref="2912323784"/>
+    <nd ref="2912323783"/>
+    <nd ref="2912323782"/>
+    <nd ref="2912323781"/>
+    <nd ref="2912323780"/>
+    <nd ref="2912323779"/>
+    <nd ref="2912323778"/>
+    <nd ref="2912323777"/>
+    <nd ref="2912323776"/>
+    <nd ref="2912323775"/>
+    <nd ref="2727373582"/>
+    <nd ref="172090466"/>
+    <nd ref="2727373581"/>
+    <nd ref="172050910"/>
+    <nd ref="2732681436"/>
+    <nd ref="172050812"/>
+    <nd ref="172050815"/>
+    <nd ref="172050818"/>
+    <nd ref="2732681438"/>
+    <nd ref="172050821"/>
+    <nd ref="2732681440"/>
+    <nd ref="172050824"/>
+    <nd ref="172050827"/>
+    <nd ref="2732681442"/>
+    <nd ref="172050830"/>
+    <nd ref="172050833"/>
+    <nd ref="2727373579"/>
+    <nd ref="172050836"/>
+    <nd ref="172050839"/>
+    <nd ref="172050845"/>
+    <nd ref="2732681445"/>
+    <nd ref="2732681447"/>
+    <nd ref="2732681449"/>
+    <nd ref="172050847"/>
+    <nd ref="2732681451"/>
+    <nd ref="172050849"/>
+    <nd ref="2732681453"/>
+    <nd ref="172050851"/>
+    <nd ref="2727373578"/>
+    <nd ref="2727373576"/>
+    <nd ref="172050853"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Walhalla Road"/>
+    <tag k="ref" v="NC 28"/>
+    <tag k="tiger:cfcc" v="A31"/>
+    <tag k="tiger:county" v="Macon, NC"/>
+    <tag k="tiger:name_base" v="Walhalla"/>
+    <tag k="tiger:name_base_1" v="State Highway 28"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28741"/>
+    <tag k="tiger:zip_right" v="28741"/>
+  </way>
+
+</osm>

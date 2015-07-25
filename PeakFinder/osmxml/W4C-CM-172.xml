@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:47:02Z"/>
+
+  <way id="16757990">
+    <nd ref="173233019"/>
+    <nd ref="173233022"/>
+    <nd ref="173233025"/>
+    <nd ref="173233027"/>
+    <nd ref="173233029"/>
+    <nd ref="173233031"/>
+    <nd ref="173233033"/>
+    <nd ref="173233034"/>
+    <nd ref="173233037"/>
+    <nd ref="173233040"/>
+    <nd ref="173233042"/>
+    <nd ref="173233044"/>
+    <nd ref="173233046"/>
+    <nd ref="173233048"/>
+    <nd ref="173233051"/>
+    <nd ref="173233054"/>
+    <nd ref="173233057"/>
+    <nd ref="173233058"/>
+    <nd ref="173233061"/>
+    <nd ref="173233064"/>
+    <nd ref="173233067"/>
+    <nd ref="173233070"/>
+    <nd ref="173233073"/>
+    <nd ref="173233076"/>
+    <nd ref="173233079"/>
+    <nd ref="173233081"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Doubleview Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Rutherford, NC"/>
+    <tag k="tiger:name_base" v="Doubleview"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:41:01Z"/>
+
+  <way id="16607444">
+    <nd ref="171426687"/>
+    <nd ref="171497665"/>
+    <nd ref="171497669"/>
+    <nd ref="171497671"/>
+    <nd ref="171497673"/>
+    <nd ref="171497676"/>
+    <nd ref="171373243"/>
+    <nd ref="171497687"/>
+    <nd ref="171497699"/>
+    <nd ref="171497704"/>
+    <nd ref="171497707"/>
+    <nd ref="171397177"/>
+    <nd ref="171497710"/>
+    <nd ref="171497713"/>
+    <nd ref="171497716"/>
+    <nd ref="171497719"/>
+    <nd ref="171497722"/>
+    <nd ref="171497725"/>
+    <nd ref="171497728"/>
+    <nd ref="171413901"/>
+    <nd ref="171497730"/>
+    <nd ref="171497733"/>
+    <nd ref="171497735"/>
+    <nd ref="171497737"/>
+    <nd ref="171497740"/>
+    <nd ref="171497743"/>
+    <nd ref="171335045"/>
+    <nd ref="171497746"/>
+    <nd ref="171497749"/>
+    <nd ref="171497752"/>
+    <nd ref="171497754"/>
+    <nd ref="171497756"/>
+    <nd ref="171497758"/>
+    <nd ref="171497760"/>
+    <nd ref="171404946"/>
+    <nd ref="171497763"/>
+    <nd ref="171497766"/>
+    <nd ref="171497769"/>
+    <nd ref="171497772"/>
+    <nd ref="171497773"/>
+    <nd ref="171497776"/>
+    <nd ref="171497779"/>
+    <nd ref="171497782"/>
+    <nd ref="171497783"/>
+    <nd ref="171497785"/>
+    <nd ref="171497787"/>
+    <nd ref="171497790"/>
+    <nd ref="171497793"/>
+    <nd ref="171497795"/>
+    <nd ref="171497797"/>
+    <nd ref="171497799"/>
+    <nd ref="171497806"/>
+    <nd ref="171497808"/>
+    <nd ref="171497809"/>
+    <nd ref="171497813"/>
+    <nd ref="171497818"/>
+    <nd ref="171497820"/>
+    <nd ref="171497825"/>
+    <nd ref="171497828"/>
+    <nd ref="171497831"/>
+    <nd ref="171497834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Seasons Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Seasons"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28721"/>
+    <tag k="tiger:zip_right" v="28721"/>
+  </way>
+
+</osm>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="16592618">
+    <nd ref="171322401"/>
+    <nd ref="171322404"/>
+    <nd ref="171322407"/>
+    <nd ref="171322412"/>
+    <nd ref="171322416"/>
+    <nd ref="171322418"/>
+    <nd ref="171322422"/>
+    <nd ref="171322425"/>
+    <nd ref="171322427"/>
+    <nd ref="171322431"/>
+    <nd ref="171322433"/>
+    <nd ref="171322436"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Remember Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Remember"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16596189">
+    <nd ref="171370307"/>
+    <nd ref="171370309"/>
+    <nd ref="171370311"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bull Moose Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Bull Moose"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16602830">
+    <nd ref="171311929"/>
+    <nd ref="171439541"/>
+    <nd ref="171439544"/>
+    <nd ref="171439547"/>
+    <nd ref="171439549"/>
+    <nd ref="171439553"/>
+    <nd ref="171439556"/>
+    <nd ref="171439559"/>
+    <nd ref="171439561"/>
+    <nd ref="171439563"/>
+    <nd ref="171439564"/>
+    <nd ref="171439567"/>
+    <nd ref="171439569"/>
+    <nd ref="171439571"/>
+    <nd ref="171439573"/>
+    <nd ref="171439574"/>
+    <nd ref="171439578"/>
+    <nd ref="171439581"/>
+    <nd ref="171439584"/>
+    <nd ref="171439587"/>
+    <nd ref="171439591"/>
+    <nd ref="171439594"/>
+    <nd ref="171439598"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rocky Ford Drive"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Rocky Ford"/>
+    <tag k="tiger:name_type" v="Dr"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16606750">
+    <nd ref="171489566"/>
+    <nd ref="171489568"/>
+    <nd ref="171489570"/>
+    <nd ref="171489573"/>
+    <nd ref="171489576"/>
+    <nd ref="171489579"/>
+    <nd ref="171489582"/>
+    <nd ref="171489585"/>
+    <nd ref="171489588"/>
+    <nd ref="171489591"/>
+    <nd ref="171489594"/>
+    <nd ref="171489596"/>
+    <nd ref="171489599"/>
+    <nd ref="171489603"/>
+    <nd ref="171489606"/>
+    <nd ref="171489609"/>
+    <nd ref="171489612"/>
+    <nd ref="171489615"/>
+    <nd ref="171489618"/>
+    <nd ref="171489621"/>
+    <nd ref="171489624"/>
+    <nd ref="171489627"/>
+    <nd ref="171489630"/>
+    <nd ref="171489635"/>
+    <nd ref="171489638"/>
+    <nd ref="171489641"/>
+    <nd ref="171489643"/>
+    <nd ref="171489645"/>
+    <nd ref="171489647"/>
+    <nd ref="171489649"/>
+    <nd ref="171489652"/>
+    <nd ref="171489655"/>
+    <nd ref="171489658"/>
+    <nd ref="171489661"/>
+    <nd ref="171489663"/>
+    <nd ref="171489666"/>
+    <nd ref="171489669"/>
+    <nd ref="171489672"/>
+    <nd ref="171489675"/>
+    <nd ref="171489678"/>
+    <nd ref="171489680"/>
+    <nd ref="171489681"/>
+    <nd ref="171389545"/>
+    <nd ref="171489683"/>
+    <nd ref="171489685"/>
+    <nd ref="171322401"/>
+    <nd ref="171489687"/>
+    <nd ref="171489689"/>
+    <nd ref="171489691"/>
+    <nd ref="171489693"/>
+    <nd ref="171489696"/>
+    <nd ref="171248186"/>
+    <nd ref="171489699"/>
+    <nd ref="171489702"/>
+    <nd ref="171489705"/>
+    <nd ref="171489707"/>
+    <nd ref="171489709"/>
+    <nd ref="171489710"/>
+    <nd ref="171489711"/>
+    <nd ref="171489712"/>
+    <nd ref="171489714"/>
+    <nd ref="171489717"/>
+    <nd ref="171489720"/>
+    <nd ref="171489723"/>
+    <nd ref="171489725"/>
+    <nd ref="171489727"/>
+    <nd ref="171489729"/>
+    <nd ref="171489731"/>
+    <nd ref="171489734"/>
+    <nd ref="171489738"/>
+    <nd ref="171489741"/>
+    <nd ref="171310103"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cattail Lane"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Cattail"/>
+    <tag k="tiger:name_type" v="Ln"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16606835">
+    <nd ref="171489647"/>
+    <nd ref="171490906"/>
+    <nd ref="171370307"/>
+    <nd ref="171490908"/>
+    <nd ref="171490910"/>
+    <nd ref="171453444"/>
+    <nd ref="171490913"/>
+    <nd ref="171490917"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peak Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Peak"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+  <way id="16606836">
+    <nd ref="171490917"/>
+    <nd ref="171490923"/>
+    <nd ref="171490926"/>
+    <nd ref="171490929"/>
+    <nd ref="171490934"/>
+    <nd ref="171490937"/>
+    <nd ref="171490940"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Peak Avenue"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Haywood, NC"/>
+    <tag k="tiger:name_base" v="Peak"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28786"/>
+    <tag k="tiger:zip_right" v="28786"/>
+  </way>
+
+</osm>

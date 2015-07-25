@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:43:02Z"/>
+
+  <way id="28206916">
+    <nd ref="2722243262"/>
+    <nd ref="309814253"/>
+    <nd ref="309814254"/>
+    <nd ref="309814255"/>
+    <nd ref="309814256"/>
+    <nd ref="309814257"/>
+    <nd ref="309814258"/>
+    <nd ref="309814259"/>
+    <nd ref="309814260"/>
+    <nd ref="309814261"/>
+    <nd ref="309814262"/>
+    <nd ref="309814263"/>
+    <nd ref="309814264"/>
+    <nd ref="309814265"/>
+    <nd ref="309814266"/>
+    <nd ref="309814267"/>
+    <nd ref="309814268"/>
+    <nd ref="309814269"/>
+    <nd ref="309814270"/>
+    <nd ref="309814271"/>
+    <nd ref="309814272"/>
+    <nd ref="309814273"/>
+    <nd ref="309814274"/>
+    <nd ref="309814275"/>
+    <nd ref="309814276"/>
+    <nd ref="309814277"/>
+    <nd ref="309814278"/>
+    <nd ref="309814279"/>
+    <nd ref="309814280"/>
+    <nd ref="309814281"/>
+    <nd ref="309814282"/>
+    <nd ref="309814283"/>
+    <nd ref="309814284"/>
+    <nd ref="309814285"/>
+    <nd ref="309814286"/>
+    <nd ref="309814287"/>
+    <nd ref="309814288"/>
+    <nd ref="309814289"/>
+    <nd ref="309814290"/>
+    <nd ref="1836709697"/>
+    <nd ref="309814291"/>
+    <nd ref="309814292"/>
+    <nd ref="309814293"/>
+    <nd ref="1836709702"/>
+    <nd ref="309814294"/>
+    <nd ref="309814295"/>
+    <nd ref="309814296"/>
+    <nd ref="309814297"/>
+    <nd ref="309814298"/>
+    <nd ref="1836709703"/>
+    <nd ref="309814299"/>
+    <nd ref="309814300"/>
+    <nd ref="309814301"/>
+    <nd ref="309814302"/>
+    <nd ref="1836709707"/>
+    <nd ref="309814303"/>
+    <nd ref="309814304"/>
+    <nd ref="1836709701"/>
+    <nd ref="309814305"/>
+    <nd ref="309814306"/>
+    <nd ref="309814307"/>
+    <nd ref="309814308"/>
+    <nd ref="309814309"/>
+    <nd ref="309814310"/>
+    <nd ref="309814311"/>
+    <nd ref="309814312"/>
+    <nd ref="309814313"/>
+    <nd ref="309814314"/>
+    <nd ref="309814315"/>
+    <nd ref="309814316"/>
+    <nd ref="309814317"/>
+    <nd ref="309814318"/>
+    <nd ref="309814319"/>
+    <nd ref="309814320"/>
+    <nd ref="309814321"/>
+    <nd ref="309814322"/>
+    <nd ref="309814323"/>
+    <nd ref="309814358"/>
+    <nd ref="309814324"/>
+    <nd ref="309814325"/>
+    <nd ref="309814326"/>
+    <nd ref="309814327"/>
+    <nd ref="309814328"/>
+    <nd ref="309814329"/>
+    <nd ref="309814330"/>
+    <nd ref="309814331"/>
+    <nd ref="309814332"/>
+    <nd ref="309814333"/>
+    <nd ref="309814334"/>
+    <nd ref="309814335"/>
+    <nd ref="309814336"/>
+    <nd ref="309814337"/>
+    <nd ref="309814338"/>
+    <nd ref="309814339"/>
+    <nd ref="309814340"/>
+    <nd ref="309814341"/>
+    <nd ref="309814342"/>
+    <nd ref="309814343"/>
+    <nd ref="309814344"/>
+    <nd ref="309814345"/>
+    <nd ref="309814346"/>
+    <nd ref="309814347"/>
+    <nd ref="309814348"/>
+    <nd ref="309814349"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="name" v="Looking Glass Rock Trail"/>
+    <tag k="surface" v="ground"/>
+  </way>
+  <way id="28206917">
+    <nd ref="309814357"/>
+    <nd ref="309814358"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="horse" v="no"/>
+    <tag k="surface" v="ground"/>
+  </way>
+  <way id="172819697">
+    <nd ref="1836709688"/>
+    <nd ref="2266432963"/>
+    <nd ref="2266432961"/>
+    <nd ref="1836709692"/>
+    <nd ref="2266432946"/>
+    <nd ref="2266432959"/>
+    <nd ref="2266432950"/>
+    <nd ref="2266432957"/>
+    <nd ref="2266432948"/>
+    <nd ref="2266432952"/>
+    <nd ref="1836709687"/>
+    <nd ref="1836709684"/>
+    <nd ref="1836709686"/>
+    <nd ref="1836709691"/>
+    <nd ref="1836709693"/>
+    <nd ref="1836709694"/>
+    <nd ref="1836709695"/>
+    <nd ref="1836709696"/>
+    <nd ref="1836709699"/>
+    <nd ref="1836709700"/>
+    <nd ref="1836709704"/>
+    <nd ref="1836709706"/>
+    <nd ref="1836709708"/>
+    <nd ref="1836709709"/>
+    <nd ref="1836709710"/>
+    <nd ref="1836709711"/>
+    <nd ref="1836709712"/>
+    <nd ref="1836709713"/>
+    <nd ref="1836709714"/>
+    <nd ref="1836709715"/>
+    <nd ref="1836709716"/>
+    <nd ref="1836709717"/>
+    <nd ref="1836709718"/>
+    <nd ref="1836709719"/>
+    <nd ref="1836709720"/>
+    <nd ref="1836709721"/>
+    <nd ref="1836709722"/>
+    <nd ref="1836709724"/>
+    <nd ref="1836709723"/>
+    <nd ref="1836709725"/>
+    <nd ref="1836709726"/>
+    <nd ref="1836709727"/>
+    <nd ref="1836709732"/>
+    <nd ref="1836709735"/>
+    <nd ref="1836709737"/>
+    <nd ref="1836709734"/>
+    <nd ref="1836709733"/>
+    <nd ref="1836709731"/>
+    <nd ref="1836709729"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="horse" v="no"/>
+    <tag k="name" v="Slick Rock Falls Trail"/>
+    <tag k="ref" v="117"/>
+    <tag k="surface" v="ground"/>
+  </way>
+
+</osm>

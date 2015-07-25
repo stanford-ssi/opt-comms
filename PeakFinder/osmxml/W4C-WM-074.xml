@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:58:01Z"/>
+
+  <way id="16618646">
+    <nd ref="171644461"/>
+    <nd ref="171644465"/>
+    <nd ref="171644468"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36001426"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16620139">
+    <nd ref="171662248"/>
+    <nd ref="171662250"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996968"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16623152">
+    <nd ref="171695299"/>
+    <nd ref="171695302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36001432"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16623158">
+    <nd ref="171695325"/>
+    <nd ref="171695329"/>
+    <nd ref="171695331"/>
+    <nd ref="171695333"/>
+    <nd ref="171695335"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36001435"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16624473">
+    <nd ref="171710275"/>
+    <nd ref="171710278"/>
+    <nd ref="171710281"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35996976:35996977"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-ab9c2bc7-f353-4c15-b801-004919c3f6e6"/>
+  </way>
+  <way id="16628625">
+    <nd ref="171755537"/>
+    <nd ref="171755540"/>
+    <nd ref="171755542"/>
+    <nd ref="171755545"/>
+    <nd ref="171755549"/>
+    <nd ref="171755552"/>
+    <nd ref="171755555"/>
+    <nd ref="171755558"/>
+    <nd ref="171755563"/>
+    <nd ref="171755567"/>
+    <nd ref="171755569"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Big Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Big Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16633818">
+    <nd ref="171815524"/>
+    <nd ref="171815527"/>
+    <nd ref="171815530"/>
+    <nd ref="171815532"/>
+    <nd ref="171815535"/>
+    <nd ref="171815537"/>
+    <nd ref="171815540"/>
+    <nd ref="171815543"/>
+    <nd ref="171815547"/>
+    <nd ref="171815552"/>
+    <nd ref="171662248"/>
+    <nd ref="171815557"/>
+    <nd ref="171815561"/>
+    <nd ref="171815566"/>
+    <nd ref="171815569"/>
+    <nd ref="171815571"/>
+    <nd ref="171815576"/>
+    <nd ref="171815579"/>
+    <nd ref="171815584"/>
+    <nd ref="171710032"/>
+    <nd ref="171815587"/>
+    <nd ref="171815590"/>
+    <nd ref="171815594"/>
+    <nd ref="171815599"/>
+    <nd ref="171815609"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rocky Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Rocky Ridge"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16634304">
+    <nd ref="171755790"/>
+    <nd ref="171820336"/>
+    <nd ref="171820339"/>
+    <nd ref="171820341"/>
+    <nd ref="171820347"/>
+    <nd ref="171820350"/>
+    <nd ref="171820352"/>
+    <nd ref="171820353"/>
+    <nd ref="171755569"/>
+    <nd ref="171820354"/>
+    <nd ref="171721090"/>
+    <nd ref="171820355"/>
+    <nd ref="171820357"/>
+    <nd ref="171820359"/>
+    <nd ref="171820361"/>
+    <nd ref="171820363"/>
+    <nd ref="171820365"/>
+    <nd ref="171820368"/>
+    <nd ref="171820374"/>
+    <nd ref="171695325"/>
+    <nd ref="171820377"/>
+    <nd ref="171820380"/>
+    <nd ref="171695299"/>
+    <nd ref="171820384"/>
+    <nd ref="171820387"/>
+    <nd ref="171820390"/>
+    <nd ref="171820392"/>
+    <nd ref="171820393"/>
+    <nd ref="171710275"/>
+    <nd ref="171644461"/>
+    <nd ref="171820394"/>
+    <nd ref="171820396"/>
+    <nd ref="171820398"/>
+    <nd ref="171820399"/>
+    <nd ref="171820401"/>
+    <nd ref="171820407"/>
+    <nd ref="171820408"/>
+    <nd ref="171820410"/>
+    <nd ref="171820411"/>
+    <nd ref="171820413"/>
+    <nd ref="171815609"/>
+    <nd ref="171721042"/>
+    <nd ref="171820416"/>
+    <nd ref="171820419"/>
+    <nd ref="171820420"/>
+    <nd ref="171820422"/>
+    <nd ref="171820424"/>
+    <nd ref="171672301"/>
+    <nd ref="171820425"/>
+    <nd ref="171820426"/>
+    <nd ref="171820428"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pilot Knob Road"/>
+    <tag k="name_1" v="State Road 1130"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Pilot Knob"/>
+    <tag k="tiger:name_base_1" v="State Road 1130"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28723"/>
+    <tag k="tiger:zip_right" v="28736"/>
+  </way>
+  <way id="16634427">
+    <nd ref="171644468"/>
+    <nd ref="171821691"/>
+    <nd ref="171821693"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="North Rocky Ridge Road"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Jackson, NC"/>
+    <tag k="tiger:name_base" v="Rocky Ridge"/>
+    <tag k="tiger:name_direction_prefix" v="N"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="28723"/>
+  </way>
+
+</osm>

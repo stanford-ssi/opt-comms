@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:56:02Z"/>
+
+  <way id="16562254">
+    <nd ref="170931888"/>
+    <nd ref="170931889"/>
+    <nd ref="170931891"/>
+    <nd ref="170931892"/>
+    <nd ref="170931893"/>
+    <nd ref="170931895"/>
+    <nd ref="170931896"/>
+    <nd ref="170931898"/>
+    <nd ref="170931900"/>
+    <nd ref="170931903"/>
+    <nd ref="170931906"/>
+    <nd ref="170931908"/>
+    <nd ref="170931911"/>
+    <nd ref="170931913"/>
+    <nd ref="170931914"/>
+    <nd ref="170931917"/>
+    <nd ref="170931920"/>
+    <nd ref="170931922"/>
+    <nd ref="170931924"/>
+    <nd ref="170931927"/>
+    <nd ref="170931929"/>
+    <nd ref="170931930"/>
+    <nd ref="170931931"/>
+    <nd ref="170931932"/>
+    <nd ref="170931933"/>
+    <nd ref="170931935"/>
+    <nd ref="170931938"/>
+    <nd ref="170931945"/>
+    <nd ref="170931947"/>
+    <nd ref="170931949"/>
+    <nd ref="170931951"/>
+    <nd ref="170931954"/>
+    <nd ref="170931957"/>
+    <nd ref="170931958"/>
+    <nd ref="170931959"/>
+    <nd ref="170931962"/>
+    <nd ref="170931965"/>
+    <nd ref="170931967"/>
+    <nd ref="170931969"/>
+    <nd ref="170931971"/>
+    <nd ref="170931972"/>
+    <nd ref="170931973"/>
+    <nd ref="170931974"/>
+    <nd ref="170931976"/>
+    <nd ref="170931978"/>
+    <nd ref="170931980"/>
+    <nd ref="170931981"/>
+    <nd ref="170931983"/>
+    <nd ref="170931984"/>
+    <nd ref="170931987"/>
+    <nd ref="170931990"/>
+    <nd ref="170931992"/>
+    <nd ref="170931993"/>
+    <nd ref="170931996"/>
+    <nd ref="170932001"/>
+    <nd ref="170932006"/>
+    <nd ref="170932009"/>
+    <nd ref="170932014"/>
+    <nd ref="170932016"/>
+    <nd ref="170932019"/>
+    <nd ref="170932022"/>
+    <nd ref="170932024"/>
+    <nd ref="170932026"/>
+    <nd ref="170932027"/>
+    <nd ref="170932028"/>
+    <nd ref="170932030"/>
+    <nd ref="170932032"/>
+    <nd ref="170932035"/>
+    <nd ref="170932037"/>
+    <nd ref="170932038"/>
+    <nd ref="170932039"/>
+    <nd ref="170932040"/>
+    <nd ref="170932042"/>
+    <nd ref="170932045"/>
+    <nd ref="170932048"/>
+    <nd ref="170932051"/>
+    <nd ref="170932053"/>
+    <nd ref="170932055"/>
+    <nd ref="170932056"/>
+    <nd ref="170932057"/>
+    <nd ref="170932059"/>
+    <nd ref="170932062"/>
+    <nd ref="170932065"/>
+    <nd ref="170932068"/>
+    <nd ref="170932072"/>
+    <nd ref="170932074"/>
+    <nd ref="170932076"/>
+    <nd ref="170932077"/>
+    <nd ref="170932080"/>
+    <nd ref="170932082"/>
+    <nd ref="170932084"/>
+    <nd ref="170932086"/>
+    <nd ref="170932089"/>
+    <nd ref="170932092"/>
+    <nd ref="170932094"/>
+    <nd ref="170932096"/>
+    <nd ref="170932098"/>
+    <nd ref="170932099"/>
+    <nd ref="170932101"/>
+    <nd ref="170932102"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tiger:cfcc" v="A71"/>
+    <tag k="tiger:county" v="Graham, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="35964200:35964202:35964203:35963310:35963311"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-16bf96f5-6ebb-468b-abda-e2f8318fdf16"/>
+  </way>
+
+</osm>

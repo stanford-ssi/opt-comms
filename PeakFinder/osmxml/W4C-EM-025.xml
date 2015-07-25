@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:49:02Z"/>
+
+  <way id="16401255">
+    <nd ref="169281852"/>
+    <nd ref="169281855"/>
+    <nd ref="169281858"/>
+    <nd ref="169281861"/>
+    <nd ref="169281866"/>
+    <nd ref="169281870"/>
+    <nd ref="169281873"/>
+    <nd ref="169281874"/>
+    <nd ref="169281880"/>
+    <nd ref="169281882"/>
+    <nd ref="169281884"/>
+    <nd ref="169281887"/>
+    <nd ref="169281890"/>
+    <nd ref="169281893"/>
+    <tag k="highway" v="residential"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36767807"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+  <way id="16401856">
+    <nd ref="169286375"/>
+    <nd ref="169286377"/>
+    <nd ref="169286380"/>
+    <nd ref="169286383"/>
+    <nd ref="169286386"/>
+    <nd ref="169286388"/>
+    <nd ref="169286390"/>
+    <nd ref="169286392"/>
+    <nd ref="169286394"/>
+    <nd ref="169286397"/>
+    <nd ref="169286400"/>
+    <nd ref="169286403"/>
+    <nd ref="169286405"/>
+    <nd ref="169286407"/>
+    <nd ref="169286409"/>
+    <nd ref="169286411"/>
+    <nd ref="169286414"/>
+    <nd ref="169286416"/>
+    <nd ref="169286417"/>
+    <nd ref="169286420"/>
+    <nd ref="169286423"/>
+    <nd ref="169286425"/>
+    <nd ref="169286427"/>
+    <nd ref="169286429"/>
+    <nd ref="169286432"/>
+    <nd ref="169286435"/>
+    <nd ref="169286438"/>
+    <nd ref="169286441"/>
+    <nd ref="169286444"/>
+    <nd ref="169286446"/>
+    <nd ref="169286448"/>
+    <nd ref="169286449"/>
+    <nd ref="169286451"/>
+    <tag k="highway" v="track"/>
+    <tag k="tiger:cfcc" v="A51"/>
+    <tag k="tiger:county" v="Avery, NC"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:separated" v="no"/>
+    <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+    <tag k="tiger:tlid" v="36769518"/>
+    <tag k="tiger:upload_uuid" v="bulk_upload.pl-011638f1-1c7b-47e2-8b5f-30672ded1504"/>
+  </way>
+
+</osm>

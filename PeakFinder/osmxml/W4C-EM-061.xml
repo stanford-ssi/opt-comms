@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-21T23:51:02Z"/>
+
+  <way id="16398272">
+    <nd ref="169201901"/>
+    <nd ref="169243545"/>
+    <nd ref="169243546"/>
+    <nd ref="169243548"/>
+    <nd ref="169243550"/>
+    <nd ref="169243552"/>
+    <nd ref="169243554"/>
+    <nd ref="169207689"/>
+    <nd ref="169243556"/>
+    <nd ref="169243558"/>
+    <nd ref="169243559"/>
+    <nd ref="169243560"/>
+    <nd ref="169170948"/>
+    <nd ref="169243561"/>
+    <nd ref="169243562"/>
+    <nd ref="169243564"/>
+    <nd ref="169243566"/>
+    <nd ref="169174843"/>
+    <nd ref="169243568"/>
+    <nd ref="169243571"/>
+    <nd ref="169243573"/>
+    <nd ref="169243574"/>
+    <nd ref="169243575"/>
+    <nd ref="169243577"/>
+    <nd ref="169243580"/>
+    <nd ref="169243583"/>
+    <nd ref="169243585"/>
+    <nd ref="169243587"/>
+    <nd ref="169243591"/>
+    <nd ref="169243594"/>
+    <nd ref="169243596"/>
+    <nd ref="169243598"/>
+    <nd ref="169243600"/>
+    <nd ref="169243603"/>
+    <nd ref="169243606"/>
+    <nd ref="169243609"/>
+    <nd ref="169243610"/>
+    <nd ref="169243612"/>
+    <nd ref="169243617"/>
+    <nd ref="169243621"/>
+    <nd ref="169243624"/>
+    <nd ref="169243627"/>
+    <nd ref="169243633"/>
+    <nd ref="169243636"/>
+    <nd ref="169243638"/>
+    <nd ref="169243642"/>
+    <nd ref="169243644"/>
+    <nd ref="169243647"/>
+    <nd ref="169243650"/>
+    <nd ref="169243654"/>
+    <nd ref="169243656"/>
+    <nd ref="169243658"/>
+    <nd ref="169243661"/>
+    <nd ref="169243663"/>
+    <nd ref="169243665"/>
+    <nd ref="169243668"/>
+    <nd ref="169243670"/>
+    <nd ref="169243674"/>
+    <nd ref="169243677"/>
+    <nd ref="169243680"/>
+    <nd ref="169243683"/>
+    <nd ref="169243684"/>
+    <nd ref="169243686"/>
+    <nd ref="169243688"/>
+    <nd ref="169243691"/>
+    <nd ref="169243694"/>
+    <nd ref="169243696"/>
+    <nd ref="169243699"/>
+    <nd ref="169243703"/>
+    <nd ref="169243706"/>
+    <nd ref="169243709"/>
+    <nd ref="169243713"/>
+    <nd ref="169243715"/>
+    <nd ref="169243719"/>
+    <nd ref="169243721"/>
+    <nd ref="169243723"/>
+    <nd ref="169243724"/>
+    <nd ref="169243727"/>
+    <nd ref="169243730"/>
+    <nd ref="169243732"/>
+    <nd ref="169243734"/>
+    <nd ref="169243737"/>
+    <nd ref="169243740"/>
+    <nd ref="169243743"/>
+    <nd ref="169243746"/>
+    <nd ref="169243749"/>
+    <nd ref="169243751"/>
+    <nd ref="169243754"/>
+    <nd ref="169243756"/>
+    <nd ref="169243760"/>
+    <nd ref="169243762"/>
+    <nd ref="169243765"/>
+    <nd ref="169243768"/>
+    <nd ref="169243771"/>
+    <nd ref="169243773"/>
+    <nd ref="169243775"/>
+    <nd ref="169243778"/>
+    <nd ref="169243781"/>
+    <nd ref="169243783"/>
+    <nd ref="169243785"/>
+    <nd ref="169243787"/>
+    <nd ref="169243789"/>
+    <nd ref="169243792"/>
+    <nd ref="169243794"/>
+    <nd ref="169243797"/>
+    <nd ref="169243800"/>
+    <nd ref="169243802"/>
+    <nd ref="169243804"/>
+    <nd ref="169243806"/>
+    <nd ref="169243808"/>
+    <nd ref="169243810"/>
+    <nd ref="169243813"/>
+    <nd ref="169243817"/>
+    <nd ref="169243821"/>
+    <nd ref="169243824"/>
+    <nd ref="169243825"/>
+    <nd ref="169243828"/>
+    <nd ref="169243831"/>
+    <nd ref="169243833"/>
+    <nd ref="169243835"/>
+    <nd ref="169243839"/>
+    <nd ref="169243841"/>
+    <nd ref="169243843"/>
+    <nd ref="169243845"/>
+    <nd ref="169243848"/>
+    <nd ref="169243851"/>
+    <nd ref="169243854"/>
+    <nd ref="169243857"/>
+    <nd ref="169243865"/>
+    <nd ref="169243867"/>
+    <nd ref="169243870"/>
+    <nd ref="169243873"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hendrix Road"/>
+    <tag k="name_1" v="State Road 1487"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alleghany, NC"/>
+    <tag k="tiger:name_base" v="Hendrix"/>
+    <tag k="tiger:name_base_1" v="State Road 1487"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="16398275">
+    <nd ref="169243904"/>
+    <nd ref="169243873"/>
+    <nd ref="169243908"/>
+    <nd ref="169243910"/>
+    <nd ref="169243904"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hendrix Road"/>
+    <tag k="name_1" v="State Road 1487"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Alleghany, NC"/>
+    <tag k="tiger:name_base" v="Hendrix"/>
+    <tag k="tiger:name_base_1" v="State Road 1487"/>
+    <tag k="tiger:name_type" v="Rd"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+
+</osm>
