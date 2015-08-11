@@ -1,4 +1,5 @@
 /** Author: Charlie Chenye Zhu
+ *          chenye@stanford.edu
  *
  *  Base class for both opcommMessageReceived and opcommMessageSent
  *  Defines and implements the constructors, as well as a few util functions
