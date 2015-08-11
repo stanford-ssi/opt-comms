@@ -20,12 +20,67 @@ void opcommMessage::appendToMessage(const string& message){
 }
 
 void opcommMessage::replaceMessageWith(const string &newMessage){
-    messageContainer.clear();
+    eraseMessage();
     copy(newMessage.begin(), newMessage.end(), back_inserter(messageContainer));
 }
 
 void opcommMessage::eraseMessage(){
     messageContainer.clear();
+}
+
+bool opcommMessage::readMessageFromFile(const string &inputFileName) {
+    ifstream inputFile(inputFileName.c_str(), fstream::in);
+    if (inputFile.is_open()){
+        eraseMessage();
+        string line;
+        while (getline(inputFile, line)){
+            line += '\n';
+            appendToMessage(line);
+        }
+        inputFile.clear();
+        inputFile.close();
+        return true;
+    } else {
+        cout << "Unable to read message from file " << inputFileName << endl;
+        inputFile.clear();
+        inputFile.close();
+        return false;
+    }
+}
+
+void opcommMessage::publishMessageToFile(ofstream &outputFile) {
+    outputFile << toString();
+}
+
+bool opcommMessage::appendMessageToFile(const string &outputFileName) {
+    ofstream outputFile(outputFileName.c_str(), fstream::out | fstream::app);
+    if (outputFile.is_open()){
+        outputFile << endl;
+        publishMessageToFile(outputFile);
+        outputFile.clear();
+        outputFile.close();
+        return true;
+    } else{
+        cout << "Unable to append message to file " << outputFileName << endl;
+        outputFile.clear();
+        outputFile.close();
+        return false;
+    }
+}
+
+bool opcommMessage::writeMessageToFile(const string &outputFileName) {
+    ofstream outputFile(outputFileName.c_str(), fstream::out | fstream::trunc);
+    if (outputFile.is_open()){
+        publishMessageToFile(outputFile);
+        outputFile.clear();
+        outputFile.close();
+        return true;
+    } else{
+        cout << "Unable to write message to file " << outputFileName << endl;
+        outputFile.clear();
+        outputFile.close();
+        return false;
+    }
 }
 
 bool opcommMessage::readBitPatternFromFile(const string &inputFileName) {
@@ -52,7 +107,7 @@ bool opcommMessage::readBitPatternFromFile(const string &inputFileName) {
         inputFile.close();
         return true;
     } else {
-        cout << "Unable to read from file " << inputFileName << endl;
+        cout << "Unable to read bit pattern from file " << inputFileName << endl;
         inputFile.clear();
         inputFile.close();
         return false;
@@ -68,7 +123,7 @@ bool opcommMessage::appendBitPatternToFile(const string &outputFileName) {
         outputFile.close();
         return true;
     } else{
-        cout << "Unable to append to file " << outputFileName << endl;
+        cout << "Unable to append bit pattern to file " << outputFileName << endl;
         outputFile.clear();
         outputFile.close();
         return false;
@@ -83,7 +138,7 @@ bool opcommMessage::writeBitPatternToFile(const string &outputFileName) {
         outputFile.close();
         return true;
     } else{
-        cout << "Unable to write to file " << outputFileName << endl;
+        cout << "Unable to write bit pattern to file " << outputFileName << endl;
         outputFile.clear();
         outputFile.close();
         return false;
