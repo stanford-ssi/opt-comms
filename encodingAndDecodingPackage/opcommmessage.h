@@ -26,6 +26,7 @@ class opcommMessage {
 
         bool writeBitPatternToFile(const std::string &outputFileName);
         bool appendBitPatternToFile(const std::string &outputFileName);
+
         // input file consists of 0s and 1s
         bool readBitPatternFromFile(const std::string &inputFileName);
 

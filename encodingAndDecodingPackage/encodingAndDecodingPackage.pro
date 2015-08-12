@@ -4,8 +4,12 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    opcommmessage.cpp
+    opcommmessage.cpp \
+    opcommmessagesend.cpp \
+    opcommmessagereceive.cpp
 
 HEADERS += \
-    opcommmessage.h
+    opcommmessage.h \
+    opcommmessagesend.h \
+    opcommmessagereceive.h
 
