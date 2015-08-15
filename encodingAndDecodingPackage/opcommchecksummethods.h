@@ -6,8 +6,10 @@
 class opcommMessage;
 
 namespace opcommChecksumMethods {
-    std::string addChecksum_NoChecksumMethod (opcommMessage& currentOpcommMessage);
-    std::string decipher_noEncryptionMethod (opcommMessage& currentOpcommMessage);
+
+    std::string addChecksum_NoChecksumMethod (opcommMessage* currentOpcommMessage);
+    std::string rmChecksum_noEncryptionMethod (opcommMessage* currentOpcommMessage);
+
 }
 
 #endif // OPCOMMCHECKSUMMETHODS_H
