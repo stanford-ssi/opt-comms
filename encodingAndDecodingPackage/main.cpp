@@ -10,50 +10,50 @@ static const string messageFile = "test.message";
 // Tests
 int main() {
     opcommMessage test(opcommMessage::EncryptionMethodNone, opcommMessage::ChecksumMethodNone);
-    test.replaceMessageReadableWith("Hello");
-    test.printMessageEncrypted();
+    test.replaceMessageWith(opcommMessage::MessageReadable, "Hello");
+    test.printMessage(opcommMessage::MessageEncrypted);
     cout << endl << "--------------------" << endl;
-    test.printMessageEncryptedChecksum();
+    test.printMessage(opcommMessage::MessageEncryptedChecksum);
     cout << endl << "-------------------" << endl;
-    test.replaceMessageEncryptedWith("Bye");
-    cout << test.messageEncryptedToString() << " : " << test.messageEncryptedChecksumToBitPattern() << endl << "----------------" << endl;
-    test.writeMesageEncryptedToFile(messageFile);
+    test.replaceMessageWith(opcommMessage::MessageEncrypted, "Bye");
+    cout << test.messageToString(opcommMessage::MessageEncrypted) << " : " << test.messageToBitPattern(opcommMessage::MessageEncryptedChecksum) << endl << "----------------" << endl;
+    test.writeMessageToFile(opcommMessage::MessageEncrypted, messageFile);
     test.eraseMessage();
-    cout << "erase messages : " << test.messageEncryptedToString() << endl << "-----------" << endl;
-    test.readMessageEncryptedChecksumFromFile_ReplacingExistingMessage(messageFile);
-    test.printMessageEncrypted();
+    cout << "erase messages : " << test.messageToString(opcommMessage::MessageEncrypted) << endl << "-----------" << endl;
+    test.readMessageFromFile_ReplacingExistingMessages(opcommMessage::MessageEncryptedChecksum, messageFile);
+    test.printMessage(opcommMessage::MessageEncrypted);
     cout << endl << "-------------" << endl;
-    test.appendToMessageReadable("Hello");
-    test.printMessageEncrypted();
+    test.appendToMessage(opcommMessage::MessageReadable, "Hello");
+    test.printMessage(opcommMessage::MessageEncrypted);
     cout << endl << " ------------ " <<  endl;
-    test.writeMessageEncryptedBitPatternToFile(textFile);
+    test.writeMessageBitPatternToFile(opcommMessage::MessageEncrypted, textFile);
     test.eraseMessage();
-    cout << "erase messages : " << test.messageEncryptedToString() << endl <<"-------------" << endl;
-    test.readMessageEncryptedChecksumBitPatternFromFile_ReplacingExistingMessage(textFile);
-    test.printMessageEncrypted();
-    test.writeMesageEncryptedChecksumToFile(messageFile);
+    cout << "erase messages : " << test.messageToString(opcommMessage::MessageEncrypted) << endl <<"-------------" << endl;
+    test.readMessageBitPatternFromFile_ReplacingExistingMessages(opcommMessage::MessageEncryptedChecksum, textFile);
+    test.printMessage(opcommMessage::MessageEncrypted);
+    test.writeMessageToFile(opcommMessage::MessageEncryptedChecksum, messageFile);
     cout << endl <<"-------------" << endl;
 
     test.eraseMessage();
-    test.readMessageEncryptedFromFile_ReplacingExistingMessage(messageFile);
-    test.printMessageEncrypted();
+    test.readMessageFromFile_ReplacingExistingMessages(opcommMessage::MessageEncrypted, messageFile);
+    test.printMessage(opcommMessage::MessageEncrypted);
     cout << endl;
 
     opcommMessage testTwo;
     test.eraseMessage();
-    test.replaceMessageReadableWith("Hello");
-    testTwo.replaceMessageReadableWith("Hello");
+    test.replaceMessageWith(opcommMessage::MessageReadable, "Hello");
+    testTwo.replaceMessageWith(opcommMessage::MessageReadable, "Hello");
 
     assert (test == testTwo);
     cout << (test != testTwo) << endl;
     assert (false == (test != testTwo));
 
-    testTwo.appendToMessageEncryped("Bye");
+    testTwo.appendToMessage(opcommMessage::MessageEncrypted, "Bye");
     assert (test != testTwo);
 
     opcommMessage testThree = testTwo;
-    std::cout << "TestTwo : " << testTwo.messageReableToString() << std::endl;
-    std::cout << "TestThree : " << testThree.messageReableToString() << std::endl;
+    std::cout << "TestTwo : " << testTwo.messageToString(opcommMessage::MessageReadable) << std::endl;
+    std::cout << "TestThree : " << testThree.messageToString(opcommMessage::MessageReadable) << std::endl;
 
     return 0;
 }

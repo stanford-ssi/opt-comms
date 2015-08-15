@@ -21,13 +21,19 @@
 
 class opcommMessage {
     public:
-        // Enumeration Definition
+        // Enumeration Definition - 03 style
         enum ChecksumMethods{
             ChecksumMethodNone
         };
 
         enum EncryptionMethods{
             EncryptionMethodNone
+        };
+
+        enum MessageType{
+            MessageReadable,
+            MessageEncrypted,
+            MessageEncryptedChecksum
         };
 
         // Constructor
@@ -38,19 +44,19 @@ class opcommMessage {
         inline bool operator == (opcommMessage &other){
             return ((encryption == other.getEncryptionMethod())
                     && (checksum == other.getChecksumMethod())
-                    && (messageReableToString().compare(other.messageReableToString()) == 0));
+                    && (Helper_toString(containerMessageReadable).compare(other.messageToString(MessageReadable)) == 0));
         }
 
         inline bool operator != (opcommMessage &other){
             return ((encryption != other.getEncryptionMethod())
                      || (checksum != other.getChecksumMethod())
-                     || (messageReableToString().compare(other.messageReableToString()) != 0));
+                     || (Helper_toString(containerMessageReadable).compare(other.messageToString(MessageReadable)) != 0));
         }
 
         opcommMessage& operator = (opcommMessage &other){
             encryption = other.getEncryptionMethod();
             checksum = other.getChecksumMethod();
-            replaceMessageReadableWith(other.messageReableToString());
+            Helper_ReplaceMessageWith(other.messageToString(MessageReadable), containerMessageReadable);
             return *this;
         }
 
@@ -62,55 +68,23 @@ class opcommMessage {
         std::string ChecksumMethodToString();
 
         // IO Functions
+        // Standardized and unified IO interface for all message types
         void eraseMessage();
 
-        // -> MessageReadable
-        void printMessageReadable();
-        void appendToMessageReadable(const std::string &messageTrailing);
-        void replaceMessageReadableWith(const std::string &newMessage);
+        void printMessage(MessageType messageType);
+        void appendToMessage(MessageType messageType, const std::string &messageTrailing);
+        void replaceMessageWith(MessageType messageType, const std::string &newMessage);
 
-        bool writeMessageReadableToFile(const std::string &outputFileName);
-        bool appendMessageReadableToFile(const std::string &outputFileName);
-        bool readMessageReadableFromFile_ReplacingExistingMessages(const std::string &inputFileName);
+        bool writeMessageToFile(MessageType messageType, const std::string &outputFileName);
+        bool appendMessageToFile(MessageType messageType, const std::string &outputFileName);
+        bool readMessageFromFile_ReplacingExistingMessages(MessageType messageType, const std::string &inputFileName);
 
-        bool writeMessageReadableBitPatternToFile(const std::string &outputFileName);
-        bool appendMessageReadableBitPatternToFile(const std::string &outputFileName);
-        bool readMessageReadableBitPatternFromFile_ReplacingExistingMessages(const std::string &inputFileName);
+        bool writeMessageBitPatternToFile(MessageType messageType, const std::string &outputFileName);
+        bool appendMessageBitPatternToFile(MessageType messageType, const std::string &outputFileName);
+        bool readMessageBitPatternFromFile_ReplacingExistingMessages(MessageType messageType, const std::string &inputFileName);
 
-        std::string messageReableToString();
-        std::string messageReadableToBitPattern();
-
-        // -> MessageEncrypted
-        void printMessageEncrypted();
-        void appendToMessageEncryped(const std::string &trailingMessage);
-        void replaceMessageEncryptedWith(const std::string &newMessage);
-
-        bool writeMesageEncryptedToFile(const std::string &outputFileName);
-        bool appendMessageEncryptedToFile(const std::string &outputFileName);
-        bool readMessageEncryptedFromFile_ReplacingExistingMessage(const std::string &inputFileName);
-
-        bool writeMessageEncryptedBitPatternToFile(const std::string &outputFileName);
-        bool appendMessageEncryptedBitPatternToFile(const std::string &outputFileName);
-        bool readMessageEncryptedBitPatternFromFile_ReplacingExistingMessage(const std::string &inputFileName);
-
-        std::string messageEncryptedToString();
-        std::string messageEncryptedToBitPattern();
-
-        // -> MessageEncryptedChecksum
-        void printMessageEncryptedChecksum();
-        void appendToMessageEncryptedChecksum(const std::string &trailingMessage);
-        void replaceMessageEncryptedChecksumWith(const std::string &newMessage);
-
-        bool writeMesageEncryptedChecksumToFile(const std::string &outputFileName);
-        bool appendMessageEncryptedChecksumToFile(const std::string &outputFileName);
-        bool readMessageEncryptedChecksumFromFile_ReplacingExistingMessage(const std::string &inputFileName);
-
-        bool writeMessageEncryptedChecksumBitPatternToFile(const std::string &outputFileName);
-        bool appendMessageEncryptedChecksumBitPatternToFile(const std::string &outputFileName);
-        bool readMessageEncryptedChecksumBitPatternFromFile_ReplacingExistingMessage(const std::string &inputFileName);
-
-        std::string messageEncryptedChecksumToString();
-        std::string messageEncryptedChecksumToBitPattern();
+        std::string messageToString(MessageType messageType);
+        std::string messageToBitPattern(MessageType messageType);
 
     protected:
         // Static constants
@@ -122,32 +96,38 @@ class opcommMessage {
         unsigned char convertBitToChar(const std::string & bitPattern);
 
         // Member variables
-        std::vector<unsigned char> messageReadable;
-        std::vector<unsigned char> messageEncrypted;
-        std::vector<unsigned char> messageEncryptedChecksum;
+        std::vector<unsigned char> containerMessageReadable;
+        std::vector<unsigned char> containerMessageEncrypted;
+        std::vector<unsigned char> containerMessageEncryptedChecksum;
 
         EncryptionMethods encryption;
         ChecksumMethods checksum;
 
     private:      
         // IO Helper Functions
-        void printMessage(const std::vector<unsigned char> & messageContainer);
-        void appendToMessage(const std::string &messageTrailing, std::vector<unsigned char> & messageContainer);
-        void replaceMessageWith(const std::string &newMessage, std::vector<unsigned char> & messageContainer);
+        inline std::string Helper_IOErrorMessage_UnrecognizedMessageType(const std::string & functionName){
+            std::string errorMessage = "Error : Unrecognized MessageType parameters passed into " + functionName + "\r\n\tPlease update the function.";
+            return errorMessage;
+        }
 
-        bool writeMessageToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
-        bool appendMessageToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
-        bool readMessageFromFile_ReplacingExistingMessages(const std::string &inputFileName, std::vector<unsigned char> & messageContainer);
+        void Helper_PrintMessage(const std::vector<unsigned char> & messageContainer);
+        void Helper_AppendToMessage(const std::string &messageTrailing, std::vector<unsigned char> & messageContainer);
+        void Helper_ReplaceMessageWith(const std::string &newMessage, std::vector<unsigned char> & messageContainer);
 
-        bool writeBitPatternToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
-        bool appendBitPatternToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
+        bool Helper_WriteMessageToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
+        bool Helper_AppendMessageToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
+        bool Helper_ReadMessageFromFile_ReplacingExistingMessages(const std::string &inputFileName, std::vector<unsigned char> & messageContainer);
+
+        bool Helper_WriteBitPatternToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
+        bool Helper_AppendBitPatternToFile(const std::string &outputFileName, const std::vector<unsigned char> & messageContainer);
         // input file consists of 0s and 1s
-        bool readBitPatternFromFile_ReplacingExistingMessages(const std::string &inputFileName, std::vector<unsigned char> & messageContainer);
+        bool Helper_ReadBitPatternFromFile_ReplacingExistingMessages(const std::string &inputFileName, std::vector<unsigned char> & messageContainer);
 
-        std::string toString(const std::vector<unsigned char> & messageContainer);
-        std::string toBitPattern(const std::vector<unsigned char> & messageContainer);        
-        void publishBitPatternToFile(std::ofstream &outputFile, const std::vector<unsigned char> & messageContainer);
-        void publishMessageToFile(std::ofstream &outputFile, const std::vector<unsigned char> & messageContainer);
+        std::string Helper_toString(const std::vector<unsigned char> & messageContainer);
+        std::string Helper_toBitPattern(const std::vector<unsigned char> & messageContainer);
+
+        void Helper_PublishBitPatternToFile(std::ofstream &outputFile, const std::vector<unsigned char> & messageContainer);
+        void Helper_PublishMessageToFile(std::ofstream &outputFile, const std::vector<unsigned char> & messageContainer);
 
 
         // Syncronization helper functions
