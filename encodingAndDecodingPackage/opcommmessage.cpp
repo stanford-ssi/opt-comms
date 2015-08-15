@@ -295,6 +295,7 @@ void opcommMessage::Helper_PrintMessage(const std::vector<unsigned char> &messag
 }
 
 void opcommMessage::Helper_AppendToMessage(const std::string& messageTrailing, std::vector<unsigned char> &messageContainer){
+    // Adding new line characters
     messageContainer.push_back('\r');
     messageContainer.push_back('\n');
     copy(messageTrailing.begin(), messageTrailing.end(), back_inserter(messageContainer));
@@ -321,7 +322,7 @@ bool opcommMessage::Helper_ReadMessageFromFile_ReplacingExistingMessages(const s
             counter ++;
         }
     } else {
-        std::cout << "Error: Unable to open file " << inputFileName << "!" << std::endl;
+        std::cout << "Error: Unable to open " << "input" << " file " << inputFileName << "!" << std::endl;
     }
     inputFile.clear();
     inputFile.close();
@@ -339,7 +340,7 @@ bool opcommMessage::Helper_AppendMessageToFile(const std::string &outputFileName
         outputFile << std::endl;
         Helper_PublishMessageToFile(outputFile, messageContainer);
     } else {
-        std::cout << "Error: Unable to open file " << outputFileName << "!" << std::endl;
+        std::cout << "Error: Unable to open " << "output" << " file " << outputFileName << "!" << std::endl;
     }
     outputFile.clear();
     outputFile.close();
@@ -352,7 +353,7 @@ bool opcommMessage::Helper_WriteMessageToFile(const std::string &outputFileName,
     if (fileIsOpen){
         Helper_PublishMessageToFile(outputFile, messageContainer);
     } else {
-        std::cout << "Error: Unable to open file " << outputFileName << "!" << std::endl;
+        std::cout << "Error: Unable to open " << "output"<< " file " << outputFileName << "!" << std::endl;
     }
     outputFile.clear();
     outputFile.close();
@@ -382,7 +383,7 @@ bool opcommMessage::Helper_ReadBitPatternFromFile_ReplacingExistingMessages(cons
             }
         }
     } else {
-        std::cout << "Error: Unable to open file " << inputFileName << "!" << std::endl;
+        std::cout << "Error: Unable to open " << "input" << " file " << inputFileName << "!" << std::endl;
     }
     inputFile.clear();
     inputFile.close();
@@ -396,6 +397,8 @@ bool opcommMessage::Helper_AppendBitPatternToFile(const std::string &outputFileN
         outputFile << convertCharToBit('\r') << convertCharToBit('\n');
         outputFile << std::endl;
         Helper_PublishBitPatternToFile(outputFile, messageContainer);
+    } else {
+        std::cout << "Error: Unable to open " << "output" << " file " << outputFileName << "!" << std::endl;
     }
     outputFile.clear();
     outputFile.close();
@@ -407,6 +410,8 @@ bool opcommMessage::Helper_WriteBitPatternToFile(const std::string &outputFileNa
     bool fileIsOpen = outputFile.is_open();
     if (fileIsOpen){
         Helper_PublishBitPatternToFile(outputFile, messageContainer);
+    } else {
+        std::cout << "Error: Unable to open " << "output" << " file " << outputFileName << "!" << std::endl;
     }
     outputFile.clear();
     outputFile.close();
