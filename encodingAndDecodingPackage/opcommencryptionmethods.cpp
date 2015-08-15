@@ -4,13 +4,11 @@ class opcommMessage;
 
 namespace opcommEncryptionMethods
 {
-    std::string encrypt_NoEncryptionMethod(opcommMessage *currentMessage){
-        std::string readableMessage = currentMessage->messageReableToString();
+    std::string encrypt_NoEncryptionMethod(const std::string &readableMessage){
         return readableMessage;
     }
 
-    std::string decipher_NoEncryptionMedthod(opcommMessage *currentMessage){
-        std::string encrypteMessage = currentMessage->messageEncryptedToString();
-        return encrypteMessage;
+    std::string decipher_NoEncryptionMedthod(const std::string &encryptedMessage){
+        return encryptedMessage;
     }
 }

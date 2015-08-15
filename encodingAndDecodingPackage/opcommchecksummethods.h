@@ -7,8 +7,8 @@ class opcommMessage;
 
 namespace opcommChecksumMethods {
 
-    std::string addChecksum_NoChecksumMethod (opcommMessage* currentOpcommMessage);
-    std::string rmChecksum_noEncryptionMethod (opcommMessage* currentOpcommMessage);
+    extern std::string addChecksum_NoChecksumMethod (const std::string &encryptedMessage);
+    extern std::string rmChecksum_NoChecksumMethod (const std::string &checksumMessage);
 
 }
 

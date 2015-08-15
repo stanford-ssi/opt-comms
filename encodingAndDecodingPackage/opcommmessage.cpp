@@ -420,7 +420,7 @@ void opcommMessage::getSyncFromMessageEncryptedChecksum() {
 void opcommMessage::encryptMessage() {
     switch (this->encryption) {
         case EncryptionMethodNone:
-            replaceMessageWith(opcommEncryptionMethods::encrypt_NoEncryptionMethod(this), this->messageEncrypted);
+            replaceMessageWith(opcommEncryptionMethods::encrypt_NoEncryptionMethod(messageReableToString()), this->messageEncrypted);
             break;
     }
 }
@@ -428,7 +428,7 @@ void opcommMessage::encryptMessage() {
 void opcommMessage::decryptMessage() {
     switch (this->encryption) {
         case EncryptionMethodNone:
-            replaceMessageWith(opcommEncryptionMethods::decipher_NoEncryptionMedthod(this), this->messageReadable);
+            replaceMessageWith(opcommEncryptionMethods::decipher_NoEncryptionMedthod(messageEncryptedToString()), this->messageReadable);
             break;
     }
 }
@@ -436,7 +436,7 @@ void opcommMessage::decryptMessage() {
 void opcommMessage::addCheckSumOnEncrytedMessage() {
     switch (this->checksum) {
         case ChecksumMethodNone:
-            replaceMessageWith(opcommChecksumMethods::addChecksum_NoChecksumMethod(this), this->messageEncryptedChecksum);
+            replaceMessageWith(opcommChecksumMethods::addChecksum_NoChecksumMethod(messageEncryptedToString()), this->messageEncryptedChecksum);
             break;
     }
 }
@@ -444,7 +444,7 @@ void opcommMessage::addCheckSumOnEncrytedMessage() {
 void opcommMessage::removeCheckSumOnEncrytedMessage() {
     switch (this->checksum) {
         case ChecksumMethodNone:
-            replaceMessageWith(opcommChecksumMethods::rmChecksum_noEncryptionMethod(this), this->messageEncrypted);
+            replaceMessageWith(opcommChecksumMethods::rmChecksum_NoChecksumMethod(messageEncryptedChecksumToString()), this->messageEncrypted);
             break;
     }
 }

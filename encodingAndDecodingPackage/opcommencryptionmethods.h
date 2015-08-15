@@ -3,12 +3,10 @@
 #ifndef OPCOMMENCRYPTIONMETHODS_H
 #define OPCOMMENCRYPTIONMETHODS_H
 
-class opcommMessage;
-
 namespace opcommEncryptionMethods
 {
-    std::string encrypt_NoEncryptionMethod (opcommMessage* currentMessage);
-    std::string decipher_NoEncryptionMedthod (opcommMessage* currentMessage);
+    extern std::string encrypt_NoEncryptionMethod (const std::string &readableMessage);
+    extern std::string decipher_NoEncryptionMedthod (const std::string &encryptedMessage);
 }
 
 #endif // OPCOMMENCRYPTIONMETHODS_H
