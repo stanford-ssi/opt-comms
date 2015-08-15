@@ -6,7 +6,7 @@
 class opcommMessageReceive : public opcommMessage {
     public:
         opcommMessageReceive();
-
+        bool validateChecksum();
     private:
 
 };
