@@ -1,3 +1,9 @@
+/** Author : Charlie Chenye Zhu
+ *           chenye@stanford.edu
+ *
+ *  Namespaces containing AddingChecksum and RemovingChecksum methods.
+ *      Comsumed by opcommMessage class
+ */
 #include "opcommchecksummethods.h"
 
 class opcommMessage;

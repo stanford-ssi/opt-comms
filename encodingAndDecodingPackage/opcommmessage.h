@@ -3,8 +3,8 @@
  *
  *  Base class for both opcommMessageReceived and opcommMessageSent
  *
- *  Defines and implements the constructors, operator =, ==, !=
- *  and IO support
+ *  Defines and implements the class constructor, operator =, ==, !=
+ *  and external IO interfaces
  *
  *  Internally handles the encryptions and checksum related functions
  */

@@ -1,3 +1,10 @@
+/** Author : Charlie Chenye Zhu
+ *           chenye@stanford.edu
+ *
+ *  Namespaces containing Encrytion and Decryption methods.
+ *      Comsumed by opcommMessage class
+ */
+
 #include "opcommencryptionmethods.h"
 
 class opcommMessage;

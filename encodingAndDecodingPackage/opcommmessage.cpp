@@ -2,7 +2,11 @@
  *          chenye@stanford.edu
  *
  *  Base class for both opcommMessageReceived and opcommMessageSent
- *  Defines and implements the constructors, as well as a few util functions
+ *
+ *  Defines and implements the class constructor, operator =, ==, !=
+ *  and external IO interfaces
+ *
+ *  Internally handles the encryptions and checksum related functions
  */
 #include "opcommmessage.h"
 #include <iostream>
