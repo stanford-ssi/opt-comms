@@ -1,10 +1,10 @@
-   ____ ____ ____    ____        _____                                                                              
-  / __// __//  _/   / __ \ ___  / ___/___   __ _   __ _   ___                                                       
- _\ \ _\ \ _/ /    / /_/ // _ \/ /__ / _ \ /  ' \ /  ' \ (_-<                                                       
-/___//___//___/    \____// .__/\___/ \___//_/_/_//_/_/_//___/                                                       
-                        /_/                                                                                         
-  _____      __          __                       ___                                   __         __   _           
- / ___/___  / /___  ___ / /_ ____ ___   ___      / _ \ ___  ____ __ __ __ _  ___  ___  / /_ ___ _ / /_ (_)___   ___ 
+   ____ ____ ____    ____        _____
+  / __// __//  _/   / __ \ ___  / ___/___   __ _   __ _   ___
+ _\ \ _\ \ _/ /    / /_/ // _ \/ /__ / _ \ /  ' \ /  ' \ (_-<
+/___//___//___/    \____// .__/\___/ \___//_/_/_//_/_/_//___/
+                        /_/
+  _____      __          __                       ___                                   __         __   _
+ / ___/___  / /___  ___ / /_ ____ ___   ___      / _ \ ___  ____ __ __ __ _  ___  ___  / /_ ___ _ / /_ (_)___   ___
 / /__ / -_)/ // -_)(_-</ __// __// _ \ / _ \    / // // _ \/ __// // //  ' \/ -_)/ _ \/ __// _ `// __// // _ \ / _ \
 \___/ \__//_/ \__//___/\__//_/   \___//_//_/   /____/ \___/\__/ \_,_//_/_/_/\__//_//_/\__/ \_,_/ \__//_/ \___//_//_/
 
@@ -20,7 +20,7 @@ been repurposed to aim a laser (attached to a telescope) and several different l
 modified telescope and a box containing a focusing Fresnel lens.
 
 The arms each have a hand unit with buttons that allows a user to input a range of commands. Most are not useful for
-the team's purposes, but they are all listed in the maps below. As of time of writing, the transmit and recieve
+the team's purposes, but they are all listed in the maps below. As of time of writing, the transmit and receive
 arms have different hardware and software, and thus operate differently.
 
 In addition, the hand units have a port that allows them to be controlled from a computer. They can be connected via
@@ -44,7 +44,7 @@ Items marked with a *** (here, not actually in the menus) are particularly impor
 =======================================================================================================================
 RX MENU DIAGRAM:
 
-root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3) 
+root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3)
 	--> Tracking (x)
 	--> View Time-Site (x)
 	--> Scope Setup (x)
@@ -70,7 +70,7 @@ TX MENU DIAGRAM:
 
 *** SPECIAL NOTE: TX will not be able to communicate over Serial unless it is in RS-232 mode. This is marked below.
 
-root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3) 
+root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3)
 	--> Tracking (x)
 	--> View Time-Site (x)
 	--> Sidereal Time (x)
@@ -82,7 +82,7 @@ root (Marquee "Press ENTER to begin alignment") - hit "MENU" (Key 3)
 		--> DirectionButton (Potentially useful; this has not been explored)
 		--> Lights Control (Controls keypad lighting)
 		--> Select Model (x)
-*** --> RS-232 
+*** --> RS-232
 ***		--> RS-232 Mode ********* NEEDED FOR SERIAL COMMUNICATION
 	--> User Objects (x)
 *** --> Get Alt-Az (Shows current az/alt position in deg/min)
