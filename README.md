@@ -11,5 +11,3 @@ outlined in the header. Run from Terminal.
 See included comments for usage.
 
 V2 is an experimental build.
-
-Poke
